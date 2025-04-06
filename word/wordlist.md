@@ -20,3 +20,17 @@ Office worker, computer programmer, veterinarian,steet vendor, factory worker, p
 Ballet dancer, astronaut,miner, teacher ,real estate agent, bellboy,gas station attendant, judge,customs officer, lawyer, cashier, taxi driver, speaker, delivery man, butcher, pharmacist, receptionist, plumber, musician,chef, baker,artist,
 Occupation vocabulary 
 Boxer, cameraman, detective, journalist, housewife, salesman,pope, priest, librarian,diver, pirate, singer 
+school vocabulary 
+Art room , baseball field, canteen, classroom, computer room, library, locks,music room, playground,pool, schoolyard, toilet,art, biology,drama, English, geography, history, information technology, literature, maths,music, physical education, science, sports, swimming, abacus, backpack, ballpoint pen,beaker,bin,binser clips,binder , blackboard,book, calculator,chair, chalk, clip,clock, colored pencils,compass, computer, correction fluid, crayons,desk, dictionary,,drink bottle, eraser, rubber, file holder, flashcard,flask,folder，funnel,gel pen, globe, glue stick,
+Glue , highlighter,lunch box, magnifying glass,map,maker, mechanical pencil, notebook,paint brush,paint platte,paper clip,paper,pen, pencil case, pencil sharpener, pencil , projector, protractor, push pin,ruler, scissors, scotch tape,set square,stapler,test tube,thumbtack, utility knife, watercolor, calculator,calp your hands,draw,erase, expriment,go,jump, listen, observe,open, paint,play,read,show,sing,sit down,stand up,teach, think,wave,write,
+Kitchen and dining room
+Apron, basting brush, blender, bottle opener,bowl,bread basket, cabinet, casseroles dish, chopping board, chopsticks, cleaver,
+Colonder,range hood,cookie cutters, corkscrew,cup, cupboard, cutlery, dinner table,dish soap, drawer, eggs slicer, electric kettle,fork, flying pan, funnel, garbage can,glass,grater, grill,ice tray, ice-cream scoop jug,juicer , kettle, kitchen counter, kitchen scales, knife, ladle,lemon squeezer, measuring cup, measuring spoon,meat mallet, microwave,mixer, mortar , muffin tin, napkin, nutcracker,oven glove, peeler,pestle,pie plate, pizza slicer,plate, potato masher, pressure cooker, ramekin, refrigerator, rolling pin, saucepan, spatula,spice containers, Spoon, strainer, teapot,timer, toaster, tongs,whisk,wok,wooden spoon,bottle,bowl,candle, candlestick ，carafe,celling light,cutlery, dinning chair,drawer,floor lamp,fork,fruit bowl,glass, knife,napki,plate,spoon, stemware,vase,cup,clock, cheeseboard, cheese knife, chandelier, teapot,
+Kitchen utensil 
+Apron, breadbasket, teapot, measuring cups, baking tray, timer, spice containers, chopping boards, flying pan,
+Pie plate,grater, salad spinner, colander, butter dish, napkin,oven glove , plant, casserole dish, chopsticks,bowl, measuring spoon wooden spoon, strainer,spoon, spatula,mesh skimmer,ladle, saucepan pot,cooker, fork, kitchen shears, cutlery, corkscrew, cake silcer, chef knife, cleaver, steak hammer,rolling pin,whisk, pressure cooker,
+In the bedroom 
+Bed, pillow, picture, curtains, nightstand,table lamp,fan,chest of drawer, television,, clothes valet, ironing board
+Air-conditioning, clock, beside table, reading lamp, telephone, hat stand,, dressing table,book shelf,burea, upholstered bench, hope chest,
+In the living Room
+Winchester,table,sofa,fireplace,end table, blinds, picture,, telephone, television,floor lamp,fan, carpet, cushion, grandfather clock ，remote,tea set,vase,
