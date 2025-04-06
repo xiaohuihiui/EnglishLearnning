@@ -60,3 +60,13 @@ Type of houses
 House,hut, farmhouse,log cabin,barn, castle,hotel, building dormitory,nursing home, lighthouse,
 Parts of the house 
 Ridge, chimney pot,roof, chimney satellite dish, shuttle，garage door, driveway, window, hanging basket, basement, stairs, letter box,fence, balcony wall,door,bricks
+type of house 
+Caravan, castle, container house, cottage, courtyard houses, detached House, dormitory farmhouse, gable front house,hotel, houseboat,hut, igloo, lighthouse, manor, mansion, palace ，shack, skyscraper,stilt house, teepee, tent, townhouse, treehouse,villa 
+Parts of a house 
+Antenna, attic, balcony, bathroom, bedroom, brick, burglar alarm, celling, chimney, dinning,door knocker,door, doorbell, doorstep, dormer window, eaves, fence,floor, garage door, garage, garden, gate, gutter, hanging basket,home office, kitchen, laundry room, mailbox, living room, nursery,path,patio,pool,porch,roof, satellite dish, skylight, stairs,wall, window,
+Garding tools
+Axe, flowerpot,grass, gardener, plant pot,fence,flower bed,wheelie bin,rake, pruning saw,shovel,hedge shears,garding fork,pruners, garden trowel,tap, boots, garding gloves, wheelbarrow, lawnmower, watering can,seeds, fertilizer, garden hose,
+Gardern
+Garden, wheelbarrow, flower, vegetable garden,rake,garding gloves, bucket, gardeners, plant pot, watering can boots, storehouse,tree, faucet, garden hose, wheeling bin,rake,hoe, carrots ，soil, garding fork, fertilizer, garden trowel,shovel,speed packet ，pruning saw, shovel,fence, animals, lawnmower,pond,grass,cow,sheep,
+At the restaurant 
+Beverage,card,cash, cashier, chair,chef, client,cups, cutlery,check, dessert,main course, fast food, manager,menu,tips, waiter, waitress,cook,drink,eat, give,hold,lift,order,pay,print,set,slice, write,
