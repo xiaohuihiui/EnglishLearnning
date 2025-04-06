@@ -34,3 +34,12 @@ Bed, pillow, picture, curtains, nightstand,table lamp,fan,chest of drawer, telev
 Air-conditioning, clock, beside table, reading lamp, telephone, hat stand,, dressing table,book shelf,burea, upholstered bench, hope chest,
 In the living Room
 Winchester,table,sofa,fireplace,end table, blinds, picture,, telephone, television,floor lamp,fan, carpet, cushion, grandfather clock ，remote,tea set,vase,
+bath room 
+Bath mat,bath toys, bath room cabinet, bathtub,bath, buckets, clothespin, clothes line,comb, cotton swabs, electric razor,hair brush,hair driver,hanger, laundry basket, laundry detergent , liquid soap, mirror,mop, mouthwash,polish,razor, scales, shaving cream, shower, sponge,tap, tissue, toilet paper, toothbrush, toothpaste, towel rack, towel,trash bag,trash can, washbasin, clothes dryer, clothespin, clothes line, drying rack,, fabric softener, garbage can, hanger,iron, ironing board, detergent,linens, storage basket,, washing machine,
+Things in the bedroom 
+Measuring jug, toothpaste, toothbrush,soap, clothes pegs, hanger, bucket,mop, washing powder, shampoo, hair dryer, polishes brush, toilet paper holder , toilet paper,trash can,soapy water,trash bag, towel, clothes line,shower, bathtub, laundry liquid,sink, toilet, washing machine,
+{In the living room}
+Air conditioning, armchair, blinds, book, carpet, chair, chandelier,clock, coffee table, curtains, dvd player,fan, fireplace,floor lamp,lamp, pillow, plant, remote, rocking chair, socket,sofa, speaker, stool,tea set, telephone, television,vase, window,
+(In the garden)
+Apron,ax, boots ，broom, bucket, faucet,fence, fertilizer, flower, garden hose, garden shears, garden trowel, gloves,grass,hoe, ladder, lawnmower, pitchfork,plant,pond,pot, pruning saw,rake, scythe shed,sheep, shovel, sickle, soil,tree, trimmer, vegetable garden,watering can,
+Wheelbarrow, wheel bin 
