@@ -70,3 +70,24 @@ Gardern
 Garden, wheelbarrow, flower, vegetable garden,rake,garding gloves, bucket, gardeners, plant pot, watering can boots, storehouse,tree, faucet, garden hose, wheeling bin,rake,hoe, carrots ，soil, garding fork, fertilizer, garden trowel,shovel,speed packet ，pruning saw, shovel,fence, animals, lawnmower,pond,grass,cow,sheep,
 At the restaurant 
 Beverage,card,cash, cashier, chair,chef, client,cups, cutlery,check, dessert,main course, fast food, manager,menu,tips, waiter, waitress,cook,drink,eat, give,hold,lift,order,pay,print,set,slice, write,
+At the cinema 
+3d glasses, camera, candy, cinema sets, clapboard,cola,cup holder, curtains, money, popcorn stand, popcorn, project, screen, tickle, usher,book the set,buy popcorn,buy tickets,get a drink, take a set,watch the movie,
+Christmas words
+Angel, bubble,bell, Bethlehem,cake, candle, candy, candy cane, cedar, celebrate, chestnut, chimney, Christmas card, Christmas cookies, Christmas cracker, Christmas hat, Christmas pudding, Christmas stocking, Christmas tree,comet, cranberry sauce, December, eggnog, family,fir, fireplace, frosty, fruit cake, gift, gingerbread house, gingerbread,ham, light, menorah,party, peppermint, pie, poinsettia, pumpkin pie, reindeer, Santa clause, Santa's stack, sleigh,snow globe, snowflakes,snow man,sweet potato, tinsel,toys, turkey, warping paper, wreath, bow,
+Thanksgiving word 
+Autumn, balloons,band,balck Friday, blessing, bouquet,bread, buffet, centerpiece, church, coffee, cornucopia, dessert,dish, family, feast, friends, gobbler,gourd,groundfath, grandmother, grandparent,home, napkin,oven,pan, parents, platter, television, volunteer,
+New years eve
+Balloon, champagne, clover, confetti, countdown, firecracker, firework, friends, hourly glass,mask, party horn, party, postcard, present,party hat 
+Easter word
+Basket, bible, bunny, candy, carroty cake,cake, chocolate egg, chocolate, church,cross,crown of thorns, crucifixion, cupcake, daffodil duckling, Easter egg,egg basket,hot cross bun,jelly beans,lamb,lily, pattern,tulip,
+Fashion accessories 
+Bag, beanie,belt, bobby pin,hair clip, boots,bow tie, bracelet,cap,claw clip, cufflinks, earmuffs, earrings, facemask,flip flops, glasses, gloves,hair ties, hairpin, handbag,hat, high heels, lighter, mittens, necklace, pocket squares, packet watch, poncho, purse,rain boots,ring, safety pin,sandals, scarf, sneakers, socks, sports shoes, sunglasses,tie pin,tie, umbrella,walking stick,wallet,watch,woolen socks 
+Tyep of shoes 
+Steel toe boots,cone heels converse, derby shoes,flip flops, high heels, kitten heels,peep toe heels, sandals, slippers, sneakers, thongs sandals, wedges, wellington boots,
+Type of hats
+Balaclava, baseball cap, beret,boater hat, bobble hat, bowler hat, bucket hat, cloche hat, conical hat, cowboy hat,fedora, floppy hat, newsboy hat, Panama hat,pith helmet,
+Sailor hat,straw hat,sun hat, deerstalker,top hat, toque hat, trilby hat,turban, yarmulke,papakha hat, cartwheel hat,
+Personal care of products
+Razor, deodorant, sunscreen,wet wipes, toothbrush,hand mirror, tissue, sunglasses, mouthwash, perfume, cotton swabs, scissors, dental floss, tweezers,hand lotion,hair gel,hair dryer, hairbrush,hair clip,bobby pin, Hair band,hair spray,comb,
+Parts of vehicles 
+Alternator, battery,boot, brakes, bumper,car trip meter,door handle,door, engine,fuel gauge,gear lever, headlight,hood, muffler,outside mirror, rear view mirror,rev counter,roof,seat belt,seat, speedometer, steering wheel, tail light,turn signal, tail paper,tire,wheel, window, windshield, windshield wiper,cabin, engine, flaps, instrument panel,nose, propeller blades, undercarriage,wing,braker lever,crank,front fork, handlebar,hub,pedal,seat,wheel,brake disk,brake pedal, brake, exhaust, muffler,fuel tank, headlight, helmet,oil tank, radiator, turn signal,wheel rim
