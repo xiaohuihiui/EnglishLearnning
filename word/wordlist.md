@@ -109,3 +109,11 @@ Insects
 Butterfly,moths,bees, spiders, ladybirds,ants, dragonfly, files, mosquitoes, beetles grasshopper, cockroaches, worms, centipedes,lice,
 Birds
 Dove, parrot, sparrow, swallow, robin, pigeon, blackbird,crow,raven, hawk,bald eagle,owl, woodpecker, flamingo, seagull,stork,swan, goose, penguin, ostrich, turkey, peacock,
+Sea animals 
+Seagull, penguin crab, pelican, cormorant, walrus,seal,sea lion, otter,fish, dolphin,shark,killer whale, whale,squid, octopus,sea turtle, jellyfish, lobster, shrimp, seahorse,clams,shells oyster, starfish,sea anemone,sea urchin, coral,
+Pets
+Dog, puppy,cat, kitten, turtle, rabbit, hamster,mouse, parrot, tropical fish, goldfish,
+Farm animals 
+Cow,goat,deer, horse,pig,sheep,dove, rabbit,bees,ducks, turkey, chickens, lobster,crab, shrimp,fish,
+Wild animals 
+Koala,bear,panda,polar bear, leopard, hippopotamus,bat,owl,lizard, trigger,lion, camel, kangaroo, zebra, alligator, crocodile,ox, giraffe, elephant,deer, reindeer,wlk, antelope hedgehog, monkey, chimpanzee, gorilla,toad,frog,fox, arctic wolf, coyote, squirrel, raccoon,mole, badger,mouse,rat,hare, rabbit,snake, walrus, otter,crab, seahorse, starfish, octopus,bule whale, dolphin, shark,
