@@ -91,3 +91,21 @@ Personal care of products
 Razor, deodorant, sunscreen,wet wipes, toothbrush,hand mirror, tissue, sunglasses, mouthwash, perfume, cotton swabs, scissors, dental floss, tweezers,hand lotion,hair gel,hair dryer, hairbrush,hair clip,bobby pin, Hair band,hair spray,comb,
 Parts of vehicles 
 Alternator, battery,boot, brakes, bumper,car trip meter,door handle,door, engine,fuel gauge,gear lever, headlight,hood, muffler,outside mirror, rear view mirror,rev counter,roof,seat belt,seat, speedometer, steering wheel, tail light,turn signal, tail paper,tire,wheel, window, windshield, windshield wiper,cabin, engine, flaps, instrument panel,nose, propeller blades, undercarriage,wing,braker lever,crank,front fork, handlebar,hub,pedal,seat,wheel,brake disk,brake pedal, brake, exhaust, muffler,fuel tank, headlight, helmet,oil tank, radiator, turn signal,wheel rim
+At the airport 
+Airplane, backpack, baggage claim, luggage, boarding pass, boarding time, business class, captain, checking in accounter，cleaner, customs officer department lounge, doctor,duty free, economy class, emergency exit, flight attendant,gate, immigration officer,life vest,metal detey,nurse, overhead bin, oxygen mask, passport, payphone,pilot,police office, runway,seat,securty check ，security officer,shop attendant suitcase,visa, window seat,x ray machine,
+Carry ，check in, check cry,miss a flight,pat down,pay a fee,put on the trolley,see somebody off,stick a tag on,walk through the scanner,walk to the gate, weigh，
+at the bank
+advisor，ATM card， ATM , balance,bill,cash, checkbook,coin, counter, counterfeit, credit card, customer, foreign exchange,passbook, piggy bank, purse, receptionist, savings account, teller, wallet,
+At the post office 
+Address,box, clerk,code, delivery, envelope,form, freight, letter, mailbox, package, postage, postal carrier, receipt stamp，tape,mail truck, confirm 
+Delivery,open,pack, send, weigh, write,
+At the supermarket 
+Customer, discount coupon,drink,dry food,fish, freezer, frozen food, fruits, household items, paper towels,pet supplies, seafood, shelf, shopping basket, vegetables, receipt,buy something ，carry a baskt, exchange,sell something, weight something on,pay by card
+Mammals
+Squirrel,mole,mouse, hedgehog, koala, raccoon, otter, walrus, hippopotamus, leopard, coyote,fox,giraffe,panda, chimpanzee, monkey,sheep, horse,lion, kangaroo,pig,deer,cow,ox
+Male-femal-yonng-animals
+Lion, lioness,line cub,triger tigress, trigger cube,stallion,mare,foal,bull,cow,calf,deer,doe, fawn,ram,ewe,lamb,dog,bitch, puppies,tom, queen, kitten, rooster,hen,chick,drake,duck, ducklings,
+Insects
+Butterfly,moths,bees, spiders, ladybirds,ants, dragonfly, files, mosquitoes, beetles grasshopper, cockroaches, worms, centipedes,lice,
+Birds
+Dove, parrot, sparrow, swallow, robin, pigeon, blackbird,crow,raven, hawk,bald eagle,owl, woodpecker, flamingo, seagull,stork,swan, goose, penguin, ostrich, turkey, peacock,
