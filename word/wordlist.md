@@ -51,3 +51,12 @@ Cleaning
 Dish towel,cloth,iron, ironing board, laundry basket, scrub brush, sponge, laundry soap, bleach, liquid soap, rubber gloves,trash can,whisk broom,bucket, squeegee mop,broom,mop,hose,
 Containers &quatities 
 Mug, cups ，glass,jug, jars,tin,can, six-pack, bottle, tub,box, packet ,carton,liter,bugs, tubes,spray can,spray bottle,dozen, basket,kilo,slice,bar,piece,tray,loaf,pack, bunch,bowl, blister pack, package,roll,
+Chairs
+Sleeper sofa,sofa,park bench, armchair, cantilever chair,wing chair,desk chair,
+Barber chair,salon chair,operator chair, executive chair,garden chair, director chair, folding chair,ladderback chair,stool,windsor chair,wating room seat,wooden chair, wheelchair, upholstered bench, dinning room chair, desk chair,wood chair,throne, student chair 
+Table
+Write table, card table, conference table, computer desk, bedside table,end table,dining room table, dressing table, picnic table,desk, patio table,bar table, table tennis table,work table,
+Type of houses
+House,hut, farmhouse,log cabin,barn, castle,hotel, building dormitory,nursing home, lighthouse,
+Parts of the house 
+Ridge, chimney pot,roof, chimney satellite dish, shuttle，garage door, driveway, window, hanging basket, basement, stairs, letter box,fence, balcony wall,door,bricks
