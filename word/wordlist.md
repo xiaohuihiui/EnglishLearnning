@@ -12,3 +12,11 @@ Summer holidays
     Backpack,beach, binoculars bungee jumping, camera, campfire, camping, climbing, diving, fishing,flip flops flippers, forest, hiking, luggage,map, mountain, sunglasses, sunbathing,surf board, surfing, swimming,tent, tourist, water park,
 Human life cycle 
 Be born, Start school,make friends, graduate,get a job,fall in love,get married ，have a baby ，divorce, emigrate, retired ，make a will,die 
+Work
+   Accountant,actor ，architect, artist ，astronaut ，babysitter, ballet dancer, barber,barista, bartender ，beautician,
+Bellboy, blacksmith ，bodyguard, bricklayer , builder ，bus driver, businessman, butcher,cameraman,carpenter,cashier, chauffeur,chef,composer, computer programmer, dancer, delivery man, dentist ，detective,disc jockey,editor, engineer, entrepreneur, factory worker, farmer,film director, financial adviser, firefighter , fishmonger, flight attendant, florist,gardener,gas station attendant, glazier, graphic design, hairdresser,hotel manager, illustrator, interior design, journalist,judge, lawyer, lecturer, lifeguard, magical, mechanic, midwife,model, musician,miner, nurse, office worker, optician, painter, paramedic, pharmacist photographer, pilot, plumber, policeman, politician, project manager, psychologist,real estate agent, receptionist, sailor,sales assistant, sculptor, secretory,singer, stockbroker, street vendor, tailor, seamstress, tattooist,taxi driver, teacher 、 tour guide, train driver,vet,waiter, welder, write, author,
+Jobs
+Office worker, computer programmer, veterinarian,steet vendor, factory worker, politician, tour guide, entrepreneur, 
+Ballet dancer, astronaut,miner, teacher ,real estate agent, bellboy,gas station attendant, judge,customs officer, lawyer, cashier, taxi driver, speaker, delivery man, butcher, pharmacist, receptionist, plumber, musician,chef, baker,artist,
+Occupation vocabulary 
+Boxer, cameraman, detective, journalist, housewife, salesman,pope, priest, librarian,diver, pirate, singer 
