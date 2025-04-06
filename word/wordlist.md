@@ -43,3 +43,11 @@ Air conditioning, armchair, blinds, book, carpet, chair, chandelier,clock, coffe
 (In the garden)
 Apron,ax, boots ，broom, bucket, faucet,fence, fertilizer, flower, garden hose, garden shears, garden trowel, gloves,grass,hoe, ladder, lawnmower, pitchfork,plant,pond,pot, pruning saw,rake, scythe shed,sheep, shovel, sickle, soil,tree, trimmer, vegetable garden,watering can,
 Wheelbarrow, wheel bin 
+Household appliances and equipment 
+Aroma lamp, appliances plug, paintbrush,roller,hair iron, Hair dryer, toaster, blender clothes iron television,stove,small oven, evaporative cooler,air conditioner, vacuum cleaner, water cooler, domestic robot,sewing machine,fan,cold pressed juicer,clock, mousetrap, bachelor griller, washing machine, refrigerator,step ladder, coffee maker, blender,mixer, toaster,crock pot,rice cooker, pressure cooker,stove,lamp, light bulb, lantern,torch, electric drill,tea maker, kettle, water cooker, vacuum cleaner, electric fan, electric guitar, speaker, clothes dryer, dishwasher,oven kitchen hood,
+Tools & equipment 
+Caulking gun, cordless drill, electric drill, spirit level，hammer，mallet, pocket knife, gimlet, brace, wrench, adjustable wrench,pipe wrench,a pair of scissors, lineman's pliers, needle nose pliers, diagonal pliers,slip joint pliers,handsaw,backsaw coping saw,hack saw,chainsaw,screw driver, bradawl,tape measure, nails,nut,screws, plunger,toolbox,step ladder,
+Cleaning
+Dish towel,cloth,iron, ironing board, laundry basket, scrub brush, sponge, laundry soap, bleach, liquid soap, rubber gloves,trash can,whisk broom,bucket, squeegee mop,broom,mop,hose,
+Containers &quatities 
+Mug, cups ，glass,jug, jars,tin,can, six-pack, bottle, tub,box, packet ,carton,liter,bugs, tubes,spray can,spray bottle,dozen, basket,kilo,slice,bar,piece,tray,loaf,pack, bunch,bowl, blister pack, package,roll,
