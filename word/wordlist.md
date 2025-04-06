@@ -3,4 +3,6 @@ curly，Ringlets ，long, medium length, ponytail,dyed hair, Gray hair,red hair,
 Birthday words 
 Balloon, birthday cake, birthday card, birthday hat,bow, candle,candy,
 Chips, chocolate, clown, confetti,cookie,
-Cupcake, fruits,gift, gift tag,horn, ice-cream bar, ice-cream sundae ，juice，popcorn soda，streamer,apple,bat, black cat,bone,candle,candy,candy bag, candy corn,carmel corn,carnvial,castle ，
+Cupcake, fruits,gift, gift tag,horn, ice-cream bar, ice-cream sundae ，juice，popcorn soda，streamer,apple,bat, black cat,bone,candle,candy,candy bag, candy corn,carmel corn,carnvial,castle ，cauldron, cemetery, custom, Dracula,frost, gravestone, tombstone, haunted house, haystack jack lantern,latern,mask,moon, mummy, orange,owl, potion pumpkin，scarecrow ，skeleton spider web, spider,trick or treat, werewolf, witch, witch's hat, wizard,
+Valentine words
+ Arrow, balloon, bouquet, candy, card, chocolate, Cupid, date,gift,kiss,lover, necklace, perfume,poem, restaurant,ring, teddy bear,
