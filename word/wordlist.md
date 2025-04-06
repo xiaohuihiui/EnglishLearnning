@@ -117,3 +117,27 @@ Farm animals
 Cow,goat,deer, horse,pig,sheep,dove, rabbit,bees,ducks, turkey, chickens, lobster,crab, shrimp,fish,
 Wild animals 
 Koala,bear,panda,polar bear, leopard, hippopotamus,bat,owl,lizard, trigger,lion, camel, kangaroo, zebra, alligator, crocodile,ox, giraffe, elephant,deer, reindeer,wlk, antelope hedgehog, monkey, chimpanzee, gorilla,toad,frog,fox, arctic wolf, coyote, squirrel, raccoon,mole, badger,mouse,rat,hare, rabbit,snake, walrus, otter,crab, seahorse, starfish, octopus,bule whale, dolphin, shark,
+Mountain animals 
+African buffalo, African wild dog, American black bear, baboon, badger, beaver,bison,brown Bear, bulbul, butterfly, buzzard,caracal, cardinal, caterpillar, Civet coati, cougar, coyote , crane fly,deer,dipper, dragon duiker, eagle, elephant,falcon,finch,flowerpecker,fox,frog, gorilla, grouse,hawk, hyena,hyrax,ibex, iguana, jackal, leopard, monkey,owl, rabbit,raven,red Panda, Rhinoceros,snow leopard, squirrel, startling,stick bug,takin,tapir, tiger, vicuna, vulture, warbler，weasel,wolf, wombat,yak, zebra,
+Collective nouns for birds 
+A brood of chickens,a brood of hens,
+A calst of falcon,a colony of gulls,
+A colony of penguins,a colony of vultures,
+A parliament of owls,a company of parrots,
+A dole of doves,a convocation of eagles,
+A mustering of storks,a stand of flamingos,
+A pood of pelicans,a flight of cormorants,a 
+Pride of ostriches,
+Collective nonus for mammals
+A clowder of cats,a pack of dogs,a colony of rabbits,a dray of squirrels, a colony of rats ，a sounder of pigs,a fall of lambs,
+A pod of dolphins,a family of otters,a colony of seals,a herd of donkeys,a trip of goats,a flink of cows,a herd of bison,a cohort of zebra, a field of racehorses,a herd of deer, a gang of elk,a troop of monkey,a journey of giraffe,a herd of elephants,a pack of wolves,a skulk of fox,an ambush of tiger,a sloth of bears,
+Collective nonus for sea animals 
+A bind of salmon,a company of angelfish,
+A famous of sardines, a shoal of mackerel,
+A school of cod,a fleet of bass,a float of tuna,a shoal of fish,a party of rainbow fish,a herd of seahorses,a flotilla of swordfish,a swarm of dragonet fish,a shiver of sharks,a squad of squid,a glint of gold fish,a troupe of shrimp,a rhymba of rattlesnake, a den of snakes,a nest of vipers ,a quiver of cobras,a herd of dinosaurs,a flight of dragon,a culture of bacteria,a knot of toads,an army of frogse,
+A mess of iguana,a bask of crocodiles,an army of caterpillar,a bale of turtles,a flight of butterflies,a swarm of bees,a colony of ants,an intrusion of cockroaches,a cloud of cockroach,a cloud of grasshopper,a scourge of mosquito,a clutter of spiders,
+Types of fish 
+Anabas,anchovy,angler fish,asian arowana,
+Atlantic mackerel,ayu, barracuda,basa fish,bass,betta,blue tang, bluefish,bluegill,bream, bullhead, butterflyfish,carp, catfish, climbing fish, clownfish,cobia,cod, coelacanths, dolphin,eel, European perch, flounder, flying fish, garfish,goby fish, goldfish,grouper, guppy,haddock, hagfish, herring,kssing fish, largemouth bass,lionfish,mackerel,neon tetra,nile tilapia,perch,pike,piranha,plaice,pterophyllum scalare,puffer, rainbow trout,ray,salmon, sawfish,scard,shark,siamese fighting fish, skate fish,snapper,sockeye,steehead,stingray,sturgeon,sunfish,swordfish,tarpon,trout,tuna,whale,zander, zebra fish,angefish,
+Animals:birfds
+Avocet,bald eagle, blackbird, bluebird,blue bull, bullfinch,canary,cardinal, chickadee,cocktoo,condor, cormorant, crane,crossbill,cuckoo,dove,duck, eagle,emu, falcon, finch,flamingo,frigatebird, ibis,jay, kingfisher, magpies, mockingbird,myna, ostrich,owl, parrot，peacock,pelican, penguin,pheasant, pigeon,puffin,quail,raven,robin, rooster, sandpiper, sparrow, spoonbill, startling,stork,swallow,swan,toucan,turkey, woodpeckers,
