@@ -11,3 +11,4 @@ Weeding words
 Summer holidays
     Backpack,beach, binoculars bungee jumping, camera, campfire, camping, climbing, diving, fishing,flip flops flippers, forest, hiking, luggage,map, mountain, sunglasses, sunbathing,surf board, surfing, swimming,tent, tourist, water park,
 Human life cycle 
+Be born, Start school,make friends, graduate,get a job,fall in love,get married ，have a baby ，divorce, emigrate, retired ，make a will,die 
