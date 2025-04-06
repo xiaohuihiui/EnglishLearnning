@@ -6,3 +6,8 @@ Chips, chocolate, clown, confetti,cookie,
 Cupcake, fruits,gift, gift tag,horn, ice-cream bar, ice-cream sundae ，juice，popcorn soda，streamer,apple,bat, black cat,bone,candle,candy,candy bag, candy corn,carmel corn,carnvial,castle ，cauldron, cemetery, custom, Dracula,frost, gravestone, tombstone, haunted house, haystack jack lantern,latern,mask,moon, mummy, orange,owl, potion pumpkin，scarecrow ，skeleton spider web, spider,trick or treat, werewolf, witch, witch's hat, wizard,
 Valentine words
  Arrow, balloon, bouquet, candy, card, chocolate, Cupid, date,gift,kiss,lover, necklace, perfume,poem, restaurant,ring, teddy bear,
+Weeding words
+     Best man, bouquet,bride, bridesmaid, champagne, church, confetti, engagement ring, flower girls, gift,groom, honeymoon invitation, musical, priest, veil, wedding bell, wedding cake, wedding dress,
+Summer holidays
+    Backpack,beach, binoculars bungee jumping, camera, campfire, camping, climbing, diving, fishing,flip flops flippers, forest, hiking, luggage,map, mountain, sunglasses, sunbathing,surf board, surfing, swimming,tent, tourist, water park,
+Human life cycle 
