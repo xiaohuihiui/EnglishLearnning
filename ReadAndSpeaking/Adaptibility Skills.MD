@@ -1,0 +1,3 @@
+Adaptability is a crucial skill for achieving success. Adaptable people adjust to changing circumstances. They embrace new challenges and opportunities. Adaptability involves learning new skills quickly. It requires flexibility and open-mindedness. Adaptable individuals are resilient in the face of setbacks. They can adjust their plans and strategies as needed. Adaptability is valuable in today's rapidly changing world. It enhances problem-solving abilities. Success often requires the ability to adapt and evolve.
+resilient 弾力性
+open-mindedness  偏見がない,柔軟性
