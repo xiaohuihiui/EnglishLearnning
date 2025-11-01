@@ -1,0 +1,1008 @@
+	1. Update最新情報、更新する
+	2. BRANCH支店、枝、枝分かれする
+	3. paid有給の、支払い済みの
+	4. unfortunately残念なことに、残念ながら
+	5. ORIGINAL元の、最初の、オリジナル、原本
+	6. RENT家賃、賃貸借する
+	7. Memo 車内文章
+	8. Luggage 旅行カ手荷物
+	9. Editor編集者
+	10. exibition展示会,展示物,展示
+	11. leading首位の、一流の
+	12. organization団体、会社、組織
+	13. Release発売する、公表する、発売
+	14. Limited限られた
+	15. procedure手続き、手順
+	16. experienced経験豊富な
+	17. Personal人事、従業員
+	18. author著者,作者,本を書
+	19. Benefit 特典,福利厚生、~のためになる
+	20. Focus 意識等に集中させる,重点を置く,焦点、集中
+	21. participate参加する
+	22. Cause 原因,大義,引き起こす
+	23. Degree  学位,程度、度
+	24. directly直接
+	25. Host司会者、主催する
+	26. EXPERT専門家、専門的な
+	27. Impress関心させる、高印象を与える
+	28. mainly主に
+	29. Suggestion 提案
+	30. Supplier 納入業者
+	31. Document 書類,文書や映像等で記録する
+	32. Remind再確認する,念押しする
+	33. require求める,要求する
+	34. Representative 担当者,代表者
+	35. packing梱包、パッケージ
+	36. Description  説明, 記述、
+	37. property不動産
+	38. Extension 内線、延長
+	39. inquire問い合わせる
+	40. Merchandise 商品
+	41. Highly 非常に
+	42. Result 生じる,終わる,結果
+	43. Assistance 援助、助力
+	44. encourage励ます、促す
+	45. individual個人,個人の,個別の
+	46. Laboratory研究所,実験室
+	47. Consider考える,検討する
+	48. headquartes本社
+	49. Ship出荷する,船
+	50. commercial商業用の,商業的な,ｃｍ
+	51. device機器装置
+	52. intended意図された向けられた
+	53. Brochure  パンフレット、
+	54. Mail 郵便物郵便配達郵送する
+	55. preferよりも好む
+	56. Response 返答返事反応
+	57. Region 地域地方寄付
+	58. quarter四半期
+	59. donation寄付
+	60. agreement契約書、同意書,合意
+	61. journal専門誌
+	62. distribute配布する,流通させる
+	63. potential見込みがある,潜在的な,可能性
+	64. rescheduleスケジュール変更する
+	65. renew更新する
+	66. warehouse倉庫
+	67. refund返金,返金する
+	68. advice進める,忠告する,助言する
+	69. immediately直に,即座に
+	70. Council評議会、会議、助言
+	71. Broadcast放送する、放送
+	72. responsible相当している,責任がある
+	73. avoid避ける
+	74. effective効果的な
+	75. invitation招待状、招待
+	76. Reduce減らす
+	77. vehicle乗り物、車両
+	78. efficient効率的な
+	79. manufacturerメーカー、製造業者
+	80. comfortable快適な、楽な、自信がある
+	81. correct正確な,正しい,修正する
+	82. downtown中心街の中心外で中心外
+	83. method方法
+	84. entire全体の完全な
+	85. RANGE範囲
+	86. setting設定,環境,状況
+	87. apologize謝罪する
+	88. frequent頻繁な,頻度の高い
+	89. promotion販売促進,昇進
+	90. regardingに関して
+	91. temporary一時的な臨時
+	92. Traditional　伝統的な、従来の
+	93. admission入場,入場料、入場許可
+	94. Fit合う、適合する
+	95. reference参照
+	96. status状況、地位
+	97. fuel燃料
+	98. nearlyほとんど、もう少しで
+	99. cafeteria社員食堂
+	100. determine決定する、判断する、決心する
+	101. Update最新情報、更新する
+	102. BRANCH支店、枝、枝分かれする
+	103. paid有給の、支払い済みの
+	104. unfortunately残念なことに、残念ながら
+	105. ORIGINAL元の、最初の、オリジナル、原本
+	106. RENT家賃、賃貸借する
+	107. Memo 車内文章
+	108. Luggage 旅行カ手荷物
+	109. Editor編集者
+	110. exibition展示会,展示物,展示
+	111. leading首位の、一流の
+	112. organization団体、会社、組織
+	113. Release発売する、公表する、発売
+	114. Limited限られた
+	115. procedure手続き、手順
+	116. experienced経験豊富な
+	117. Personal人事、従業員
+	118. author著者,作者,本を書
+	119. Benefit 特典,福利厚生、~のためになる
+	120. Focus 意識等に集中させる,重点を置く,焦点、集中
+	121. participate参加する
+	122. Cause 原因,大義,引き起こす
+	123. Degree  学位,程度、度
+	124. directly直接
+	125. Host司会者、主催する
+	126. EXPERT専門家、専門的な
+	127. Impress関心させる、高印象を与える
+	128. mainly主に
+	129. Suggestion 提案
+	130. Supplier 納入業者
+	131. Document 書類,文書や映像等で記録する
+	132. Remind再確認する,念押しする
+	133. require求める,要求する
+	134. Representative 担当者,代表者
+	135. packing梱包、パッケージ
+	136. Description  説明, 記述、
+	137. property不動産
+	138. Extension 内線、延長
+	139. inquire問い合わせる
+	140. Merchandise 商品
+	141. Highly 非常に
+	142. Result 生じる,終わる,結果
+	143. Assistance 援助、助力
+	144. encourage励ます、促す
+	145. individual個人,個人の,個別の
+	146. Laboratory研究所,実験室
+	147. Consider考える,検討する
+	148. headquartes本社
+	149. Ship出荷する,船
+	150. commercial商業用の,商業的な,ｃｍ
+	151. device機器装置
+	152. intended意図された向けられた
+	153. Brochure  パンフレット、
+	154. Mail 郵便物郵便配達郵送する
+	155. preferよりも好む
+	156. Response 返答返事反応
+	157. Region 地域地方寄付
+	158. quarter四半期
+	159. donation寄付
+	160. agreement契約書、同意書,合意
+	161. journal専門誌
+	162. distribute配布する,流通させる
+	163. potential見込みがある,潜在的な,可能性
+	164. rescheduleスケジュール変更する
+	165. renew更新する
+	166. warehouse倉庫
+	167. refund返金,返金する
+	168. advice進める,忠告する,助言する
+	169. immediately直に,即座に
+	170. Council評議会、会議、助言
+	171. Broadcast放送する、放送
+	172. responsible相当している,責任がある
+	173. avoid避ける
+	174. effective効果的な
+	175. invitation招待状、招待
+	176. Reduce減らす
+	177. vehicle乗り物、車両
+	178. efficient効率的な
+	179. manufacturerメーカー、製造業者
+	180. comfortable快適な、楽な、自信がある
+	181. correct正確な,正しい,修正する
+	182. downtown中心街の中心外で中心外
+	183. method方法
+	184. entire全体の完全な
+	185. RANGE範囲
+	186. setting設定,環境,状況
+	187. apologize謝罪する
+	188. frequent頻繁な,頻度の高い
+	189. promotion販売促進,昇進
+	190. regardingに関して
+	191. temporary一時的な臨時
+	192. Traditional　伝統的な、従来の
+	193. admission入場,入場料、入場許可
+	194. Fit合う、適合する
+	195. reference参照
+	196. status状況、地位
+	197. fuel燃料
+	198. nearlyほとんど、もう少しで
+	199. cafeteria社員食堂
+	200. determine決定する、判断する、決心する
+	201.  expense. 費用,経費
+	202. Overseas,  海外の海外で
+	203. satisfied,満足した
+	204. Appear現れる,掲載される,のように見える
+	205. develop,計画等を作り出す開発するスキルを高める
+	206. improve,改善する,改良する
+	207. reasonable,値段が手頃な,妥当
+	208. Unableできない
+	209. delay 送らせる、遅れ
+	210. legal 法律に関する、合法の
+	211. regulation 規制、規則
+	212. expand 拡大する、進出する
+	213. launch 開始、発売、開始する、発売する
+	214. recommendation 推薦
+	215. direct 向ける、管理する、直接の
+	216. profit 利益、利益を与える
+	217. seek 探し求める
+	218. entry 入場、入り口
+	219. claim 申し立て、主張、所有権主張する、所る
+	220. crew グループ、乗員
+	221. demand 需要、要求する
+	222. figure 数字、図、値段、考える
+	223. raise 上げる、お金を集める、高める、昇給
+	224. attach 添付する
+	225. attract 引きつける、呼び込む
+	226. insurance 保険
+	227. departure 出発、逸脱
+	228. mayor 町長、市長
+	229. balance 残金、残額、バランス
+	230. estimate 見積もり、見積もる
+	231. district 地区、地域
+	232. former 前の、かつての、前者
+	233. modern 現代的な、近代的な
+	234. tip アドバイス、コツ
+	235. establish 設立する、創立する
+	236. option 選択肢、オプション
+	237. retire 退職する
+	238. search 検索、探す、検索する
+	239. specific 具体的な、特定の
+	240. agricultural 農業の
+	241. historical 歴史の
+	242. helpful 役立つ、助けになる
+	243. complaint 苦情、クレーム
+	244. related 関連した
+	245. simply 単純に、単に
+	246. unique 他にはない、独自の、特有の
+	247. concerning に関する
+	248. reputation 評判
+	249. ability 能力、才能
+	250. arrival 到着
+	251. familiar よく知っている、お馴染みの
+	252. ideal 理想的な
+	253. maintain維持する、主張する
+	254. landscaping造園、造園法
+	255. organize イベントなどを計画する、取りまとめる、組織化する
+	256. significant かなりの、大幅な、重要な
+	257. occasion 特別な行事,後期
+	258. standard 基準、標準の
+	259. background 経歴、背景
+	260. guided ガイド付きの
+	261. advanced 進んだ、上級の、高度な
+	262. alternative 代わりの、代案
+	263. confident 確信している、自信がある
+	264. decade 10年間、10年
+	265. initial初めの、当初の
+	266. separate 別れた、別々の、分ける
+	267. celebration お祝い、祝典
+	268. concern 心配、懸念
+	269. environment 環境
+	270. operate 操作する、運営する
+	271. various 様々な
+	272. brief 簡単な、要約、概要、手短にに述べる
+	273. full-time 常勤の
+	274. overall 全体の、全体として
+	275. achieve 達成する
+	276. basis ベース、基準、根拠
+	277. complex 複合施設、集合住宅、複雑な
+	278. delighted とても喜んでいる
+	279. obtain 得る、取得する
+	280. honor 称える、契約等を守る、名誉
+	281. properly ちゃんと、適切に
+	282. suitable ふさわしい、適切な
+	283. electronic 電子の、電子的な
+	284. finalize 取りまとめる、仕上げる、最終決定する
+	285. generous 寛大な、気前の良い
+	286. preparation 準備、用意
+	287. duty 任務、職務、関税
+	288. earn 得る、もたらす
+	289. willing することを嫌がらない、する気がある
+	290. worth 価値がある
+	291. fund資金を提供する、資金、基金
+	292. overnight 一晩の、翌日配送の、一晩
+	293. particularly 特に
+	294. aspect 面、局面
+	295. hesitate ためらう
+	296. involved 関わった
+	297. regularly 定期的に
+	298. scholarship奨学金
+	299. shortly 時期に、間もなく
+	300. automobile 自動車
+	301. deposit 頭金、敷金、保証金
+	302. contain 含む、所有する
+	303. content 内容、中身、満足している
+	304. proof 証拠、証明
+	305. affect 影響する
+	306. recognize 業績等を認める、人を称える、識別する
+	307. represent 代表を務める、相当する、表す
+	308. transfer 転勤させる、移動させる、転勤、移動
+	309. anniversary 周年記念日
+	310. automatically 自動的に
+	311. capacity 生産能力、収容能力、役割
+	312. destination 目的地、行き先
+	313. grant 補助金、助成金、与える、許可する
+	314. publish 出版する
+	315. accompany 添付する、同行する
+	316. economic 経済の、経済上の
+	317. extremely 極めて、非常に
+	318. institution 機関、団体、設立
+	319. accurate 正確な
+	320. compete 競う
+	321. emphasize 強調する
+	322. aware 気づいている、知っている
+	323. crowded 混雑した
+	324. praise 褒める、賞賛
+	325. valuable 貴重な
+	326. explore 調査する、探索する
+	327. found 設立する、創立する
+	328. function 機能、機能する
+	329. impact 影響、影響を与える
+	330. amazing 驚くべき
+	331. assure保証する、受け合う
+	332. cooperation 協力
+	333. popularity 人気
+	334. permit 許可書、許可する
+	335. solve 解決する
+	336. vote 投票する、投票
+	337. crop 作物、収穫量
+	338. neighborhood 近所、地域
+	339. permanent 永続の、永久の
+	340. regret 残念に思う
+	341. slightly わずかに
+	342. complicated 複雑な
+	343. factor 要因的な、
+	344. favorable好意的な、有利な
+	345. guarantee 保証する、保証
+	346. mechanical 機械の
+	347. priority 優先順位、優先事項
+	348. relatively 比較的
+	349. resource 資源
+	350. shuttle定期,往復便
+	351. divide 分ける
+	352. native 出身の、出身の人
+	353. afford する余裕がある
+	354. income 所得、収入
+	355. occur 起こる、発生する、行われる
+	356. saving 値引き、貯蓄、節約
+	357. findings 研究調査の結果、分かったこと
+	358. locate 見つける
+	359. postpone 延期する
+	360. preserve 保存する、保存する、保護区
+	361. prove 分かる、判明する、証明する
+	362. exact 正確な
+	363. gain 得る、増加、利益
+	364. labor 労働、労働者
+	365. regard みなす、評価する、点
+	366. closely 密に、注意深く
+	367. deserve 値する
+	368. identify 確認する、身元を確かめる
+	369. loyal 忠実な
+	370. promising 有望な
+	371. stress 強調する、ストレス、強調
+	372. analyze 分析する
+	373. commission 委託する、委任する、委員会
+	374. committed 熱心に取り組む、献身的な
+	375. comparison 比較
+	376. component 部品
+	377. enable 可能にする
+	378. enjoyable 楽しい
+	379. existing 従来の、既存の
+	380. flyer チラシ
+	381. proceed 進む
+	382. prevent 防ぐ、阻む
+	383. alike 同様に、よく似た
+	384. appoint 指名する、任命する
+	385. connection 接続、繋がり、関連、乗り継ぎ
+	386. eager したがる、熱望する
+	387. ease たやすさ、和らげる、容易にする
+	388. fairly かなり
+	389. absolutely 完全に、間違いなく
+	390. atmosphere 雰囲気、空気、大気
+	391. calculate 計算する
+	392. contrast対照、はっきりした違い、対照的である
+	393. monitor 監視する、コンピュータのモニター
+	394. occasion 時々
+	395. practical 実務の、実際の、実用的な
+	396. serious 重大な、真剣な、重要な
+	397. strength 強さ、強度、液体等の濃さ
+	398. equally 同じように、均等に
+	399. import 輸入、輸入品、輸入する
+	400. informal 非公式の、カジュアルな
+	401. lately 最近
+	402. profession 職業、専門職
+	403. supervisor 責任者
+	404. ensure 保証する、請け合い
+	405. submit 提出物、提出
+	406. notify 知らせる
+	407. definitely 間違いなく、絶対に
+	408. eligible 適格な、資格のある
+	409. paperwork書類、書類作業
+	410. complimentary無料の
+	411. revise修正する、見直す
+	412. track 追跡する、線路、走路
+	413. administrative 管理の
+	414. retail小売の
+	415. inventory 在庫表、棚おろし
+	416. extensive 詳細な、幅広い、大規模な
+	417. promotional 販売促進用の、宣伝の
+	418. catering 仕出し、出前、ケータリング
+	419. wildlife 野生生物
+	420. assign 割り当てる、任命する
+	421. imply ほのめかす、暗示する
+	422. banquet 宴会
+	423. valid 有効な
+	424. affordable 手頃な
+	425. renovate改装する
+	426. guideline 指針、ガイドライン
+	427. certificate 認定証、終了証
+	428. innovative 革新的な
+	429. agenda 議題、協議事項
+	430. assembly 組み立て、集会
+	431. install 設置する、導入する、プログラムをインストールする
+	432. orientation 新入社員向け説明会
+	433. renowned 有名な
+	434. appropriate 適切な、適した
+	435. ingredient 材料、成分
+	436. storage 保管、貯蔵
+	437. beverage 飲料
+	438. prior 前の
+	439. merger 合併、統合
+	440. inn 宿、旅館
+	441. equip 備え付ける、装備する
+	442. summary 要約
+	443. lease 賃貸借契約、賃貸借する
+	444. defective 欠陥のある、不良の
+	445. quarterly 年に4回の、四半期ごとの、年に4回
+	446. extended 長期の、長時間の
+	447. architect 建築家
+	448. grocery 食品雑貨の、食品雑貨
+	449. sculpture 彫刻
+	450. itinerary 予定表
+	451. directory 名簿
+	452. expire 期限が切れる
+	453. vendor 業者、露店商
+	454. colleague 同僚
+	455. patron 愛用者、利用者
+	456. relocate 移転させる、引っ越す
+	457. tourism 観光
+	458. remodel改築する、リフォームする
+	459. consumer 消費者
+	460. inspect 検査する
+	461. numerous 多数の
+	462. payroll 給与、給与管理、賃金台帳
+	463. qualified 資格のある、適任の
+	appliance 電化製品
+	464. competitive 他に負けない、競争の激しい
+	465. specialize 専門とする
+	466. questionnaire アンケート用紙
+	467. approximately およそ、約
+	468. contribute 貢献する、寄付する
+	469. productivity 生産性
+	470. promptly 素早く、時刻ぴったりに、即座に
+	471. strategy戦略
+	472. dedicated献身的な、専用の、特化した
+	473. exceptional 並み外れた、非常に素晴らしい
+	474. luncheon 昼食会
+	475. exceed 超える
+	476. multiple 複数の
+	477. specify 明確に述べる、明記する
+	478. venue 会場
+	479. household 家庭用の、家庭
+	480. evaluate 評価する
+	481. negotiate 交渉する
+	482. booking 予約
+	483. circulation 発行部数、流通、図書館の貸し出し
+	484. completion 完了、終了
+	485. relevant 関連した
+	486. thorough 徹底的な
+	487. via 経由して、を通じて
+	488. workplace 職場
+	489. accommodations 宿泊施設
+	490. flexible 柔軟な、フレキシブルな
+	491. predict 予測する
+	492. preference 好み、希望
+	493. substantial かなりの、頑丈な
+	494. accessible 到達できる、利用できる
+	495. coverage 報道、保険の保証
+	496. generate 生み出す
+	497. refreshment 軽い飲食物
+	498. reliable 信頼できる、頼りになる
+	499. revenue 収入
+	500. fundraising 資金調達のための、事前の
+	501. accomplished 熟達した、スキルの高い
+	502. acquire 買収する、獲得する
+	503. accordingly それに応じて、結果として
+	504. critic 評論家、批評家
+	505. highlight スポットを当てる、見どころ
+	506. profile 人物紹介、プロフィール
+	507. motivate動機づける
+	508. subscription 購読、加入、会費
+	509. encounter 問題や困難に直面する、会う、出くわす
+	510. luxury 高級な、高級、贅沢
+	511. prohibit 禁止する
+	512. resolve 解決する
+	513. restore 復旧させる、取り戻す、修復する
+	514. surrounding 周辺の
+	515. alert 重要なことを知らせる、警戒した、警報
+	516. anticipate 期待される
+	517. consistently一貫して
+	518.    dairy 乳製品、酪農場、酪農業
+	519. phase 段階
+	520. manuscript原稿
+	521. overtime 残業、時間外に
+	522. premises 敷地、建物
+	523. utility 公共料金、公共サービス
+	524. Laundry 洗濯物
+	525. enthusiastic 熱心な、関心が高い、乗り気である
+	526. outline 概要を説明する、概要
+	527. package 小包、袋
+	528. retain 保持する
+	529. belongings 所持品、所有物
+	530. conservation 節約、環境保護
+	531. routine 所定の、日常的に行われる
+	532. urban 都会の、都市、都会での
+	533. workforce 全従業員
+	534. biography 人物紹介、伝記
+	535. ownership 所有、所有者であると
+	536. pastry 焼き菓子
+	537. tenant 賃借人、入居者
+	538. workload 仕事量
+	539. sufficient 十分な
+	540. characteristic 特徴、特徴的
+	541. combine 共同の、連合の
+	542. conclude 終わる、終える、結論を出す
+	543. associate 関連付ける、同僚、アシスタント、アシスタントの
+	544. conflict 衝突、立ち合い
+	545. investment 投資
+	546. Physician 医師
+	547. token 印
+	548. partial 部分的な、一部の
+	549. resume 再開する
+	550. dealership 販売特約店
+	551. garment 衣服
+	552. implement 実行する、実施する
+	553. paycheck 給与、給与切手
+	554. recruit 採用する、募集する、新人
+	555. substitute お代わりに用いる、代わりを務める人、代用品
+	556. typically 通常、典型的に
+	557. authorize 公認する、権限を与える
+	558. comparable 同等の、匹敵する、類似の
+	559. faculty 大学の教員、学部
+	560. initiative 新しい計画、主導権
+	561. postage 郵便料金
+	562. afterwards その後で
+	563. aim 目指す、狙う、目標、狙い
+	564. generally 概ね、通常、一般的に
+	565. occupied 部屋座席ベッド等が使われている
+	566. solid 確かな、信頼できる
+	567. attempt 試み、試みる
+	568. authority 権限、権力、権威、当局
+	569. domestic 国内の
+	570. permission 許可
+	571. presence 存在感、出席
+	572. rapidly 急速に
+	573. relief 安心感、苦痛悩み等の緩和
+	574. reward 報いる、褒美を与える、報酬、褒美
+	575. translate 翻訳する
+	576. circumstance 状況
+	577. contrary 正反対の、正反対
+	578. eventually 最終的には、結局
+	579. expose さらす、触れさせる、暴露する
+	580. panel グループ、パネル
+	581. portion 部分、1人分の食事
+	582. primary 主な
+	583. remark スピーチでの言葉、コメント、意見、コメントする
+	584. timely タイミングの良い、タイムリーな
+	585. commonly 一般に、通常、普通に
+	586. consult 医者弁護士等の専門家に相談する
+	587. convert 改造する、変える
+	588. obligation 義務
+	589. resign 辞職する、辞任する
+	590. securely しっかりと、安全に
+	591. strive 努力する
+	592. timeline タイムライン
+	593. urge促す、
+	594. acknowledge受け取ったことを知らせる、認める
+	595. diverse 多種多様な、たくさんの種類の
+	596. transaction 取引
+	597. lack 不足、が不足している
+	598. essential 最も重要な、必要不可欠な、本質的な
+	599. majority 大多数、大部分
+	600. observe 気づく、遵守する、観察する
+	601. possess 財産所有物等として持つ、所有する
+	602. sharply 急激に、はっきりと
+	603. adjustment 調整、調節
+	604. aisle 通路
+	605. capture 映像や写真に記録する、捉える
+	606. consist からなる
+	607. desirable 望ましい
+	608. heavily 大量に、非常に、頻繁に
+	609. investigate 調査する
+	610. measure 寸法、測定
+	611. urgent 緊急の
+	612. checkoutレジ、ホテルのチェックアウト、
+	613. dispose処分する
+	614. modify 修正する
+	615. outlet 店舗、コンセント
+	616. prescription 処方箋
+	617. situated 位置する
+	618. surprisingly 驚くほど
+	619. transform 変える、
+	620. undergo検査修理経験する、受ける
+	621. blueprint 設計図、青写真
+	622. boost 押し上げる、引き上げる、押し上げること
+	623.
+	624. considerably かなり
+	625. eliminate 取り除く、排除する
+	626. exclusively 限定で、独占的に
+	627. leak 漏れる、漏らす、漏れ
+	628. preliminary 仮の、暫定の、本番前の
+	629. sophisticated 洗練された、高性能の
+	630. statistics 統計、統計学
+	631. vacant 開いた、欠員の
+	632. evidence証、証明
+	633. excursion お出かけ、小旅行
+	634. influence 影響を与える、影響
+	635. ordinary 普通の、通常の
+	636. reject 却下する、拒否する
+	637. tailor ニーズや目的に合うように合わせる、調整する
+	638. assume 受ける、思い込む、仮定する
+	639. engagement 約束、婚約
+	640. flame 名声
+	641. modest 少しの、高価ではない、謙虚な
+	642. patent 特許
+	643. pursue 追求する、追い求める
+	644. remote 人里離れた、可能性が低い
+	645. reveal 明らかにする
+	646. allowance 手当て、小遣い、許容量
+	647. crucial 非常に重要な
+	648. distinguished 際立って優れた、傑出した
+	649. disturb 邪魔する、悩ませる
+	650. fluent 流暢な、堪能な
+	651. fulfill 満たす、果たす
+	652. objective 目的、目標
+	653. restrict 制限する
+	654. steadily 着実に
+	655. adequate 要求を満たすのに十分な、適切な
+	656. assessment 評価、見積もり
+	657. attribute 起因すると考える、おかげであるとする
+	658. beforehand あらかじめ、事前に
+	659. challenging 困難だがやりがいのある
+	660. endeavor 努力、試み、努力する
+	661. inspiring やる気が出るような、活気づける
+	662. remarkable 驚くべき、注目すべき
+	663. measure 対策、手段、測定する、評価する
+	664. struggle 奮闘する
+	665. wage 賃金
+	666. adapt 適用する、適用させる、改作する
+	667. ambitious 意欲的な、野心的な
+	668. capable 能力がある
+	669. consequence 結果
+	670. impose 貸す、負わせる、強制する
+	671. latter 後者の
+	672. output 生産高、生産量
+	673. proudly 誇らしげに、堂々と
+	674. stable 安定した
+	675. transition 移行、転身
+	676. consent 同意
+	677. dependable 信頼できる
+	678. diligent 勤勉な、真面目な
+	679. illustrate 例や図表を使って説明する
+	680. independent 単独で、独立して
+	681. mission 使命、ミッション
+	682. moderate ほどほどの、適度な
+	683. outlook 見通し、物の見方
+	684. precisely 正確に
+	685. concentrated 集中的な、濃縮された
+	686. ample 十分な、あり余るほどの
+	687. asset 財産、役立つ人やもの
+	688. controversial 議論を引き起こす、議論の的になる
+	689. disappointing 期待外れの、がっかりさせるような
+	690. instrumental 重要な役割を果たす
+	691. interruption 中断
+	692. perspective 観点、見方、考え方
+	693. scope 範囲、余地
+	694. speculation 推測
+	695. supplement 補う、付録、栄養補助食品
+	696. understaffed 人手が足りない
+	697. rarely 滅多にしない、稀に
+	698. caution 注意、警告、注意する、警告する
+	699. legislation 法律、法制化
+	700. logical 妥当な、論理的な、筋の通った
+	701. lumber 木材
+	702. reverse 反対の
+	703. voluntary 自主的な、任意の
+	704. contractor 請負業者、契約業者
+	705. on-site 車内の、現場の、その場で
+	706. comprehensive 総合的な、包括的な
+	707. confidential 秘密の、機密の
+	708. expertise 専門知識
+	709. premier最高の、第1位の
+	710. souvenir お土産
+	711. rafting いかだ、ゴムボートでの川下り
+	712. compartment一区画、
+	713. fabric 布地、生地
+	714. spacious 広々とした、ゆったりした
+	715. upgrade 改良、アップグレード、改良する、アップグレードする
+	716. showcase披露する、お披露目の場、ショーケース
+	717. commuter 通勤者
+	718. enhance 向上させる、強化する
+	719. freight 貨物、輸送、輸送する
+	720. nominate 候補として推薦する、ノミネートする
+	721. discontinued 製造販売が終了した
+	722. mentoring メンタリング
+	723. personalized 個人に合わせた、名前入りの
+	724. pharmacy 薬局
+	725. excerpt 抜粋、引用
+	726. publicize 宣伝する
+	727. tuition 授業料
+	728. compliance コンプライアンス
+	729. clarify はっきりさせる、明確にする
+	730. municipal市営の、市の
+	731. respectively それぞれ
+	732. durable 耐久性がある、丈夫な
+	733. landmark 名所、場所の目印、重要な出来事
+	734. portfolio 作品集、有価証券一覧
+	735. recipient 受け取り人、受賞者
+	736. prototype 試作品、原型
+	737. transit 輸送
+	738. verify 確認する、検証する、認証する
+	739. managerial 管理職の、経営上の
+	740. culinary 料理の
+	741. attire服装
+	742. reimburse払い戻す
+	743. courteous 礼儀正しい
+	744. furnished家具付きの
+	745. knowledgeable 知識が豊富な
+	746. craftspeople 職人
+	747. delete 削除する
+	748. emerging 新たに現れた、新興の
+	749. enroll登録する、入会する、 入学する
+	750. proficiency 熟達、スキルの高さ、高い能力
+	751. scenic 眺めがいい、景色の
+	752. state-of-the-art 最新式の、最先端の
+	753. cuisine 料理
+	754. acclaimed 高く評価された
+	755. certified 有資格の、公認の
+	756. medication薬
+	757. Overview概略、概況
+	758. resistant 耐えられる、抵抗力のある
+	759. superior 極上の、
+	760. array大量、多数
+	761. informed 情報に富んだ
+	762. nationwide 全国的な、全国的に
+	763. outdated 時代遅れの
+	764. shareholder 株主
+	765. voucher バウチャー、クーポン券
+	766. adjacent 隣接した
+	767. correspondence 手紙やメールでのやり取り
+	768. detergent 洗剤
+	769. duration 継続期間
+	770. functional 機能を果たせる、機能的な
+	771. hands-on 実際の、実用的な
+	772. intensive 集中的な
+	773. last-minute 土壇場の、間際になっての
+	774. thrilled とてもワクワクして、とても興奮して
+	775. spectacular壮観な、目を見張るほどの
+	776. entrepreneur 企業家
+	777. introductory 入門の、最初の、お試しの
+	778. minimize 最小限に抑える、最小化する
+	779. prestigious 権威のある、名誉高い
+	780. screening 上映、検査
+	781. amenity 生活を便利に楽しくするもの
+	782. lengthy 長期にわたる、冗長な
+	783. compensate 補償する
+	784. misplace 、紛失する、置き忘れる
+	785. notable 注目すべき、有名な
+	786. subsidiary 子会社
+	787. authentic 本物の
+	788. designated 指定された、指名された
+	789. disruption 混乱、妨げ
+	790. fragile 壊れやすい、はかない
+	791. ongoing 進行中の、続いている
+	792. periodical 定期刊行物
+	793. plumber配管工
+	794. incur 損失などを被る、負う
+	795. oversee 監督する
+	796. retrieve 取り戻す
+	797. reunion 同窓会、再会
+	798. rigorous 厳格な、厳密な
+	799. specification 仕様書
+	800. tentative 仮の
+	801. tutorial 指導書、個別指導
+	802. apprentice 見習い、自習生
+	803. bid 入札、入札する
+	804. discard 捨てる
+	805. outing 外出、お出かけ
+	806. overwhelmingly 圧倒的に
+	807. proceeds 収益
+	808. refrain 差し控える
+	809. inclement 荒れ模様の
+	810. novice 初心者
+	811. activate使えるようにする、指導させる
+	812. anecdote 逸話
+	813. collaborate 協力、共同
+	814. commemorate 記念する
+	815. duplicate 複製の、複製、複製を取る
+	816. intermission 休憩時間
+	817. fertilizer 肥料
+	818. proofread 校正する
+	819. solicit 求める、懇願する
+	820. unveil 披露する、公表する
+	821. applicable 適用される、当てはまる
+	822. commend 褒める
+	823. complement 補う、補足する
+	824. incentive 動機付け、やる気を起こさせるもの
+	825. incorporate 取り入れる、組み込む
+	826. lapse 失効する、うっかりミスをする、過失時の経過
+	827. picturesque 絵のように美しい
+	828. prospective 見込みのある、将来の
+	829. simplify 簡素化する、単純にする
+	830. surpass 超える
+	831. surplus 余分な、余り
+	832. withstand 耐える
+	833. advocate 提唱者、支持者、提唱する
+	834. aspiring 志望の、になろうとする
+	835. assorted 様々な、各種の
+	836. credentials資格､経歴､資質
+	837. interoffice社内のオフィス間の
+	838. malfunction 故障、故障する
+	839. mutually 互いに、相互に
+	840. periodically 定期的に
+	841. copyright 著作権
+	842. nutritious 栄養のある
+	843. obstruct 通路や穴を塞ぐ、遮る
+	844. abundant 豊富な、十分な
+	845. agreeable 快適な、人がフレンドリーな、合意可能な
+	846. compromise 妥協、妥協点、妥協する
+	847. continuous 途切れない、絶え間のない
+	848. dominant 支配的な、圧倒的な
+	849. exhausted 疲れきった
+	850. fierce 激しい
+	851. prosperous 繁栄している、裕福な
+	852. quote 提示価格、引用、価格を提示する、引用する
+	853. reluctant 気乗りしない、渋っている
+	854. remedy 改善策、治療薬、改善する、治療する
+	855. solely 唯一、1人で、単独で
+	856. vital 不可欠な、非常に重要な
+	857. revitalize 再活性化する、復興する
+	858. commence 始まる
+	859. countless 数えきれないほどの、無数の
+	860. devise 考案する、立案する
+	861. execute 実行する
+	862. foster 促進する、養う
+	863. initiate 始める
+	864. insight 洞察、洞察力
+	865. misleading 誤解を招く恐れのある
+	866. precaution 予防策、予防措置
+	867. transparent 透明の
+	868. coincide 同時に起こる
+	869. concise 簡潔な
+	870. delegation 代表団、権限等の委譲
+	871. diagnosis 診断
+	872. enforce 実行する、実行する、強制する
+	873. hypothesis 仮説
+	874. predecessor 前任者、前機種
+	875. prominently 目立って、決して
+	876. adoption 採用
+	877. accelerate 加速させる、拍車をかける
+	878. adhere 規則や法律等に忠実に従う、接着する
+	879. allocate 割り当てる
+	880. appraisal 査定、評価
+	881. compile 取りまとめる、編集する
+	882. conform 規則や周囲の状況等に合わせる、一致する
+	883. constraint 制約
+	884. distraction 気を散らすもの、注意の妨げになるもの
+	885. facilitate 容易にする、促進する
+	886. integral 不可欠な
+	887. interact 交流する
+	888. persistence 粘り強さ
+	889. quota ノルマ、割り当て
+	890. congested 渋滞した
+	891. deduct 控除する
+	892. embrace 積極的に受け入れる,快諾する
+	893. synthetic 合成の
+	894. terminate 終わらせる
+	895. detect 見つける、検知する
+	896. patient 我慢強い
+	897. ratio 割合、比率
+	898. dietary 食事の
+	899. intentionally 意図的に
+	900. persuasive 説得力のある
+	901. subsequent その次の、その後の
+	902. thoughtfully 深く考えて、思慮深く、配慮して
+	903. abbreviated 要約された、短縮された
+	904. carpool 相乗りする、相乗り
+	905. compatible 相性が良い、互換性がある、共存できる
+	906. endorse 推薦する、支持する、裏書きする
+	907. explicit 明白な、明確な
+	908. keenly 激しく、鋭く
+	909. plaque 記念プレート
+	910. dilute 薄める
+	911. exempt 免除された、免除する
+	912. centerpiece 中心に置かれる装飾品、中心になるもの
+	913. oversight 見落とし、手落ち、監視
+	914. privileged 光栄な
+	915. recur 再発する
+	916. skeptical 懐疑的な、疑い深い
+	917. sustainable 持続可能な
+	918. artifact 歴史的文化的価値の工芸品、思考品
+	919. keynote 基調公演
+	920. breathtaking 息を飲むほどの、驚くべき
+	921. cubicle 個別の作業スペース
+	922. outage 機能停止期間、供給停止期間
+	923. perishable 痛みやすい、腐りやすい
+	924. avid 熱心な、熱烈な
+	925. detour 回り道
+	926. expedite 早める、促進させる
+	927. vicinity 近所、近辺
+	928. affiliated 提携した、関連のある
+	929. definitive 決定版の、最終的な
+	930. demolish 建物を解体する、取り壊す
+	931. feasible 実現可能な
+	932. inaugural 最初の、初開催の
+	933. installment 分割払いの1回分
+	934. redeemable 現金や商品と交換可能な
+	935. streamline 合理化する、効率化する
+	936. insulation 音熱電気等を防ぐこと
+	937. intact 傷がない
+	938. occupancy ホテルや部屋等の占有、収容人数
+	939. turnover 離職率
+	940. unanimous 満場一致の
+	941. deteriorate 劣化する
+	942. sturdy 頑丈な、丈夫な
+	943. adverse 良くない、不利な
+	944. bearer 小切手やクーポン等の所持人
+	945. unprecedented前例のない
+	946. botanical 植物の、植物学の
+	947. commensurate 釣り合った、比例した、見合った
+	948. consecutive 連続した
+	949. deliberation 熟考
+	950. discreetly 分別を持って、思慮深く
+	951. entail 必要とする、を伴う
+	952. fluctuation 変動
+	953. foremost 最高の、トップの
+	954. imperative 急を要する、非常に重要な
+	955. mandatory 義務的な
+	956. meticulously 注意を払って、几帳面に
+	957. outreach 福祉活動、支援活動
+	958. tenure在職期間
+	959. versatile 多彩な
+	960. alleviate 和らげる、軽減する
+	961. exemplary 模範的な
+	962. gala 祝祭、祭り
+	963. mural 壁画
+	964. proprietor オーナー、所有者
+	965. stagnant 停滞した
+	966. stringent 厳しい
+	967. testimonial 推薦文、推薦の声
+	968. turnout 参加者数、来場者数
+	969. waive 権利や条件を放棄する、差し控える、適用しない
+	970. faucet 蛇口
+	971. amendment 改正、修正
+	972. anonymous 匿名の
+	973. fraud 詐欺
+	974. liable 法的責任がある
+	975. considerate 思いやりのある、配慮して
+	976. consolidate 統合する
+	977. vigorous 活気のある、性力的な
+	978. retreat研修旅行
+	979. custodian管理人
+	980. forge 気づく、構築する
+	981. impending 間近に迫った、差し迫った
+	982. itemize 項目別にする
+	983. liaison 連絡係り、連絡
+	984. objectionable 不快な、気に触る
+	985. repave 再舗装する
+	986. shortcoming 欠点、短所
+	987. viable 実行可能な
+	988. memorabilia 記念品、思い出の品
+	989. deplete 使い果たす、激減させる
+	990. jeopardize 危機、危険
+	991. nominal 名目上の
+	992. deviate 逸脱する
+	993. forfeit 没収される、剥奪される、罰金、犠牲
+	994. bolster 強化する、補強する、支える
+	995. optimal ベストの、最適の
+	996. purveyor供給業者、販売業者
+	997. raffle 抽選会、富くじ
+	998. ventilation 換気、風通し
+	999. unwavering 揺るがぬ、断固とした
+	1000. exponentially 加速度的に、指数関数的に
+
+
+
+
+
+
+

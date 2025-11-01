@@ -1,0 +1,833 @@
+# English-Japanese Vocabulary List
+
+begin - 始まる、始める
+
+work - 働く、作業する、うまくいく
+
+company - 会社
+
+order - 注文、順番
+
+employee - 社員、従業員
+
+information - 情報
+
+receive - 受け取る
+
+last - 続く
+
+need - 〜を必要とする、〜する必要がある
+
+travel - 旅、出張
+
+job - 仕事
+
+find - 見つける、思う
+
+department - 部、部署、売り場
+
+let - 〜させる
+
+visit - 訪れる
+
+also - 〜もまた
+
+sure - 確かな、もちろん、必ず
+
+leave - 出発する、残す、辞める、〜のままにする
+
+sales - 営業、売り上げ
+
+move - 動かす、動く、引っ越す
+
+arrive - 到着する、届く
+
+hold - (イベントを)行う、手に持つ
+
+return - 戻る、戻す
+
+opening - (店などの)オープン、仕事の空き
+
+soon - もうすぐ
+
+sign - 署名する
+
+able - できる
+
+few - 少数の、少しの
+
+pay - 支払う
+
+trip - 出張、旅行
+
+sell - 売る、売れる
+
+several - いくつかの、数名の
+
+hear - 聞く
+
+still - まだ、依然として、それでもなお
+
+later - あとで
+
+different - 異なる、違う
+
+close - 近い
+
+stay - 滞在する、とどまる、〜のままでいる
+
+already - すでに
+
+present - 与える、示す
+
+factory - 工場
+
+interested - 興味がある
+
+cover - 覆う、報道する、含む、扱う
+
+choose - 選ぶ
+
+apartment - アパート、マンション
+
+paper - 書類、紙
+
+note - 注意する、述べる
+
+both - 両方とも
+
+either - どちらか
+
+neither - どちらも〜ない
+
+ago - 前に
+
+finish - 終える、終わる
+
+hope - 願う、望む、期待する
+
+part - 一部、部分、部品
+
+important - 重要な
+
+mail - 郵送する
+
+once - 一度、かつて
+
+run - 続く、運営する、作動させる、走る
+
+bring - 持ってくる、連れてくる、連れて行く
+
+place - (注文や広告などを)出す、置く
+
+become - 〜になる
+
+ready - 準備ができて
+
+closed - 閉まっている
+
+enter - 入る、入力する、エントリーする
+
+happen - 起こる
+
+customer - 顧客
+
+past - 過去の
+
+same - 同じ
+
+early - 早く
+
+join - 加わる、参加する
+
+decide - 決める
+
+plant - 植物、工場、植える
+
+pleased - 喜んで、満足して
+
+enough - 十分に、十分な、十分
+
+film - 映画、映画を撮影する
+
+case - 場合、ケース
+
+meal - 食事
+
+someone - 誰か
+
+always - いつも
+
+piece - 1個、1つ、作品、記事
+
+carry - 持ち運ぶ、携行する、(商品を)扱う
+
+ship - 出荷する、船
+
+reach - 連絡を取る、情報を伝える、達する
+
+remember - 覚えている、思い出す、忘れずに〜する
+
+field - 分野、野原
+
+dish - 料理、皿
+
+post - 掲示する、投稿する
+
+sound - (見聞きして)〜のように思える、音
+
+break - 休憩、壊す、壊れる
+
+seem - 〜のように思える
+
+build - 建てる、築く
+
+necessary - 必要な
+
+believe - 信じる、きっと〜だと思う
+
+grow - 成長する、伸びる、育てる
+
+though - だけど、〜にもかかわらず
+
+kind - 種類、親切な
+
+miss - 逃す、いなくてさびしく思う
+
+spend - (お金や時間を)使う、費やす、(時間を)過ごす
+
+busy - 忙しい、混んでる
+
+save - 節約する、保存する、取っておく
+
+map - 地図
+
+ride - 乗る、車に乗せること
+
+almost - もう少しで、ほとんど、〜に近い
+
+goods - 品物
+
+quickly - すばやく
+
+wide - 幅広い
+
+famous - 有名な
+
+power - 電力、権力、力
+
+book - 予約する、本
+
+wrong - 間違った
+
+play - 劇、演奏する、演じる、プレーする、遊ぶ
+
+usual - 通常の、いつもの
+
+certain - 確かな、ある決まった、特定の
+
+difficult - 難しい
+
+store - 保管する、保存する、店
+
+clear - はっきりした、わかりやすい、片付ける
+
+forget - 忘れる
+
+rise - 上がる 上昇
+
+chance - 可能性、機会
+
+draw - （ペンや鉛筆で絵を）描く、引く
+
+glad - うれしい
+
+warm - 温かい、暖かい
+
+matter - 事柄、問題、件、重要である
+
+useful - 役立つ
+
+refer - 参照する、紹介する、〜についてである、言及する
+
+safe - 安全な
+
+simple - 単純な、簡単な、シンプルな
+
+discover - 発見する
+
+park - 車を停める、公園
+
+promise - 約束する、約束
+
+proud - 誇りに思う
+
+pretty - かなり、かわいい
+
+noise - 騒音
+
+perhaps - もしかすると、たぶん、よろしければ
+
+farm - 農場、農園、農地
+
+product - 製品
+
+invite - 招待する、求める
+
+offer - 申し出る、提供する、申し出、オファー
+
+provide - 提供する
+
+include - 含む
+
+report - 報告書、報告する、出向く
+
+problem - 問題
+
+likely - おそらく、｜〜しそうだ
+
+request - 〜を求める、頼む、依頼、要請
+
+cost - （費用が）掛かる、費用
+
+complete - 完了させる、完成させる、記入する、完了した
+
+form - 用紙、フォーム、結成する
+
+experience - 経験、〜を経験する
+
+attend - 出席する、参加する
+
+announce - 発表する
+
+position - 職、位置、位置に置く、位置を合わせる
+
+repair - 修理、修理する
+
+local - 地元の、地域の、地元の人
+
+purpose - 目的
+
+discuss - 話し合う
+
+expect - 予期する、予定する
+
+increase - 増やす、増える、増加
+
+mention - 述べる
+
+tour - 見学、旅行、見学する、旅行する
+
+charge - 料金、責任、請求する、充電する
+
+discount - 割引、割引にする
+
+research - 調査、研究、調査する、研究する
+
+hire - 雇う、採用者
+
+recently - 少し前に
+
+main - 主な、主要な
+
+account - 口座、アカウント、取引先、説明、説明する、（割合を）占める
+
+international - 国際的な、海外の
+
+copy - （本・雑誌等の）冊・部、コピー、コピーする
+
+probably - おそらく
+
+process - 工程、手続き、処理する
+
+result - 結果、生じる、（結果に）終わる
+
+president - 社長
+
+material - 材料、資料
+
+record - 記録、記録的な、記録する
+
+apply - 応募する、申請する、適用する
+
+detail - 詳細、詳しく述べる
+
+rate - 料金、割合、評価する
+
+industry - 産業、業界
+
+public - 公共の、一般の、一般の人
+
+yet - まだ、もう
+
+possible - 可能な
+
+furniture - 家具
+
+arrange - 手配する、並べる
+
+notice - 通知、気付く
+
+create - 想像する、作り出す
+
+serve - （食事を）出す、サービスを提供する、役割を果たす
+
+prepare - 準備する、用意する、支度する
+
+policy - 規定、方針
+
+package - 小包、一式
+
+agency - 代理店
+
+introduce - 紹介する、導入する
+
+reserve - 予約する、確保する
+
+allow - 許す、可能にする
+
+press - 押す、報道機関、マスコミ
+
+weather - 天気、天候
+
+support - 支援、支持、支援する、支持する
+
+publish - 出版する、公表する
+
+describe - （言葉や文章で）説明する、描写する
+
+add - 加える
+
+deliver - 配達する、（演説等を）行う
+
+state - 述べる、明記する｜状態、州
+
+accept - 受け入れる
+
+accounting - 会計、経理
+
+based - 拠点を置く、本社がある
+
+own - （所有格の後で）自分自身の｜所有する
+
+develop - (計画等を）作り出す、開発する、発展させる
+
+excellent - 素晴らしい
+
+bill - 請求書｜請求書を送る
+
+produce - 生産する、製作する｜農産物
+
+host - 主催する、司会をする｜主催者、司会者
+
+explain - 説明する
+
+less - より少なく｜より少ない
+
+passenger - 乗客
+
+successful - 成功した、うまく行く
+
+activity - 活動
+
+lead - 率いる｜トップ、長、主演
+
+traffic - 交通
+
+actually - 実際
+
+follow - 従う、後について行く、後で行う、道を行く
+
+inform - （人に）知らせる
+
+prefer - 〜を（・・・よりも）好む
+
+final - 最終的な、最終の
+
+professional - プロの、専門職の、職業上の｜プロ、専門家
+
+improve - 改善する、改良する
+
+medical - 医療の
+
+official - 正式な、公式の、正規の｜幹部
+
+continue - 続く、続ける
+
+total - 合計の｜合計｜合計〜になる
+
+branch - 支店
+
+entrance - 入口、入場
+
+fair - 展示即売会、説明会｜まずまずの、公平な
+
+attention - 注意、注目
+
+cleaning - 清掃
+
+expensive - 高価な、お金のかかる
+
+seated - 座っている、腰掛けている
+
+share - 共有する、シェアする｜株、保有率
+
+daily - 毎日｜毎日の
+
+instead - 代わりに
+
+national - 全国的な、国の、国立の、国民の
+
+perform - 遂行する、演じる、公演する
+
+remove - 取り出す、取り除く、取り去る
+
+suggest - 提案する、示唆する
+
+direction - 道順、指示、方向
+
+express - 表す｜急ぎの、急行の
+
+amount - 量、額
+
+personal - 個人的な、個人の
+
+publishing - 出版（業）
+
+view - 眺め、意見｜眺める
+
+wish - 〜したいと思う｜願い
+
+appear - 現れる、掲載される、〜のように思える
+
+arrangement - 手配、配置
+
+manage - 運行管理する、対処する、何とか〜する
+
+direct - 直接の、直行の｜指示する、向ける
+
+paid - 有給の、支払い済みの
+
+agree - 同意する、同感である
+
+cause - 引き起こす｜原因、大義
+
+damage - ダメージ、損傷｜ダメージを与える、損なう
+
+raise - 上げる、（お金を）集める、高める｜昇給
+
+respond - 返事をする、応じる
+
+directly - 直接
+
+limited - 限られた
+
+packaging - 梱包、パッケージ
+
+degree - 学位、程度、（温度や角度の単位の）度
+
+further - さらなる｜さらに
+
+quite - かなり
+
+regular - 通常の、定期的な、常連の
+
+broadcast - 放送する｜放送
+
+contain - 含む、中に入っている
+
+experienced - 経験豊富な
+
+fix - 直す、しっかり固定する、（日時等を）定める
+
+opinion - 意見
+
+society - 社会、協会
+
+condition - 状態
+
+correct - 正確な、正しい｜修正する
+
+audience - 聴衆、観客
+
+general - 全体的な、一般的な
+
+advise - 勧める、忠告する、助言する
+
+especially - 特に
+
+period - 期間
+
+professor - 教授、大学の先生
+
+effort - 努力
+
+highly - 非常に
+
+lower - 下げる｜より安い、より低い
+
+reason - 理由
+
+similar - 似ている
+
+fit - （スペースに）入る、合う
+
+intended - 意図された、向けられた
+
+invitation - 招待（状）
+
+patient - 患者｜我慢強い
+
+responsible - 担当している、責任がある
+
+certainly - 確かに、（返事で）かしこまりました
+
+method - 方法
+
+claim - 申し立て、主張、請求｜主張する
+
+immediately - ただちに、即座に
+
+law - 法律
+
+row - 列｜（船を）漕ぐ
+
+downtown - 中心街の｜中心街で｜中心街
+
+helpful - 役立つ、助けになる
+
+track - 追跡する｜追跡、線路、走路
+
+value - 価値｜大切だと思う
+
+ability - 能力
+
+collect - 集める
+
+comfortable - 快適な、楽な、自信がある
+
+deal - 取引、量、取引条件｜対処する
+
+gather - 集める、集まる
+
+unable - （〜することが）できない
+
+officer - 幹部、役員、警察官
+
+role - 役割、役柄
+
+bit - 少し｜少し
+
+figure - 数字、数値、人物
+
+fuel - 燃料
+
+regarding - 〜に関する
+
+reasonable - （値段が）手頃な、妥当な
+
+twice - ２回、２倍
+
+arrival - 到着
+
+central - 中心の、中央の
+
+certificate - 認定証、修了証
+
+storage - 保管、収納、貯蔵
+
+administrative - 事務管理の
+
+banquet - 夕食会
+
+retail - 小売り
+
+ingredient - (料理の)材料、食材
+
+inquiry - 問い合わせ
+
+accommodate - (要求等を)満たす、収容する
+
+generate - (利益や仕事等を)生み出す、(関心や興味等を)生む
+
+affordable - 手頃な価格の
+
+authorize - 公認する、(正式に)許可する
+
+summary - 要約
+
+valid - 有効な
+
+tourism - 観光事業
+
+equip - 備え付ける、装備する
+
+revenue - 収入
+
+inexpensive - 安価な
+
+exceptional - 並外れた、非常に素晴らしい
+
+hallway - 廊下
+
+circulation - 流通、(図書館の)貸出・返却、発刊部数
+
+complicated - 複雑な
+
+dedicated - 献身的な、熱心な、専用の
+
+mentoring - メンター制度
+
+nutrition - 栄養、栄養学
+
+accessible - 到達できる、利用できる
+
+coverage - 報道、(保険の)補償
+
+motivation - やる気にさせる
+
+refreshment - 軽い飲食物
+
+cashier - レジ係
+
+transaction - 取引
+
+acknowledge - 認める、(受取を)知らせる
+
+nomination - 推薦、候補者、候補作品
+
+overtime - 時間外に / 残業
+
+premises - 敷地
+
+reliable - 信頼できる、頼りになる
+
+utility - 公共サービス
+
+blueprint - 設計図、青写真、詳細な計画
+
+compensation - (仕事の)報酬、対価、補償(金)
+
+exclusive - 限定の、独占の、高級な
+
+consistently - 安定して、変わらず、着実に
+
+update - 更新する / 最新情報
+
+submission - 提出物、提出
+
+subscription - 購読、加入、会費
+
+appliance - 電化製品
+
+brochure - パンフレット
+
+feedback - 感想、意見
+
+merchandise - 商品
+
+supplier - 納入業者、供給業者
+
+catering - 仕出し、出前、ケータリング
+
+agenda - 議題、協議事項
+
+fabric - 生地、織物
+
+lease - 賃貸借契約 / 賃貸借する
+
+beverage - 飲料
+
+prior - 前の、事前の
+
+inconvenience - 不便
+
+innovative - 革新的な
+
+luncheon - 昼食会
+
+auditorium - 講堂、観客席
+
+qualified - 資格のある、適任の
+
+souvenir - 土産物
+
+comprehensive - 総合的な、包括的な
+
+plumbing - 配管(工事)
+
+enhance - 向上させる、強化する
+
+intersection - 交差点
+
+supervisor - 上司、責任者
+
+shipment - 配送、配達品、積み荷
+
+invoice - 請求書、送り状
+
+notify - 知らせる
+
+warehouse - 倉庫
+
+upgrade - 改良する、アップグレードする / 改良、アップグレード
+
+orientation - (新人向けの)説明会
+
+directory - 名簿、(建物の)案内板
+
+expire - 期限が切れる
+
+merger - 合併、統合
+
+quarterly - 年に4回 / 年に4回の、四半期ごとの
+
+questionnaire - アンケート用紙
+
+defective - 欠陥のある、不良の
+
+workplace - 職場
+
+enroll - 登録する、入会する、入学する
+
+pharmacy - 薬局
+
+spacious - 広々とした、ゆったりした
+
+landmark - 名所、(場所の)目印、重要な出来事
+
+commute - 通勤(通学)する
+
+medication - 薬
+
+discontinued - (製造・販売が)終了した
+
+portfolio - 作品集、有価証券一覧
+
+warranty - 保証、保証書
+
+refund - 返金 / 返金する
+
+inventory - 在庫(表)､棚卸
+
+renowned - 名高い、著名な
+
+vendor - 業者、露天商
+
+publicize - 宣伝する
+
+tuition - 授業料
+
+complimentary - 無料の
+
+eligible - 資格がある
+
+fund-raising - 資金調達のための、慈善の
+
+payroll - 給与管理、給与総額、給与台帳
+
+reimbursement - 払い戻し
+
+itinerary - 旅程表
+
+endeavor - 努力、試み / 努力する

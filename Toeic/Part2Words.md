@@ -1,4 +1,4 @@
-Wordlist
+# Wordlist
    Entail 伴う
    Retain 保つ
    Pursure 追求
