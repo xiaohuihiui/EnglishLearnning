@@ -1,16 +1,15 @@
 # Wordlist
-   Entail 伴う
+  <p> Entail 伴う
    Retain 保つ
    Pursure 追求
    Passionate 熱烈
-   Chores 家事
+   **Chores 家事**
    Gadgets ガジェット
    Compensation 補償
-   Commensurate 見合った
-----------------2025/09/04------------------
-1,
-Measure
-Initiative
+   Commensurate 見合った</p>
+<p>----------------2025/09/04------------------</p>
+ <strong><em>1</em></strong>,Measure
+ Initiative
 Morale
 Dedicate
 Rating tour
@@ -21,7 +20,7 @@ Mandatory
 捧げる
 評価ツアー
 必須
-2,
+<br>2,
 Stick 棒
 Optimal  最適
 Boasts  誇って います
@@ -29,7 +28,7 @@ Amenities 設備
 Notable 注目
 Shelves 棚
 Inaugural  新任
-ceremony  式典
+ceremony  式典</br>
 3.
 Amenity kit アメニティキット
 Eliminating 排除
