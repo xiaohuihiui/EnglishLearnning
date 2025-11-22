@@ -1,0 +1,3 @@
+When we hurt others, we see it as wrong. But how often do we realize that hurting ourselves—through self-doubt, harsh judgment, or constant pressure—is just as damaging? Being unkind to yourself doesn't just affect you. It affects how you treat the world, how you see others, and what kind of energy you put out. When we're unhappy inside, it's easy to spread frustration, jealousy, or negativity—often without meaning to. That's why taking care of your own happiness isn't selfish—it's necessary. When you're kind to yourself, you're more patient, more loving, and more capable of lifting others up.
+
+So don't just protect others' happiness—protect your own, too. Because real peace starts within
