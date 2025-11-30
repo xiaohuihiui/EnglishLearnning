@@ -1,0 +1,102 @@
+Question 1 through 3, refer to the following conversation.
+Sophie, can I have a word with you?
+Of course, Carter.
+Sophie, I wanted to discuss your performance over the last quarter.
+The team has been highly impressed with your dedication and the quality of your work.
+Thank you, Carter. I appreciate that.
+As a result, we're looking to assign you to the upcoming Aurora project.
+It's a critical initiative for the company, and we believe your skills would be highly beneficial.
+I just need to confirm if you're available and willing to take on this additional responsibility.
+That sounds exciting, Carter.
+I'm definitely interested. Will it require any special training or adjustments to my current duties?
+We will permit you to adjust your current workload as needed to accommodate the project.
+We'll also provide any necessary training.
+This is a great opportunity for you to lead a significant part of the project.
+That's wonderful news. I'm ready for the challenge.
+Sophie, can I have a word with you?
+Of course, Carter.
+Sophie, I wanted to discuss your performance over the last quarter.
+The team has been highly impressed with your dedication and the quality of your work.
+Thank you, Carter. I appreciate that.
+As a result, we're looking to assign you to the upcoming Aurora project.
+It's a critical initiative for the company, and we believe your skills would be highly beneficial.
+I just need to confirm if you're available and willing to take on this additional responsibility.
+That sounds exciting, Carter.
+I'm definitely interested. Will it require any special training or adjustments to my current duties?
+We will permit you to adjust your current workload as needed to accommodate the project.
+We'll also provide any necessary training.
+This is a great opportunity for you to lead a significant part of the project.
+That's wonderful news. I'm ready for the challenge.
+Question 4 through 6, refer to the following conversation.
+Ian, do you have a moment? I'm having a bit of an issue with the system.
+Certainly, Eleanor, what seems to be the problem?
+Well, the expense report system's reporting function is only showing a partial amount of data.
+I've been trying to figure it out since yesterday.
+I see. You've been quite diligent in trying to resolve it yourself.
+Thank you. Are you seeing any error messages?
+No, no specific errors, but when I apply certain filters, the data just cuts off.
+Understood. There was a recent update to that feature, and we've received similar reports from some users.
+The IT team is currently working on a resolution.
+Oh, really? I thought it was just my problem. Is there any temporary workaround?
+Yes, there is. A full resolution might take a little more time, but for now, you can either export all data without applying filters and sort it in Excel,
+or temporarily use the older version of the report tool.
+The old tool is accessible via the internet.
+Thank you. I'll try the Excel method or use the old tool. That's a great help.
+You're welcome. Apologies for the inconvenience. We'll make an announcement once it's fully resolved.
+Ian, do you have a moment? I'm having a bit of an issue with the system.
+Certainly, Eleanor. What seems to be the problem?
+Well, the expense report systems reporting function is only showing a partial amount of data.
+I've been trying to figure it out since yesterday.
+I see. You've been quite diligent in trying to resolve it yourself.
+Thank you. Are you seeing any error messages?
+No. No specific errors, but when I apply certain filters, the data just cuts off.
+Understood. There was a recent update to that feature, and we've received similar reports from some users.
+The IT team is currently working on a resolution.
+Oh, really? I thought it was just my problem. Is there any temporary workaround?
+Yes, there is. A full resolution might take a little more time, but for now, you can either export all data without applying filters and sort it in Excel,
+or temporarily use the older version of the report tool.
+The old tool is accessible via the internet.
+Thank you. I'll try to excel method or use the old tool. That's a great help.
+You're welcome. Apologies for the inconvenience. We'll make an announcement once it's fully resolved.
+Question 7 through 9 refer to the following conversation.
+Hi, Ivy. Thanks for joining. I wanted to discuss the new projects overall direction.
+We need to define the scope more clearly, especially concerning the user interface.
+Of course, Benjamin, I've been thinking about it. Are we aiming for a completely fresh design, or are we building upon our existing design language?
+That's a good point. While our existing design language is functional, I'm hoping we can move beyond a purely traditional approach this time.
+I envision something more innovative, perhaps with some interactive elements we haven't explored before.
+I like that idea. It gives us a lot of room for creativity. So, are we talking about incorporating 3D elements or perhaps more dynamic animations than usual?
+Exactly. The scope of this project allows for a more experimental approach, but we need to ensure it's still user friendly and isn't overwhelmed the core functionality.
+My main concern is balancing innovation with usability. I understand, we can start by prototyping a few radically different concepts and then test them with a small group of users.
+That way, we can gauge their reception before committing to a final design.
+That sounds like a solid plan, Ivy. Let's schedule a follow-up to review some initial sketches.
+Hi, Ivy. Thanks for joining. I wanted to discuss the new projects overall direction. We need to define the scope more clearly, especially concerning the user interface.
+Of course, Benjamin, I've been thinking about it. Are we aiming for a completely fresh design, or are we building upon our existing design language?
+That's a good point. While our existing design language is functional, I'm hoping we can move beyond a purely traditional approach this time.
+I envision something more innovative, perhaps with some interactive elements we haven't explored before.
+I like that idea. It gives us a lot of room for creativity. So, are we talking about incorporating 3D elements or perhaps more dynamic animations than usual?
+Exactly, the scope of this project allows for a more experimental approach, but we need to ensure it's still user friendly and isn't overwhelmed the core functionality.
+My main concern is balancing innovation with usability.
+I understand, we can start by prototyping a few radically different concepts and then test them with a small group of users.
+That way, we can gauge their reception before committing to a final design.
+That sounds like a solid plan, Ivy. Let's schedule a follow-up to review some initial sketches.
+Question 10 through 12, refer to the following conversation.
+Hello, Violet. I'm looking to book a space for our annual team building event. We're expecting about 50 people.
+Certainly, Mr. Gabriel, what kind of atmosphere are you hoping to create for your team?
+Casual, formal, or something in between.
+We're aiming for something relaxed and collaborative, maybe with a lot of natural light.
+Not too stuffy, also easy access to public transportation is a must.
+I see, based on your preferences, I think our Zen Garden Room, or Riverside Terrace, might be suitable.
+Both offer excellent natural light and are well connected. Would you like me to arrange a side visit for you to see them?
+That would be great, Violet. The Zen Garden Room sounds interesting. Could you also confirm if catering services are available for both?
+Yes, we offer a full range of catering options from buffet to plated meals. I'll include the menus in the information packet for your visit. I'll email you some available times for the visit shortly.
+Hello, Violet. I'm looking to book a space for our annual team building event.
+We're expecting about 50 people.
+Certainly, Mr. Gabriel, what kind of atmosphere are you hoping to create for your team?
+Casual, formal, or something in between.
+We're aiming for something relaxed and collaborative, maybe with a lot of natural light.
+Not too stuffy, also easy access to public transportation is a must.
+I see, based on your preferences, I think our Zen Garden Room, or Riverside Terrace, might be suitable.
+Both offer excellent natural light and are well connected. Would you like me to arrange a side visit for you to see them?
+That would be great, Violet. The Zen Garden Room sounds interesting. Could you also confirm if catering services are available for both?
+Yes, we offer a full range of catering options from buffet to plated meals.
+I'll include the menus in the information packet for your visit. I'll email you some available times for the visit shortly.
