@@ -1,0 +1,3 @@
+It might take time. It might be messy. You might fail a few times—or even a lot. But if something truly matters to you, if it lights that little spark inside your heart, don’t stop chasing it. The path won’t always be straight. You’ll get discouraged, tired, and maybe even doubt yourself. But that’s normal. That’s part of the journey. What matters most is that you keep trying. Keep learning, keep moving forward, even if it’s just one tiny step at a time. Because every step brings you closer to the life you really want. So whatever it is—music, art, teaching, building, helping others—don’t give up on it. That dream chose you for a reason.
+
+What’s something you’re still holding onto, even when it’s hard?
