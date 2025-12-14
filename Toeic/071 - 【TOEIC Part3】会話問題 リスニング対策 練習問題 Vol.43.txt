@@ -1,0 +1,108 @@
+Question 1 through 3, refer to the following conversation.
+Ariana, how's the project progress recently?
+Hudson, it's going well.
+However, we've experienced some unexpected delays recently.
+I see, how behind are we, how much later than the original schedule do you expect will be?
+We're currently two weeks behind schedule, but the whole team is working hard, and we expect to reduce the delay to within a week.
+That's good to hear.
+Let me know if there is anything I can do to help.
+Ariana, how's the project progress recently?
+Hudson, it's going well.
+However, we've experienced some unexpected delays recently.
+I see, how behind are we, how much later than the original schedule do you expect will be?
+We're currently two weeks behind schedule, but the whole team is working hard, and we expect to reduce the delay to within a week.
+That's good to hear.
+Let me know if there is anything I can do to help.
+I'm Daniel, and I'll be helping you with your new system installation.
+Hi, Daniel, nice to meet you.
+I'm excited to get this up and running.
+I've heard good things about your company.
+Great, before we start, I'd like to understand your preference in terms of data storage.
+We have several options, including cloud-based and local servers.
+That's a good question.
+I'm leaning towards local servers.
+We handle a countless amount of sensitive data, and I feel more secure keeping it in house.
+I understand you're concerned.
+In that case, let's proceed with local server setup then.
+Do you have any other specific requirements?
+Not at the moment.
+Let's get the ball rolling with the local server.
+Hi, Aurora.
+Thanks for coming in today.
+I'm Daniel, and I'll be helping you with your new system installation.
+Hi, Daniel. Nice to meet you.
+I'm excited to get this up and running.
+I've heard good things about your company.
+Great.
+Before we start, I'd like to understand your preference in terms of data storage.
+We have several options, including cloud-based and local servers.
+That's a good question.
+I'm leaning towards local servers.
+We handle a countless amount of sensitive data, and I feel more secure keeping it in house.
+I understand you're concerned.
+In that case, let's proceed with local server setup then.
+Do you have any other specific requirements?
+Not at the moment.
+Let's get the ball rolling with the local server.
+I'll be back in a minute.
+Question 7 through 9 refer to the following conversation.
+Ila, have you looked into the new software for data processing?
+I'm a bit lost on how to navigate it.
+Yes, Elijah, I have.
+It's definitely different from what we're used to.
+I think there's going to be some disruption to our usual workflow at first.
+I agree.
+I'm already seeing that.
+The interface is completely different.
+Do you know if there's any training available?
+I heard they're planning a training session next week.
+I think we should both attend.
+That would make the process much smoother.
+That sounds great.
+I'll sign us up right away.
+Thanks for the info.
+Ila.
+Ila, have you looked into the new software for data processing?
+I'm a bit lost on how to navigate it.
+Yes, Elijah, I have.
+It's definitely different from what we're used to.
+I think there's going to be some disruption to our usual workflow at first.
+I agree.
+I'm already seeing that.
+The interface is completely different.
+Do you know if there's any training available?
+I heard they're planning a training session next week.
+I think we should both attend.
+That would make the process much smoother.
+That sounds great.
+I'll sign us up right away.
+Thanks for the info.
+Ila.
+Ila.
+Questions 10 through 12 refer to the following conversation.
+Madison, thanks for coming in today.
+I wanted to follow up on the installation of the new system.
+Of course, Colton, how's everything going on your end?
+Well, we've encountered an unprecedented issue with the network connectivity.
+It seems the system isn't communicating as we expected.
+That's concerning.
+What's the root cause?
+Have you been able to identify it?
+We're still investigating, but preliminary diagnostics refer to a configuration problem with your firewall.
+We need to double check the settings.
+Okay, I see.
+Is there anything I can do to assist?
+Perhaps we should schedule another call after you examine the firewall settings?
+Madison, thanks for coming in today.
+I wanted to follow up on the installation of the new system.
+Of course, Colton, how's everything going on your end?
+Well, we've encountered an unprecedented issue with the network connectivity.
+It seems the system isn't communicating as we expected.
+That's concerning.
+What's the root cause?
+Have you been able to identify it?
+We're still investigating, but preliminary diagnostics refer to a configuration problem with your firewall.
+We need to double check the settings.
+Okay, I see.
+Is there anything I can do to assist?
+Perhaps we should schedule another call after you examine the firewall settings?
