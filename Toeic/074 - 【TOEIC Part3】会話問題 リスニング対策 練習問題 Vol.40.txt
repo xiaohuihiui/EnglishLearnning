@@ -1,0 +1,71 @@
+.
+Questions 1 through 3 refer to the following conversation.
+Lily, could you come to my office? I need to discuss the new project proposal.
+Of course, Dylan, I'll be right there. Is there anything I should bring?
+Yes, please bring the Inter-Office memo we sent out last week about the client expectations.
+Okay, I have that. I'll be there in a minute.
+Great. Also, could you duplicate the proposal documents we reviewed yesterday?
+I want to make sure everyone has a copy during the meeting.
+Please bring the Inter-Office memo we sent out last week about the client expectations.
+Okay, I have that. I'll be there in a minute.
+Great. Also, could you duplicate the proposal documents we reviewed yesterday?
+I want to make sure everyone has a copy during the meeting.
+Certainly, Dylan, I'll prepare them right away.
+I want to make sure everyone has a copy.
+I want to make sure everyone has a copy.
+I want to make sure everyone has a copy.
+Questions 4 through 6 refer to the following conversation.
+Hi, Alice. Thanks for coming in today. I'm Oliver, the hiring manager.
+Hi, Oliver. It's nice to meet you. Thank you for having me.
+So, I've reviewed your resume, and it looks very impressive.
+But I wanted to ask, you mentioned you are currently working, and it's quite a congested area.
+How have you managed your schedule?
+Yes, that's right. Commuting has been a challenge, but I've become quite efficient at time management to handle both work and my other commitments.
+That's good to hear. I also noticed that you've been reluctant to change jobs for quite some time.
+What motivates you to seek a new opportunity at this point in your career?
+I've really grown in my current role, but I'm looking for a position that allows me to further develop my skills and take on more challenging projects.
+I understand. Well, I think that's all for today. We'll be in touch soon regarding the next steps.
+Thank you for your time, Oliver. I appreciate it.
+Hi, Alice. Thanks for coming in today. I'm Oliver, the hiring manager.
+Hi, Oliver. It's nice to meet you. Thank you for having me.
+So, I've reviewed your resume, and it looks very impressive.
+But I wanted to ask, you mentioned you are currently working, and it's quite a congested area. How have you managed your schedule?
+Yes, that's right. Commuting has been a challenge, but I've become quite efficient at time management to handle both work and my other commitments.
+That's good to hear. I also noticed that you've been reluctant to change jobs for quite some time.
+What motivates you to seek a new opportunity at this point in your career?
+I've really grown in my current role, but I'm looking for a position that allows me to further develop my skills and take on more challenging projects.
+I understand. Well, I think that's all for today. We'll be in touch soon regarding the next steps.
+Thank you for your time, Oliver. I appreciate it.
+Thank you.
+Thank you.
+Thank you.
+Questions 7 through 9 refer to the following conversation.
+Hi Aurora, it's Isaiah. I'm calling about the new software you requested. Have you had a chance to review the specifications we sent over?
+Hi Isaiah, yes I have. According to the document, the software should have the ability to handle up to 10,000 users simultaneously, right?
+That's correct, and we've included an expandable feature that will allow you to easily scale up further if needed.
+That's great. We are planning a big campaign next month and we expect a surge in user traffic.
+I also had a question about the user interface. Will it be customizable?
+Yes, absolutely. We offer a high degree of customization so you can tailor it to your specific branding and needs.
+Is there anything else you would like to know before we move forward with the implementation?
+Hi Aurora, it's Isaiah. I'm calling about the new software you requested. Have you had a chance to review the specifications we sent over?
+Hi Isaiah, yes I have. According to the document, the software should have the ability to handle up to 10,000 users simultaneously, right?
+That's correct, and we've included an expandable feature that will allow you to easily scale up further if needed.
+That's great. We are planning a big campaign next month and we expect a surge in user traffic.
+I also had a question about the user interface. Will it be customizable?
+Yes, absolutely. We offer a high degree of customization so you can tailor it to your specific branding and needs.
+Is there anything else you would like to know before we move forward with the implementation?
+Yes, absolutely.
+Questions 10 through 12 refer to the following conversation.
+Excuse me, I'm a bit lost. I'm looking for the old town, but this map doesn't seem to fit the streets I'm seeing.
+Oh, you're in the middle of a newer phase of the city. The old town is a little further that way. You need to cross the main bridge.
+Oh, I see. That makes sense. So, the map I have is not up to date then?
+Probably not. They've done a lot of construction around here in the last few years. You might find an updated map at the tourist center near the bridge.
+That would fit your needs better.
+That's great advice. Thank you so much.
+No problem. Enjoy your visit.
+Excuse me, I'm a bit lost. I'm looking for the old town, but this map doesn't seem to fit the streets I'm seeing.
+Oh, you're in the middle of a newer phase of the city. The old town is a little further that way. You need to cross the main bridge.
+Oh, I see. That makes sense. So, the map I have is not up to date then?
+Probably not. They've done a lot of construction around here in the last few years. You might find an updated map at the tourist center near the bridge.
+That would fit your needs better. That's great advice. Thank you so much.
+No problem. Enjoy your visit.
