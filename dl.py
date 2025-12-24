@@ -14,11 +14,11 @@ if not os.path.exists(save_path):
 
 cmd = (
     f'yt-dlp '
+    f'--cookies cookies.txt '
     f'-P "{save_path}" '
     f'-o "%(playlist_index)02d - %(title)s.%(ext)s" '
     f'-f "bv*[height<=1080]+ba/b" '
-    f'-N 8 '
-    f'--write-sub --sub-lang zh,en '
+    f'-N 8 --sleep-interval 2 --max-sleep-interval 5 '
     f'"{playlist_url}"'
 )
 
