@@ -68,6 +68,6 @@ def transcribe_videos(input_dir, output_dir, model_type="small"):
     print("\n✅ 所有任务处理完成！")
 
 if __name__ == "__main__":
-    my_input_dir = r"G:\TOEIC\word&phases"
-    my_output_dir = r"G:\subtitle\word&phases"
+    my_input_dir = r"G:\TOEIC\part4"
+    my_output_dir = r"G:\subtitle\part4"
     transcribe_videos(my_input_dir, my_output_dir, model_type="small")
