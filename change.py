@@ -76,8 +76,8 @@ def transcribe_videos(input_dir, output_dir, model_type="small"):
 
 if __name__ == "__main__":
     # 路径确保正确 (原生字符串 r"...")
-    my_input_dir = r"G:\TOEIC\TOEIC リスニング練習問題シリーズ"
-    my_output_dir = r"G:\TOEIC\sub"
+    my_input_dir = r"D:\TOEIC"
+    my_output_dir = r"D:\TOEIC\sub"
 
     # 第一次运行建议使用 base 模型验证环境稳定性
     transcribe_videos(my_input_dir, my_output_dir, model_type="base")
