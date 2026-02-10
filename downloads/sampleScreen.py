@@ -27,7 +27,7 @@ SWIPE_RIGHT = (
     "input swipe 400 480 120 480 500"
 )
 
-WAIT = 1.2
+WAIT = 1.1
 
 # ⚠️ 只用于“怀疑”，不是直接结束
 SIM_THRESHOLD = 0.992
