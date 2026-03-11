@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/English.iml" filepath="$PROJECT_DIR$/.idea/English.iml" />
+      <module fileurl="file://D:/GitCheck/.idea/GitCheck.iml" filepath="D:/GitCheck/.idea/GitCheck.iml" />
+      <module fileurl="file://D:/GitCheck/.idea/GitCheck1.iml" filepath="D:/GitCheck/.idea/GitCheck1.iml" />
+      <module fileurl="file://D:/chapter11/.idea/chapter11.iml" filepath="D:/chapter11/.idea/chapter11.iml" />
     </modules>
   </component>
 </project>
