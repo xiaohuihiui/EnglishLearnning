@@ -76,7 +76,7 @@ def transcribe_videos(input_dir, output_dir, model_type="small"):
 
 if __name__ == "__main__":
     # 路径确保正确 (原生字符串 r"...")
-    my_input_dir = r"D:\TOEIC"
+    my_input_dir = r"D:\TOEIC\1やり直し英語Eigo Chat Lab! TOEICとその一歩先の英語へ\TOEIC Part1 写真描写問題"
     my_output_dir = r"D:\TOEIC\sub"
 
     # 第一次运行建议使用 base 模型验证环境稳定性
