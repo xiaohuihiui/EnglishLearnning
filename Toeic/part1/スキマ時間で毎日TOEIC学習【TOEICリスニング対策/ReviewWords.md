@@ -334,7 +334,7 @@ set9(25:34)
 |        | 1  | 2            | 3                | 4           | 5  | 6  |
 | ------ | -- | ------------ | ---------------- | ----------- | -- | -- |
 | check  | ok | ok           | ok               | ng          | ok | ok |
-| review |    |              |                  |             |    |    |
+| review | ok | ok           | ok               | ok          | ok | ok |
 | word   |    | splitting    | trees and shrubs | haphazardly |    |    |
 | 語彙   |    | 分割している | 樹木と低木       | 雑然と      |    |    |
 | 意思   |    |              |                  |             |    |    |
@@ -357,7 +357,7 @@ set 10
 |        | 1  | 2       | 3          | 4  | 5  | 6     |
 | ------ | -- | ------- | ---------- | -- | -- | ----- |
 | check  | ok | ok      | ok         | ok | ng | ok    |
-| review |    |         |            |    |    |       |
+| review | ok | ok      | ok         | ok | ok | ok    |
 | word   |    | vessels | stationary |    |    | slope |
 | 語彙   |    | 船舶    | 静止       |    |    | slope |
 | 意思   |    |         |            |    |    |       |
