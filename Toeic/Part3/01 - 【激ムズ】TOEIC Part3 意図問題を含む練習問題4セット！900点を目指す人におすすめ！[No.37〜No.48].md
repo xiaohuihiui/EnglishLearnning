@@ -6,14 +6,14 @@
 4. answer:ok  ,Reviewed:ok
 5. answer:ok  ,Reviewed:ok
 6. answer:ng  ,Reviewed:ok
-7. answer: ng    ,Reviewed:
-8. answer: ng    ,Reviewed:
-9. answer: ok   ,Reviewed:
+7. answer: ng    ,Reviewed:ok
+8. answer: ng    ,Reviewed:ok
+9. answer: ok   ,Reviewed:ok
 10. answer: ok  ,Reviewed:
 11. answer: ng  ,Reviewed:
 12. answer: ok  ,Reviewed
 
-time(05:00)
+time(07:30)
 
 -----------------------------**Word**----------------------------------
 1. investment portfolio:資産構成
@@ -37,3 +37,15 @@ time(05:00)
 19. material fatigue:金属疲労
 20. contribute to:～の一因となる
 21. excessive strain:過度なストレス
+22. cyberattack:サイバー攻撃
+23. compromise:侵害された
+24. overhaul:分解修理
+25. timeframe:予定期間
+26. vulnerabilities:脆弱性
+27. audit:監査する
+28. flagged:フラグが立てられた
+29. exploited:悪用された
+30. consuming:時間を要する
+31. symptoms:兆候
+32. flaws:欠陥
+33. symptoms of deeper systemic flaws:より深刻なシステム上の欠陥の兆候
