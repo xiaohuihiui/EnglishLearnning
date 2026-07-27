@@ -49,3 +49,12 @@ time(07:30)
 31. symptoms:兆候
 32. flaws:欠陥
 33. symptoms of deeper systemic flaws:より深刻なシステム上の欠陥の兆候
+34. trial:試用期間
+35. inconsistent:一貫性のない
+36. clinical trials:臨床試験
+37. regulatory approval:規制当局による承認
+38. statistically sound:統計的に健全（信頼できる / 妥当）である
+39. refine:洗練する
+40. flawed:欠陥のある
+41. dosage:用量
+42. genetic factors:遺伝的要因
