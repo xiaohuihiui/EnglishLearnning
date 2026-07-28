@@ -9,11 +9,9 @@
 7. answer: ng    ,Reviewed:ok
 8. answer: ng    ,Reviewed:ok
 9. answer: ok   ,Reviewed:ok
-10. answer: ok  ,Reviewed:
-11. answer: ng  ,Reviewed:
-12. answer: ok  ,Reviewed
-
-time(07:30)
+10. answer: ok  ,Reviewed:ok
+11. answer: ng  ,Reviewed:ok
+12. answer: ok  ,Reviewed：ok
 
 -----------------------------**Word**----------------------------------
 1. investment portfolio:資産構成
