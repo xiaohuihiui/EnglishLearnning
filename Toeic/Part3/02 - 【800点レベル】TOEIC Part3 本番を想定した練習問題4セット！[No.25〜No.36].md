@@ -1,10 +1,10 @@
 -----------------------------**Question**----------------------------------
-1. answer: ok  　 ,Reviewed:
-2. answer:ng 　　,Reviewed:
-3. answer:ng 　　,Reviewed:
-4. answer:ok  　　,Reviewed:
-5. answer: ok 　　,Reviewed:
-6. answer:ok  　　,Reviewed:
+1. answer: ok  　 ,Reviewed:ok
+2. answer:ng 　　,Reviewed:ok
+3. answer:ng 　　,Reviewed:ok
+4. answer:ok  　　,Reviewed: ok
+5. answer: ok 　　,Reviewed: ok
+6. answer:ok  　　,Reviewed: ok
 7. answer: ok 　　,Reviewed:
 8. answer: ok  　　,Reviewed:
 9. answer: ng 　　,Reviewed:
@@ -12,11 +12,20 @@
 11. answer:  ok 　,Reviewed:
 12. answer: ok  　,Reviewed:
 
-
+time:05:00
 -----------------------------**Word**----------------------------------
- word:意味
-fulfill an order：注文を処理する
-held up：保留
+fulfill an order :注文を処理する
+held up:保留
+logistics provider:物流事業者
+perishable:傷みやすい
+inventory buffer:安全在庫
+reach out:連絡を取る
+expedite:促進する
+clearance process:通関手続き
+stick:守る
+fare:運賃
+downgrading:ランクを下げる
+
 
 
 
