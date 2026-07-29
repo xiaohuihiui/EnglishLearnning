@@ -30,3 +30,5 @@ downgrading:ランクを下げる
 
 
 
+
+
