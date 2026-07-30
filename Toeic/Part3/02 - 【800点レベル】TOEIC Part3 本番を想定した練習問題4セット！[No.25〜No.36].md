@@ -5,12 +5,12 @@
 4. answer:ok  　　,Reviewed: ok
 5. answer: ok 　　,Reviewed: ok
 6. answer:ok  　　,Reviewed: ok
-7. answer: ok 　　,Reviewed:
-8. answer: ok  　　,Reviewed:
-9. answer: ng 　　,Reviewed:
-10. answer:  ok 　,Reviewed:
-11. answer:  ok 　,Reviewed:
-12. answer: ok  　,Reviewed:
+7. answer: ok 　　,Reviewed:ok
+8. answer: ok  　　,Reviewed:ok
+9. answer: ng 　　,Reviewed:ok 
+10. answer:  ok 　,Reviewed:ok
+11. answer:  ok 　,Reviewed:ok
+12. answer: ok  　,Reviewed:ok
 
 time:05:00
 -----------------------------**Word**----------------------------------
@@ -25,7 +25,8 @@ clearance process:通関手続き
 stick:守る
 fare:運賃
 downgrading:ランクを下げる
-
+walk-in patients:予約なしの患者
+downtime:休憩時間
 
 
 
