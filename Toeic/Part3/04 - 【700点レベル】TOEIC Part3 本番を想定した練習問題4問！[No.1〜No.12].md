@@ -1,7 +1,7 @@
 -----------------------------**Question**----------------------------------
-1. answer: ok  　 ,Reviewed:
-2. answer: ok 　　,Reviewed:
-3. answer: ng 　　,Reviewed:
+1. answer: ok  　 ,Reviewed:ok
+2. answer: ok 　　,Reviewed:ok
+3. answer: ng 　　,Reviewed:ok
 4. answer:  ok　　,Reviewed:
 5. answer:  ng　　,Reviewed:
 6. answer:  ok　　,Reviewed:
