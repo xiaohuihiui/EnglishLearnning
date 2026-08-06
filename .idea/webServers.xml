@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70293d9a-6929-4533-b499-3e08a125c905" name="utubun">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="192.168.0.183" port="2222" sshConfigId="8783f3be-7c49-448c-9295-bf2a111cbab6" sshConfig="li@192.168.0.183:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
