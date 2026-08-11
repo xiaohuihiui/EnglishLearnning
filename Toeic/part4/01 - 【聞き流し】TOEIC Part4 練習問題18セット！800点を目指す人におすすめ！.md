@@ -18,12 +18,12 @@ set2
 4. answer: ok　　,Reviewed:ok
 5. answer:  ok　　,Reviewed:ok
 6. answer:  ng　　,Reviewed:ok
-7. answer: ng　　,Reviewed:
-8. answer: ng 　　,Reviewed:
-9. answer:  ok　　,Reviewed:
-10. answer: ok  　,Reviewed:
-11. answer: ng  　,Reviewed:
-12. answer: ok  　,Reviewed:
+7. answer: ng　　,Reviewed:ok
+8. answer: ng 　　,Reviewed:ok
+9. answer:  ok　　,Reviewed:ok
+10. answer: ok  　,Reviewed:ok
+11. answer: ng  　,Reviewed:ok
+12. answer: ok  　,Reviewed:ok
 set3
 1. answer:ok  　 ,Reviewed:
 2. answer:ok  　　,Reviewed:
@@ -57,7 +57,7 @@ set4
 14. answer: ng  　,Reviewed:
 15. answer: ok  　,Reviewed:
 
-12‘30
+16:12
 
 -----------------------------**Word**----------------------------------
  word:意味
@@ -73,3 +73,17 @@ shortage：不足
 accommodate：対応するため
 outpatien：外来患者
 urgent medical concerns：緊急の医療問題
+rooftop terrace:屋上テラス
+concierge:コンシェルジュ(礼宾员)
+complimentary;無料の
+transportation arrangements:移動の手配
+pitcher:ピッチャー（投手）
+hits:ヒット(击中)
+substitute:交代
+post-game:試合後の
+highlight reel:ハイライト動画（名シーン集）
+press conference:記者会見
+metro stadium:：メトロ・スタジアム,地下鉄直結の競技場
+falcons（スポーツチームなどの名称）ファルコンズ[猎鹰队（球队名）]
+in the bottom of the eighth inning:8回裏（はちかいうら）に
+commentary:解説
