@@ -1,0 +1,330 @@
+02: I have enough money to the book. 
+
+03: My uncle has farm in 
+
+04: We had fun at zoo, lion, and tiger. 
+
+05: You must be hungry by now. 
+
+06: Am father of children. 
+
+07: They are very busy these day. 
+
+08: Bank is just around corner. 
+
+09: Was sure that world round. 
+
+10: Several were afraid doctor. 
+
+11: Been popular among student for year. 
+
+12: He become ill during his trip. 
+
+13: Death change him into a strong person. 
+
+14: Grandfather die last. 
+
+15: Gas price suddenly drop week. 
+
+16: Boy almost fall off bicycle. 
+
+17: Never grow old. 
+
+18: Bad thing can happen even good people. 
+
+19: Keep quiet. Library. 
+
+20: Man not live without. 
+
+21: Lose blue glove party. 
+
+22: Need some more green vegetable salad. 
+
+23: Smoke rise from wood. 
+
+24: Mom seemed happy with new computer. 
+
+25: Outside tent, star shine. Clear sky. 
+
+26: Should sit back seat car. 
+
+27: Sleep well when really tired. 
+
+28: Policemen stand along road hotel. 
+
+29: Stay home this weekend. 
+
+30: Train stop. 
+
+31: Girl, turn me sad face. 
+
+32: Want guitar birthday. 
+
+33: Where beach? 
+
+34: Singer answer question about her. 
+
+35: Ask if your phone number. 
+
+36: Still call best friend. 
+
+37: Fight neighbor dog over every 
+
+38: Guide us museum. 
+
+39: Help something. 
+
+40: Word sometimes hurt other feeling. 
+
+41: Invite classmate our house. 
+
+42: Join basketball team college. 
+
+43: Kiss mother night. 
+
+44: Meet wife before. She friendly. 
+
+45: Order. Player running. 
+
+46: Company present its business plan next. 
+
+47: Promise bottle wine tonight. 
+
+48: How could say such 
+
+49: Would show way post office. 
+
+50: Woman, smile. Photo baby penguin. 
+
+051: Anybody speak 
+
+052: News surprise 
+
+053: Talk age front 
+
+054: Teach beautiful song 
+
+055: Tell secret 
+
+056: Thank great dinner 
+
+057: Child touch soft white snow on ground 
+
+058: Visit sick aunt hospital 
+
+059: Wave goodbye through window 
+
+060: Police arrive scene quickly 
+
+061: Kid blow nose many time 
+
+062: Carry all those box donut 
+
+063: Catch fish hand 
+
+064: Climb up top tree 
+
+065: Close door hot 
+
+066: Come here subway or taxi 
+
+067: Cry alone. Middle park 
+
+068: Dance music radio 
+
+069: Usually drink coffee morning 
+
+070: Perhaps dad will drive station 
+
+071: Eat chocolate cake after 
+
+072: Yesterday, someone enter kitchen 
+
+073: Airplane fly above cloud 
+
+074: Go movie together once month 
+
+075: Hit season 
+
+076: Sister hold doll photograph 
+
+077: Jump out chair sound bell 
+
+078: Kick small rock mountain 
+
+079: Laugh. Pink suit 
+
+080: Member march town same shirt pants 
+
+081: Move table 
+
+082: Open textbook page 
+
+083: Play tennis today 
+
+084: Pull hair 
+
+085: Kind young push 
+
+086: Reach toy 
+
+087: Ride bike rainy 
+
+088: Ring till noon 
+
+089: Run fast than else school 
+
+090: Shake head silent 
+
+091: Shut down factory 
+
+092: Often sing bath 
+
+093: Most ski near village 
+
+094: Brother swim side pool 
+
+095: Take fruit basket 
+
+096: Monkey throw little stone 
+
+097: Wake until late afternoon 
+
+098: Walk lake 
+
+099: Write letter cafe 
+
+100: Why always act funny 
+
+101: Attack city air 
+
+102: Grandmother bake delicious cookie 
+
+103: Parent begin ago 
+
+104: Break left leg soccer game 
+
+105: Bring sandwich. Picnic 
+
+106: Build bridge across river 
+
+107: Buy cheap camera 
+
+108: Choose restaurant 
+
+109: Husband cook much better 
+
+110: Count bird garden 
+
+111: Cover skin. Sun 
+
+112: Cut orange half knife 
+
+113: Did job captain 
+
+114: Do proud 
+
+115: Does everything slowly 
+
+116: Draw picture flower pencil 
+
+117: Dress dark color 
+
+118: Excuse So 
+
+119: Horse finish race place 
+
+120: Get ticket ice 
+
+121: Please give another chance 
+
+122: Hurry to 
+
+123: Large fire kill wild animal forest 
+
+124: Leave early tomorrow 
+
+125: Let ready shopping 
+
+126: Make wonderful tea guest 
+
+127: King. Queen. Mary 
+
+128: Miss part because 
+
+129: Pass salt 
+
+130: Pay dollar umbrella 
+
+131: Pick simple silver 
+
+132: Practice violin hour 
+
+133: Put heavy bag bench 
+
+134: Receive any mail 
+
+135: Return store 
+
+136: Group may save poor country 
+
+137: Sell only natural healthy food 
+
+138: Send Christmas card 
+
+139: Set date meeting 
+
+140: Spend usual 
+
+141: Start cold tomato soup 
+
+142: Study test hard 
+
+143: Tie big beside 
+
+144: Travel, bus, holiday 
+
+145: Ever try winter sport 
+
+146: Use bathroom 
+
+147: Wait. Magazine 
+
+148: Wash dirty 
+
+149: Work supermarket 
+
+150: Believe thick 
+
+151. Decide which video  
+152. Discover name  
+153. Enjoy clever joke  
+154. Feel sorry who wet rain  
+155. Driver find dead body tunnel  
+156. Forget trouble vacation  
+157. Strange noise street  
+158. Hope again soon  
+159. Against idea  
+160. Learn important lesson story  
+161. Like baker sweet  
+162. Listen, teacher, homework  
+163. Look, quarter past  
+164. Though fat love cat  
+165. What mean?  
+166. Read newspaper  
+167. Honest remember  
+168. C tall building  
+169. Smell rose gone  
+170. Taste anything  
+171. Think interested  
+172. Understand? Angry  
+173. Watch TV while  
+174. Worry, but careful 
+
+ 
+
+ 
+
+ 
+
+ 
