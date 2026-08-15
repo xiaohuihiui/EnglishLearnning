@@ -25,12 +25,12 @@ set2
 11. answer: ng  　,Reviewed:ok
 12. answer: ok  　,Reviewed:ok
 set3
-1. answer:ok  　 ,Reviewed:
-2. answer:ok  　　,Reviewed:
-3. answer:ng  　　,Reviewed:
-4. answer: ok　　,Reviewed:
-5. answer:  ng　　,Reviewed:
-6. answer:  ok　　,Reviewed:
+1. answer:ok  　 ,Reviewed:ok
+2. answer:ok  　　,Reviewed:ok
+3. answer:ng  　　,Reviewed:ok
+4. answer: ok　　,Reviewed:ok
+5. answer:  ng　　,Reviewed:ok
+6. answer:  ok　　,Reviewed:ok
 7. answer: ok　　,Reviewed:
 8. answer: ok 　　,Reviewed:
 9. answer:  ng　　,Reviewed:
@@ -56,8 +56,7 @@ set4
 13. answer: ok  　,Reviewed:
 14. answer: ng  　,Reviewed:
 15. answer: ok  　,Reviewed:
-
-16:12
+20:00
 
 -----------------------------**Word**----------------------------------
  word:意味
@@ -87,3 +86,12 @@ metro stadium:：メトロ・スタジアム,地下鉄直結の競技場
 falcons（スポーツチームなどの名称）ファルコンズ[猎鹰队（球队名）]
 in the bottom of the eighth inning:8回裏（はちかいうら）に
 commentary:解説
+persists:持続する
+unforeseen:予期せぬ
+citywide:市全域
+authorities:当局
+deployed:配備
+road closures:通行止め
+not intervene unless requested:要請がない限り介入しない
+stay off:〜を控える（避ける）
+low-lying:低地の
