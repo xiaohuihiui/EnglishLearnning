@@ -31,15 +31,15 @@ set3
 4. answer: ok　　,Reviewed:ok
 5. answer:  ng　　,Reviewed:ok
 6. answer:  ok　　,Reviewed:ok
-7. answer: ok　　,Reviewed:
-8. answer: ok 　　,Reviewed:
-9. answer:  ng　　,Reviewed:
-10. answer: ok  　,Reviewed:
-11. answer: ok  　,Reviewed:
-12. answer: ok  　,Reviewed:
-13. answer: ok  　,Reviewed:
-14. answer: ng  　,Reviewed:
-15. answer: ok  　,Reviewed:
+7. answer: ok　　,Reviewed:ok
+8. answer: ok 　　,Reviewed:ok
+9. answer:  ng　　,Reviewed:ok
+10. answer: ok  　,Reviewed:·ok
+11. answer: ok  　,Reviewed:ok
+12. answer: ok  　,Reviewed:ok
+13. answer: ok  　,Reviewed:ok
+14. answer: ng  　,Reviewed:ok
+15. answer: ok  　,Reviewed:ok
 set4
 1. answer:ok  　 ,Reviewed:
 2. answer:ok  　　,Reviewed:
@@ -56,7 +56,7 @@ set4
 13. answer: ok  　,Reviewed:
 14. answer: ng  　,Reviewed:
 15. answer: ok  　,Reviewed:
-20:00
+26:00
 
 -----------------------------**Word**----------------------------------
  word:意味
@@ -95,3 +95,12 @@ road closures:通行止め
 not intervene unless requested:要請がない限り介入しない
 stay off:〜を控える（避ける）
 low-lying:低地の
+This just in: severe:深刻な
+exercise extreme caution：十分にご注意ください
+revisit：見直す
+projections：見積もり
+a bit off：少し違和感がある
+Beta：ベータ版
+rush；急いでいる
+warp up:締めくくる
+panel discussion:討論会
