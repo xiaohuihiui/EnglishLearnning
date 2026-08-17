@@ -41,12 +41,12 @@ set3
 14. answer: ng  　,Reviewed:ok
 15. answer: ok  　,Reviewed:ok
 set4
-1. answer:ok  　 ,Reviewed:
-2. answer:ok  　　,Reviewed:
-3. answer:ok  　　,Reviewed:
-4. answer: ok　　,Reviewed:
-5. answer:  ok　　,Reviewed:
-6. answer:  ok　　,Reviewed:
+1. answer:ok  　 ,Reviewed:ok
+2. answer:ok  　　,Reviewed:ok
+3. answer:ok  　　,Reviewed:ok
+4. answer: ok　　,Reviewed:ok
+5. answer:  ok　　,Reviewed:ok
+6. answer:  ok　　,Reviewed:ok
 7. answer: ok　　,Reviewed:
 8. answer: ok 　　,Reviewed:
 9. answer:  ok　　,Reviewed:
@@ -56,7 +56,7 @@ set4
 13. answer: ok  　,Reviewed:
 14. answer: ng  　,Reviewed:
 15. answer: ok  　,Reviewed:
-26:00
+30:06
 
 -----------------------------**Word**----------------------------------
  word:意味
@@ -104,3 +104,8 @@ Beta：ベータ版
 rush；急いでいる
 warp up:締めくくる
 panel discussion:討論会
+demo units：展示品
+apply concepts  discussed： 議論された概念を応用（実践）できるよう
+along with；と一緒に（加えて）
+a set of；セットの
+crash；クラッシュ（ダウン）
