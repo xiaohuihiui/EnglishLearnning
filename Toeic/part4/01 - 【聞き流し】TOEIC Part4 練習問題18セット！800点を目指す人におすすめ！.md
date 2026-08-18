@@ -47,15 +47,15 @@ set4
 4. answer: ok　　,Reviewed:ok
 5. answer:  ok　　,Reviewed:ok
 6. answer:  ok　　,Reviewed:ok
-7. answer: ok　　,Reviewed:
-8. answer: ok 　　,Reviewed:
-9. answer:  ok　　,Reviewed:
-10. answer: ok  　,Reviewed:
-11. answer: ok  　,Reviewed:
-12. answer: ng 　,Reviewed:
-13. answer: ok  　,Reviewed:
-14. answer: ng  　,Reviewed:
-15. answer: ok  　,Reviewed:
+7. answer: ok　　,Reviewed:·ok
+8. answer: ok 　　,Reviewed:ok
+9. answer:  ok　　,Reviewed:ok
+10. answer: ok  　,Reviewed:ok
+11. answer: ok  　,Reviewed:ok
+12. answer: ng 　,Reviewed:ok
+13. answer: ok  　,Reviewed:ok
+14. answer: ng  　,Reviewed:ok
+15. answer: ok  　,Reviewed:ok
 30:06
 
 -----------------------------**Word**----------------------------------
@@ -109,3 +109,6 @@ apply concepts  discussed： 議論された概念を応用（実践）できる
 along with；と一緒に（加えて）
 a set of；セットの
 crash；クラッシュ（ダウン）
+insufficient：不足
+company-wide：全社的な
+observance:順守
