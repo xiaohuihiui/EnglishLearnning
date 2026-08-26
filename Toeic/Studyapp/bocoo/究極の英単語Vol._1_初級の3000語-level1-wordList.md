@@ -1,7 +1,3 @@
----
-type: Checklist
----
-
 - [ ] 02: I have enough money to the book. 
 
 - [ ] 03: My uncle has farm in 
