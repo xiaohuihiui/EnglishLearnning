@@ -4,7 +4,7 @@ type: Checklist
 
 - [ ]  175: Apple, banana, beef, bread, breakfast, butter, candy, cheese
   - [ ]  176: Egg, Honey, jam, Juice, Lunch, Meal, Meat, Milk, Popcorn
-  - [ ]  177: Pork, potato, rice, soda, sugar, Spring, summer, autumn, midnight
+  - [x]  177: Pork, potato, rice, soda, sugar, Spring, summer, autumn, midnight
   - [ ]  178: Evening, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, January
   - [ ]  179: February, April, June, July, August, September, October, November, December
   - [ ]  180: Eye, ear, lip, mouth, tongue, tooth, neck, shoulder, arm
