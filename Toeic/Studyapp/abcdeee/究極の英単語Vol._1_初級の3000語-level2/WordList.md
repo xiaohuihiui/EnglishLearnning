@@ -1,0 +1,380 @@
+- [ ] * **400.** Almond, bacon, cherry, cocoa, corn, cream, grape, grapefruit
+- [ ] * **401.** Ham, mayonnaise, melon, menu, noodle, nut, parfait, P, peach
+- [ ] * **402.** Peanut, pepper, pimmen, pineapple, spaghetti, steak, strawberry, sundae, cigarette
+- [ ] * **403.** Tobacco, Whiskey, Backpack, Blanket, Break, Brick, Cable, Cage, Candle
+- [ ] * **404.** Ceiling, Chopsticks, Cleaning, Drug, Electricity, Entrance, Envelope, Fair, Fence
+- [ ] * **405.** Fridge, Fuel, Haul, Handkerchief, Handle, Hook, Ink, Lamp, Locker
+- [ ] * **406.** Needle package, Passport, Pillow, Pin, Pole, Powder, Ribbon, Salary
+- [ ] * **407.** Shampoo, sheet, silk, smartphone, software, toothbrush, toothpaste, tube, wheel
+- [ ] * **408.** Apron, belt, pajama, skirt, sock, underwear, blood, bone, breath
+- [ ] * **409.** Cheek, Elbow, Headache, Health, Tear, Ant, Bee, Butterfly, Insect
+- [ ] * **410.** Mosquito, Rat, Shrimp, Spider, Swallow, Turkey, Bay, Branch, Coal
+- [ ] * **411.** Cotton, desert, jungle, nest, rainbow, root, shade, shadow, stick
+- [ ] * **412.** Straw, Stream, Sunlight, Sunset, Sunshine, Tulip, Valley, Violet, Wing
+- [ ] * **413.** Wool, bookstore, campus, capital, cinema, clinic, gym, harbor, palace
+- [ ] * **414.** Passage, path, port, railway, shore, site, temple, grandson
+- [ ] * **415.** Niece, Agent, Astronaut, Crew, Dancer, Engineer, Judge, Manager, Painter
+- [ ] * **416.** Photographer, sailor, seller, boyfriend, citizen, fellow, foreigner, host, leader
+- [ ] * **417.** Mate, prince, princess, pupil, ruler, stranger, sir, kilogram, ton
+- [ ] * **418.** Millimeter, centimeter, kilometer, inch, cent, degree, dozen, zero, million
+- [ ] * **419.** Century, period, semester, chapter, bit, plenty, length, depth, strength
+- [ ] * **420.** Activity, Address, Army, Decision, Discount, Enemy, Force, Movement, Nation
+- [ ] * **421.** Navy, rate, standard, value, wealth, yen, action, advice, aim
+- [ ] 
+- [ ] ---
+- [ ] 
+- [ ] ### 二、 词汇对照表 (Word Lists)
+- [ ] 
+- [ ] #### WL0065 (01734-01742)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | alphabet | アルファベット、初歩 |
+- [ ] | angel | 天使、天使のような人 |
+- [ ] | appearance | 出現、出演、出席、外見、容姿 |
+- [ ] | arrangement | 整理、調停、取り決め、準備 |
+- [ ] | arrival | 到着 |
+- [ ] | balance | 均衡、つり合い、はかり、残高、貸借勘定 / …をつり合わせる |
+- [ ] | balloon | 風船玉、ゴム風船、気球 |
+- [ ] | bar | 横棒、棒状のもの、障害(物)、(主に米)酒場 |
+- [ ] | badminton | バドミントン |
+- [ ] 
+- [ ] #### WL0066 (01743-01751)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | base | 土台、基礎、基地、塁 / …の基礎を築く |
+- [ ] | beauty | 美貌、(精神的・感覚的)美 |
+- [ ] | birth | 出生、誕生、出産、家系 |
+- [ ] | block | 大きな塊、ブロック、一区画 / …をふさぐ |
+- [ ] | bottom | 下部、最低部、ふもと |
+- [ ] | camping | キャンプ、キャンプをすること |
+- [ ] | care | 心配、注意、世話 / 気遣う、心配する |
+- [ ] | cause | 原因、理由 / (事故などの)原因となる |
+- [ ] | choice | 選択、選択力、選択権 |
+- [ ] 
+- [ ] #### WL0067 (01752-01760)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | content | 中身、内容、目次、容量 / 満足している |
+- [ ] | courage | 勇気、度胸 |
+- [ ] | creation | 創造、創作、作品、天地創造 |
+- [ ] | crowd | 群衆、人込み、大衆、多数 / …に群がる / 群がる |
+- [ ] | crown | 王冠、王権、最も高い部分 |
+- [ ] | culture | 文化、文明、教養、耕作 |
+- [ ] | curve | 曲線、曲がり / …を曲げる / 曲がる |
+- [ ] | custom | 習慣、税関 / オーダーメイドの |
+- [ ] | cycle | 周期、循環、一巡 / 自転車[オートバイ]に乗る、循環する |
+- [ ] 
+- [ ] #### WL0068 (01761-01769)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | cycling | サイクリング、自転車競技 |
+- [ ] | dancing | 踊り、舞踏 |
+- [ ] | danger | 危険、危険状態、脅威 |
+- [ ] | detail | 細部、項目、詳細(な記述) |
+- [ ] | difference | 違い、差異、区別 |
+- [ ] | direction | 方向、方角、道順、命令、指揮、監督 |
+- [ ] | edge | 端、へり、果て、刃、鋭さ |
+- [ ] | effort | 努力、骨折り、奮闘 |
+- [ ] | ending | 終わり、結末、死、末期 |
+- [ ] 
+- [ ] #### WL0069 (01770-01778)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | error | 間違い、過失、誤解 |
+- [ ] | event | 出来事、行事、成り行き |
+- [ ] | example | 例、見本、手本 |
+- [ ] | fault | (落ち度の)責任、誤り、欠陥 |
+- [ ] | favor | 親切な行為、好意、えこひいき |
+- [ ] | fear | 恐れ、不安、危倶 / …を恐れる、…を心配する |
+- [ ] | figure | 姿、体格、人物、数字、図 / …を計算する、…と考える |
+- [ ] | flag | 旗、国家、旗印 |
+- [ ] | flight | 飛行、定期航空便、一続き |
+- [ ] 
+- [ ] #### WL0070 (01779-01787)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | form | 形、形態、形式、型、書式 / …を作る、…を結成する |
+- [ ] | freedom | 自由、自主、独立、解放、免除 |
+- [ ] | friendship | 友情、友愛、交友 |
+- [ ] | grade | 階級、等級、学年、成績の評点 / …を等級分けする |
+- [ ] | grammar | 文法 |
+- [ ] | greeting | あいさつ、会釈、あいさつの言葉、あいさつ状 |
+- [ ] | harm | 害、損害、悪意、不都合 / …を害する |
+- [ ] | heat | 熱、熱さ、暑さ、激しさ / …を熱する[温める] |
+- [ ] | heaven | 天国、神、天 |
+- [ ] 
+- [ ] #### WL0071 (01788-01796)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | helicopter | ヘリコプター |
+- [ ] | hell | 地獄、生き地獄 |
+- [ ] | hiking | ハイキング |
+- [ ] | homeroom | ホームルーム |
+- [ ] | jet | 噴出、噴射、噴出物、ジェット機 |
+- [ ] | jogging | ジョギング |
+- [ ] | journey | 旅、旅程 |
+- [ ] | law | 法、法律、法学、法則 |
+- [ ] | load | 荷、積み荷、多数、多量、重さ、重荷 / …に荷物を積む、…を積む |
+- [ ] 
+- [ ] #### WL0073 (01806-01814)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | occasion | 時、場合、機会、重要な行事 |
+- [ ] | parade | パレード、行列 / …を行進する |
+- [ ] | pardon | 勘弁、許し、容赦 / …を許す |
+- [ ] | pattern | 傾向、模様、パターン、原型、模範 |
+- [ ] | pause | 休止、中断、区切り / 中止する、ためらう |
+- [ ] | peace | 平和、和解、平穏、静けさ |
+- [ ] | peak | 頂点、最大限度、最盛期、山頂 |
+- [ ] | pleasure | 喜び、楽しさ、愉快、満足、快楽 |
+- [ ] | poem | 詩、韻文、詩的な文章 |
+- [ ] 
+- [ ] #### WL0074 (01815-01823)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | poison | 毒、毒薬、有害なもの |
+- [ ] | pollution | 汚染、公害 |
+- [ ] | potential | 可能性、潜在(能力) / 可能性がある、潜在的な |
+- [ ] | pride | 誇り、自尊心、優越感、高慢、自慢 |
+- [ ] | process | 過程、工程、進行 / …を加工[処理]する |
+- [ ] | progress | 進行、進展、進歩、発達 |
+- [ ] | purpose | 目的、意図、決心 |
+- [ ] | puzzle | 難問、困惑、謎、パズル |
+- [ ] | rail | 横木、レール、鉄道 |
+- [ ] 
+- [ ] #### WL0075 (01824-01832)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | rank | 階級、地位、列 / …を並べる、…を位置付ける |
+- [ ] | record | 記録(文書)、経歴、最高記録、レコード / …を記録する |
+- [ ] | role | 役(割)、役柄、任務 |
+- [ ] | row | 列、並び、横列、通り |
+- [ ] | rumor | うわさ、陰口、ゴシップ |
+- [ ] | sailing | 帆走、航行、航海、船旅 |
+- [ ] | saying | 言う[言った]こと、ことわざ |
+- [ ] | score | 得点表、成績、点数 / …を得点する、…を採点する |
+- [ ] | sense | 感覚、正気、良識、意味 |
+- [ ] 
+- [ ] #### WL0076 (01833-01841)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | service | 勤務、奉仕、供給、運行、点検、兵役、礼拝 |
+- [ ] | sex | セックス、性、性別 |
+- [ ] | shot | 发射、弾丸、シュート |
+- [ ] | signal | 信号、合図 |
+- [ ] | skating | (競技としての)スケート、ローラースケート |
+- [ ] | snowman | 雪だるま |
+- [ ] | sort | 種類、タイプ / …を分類する、…を並べ替える |
+- [ ] | speaking | 話すこと、談話、演説 / 話す、ものをいう |
+- [ ] | spirit | 精神、霊、気分、気力 |
+- [ ] 
+- [ ] #### WL0077 (01842-01850)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | style | 型、様式、文体、種類 |
+- [ ] | subject | 主題、話題、教科、主語 / 支配下にある / …を支配する |
+- [ ] | success | 成功、成功したもの、大当たり |
+- [ ] | symbol | 象徴、シンボル |
+- [ ] | system | 系統、制度、組織、方式 |
+- [ ] | tail | 尾、末尾 / …を尾行する |
+- [ ] | term | 期間、任期、学期、条件、専門用語 |
+- [ ] | text | 本文、文書、原文 / …に文字メッセージを送る |
+- [ ] | thought | 思考、考え、意見 |
+- [ ] 
+- [ ] #### WL0078 (01851-01858)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | title | 題、表題、書名、称号、選手権 |
+- [ ] | tour | 旅行、視察 |
+- [ ] | training | 訓練、養成、トレーニング |
+- [ ] | trust | 信頼、信用、委託 / …を信頼する |
+- [ ] | understanding | 理解、理解力、合意 / もの分かりのよい |
+- [ ] | view | 見方、見解、意図、視野、眺め / …を見る[眺める] |
+- [ ] | volleyball | バレーボール |
+- [ ] | youth | 若さ、青年時代、初期 |
+- [ ] 
+- [ ] #### WL0080 (01867-01875)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | twelfth | 12番目の / 12番目の人[もの] |
+- [ ] | thirteenth | 13番目の / 13番目の人[もの] |
+- [ ] | fourteenth | 14番目の / 14番目の人[もの] |
+- [ ] | fifteenth | 15番目の / 15番目の人[もの] |
+- [ ] | sixteenth | 16番目の / 16番目の人[もの] |
+- [ ] | seventeenth | 17番目の / 17番目の人[もの] |
+- [ ] | eighteenth | 18番目の / 18番目の人[もの] |
+- [ ] | nineteenth | 19番目の / 19番目の人[もの] |
+- [ ] | twentieth | 20番目の / 20番目の人[もの] |
+- [ ] 
+- [ ] #### WL0081 (01876-01884)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | thirtieth | 30番目の / 30番目の人[もの] |
+- [ ] | fortieth | 40番目の / 40番目の人[もの] |
+- [ ] | fiftieth | 50番目の / 50番目の人[もの] |
+- [ ] | sixtieth | 60番目の / 60番目の人[もの] |
+- [ ] | seventieth | 70番目の / 70番目の人[もの] |
+- [ ] | eightieth | 80番目の / 80番目の人[もの] |
+- [ ] | ninetieth | 90番目の / 90番目の人[もの] |
+- [ ] | double | 倍の、二重の、2人用の / …を倍にする / 倍 / 倍に |
+- [ ] | broad | 幅の広い、広大な、心の広い |
+- [ ] 
+- [ ] #### WL0082 (01885-01893)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | firm | 堅い、固定した、確固たる / 会社 |
+- [ ] | smooth | 滑らかな、円滑に動く、順調に進む |
+- [ ] | solid | 固体の、堅固な |
+- [ ] | tight | ぴったりした、きつい、窮屈な、ぴんと張った / 堅く、しっかりと、きつく |
+- [ ] | daily | 毎日の、日常の、平日の / 毎日、日ごとに / 日刊新聞 |
+- [ ] | weekly | 週に1度の、毎週の、週決めの / 週1回、週決めで / 週刊誌 |
+- [ ] | monthly | 月に1回の、月々の、月刊の / 月1回、毎月 / 月刊誌 |
+- [ ] | everyday | 平日の、日常の、ありふれた(限定用法) |
+- [ ] | absent | 不在の、欠席[欠勤]して / …がなければ[ないので] / …を欠席する |
+- [ ] 
+- [ ] #### WL0084 (01903-01911)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | comfortable | 快適な、気楽な、リラックスした、着心地[居心地]のよい |
+- [ ] | common | 共通の、普通の、一般に知れわたった |
+- [ ] | crowded | 混雑した、満員の |
+- [ ] | cute | (小さくて)かわいい、可憐な |
+- [ ] | deaf | 耳が聞こえない、聞こえようとしない |
+- [ ] | distant | 遠い、遠距離の |
+- [ ] | done | 終わった、済んだ / doの過去分詞 |
+- [ ] | electric | 電気の、電動の |
+- [ ] | equal | 等しい、匹敵する、平等な / (地位などが)同等の人[もの] / …に等しい、…に匹敵する |
+- [ ] 
+- [ ] #### WL0085 (01912-01920)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | exact | 正確な、ちょうどよい、厳密な / …を(人に)求める[要求する] |
+- [ ] | exciting | 刺激的な、興奮させる、わくわくさせる |
+- [ ] | FALSE | 誤った、不誠実な、にせの、人工の |
+- [ ] | female | 女性 / 女性の、雌の |
+- [ ] | following | 次の、下記の / 家来、支持者、下記のもの |
+- [ ] | foolish | 思慮のない、愚かな、ばかげた |
+- [ ] | foreign | 外国の |
+- [ ] | formal | 形式的な、格式ばった、正式の、公式の / 正装して、夜会服を着て |
+- [ ] | fortunate | 幸福な、運のよい |
+- [ ] 
+- [ ] #### WL0086 (01921-01929)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | general | 全体の、一般的な、概略の / 大将 |
+- [ ] | gentle | 優しい、親切な、穏やかな |
+- [ ] | grateful | 感謝する、ありがたく思う |
+- [ ] | holy | 神聖な、尊い、信心深い |
+- [ ] | human | 人の、人間らしい / 人、人間 |
+- [ ] | international | 国際的な、国家[国民]間の、国際関係の |
+- [ ] | lazy | 怠惰な、眠気を誘う |
+- [ ] | likely | ありそうに思われる、もっともらしい、適当な / おそらく、たぶん |
+- [ ] | lonely | 1人(ぼっち)の、孤独な、人里離れた |
+- [ ] 
+- [ ] #### WL0087 (01930-01938)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | lovely | 美しい、心引かれる、すてきな |
+- [ ] | male | 男(性)の、雄の、男性的な / 男、男子、男性、雄 |
+- [ ] | married | 結婚している、結婚の、夫婦生活の |
+- [ ] | merry | 陽気な、快活な、お祭り気分の |
+- [ ] | modern | 現代の、現代的な |
+- [ ] | musical | 音楽の、音楽的な、音楽好きの / ミュージカル |
+- [ ] | native | 母国の、ある土地に生まれた、先住民の、地元の |
+- [ ] | neat | きちんとした、上品な、器用な |
+- [ ] | normal | 標準の、普通の、通常の、正常の / 标准、規準、典型、正常 |
+- [ ] 
+- [ ] #### WL0088 (01939-01947)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | particular | 特有の、特定の、詳細な |
+- [ ] | peaceful | 平和な、穏やかな、平和を好む、平和的な |
+- [ ] | perfect | 完璧な、正確な、ぴったり[うってつけ]の |
+- [ ] | plastic | プラスチック(製)の、ビニールポリエチレンの |
+- [ ] | pleasant | 愉快な、楽しい、好ましい |
+- [ ] | pleased | 喜んだ、気持ちのよい、気に入った |
+- [ ] | positive | 明白な、自信のある、肯定的な、積極的な、陽性の |
+- [ ] | possible | 可能な、起こり得る、できる限りの |
+- [ ] | powerful | 強力な、効力のある、勢力のある |
+- [ ] 
+- [ ] #### WL0089 (01948-01956)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | precious | 高価な、貴重な、大切な |
+- [ ] | professional | 職業的な、専門的な、プロの |
+- [ ] | pure | 純粋な、清い、潔白な、まったくの |
+- [ ] | rapid | 早い、急な、迅速な |
+- [ ] | raw | 生の、加工していない、むき出しの、粗野な |
+- [ ] | royal | 国王の、女王の、王位の |
+- [ ] | silly | ばかばかしい、思慮[分別]のない / ばか、おばかさん |
+- [ ] | similar | 類似した、同種の |
+- [ ] | single | 唯一の、個々の、独身の、1人用の |
+- [ ] 
+- [ ] #### WL0090 (01957-01965)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | social | 社会(生活)の、社会的な、社交の、社交的な |
+- [ ] | spoken | 話される、口頭の、口語の |
+- [ ] | successful | 成功した、うまくいった |
+- [ ] | sudden | 突然の、不意の、急な |
+- [ ] | super | 極上の、非常によい / 管理人、監督 / 非常に、特別に |
+- [ ] | teen | 10代の、13歳から19歳の(限定用法) / 10代の若者、13歳から19歳の人 |
+- [ ] | thirsty | のどの渇いた、渇望する |
+- [ ] | total | 全部の、総計の、完全な、まったくの / 総額、総計 |
+- [ ] | uniform | 同形の、そろいの、一定の / 制服、軍服、ユニホーム |
+- [ ] 
+- [ ] #### WL0091 (01966-01973)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | upper | さらに上(部)の、高い方の、上位の |
+- [ ] | western | 西の、西部の、西洋の |
+- [ ] | whole | 全部の、完全な、丸ごとの / 全部、全体 |
+- [ ] | worse | より悪い、いっそうひどい / より悪く、いっそうへたに |
+- [ ] | afterward | 後で、後に、その後 |
+- [ ] | ahead | 前方へ、前に、先んじて |
+- [ ] | anyway | いずれにしても、とにかく、何としても |
+- [ ] | anywhere | どこかへ、どこにも、どこででも |
+- [ ] 
+- [ ] #### WL0092 (01974-01982)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | apart | ばらばらに、離れて、別々に |
+- [ ] | backward | 後方へ、逆に / 後方(へ)の、逆(行)の、遅れた |
+- [ ] | downstairs | 階下へ / 階下の、1階の / 階下 |
+- [ ] | especially | 特に、とりわけ、著しく |
+- [ ] | forever | 永遠に、絶えず |
+- [ ] | forward | 前方へ、先へ、今後 / 前方への、前部の |
+- [ ] | generally | 一般に、通例 |
+- [ ] | greatly | 大いに、非常に、偉大に |
+- [ ] | less | いっそう少なく、下回って / より少ない[少量の] / より少ない量[数・額] |
+- [ ] 
+- [ ] #### WL0093 (01983-01990)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | naturally | 自然に、もちろん、生まれつき |
+- [ ] | neither | …も〜ない、…もまた〜ない / どちらも…ない |
+- [ ] | nowhere | どこにも…ない |
+- [ ] | successfully | 首尾よく、うまく |
+- [ ] | himself | 彼自身(を・に) |
+- [ ] | itself | それ自身自体 |
+- [ ] | myself | 私自身(を・に) |
+- [ ] | ourselves | 私たち自身(を・に) |
+- [ ] 
+- [ ] #### WL0094 (01991-01997)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | themselves | 彼ら[彼女たち・それら]自身(を・に) |
+- [ ] | yourself | あなた自身(を・に) |
+- [ ] | yourselves | あなたたち自身(を・に) |
+- [ ] | beyond | …の向こう(側)に、…を越えて、…に遅れて / 後ろに、遅れて |
+- [ ] | unlike | …と違って、…に似ていない、…らしくない / 違った / 違った人[もの] |
+- [ ] | within | …の内部に、…以内で / 内部に、内側へ |
+- [ ] | nor | …もまた(〜で)ない |
+- [ ] 
+- [ ] #### WL0095 (01998-02000)
+- [ ] | 单词 (Word) | 日语释义 (Japanese Meaning) |
+- [ ] | :--- | :--- |
+- [ ] | ah | ああ、なるほど |
+- [ ] | hey | おい、ちょっと、へえ、おや |
+- [ ] | yeah | そうです、そのとおりだ |
+- [ ] 
