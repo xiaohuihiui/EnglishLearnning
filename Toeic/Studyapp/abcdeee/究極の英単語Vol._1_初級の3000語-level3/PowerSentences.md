@@ -1,4 +1,6 @@
-
+---
+type: Checklist
+---
 
 ### PS0357
 - [ ] **Sentence**: Thanks to my previous experience, I was able to achieve more than others.  
