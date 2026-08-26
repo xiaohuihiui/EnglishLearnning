@@ -2,19 +2,19 @@
 type: Checklist
 ---
 
-- [x] 02: I have enough money to the book. 
+- [ ] 02: I have enough money to the book. 
 
-- [x] 03: My uncle has farm in 
+- [ ] 03: My uncle has farm in 
 
-- [x] 04: We had fun at zoo, lion, and tiger. 
+- [ ] 04: We had fun at zoo, lion, and tiger. 
 
-- [x] 05: You must be hungry by now. 
+- [ ] 05: You must be hungry by now. 
 
-- [x] 06: Am father of children. 
+- [ ] 06: Am father of children. 
 
-- [x] 07: They are very busy these day. 
+- [ ] 07: They are very busy these day. 
 
-- [x] 08: Bank is just around corner. 
+- [ ] 08: Bank is just around corner. 
 
 09: Was sure that world round. 
 
