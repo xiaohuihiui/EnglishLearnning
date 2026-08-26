@@ -1,5 +1,5 @@
-- ### PS0357
-- [ ] **Sentence**: Thanks to my previous experience, I was able to achieve more than others.  
+- [ ]  ### PS0357
+ - [ ] **Sentence**: Thanks to my previous experience, I was able to achieve more than others.  
   *(日译: 以前の経験のおかげで、私はほかの人よりも成果を挙げられた。)*
 - [ ] **previous** `[príːviəs]` [形]: 以前の、性急すぎる
 - [ ] **achieve** `[ətʃíːv]` [自 / 他]: 【自】成果を挙げる 【他】...を達成する、...を勝ち取る (型: SV, SVO)
