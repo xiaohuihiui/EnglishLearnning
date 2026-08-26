@@ -4,7 +4,7 @@ type: Checklist
 
 - [x] 02: I have enough money to the book. 
 
-- [ ] 03: My uncle has farm in 
+- [x] 03: My uncle has farm in 
 
 - [x] 04: We had fun at zoo, lion, and tiger. 
 
