@@ -1,3 +1,7 @@
+---
+type: Checklist
+---
+
 * [ ] PS0002: I have enough money to the book.
   * [ ] PS0003: My uncle has farm in
  * [ ] PS0004: We had fun at zoo, lion, and tiger.
