@@ -1,16 +1,16 @@
-02: I have enough money to the book. 
+- [x] 02: I have enough money to the book. 
 
-03: My uncle has farm in 
+- [x] 03: My uncle has farm in 
 
-04: We had fun at zoo, lion, and tiger. 
+- [x] 04: We had fun at zoo, lion, and tiger. 
 
-05: You must be hungry by now. 
+- [x] 05: You must be hungry by now. 
 
-06: Am father of children. 
+- [x] 06: Am father of children. 
 
-07: They are very busy these day. 
+- [x] 07: They are very busy these day. 
 
-08: Bank is just around corner. 
+- [x] 08: Bank is just around corner. 
 
 09: Was sure that world round. 
 
@@ -319,12 +319,4 @@
 171. Think interested  
 172. Understand? Angry  
 173. Watch TV while  
-174. Worry, but careful 
-
- 
-
- 
-
- 
-
- 
+174. Worry, but careful
