@@ -1,3 +1,7 @@
+---
+type: Checklist
+---
+
 * [ ]  175: Apple, banana, beef, bread, breakfast, butter, candy, cheese
   * [ ]  176: Egg, Honey, jam, Juice, Lunch, Meal, Meat, Milk, Popcorn
   * [ ]  177: Pork, potato, rice, soda, sugar, Spring, summer, autumn, midnight
@@ -39,3 +43,4 @@
   * [ ]  214: As, behind, below, between, since, toward, under, upon
   * [ ]  215: Where, Whom, Whose, shall, by, Hello
   * [ ]  216.oh，hi
+- [ ] ywsr
