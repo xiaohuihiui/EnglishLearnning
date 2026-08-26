@@ -175,4 +175,4 @@ type: Checklist
  * [ ] 172. Understand? Angry
  * [ ] 173. Watch TV while
  * [ ] 174. Worry, but careful
-- [ ] test
+- [x] test
