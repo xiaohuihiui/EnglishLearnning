@@ -8,11 +8,11 @@
 - [x] **refrigerator** `[rifrídʒərèitər]` [名]: 冷蔵庫、冷凍室 (短縮形は fridge)
 - [x] **afford** `[afɔ́ːrd]` [他]: (経済的に)...できる、...を買う余裕がある、...をもたらす (型: SVO)
 
-- [ ] PS0359
-- [ ] **Sentence**: After the governor's announcement, an argument against development in the area arose.  
-- [ ] *(日译: 知事の発表の後、その地域の開発に反対する議論が起こった。)*
-- [ ] **governor** `[gʌ́vərnər]` [名]: 知事、長官
-- [ ] **announcement** `[ənáunsmənt]` [名]: 告知、発表、広告
+- [x] PS0359
+- [x] **Sentence**: After the governor's announcement, an argument against development in the area arose.  
+- [x] *(日译: 知事の発表の後、その地域の開発に反対する議論が起こった。)*
+- [x] **governor** `[gʌ́vərnər]` [名]: 知事、長官
+- [x] **announcement** `[ənáunsmənt]` [名]: 告知、発表、広告
 - [ ] **argument** `[ɑ́ːrgjʊmənt]` [名]: 議論、論拠
 - [ ] **development** `[divéləpmənt]` [名]: 開発、発達、発達した状態
 - [ ] **arise** `[əráiz]` [自]: 起こる、生じる (活用: arose / arisen, 型: SV)
