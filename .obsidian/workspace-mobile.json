@@ -11,10 +11,14 @@
             "id": "9ba10bbd67d26e7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toeic/Studyapp/bocoo/究極の英単語Vol._1_初級の3000語-level3/PowerSentences.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "PowerSentences"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "9ba10bbd67d26e7c",
   "lastOpenFiles": [
+    "Toeic/Studyapp/bocoo/究極の英単語Vol._1_初級の3000語-level3/WordList.md",
     "Toeic/Studyapp/bocoo/究極の英単語Vol._1_初級の3000語-level3/PowerSentences.md"
   ]
 }
