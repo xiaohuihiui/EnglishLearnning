@@ -1,12 +1,12 @@
-- [ ] PS0357
- - [ ] **Sentence**: Thanks to my previous experience, I was able to achieve more than others.*(日译: 以前の経験のおか げで、私はほかの人よりも成果を挙げられた。)*
- - [ ] **previous** `[príːviəs]` [形]: 以前の、性急すぎる
- - [ ] **achieve** `[ətʃíːv]` [自 / 他]: 【自】成果を挙げる 【他】...を達成する、...を勝ち取る (型: SV, SVO)
+- [x] PS0357
+ - [x] **Sentence**: Thanks to my previous experience, I was able to achieve more than others.*(日译: 以前の経験のおか げで、私はほかの人よりも成果を挙げられた。)*
+ - [x] **previous** `[príːviəs]` [形]: 以前の、性急すぎる
+ - [x] **achieve** `[ətʃíːv]` [自 / 他]: 【自】成果を挙げる 【他】...を達成する、...を勝ち取る (型: SV, SVO)
 
-- [ ] PS0358
-- [ ] **Sentence**: I want a new refrigerator, but I can't afford to buy one.*(日译: 新しい冷蔵庫が欲しいけど、私には買う余裕がない。)*
-- [ ] **refrigerator** `[rifrídʒərèitər]` [名]: 冷蔵庫、冷凍室 (短縮形は fridge)
-- [ ] **afford** `[afɔ́ːrd]` [他]: (経済的に)...できる、...を買う余裕がある、...をもたらす (型: SVO)
+- [x] PS0358
+- [x] **Sentence**: I want a new refrigerator, but I can't afford to buy one.*(日译: 新しい冷蔵庫が欲しいけど、私には買う余裕がない。)*
+- [x] **refrigerator** `[rifrídʒərèitər]` [名]: 冷蔵庫、冷凍室 (短縮形は fridge)
+- [x] **afford** `[afɔ́ːrd]` [他]: (経済的に)...できる、...を買う余裕がある、...をもたらす (型: SVO)
 
 - [ ] PS0359
 - [ ] **Sentence**: After the governor's announcement, an argument against development in the area arose.  
