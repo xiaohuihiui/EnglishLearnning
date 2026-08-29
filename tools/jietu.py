@@ -6,7 +6,7 @@ from PIL import Image
 
 def main():
     # 设置保存的主目录
-    save_dir = r"C:\EnglishStudybook"
+    save_dir = r"E:\EnglishStudybook\mikann"
     evidence_base_dir = os.path.join(save_dir, "evidence")
     
     if not os.path.exists(save_dir):
@@ -31,8 +31,8 @@ def main():
         os.makedirs(book_evidence_dir)
 
     # 获取总页数
-    pages_input = input("请输入总页数（默认 320）：").strip()
-    total_pages = int(pages_input) if pages_input.isdigit() else 320
+    pages_input = input("请输入总页数（默认 0）：").strip()
+    total_pages = int(pages_input) if pages_input.isdigit() else 0
     
     # 连接到模拟器
     d = u2.connect("127.0.0.1:7555")
@@ -52,7 +52,8 @@ def main():
         # 2. 精确裁剪图像（顶部裁掉 13% 彻底切除控制栏，底部裁掉 10%）
         with Image.open(temp_file_name) as img:
             width, height = img.size
-            cropped = img.crop((0, int(height * 0.13), width, int(height * 0.90)))
+            # cropped = img.crop((0, int(height * 0.13), width, int(height * 0.90))) for abceed
+            cropped = img.crop((0, int(height * 0.09), width, int(height * 0.95)))
             cropped.save(cropped_name)
             image_files.append(cropped_name)
             
