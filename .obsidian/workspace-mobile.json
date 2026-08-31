@@ -11,10 +11,14 @@
             "id": "08820f9b3493b0cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level3/PowerSentences.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "PowerSentences"
             }
           }
         ]
@@ -168,6 +172,7 @@
   },
   "active": "08820f9b3493b0cd",
   "lastOpenFiles": [
+    "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level2/PowerSetences.md",
     "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level3/PowerSentences.md",
     "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level4/PowerSentences.md",
     "Toeic/Studyapp/bocoo/究極の英単語Vol._1_初級の3000語-level3/WordList.md",
