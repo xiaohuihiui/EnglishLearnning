@@ -1,14 +1,14 @@
-- [ ] **PS0357** (Page 340)
+- [x] **PS0357** (Page 340)
   - [x] **Sentence**: Thanks to my **previous** experience, I was able to **achieve** more than others.*(日译: 以前の経験のおかげで、私はほかの人よりも成果を挙げられた。)*
   - [x] **previous** `[príːviəs]` [形]: 以前の、性急すぎる
   - [x] **achieve** `[ətʃíːv]` [自 / 他]: 【自】成果を挙げる 【他】...を達成する、...を勝ち取る (型: SV, SVO)
 
-- [ ] **PS0358** (Page 340)
+- [x] **PS0358** (Page 340)
   - [x] **Sentence**: I want a new **refrigerator**, but I can't **afford** to buy one.*(日译: 新しい冷蔵庫が欲しいけど、私には買う余裕がない。)*
   - [x] **refrigerator** `[rifrídʒərèitər]` [名]: 冷蔵庫、冷凍室 (短縮形は fridge)
   - [x] **afford** `[əfɔ́ːrd]` [他]: （経済的に）...できる、...を買う余裕がある、...をもたらす (型: SVO)
 
-- [ ] **PS0359** (Page 341)
+- [x] **PS0359** (Page 341)
   - [ ] **Sentence**: After the **governor**'s **announcement**, an **argument** against **development** in the area **arose**.*(日译: 知事の発表の後、その地域の開発に反対する議論が起こった。)*
   - [x] **governor** `[gʌ́vərnər]` [名]: 知事、長官
   - [x] **announcement** `[ənáunsmənt]` [名]: 告知、発表、広告
@@ -16,40 +16,40 @@
   - [x] **development** `[divéləpmənt]` [名]: 開発、発達、発達した状態
   - [x] **arise** `[əráiz]` [自]: 起こる、生じる (活: arose / arisen, 型: SV)
 
-- [ ] **PS0360** (Page 342)
+- [x] **PS0360** (Page 342)
   - [ ] **Sentence**: The walls **seriously** **cracked** during the **earthquake**.*(日译: その地震のとき、壁にひどくひびが入った。)*
   - [x] **seriously** `[síəriəsli]` [副]: ひどく、まじめに、本気で言うのだが
   - [x] **crack** `[krǽk]` [自 / 他]: 【自】ひびが入る、鋭い音を立てて砕ける、鋭い音を立てる 【他】...にひびを入れる、...を鋭く鳴らす、...を鋭い音を立てて打つ (型: SV, SVO)
   - [x] **earthquake** `[ə́ːrθkwèik]` [名]: 地震
 
-- [ ] **PS0361** (Page 342)
+- [x] **PS0361** (Page 342)
   - [ ] **Sentence**: He **curled** her hair **slightly**.*(日译: 彼は彼女の髪を少しカールした。)*
   - [x] **curl** `[kə́ːrl]` [自 / 他]: 【他】...を巻き毛にする、...を曲げる 【自】巻き毛になる、ねじ曲がる (型: SV, SVO, 名: 巻き毛、巻いたもの)
   - [x] **slightly** `[sláitli]` [副]: わずかに、もろく
 
-- [ ] **PS0362** (Page 343)
+- [x] **PS0362** (Page 343)
   - [ ] **Sentence**: The **population** of children is **gradually** **decreasing** in Japan.*(日译: 日本では子どもの人口が徐々に減ってきている。)*
   - [x] **population** `[pὰpjuléiʃən]` [名]: 人口、全住民
   - [x] **gradually** `[grǽdʒuəli]` [副]: 徐々に、次第に
   - [x] **decrease** `[dikríːs]` [自 / 他]: 【自】減る 【他】...を減らす (型: SV, SVO, 名: 減少、減少量 [díːkriːs, dikríːs])
 
-- [ ] **PS0363** (Page 343)
+- [x] **PS0363** (Page 343)
   - [ ] **Sentence**: You've worked hard all week. **Therefore**, you **deserve** to have a good time.*(日译: 一週間頑張って働いたんだから、君には楽しむ権利があるんだよ。)*
   - [x] **therefore** `[ðέərfɔ̀ːr]` [副]: だから、その結果、従って
   - [x] **deserve** `[dizə́ːrv]` [他]: ...を受けるに足る、...に値する (型: 主にSVO)
 
-- [ ] **PS0364** (Page 344)
+- [x] **PS0364** (Page 344)
   - [ ] **Sentence**: This **biscuit** should **ease** your **hunger** a little.*(日译: このビスケットがあなたの空腹を多少和らげてくれるだろう。)*
   - [x] **biscuit** `[bískit]` [名]: （主に英）ビスケット、（主に米）薄焼きパン
   - [x] **ease** `[íːz]` [自 / 他]: 【他】（苦痛など）を和らげる、（不都合など）を少なくする 【自】緩む、和らぐ (型: SV, SVO, 名: 楽であること、容易なこと)
   - [x] **hunger** `[hʌ́ŋgər]` [名]: 空腹（感）、飢え、飢饉、切望
 
-- [ ] **PS0365** (Page 344)
+- [x] **PS0365** (Page 344)
   - [x] **Sentence**: The training program **enhanced** the staff's speaking **skills**.*(日译: その訓練プログラムはスタッフのスピーキングスキルを高めた。)*
   - [x] **enhance** `[inhǽns]` [他]: （品質・価値など）を高める、...を増す、（コンピューターなど）の機能を拡張する (型: SVO)
   - [x] **skill** `[skíl]` [名]: 技能、手腕
 
-- [ ] **PS0366** (Page 345)
+- [x] **PS0366** (Page 345)
   - [ ] **Sentence**: Lightning **flashed**, followed by **terribly** loud **thunder**.*(日译: 稲妻が光り、恐ろしく大きな音の雷がその後に続いた。)*
   - [x] **lightning** `[láitniŋ]` [名 / 形]: 【名】稲妻、稲光 【形】電光石火の、素早い
   - [x] **flash** `[flǽʃ]` [自 / 他]: 【自】ぴかっと光る、点滅する、（考えなどが）ひらめく 【他】（光などを）ぱっと放つ、（情報などを）速報する (型: SV, SVO, 名: きらめき、ひらめき、ニュース速報)
@@ -61,18 +61,18 @@
   - [x] **promising** `[prámisiŋ]` [形]: 前途有望な、見込みのある
   - [x] **increase** `[inkríːs]` [自 / 他]: 【他】...を増やす［拡大する］ 【自】増える、大きくなる (型: SV, SVO, 名: 増加（量）)
 
-- [ ] **PS0368** (Page 346)
+- [x] **PS0368** (Page 346)
   - [ ] **Sentence**: I had to **lower** my head to enter the **basement** **safely**.*(日译: 地下室に安全に入るために、私は頭を低くしなくてはならなかった。)*
   - [x] **lower** `[lóuər]` [自 / 他 / 形]: 【他】...を下げる、...を降ろす、...を減らす 【自】減じる、弱まる、下がる (型: SV, SVO, 形: より低い（限定用法）)
   - [x] **basement** `[béisment]` [名]: 地下室、地階、下部構造
   - [x] **safely** `[séifli]` [副]: 安全に、支障なく
 
-- [ ] **PS0369** (Page 346)
+- [x] **PS0369** (Page 346)
   - [ ] **Sentence**: Try to **maintain** a good **relationship** with everyone in the office.*(日译: 職場の皆とよい関係を保つようにしてください。)*
   - [x] **maintain** `[meintéin]` [他]: ...を維持する、...を主張する、（家族など）を養う (型: SVO)
   - [x] **relationship** `[riléiʃənʃìp]` [名]: 関係、関連、血縁関係
 
-- [ ] **PS0370** (Page 346)
+- [x] **PS0370** (Page 346)
   - [ ] **Sentence**: When I got on the train, someone's **luggage** was **occupying** my seat.*(日译: 電車に乗ると、誰かの荷物が私の座席を占領していた。)*
   - [x] **luggage** `[lʌ́gidʒ]` [名]: 旅行かばん類、手荷物 (不可算名词)
   - [x] **occupy** `[άkjupài]` [他]: ...を占める、（注意など）を引く、...に従事する (型: SVO)
@@ -316,17 +316,17 @@
 
 - [ ] **PS0417** (Page 367)
   - [ ] **Sentence**: The man **leaned** against the **huge** door.*(日译: その男は大きなドアに寄り掛かった。)*
-  - [ ] **lean** `[líːn]` [自 / 他 / 名]: 【自】寄り掛かる、傾く 【他】...を寄り掛からせる (型: SV, SVO, 名: 傾き)
+  - [x] **lean** `[líːn]` [自 / 他 / 名]: 【自】寄り掛かる、傾く 【他】...を寄り掛からせる (型: SV, SVO, 名: 傾き)
   - [x] **huge** `[hjúːdʒ]` [形]: 非常に大きい、無限の
 
 - [ ] **PS0418** (Page 367)
   - [ ] **Sentence**: She **somehow** **mounted** the horse without help.*(日译: 彼女は手助けなしで何とか馬によじ登った。)*
   - [x] **somehow** `[sʌ́mhàu]` [副]: 何とかして、どういうわけか
-  - [ ] **mount** `[máunt]` [自 / 他 / 名]: 【他】...に乗る、...を登る、...を置く 【自】乗る、上がる (型: SV, SVO, 名: ①上がること、乗ること、台紙 ②山（Mt.）)
+  - [x] **mount** `[máunt]` [自 / 他 / 名]: 【他】...に乗る、...を登る、...を置く 【自】乗る、上がる (型: SV, SVO, 名: ①上がること、乗ること、台紙 ②山（Mt.）)
 
 - [ ] **PS0419** (Page 367)
   - [ ] **Sentence**: He **patted** his **teammate** on the shoulder to cheer him up.*(日译: 彼は元気づけるためにチームメートの肩を軽くたたいた。)*
-  - [ ] **pat** `[pǽt]` [自 / 他 / 名]: 【他】...を軽くたたく 【自】軽くたたく (型: SV, SVO, 名: 軽くたたいたこと)
+  - [x] **pat** `[pǽt]` [自 / 他 / 名]: 【他】...を軽くたたく 【自】軽くたたく (型: SV, SVO, 名: 軽くたたいたこと)
   - [x] **teammate** `[tíːmmèit]` [名]: チームの一員、団員
 
 - [ ] **PS0420** (Page 368)
@@ -336,8 +336,8 @@
 
 - [ ] **PS0421** (Page 368)
   - [ ] **Sentence**: He always **rubs** his **jaw** when he thinks.*(日译: 考え事をするとき、彼はいつもあごをこする。)*
-  - [ ] **rub** `[rʌ́b]` [自 / 他 / 名]: 【他】...をこする、...をなでる 【自】すれる、すり减る (型: SV, SVO, SVOC, 名: 摩擦、マッサージ)
-  - [ ] **jaw** `[dʒɔ́ː]` [名]: あご、口
+  - [x] **rub** `[rʌ́b]` [自 / 他 / 名]: 【他】...をこする、...をなでる 【自】すれる、すり减る (型: SV, SVO, SVOC, 名: 摩擦、マッサージ)
+  - [x] **jaw** `[dʒɔ́ː]` [名]: あご、口
 
 - [ ] **PS0422** (Page 369)
   - [ ] **Sentence**: He was **selected** as **chairman**.*(日译: 彼は議長に選ばれた。)*
@@ -346,44 +346,44 @@
 
 - [ ] **PS0423** (Page 369)
   - [ ] **Sentence**: He had **shaved** his whole head, **including** his **eyebrows**.*(日译: 彼はまゆ毛も含め、頭を全部そってしまっていた。)*
-  - [ ] **shave** `[ʃéiv]` [自 / 他 / 名]: 【他】...の毛をそる、...の表面をそぐ 【自】ひげをそる (型: SV, SVO, 名: ひげをそること)
+  - [x] **shave** `[ʃéiv]` [自 / 他 / 名]: 【他】...の毛をそる、...の表面をそぐ 【自】ひげをそる (型: SV, SVO, 名: ひげをそること)
   - [x] **including** `[inklúːdiŋ]` [前]: ...を含めて、...を含む
   - [x] **eyebrow** `[áibràu]` [名]: まゆ（毛）
 
 - [ ] **PS0424** (Page 370)
   - [ ] **Sentence**: When I arrived at the **location** of the accident, the wheels of the crashed car were still **spinning**.*(日译: 私が事故現場に到着したとき、衝突した車のタイヤがまだ回っていた。)*
   - [x] **location** `[loukéiʃən]` [名]: 場所、野外撮影地、配置
-  - [ ] **spin** `[spín]` [自 / 他 / 名]: 【自】ぐるぐる回る、糸をつむぐ 【他】...を回転させる、...をつむぐ (活: spun / spun, 型: SV, SVO, 名: 回転、（価格などの）下落)
+  - [x] **spin** `[spín]` [自 / 他 / 名]: 【自】ぐるぐる回る、糸をつむぐ 【他】...を回転させる、...をつむぐ (活: spun / spun, 型: SV, SVO, 名: 回転、（価格などの）下落)
 
 - [ ] **PS0425** (Page 370)
   - [ ] **Sentence**: My son still **sucks** his thumb, and I'm **ashamed** of it.*(日译: うちの息子はまだ親指をしゃぶるので、恥ずかしい。)*
-  - [ ] **suck** `[sʌ́k]` [自 / 他 / 名]: 【他】...をしゃぶる、...を吸う、...を吸い取る 【自】吸う (型: SV, SVO, SVOC, 名: 吸うこと、吸引力)
-  - [ ] **ashamed** `[əʃéimd]` [形]: 恥じて（叙述用法が多い）
+  - [x] **suck** `[sʌ́k]` [自 / 他 / 名]: 【他】...をしゃぶる、...を吸う、...を吸い取る 【自】吸う (型: SV, SVO, SVOC, 名: 吸うこと、吸引力)
+  - [x] **ashamed** `[əʃéimd]` [形]: 恥じて（叙述用法が多い）
 
 - [ ] **PS0426** (Page 371)
   - [ ] **Sentence**: He has to **sweep** out the **chimney** once a year.*(日译: 彼は年に一度、煙突を掃除しなくてはならない。)*
-  - [ ] **sweep** `[swíːp]` [自 / 他 / 名]: 【他】...を掃除する、...を掃く、...で吹き荒れる、...に広まる 【自】掃除する、吹き荒れる (活: swept / swept, 型: SV, SVO, SVOC, 名: 掃除、一掃)
-  - [ ] **chimney** `[tʃímni]` [名]: 煙突
+  - [x] **sweep** `[swíːp]` [自 / 他 / 名]: 【他】...を掃除する、...を掃く、...で吹き荒れる、...に広まる 【自】掃除する、吹き荒れる (活: swept / swept, 型: SV, SVO, SVOC, 名: 掃除、一掃)
+  - [x] **chimney** `[tʃímni]` [名]: 煙突
 
 - [ ] **PS0427** (Page 371)
   - [ ] **Sentence**: He **tapped** a **rhythm** on his desk.*(日译: 彼は机をたたいてリズムを取った。)*
-  - [ ] **tap** `[tǽp]` [自 / 他 / 名]: 【他】①...をとんとんとたたいて作る、...を軽くたたく ②...の栓を抜いて液体を出す 【自】軽く打つ、コツコツ歩く (型: SV, SVO, 名: ①軽く打つこと ②栓、蛇口)
-  - [ ] **rhythm** `[ríðm]` [名]: リズム、調子
+  - [x] **tap** `[tǽp]` [自 / 他 / 名]: 【他】①...をとんとんとたたいて作る、...を軽くたたく ②...の栓を抜いて液体を出す 【自】軽く打つ、コツコツ歩く (型: SV, SVO, 名: ①軽く打つこと ②栓、蛇口)
+  - [x] **rhythm** `[ríðm]` [名]: リズム、調子
 
 - [ ] **PS0428** (Page 372)
   - [ ] **Sentence**: Would you **toss** me the towel on the **shelf**?*(日译: 棚の上のタオルを投げてくれない？)*
-  - [ ] **toss** `[tɔ́s]` [自 / 他 / 名]: 【他】...を投げる、...を無造作に投げる、...を揺さぶる 【自】揺れる、転げ回る (型: SV, SVO, SVOO, 名: 放ること、コイントス)
-  - [ ] **shelf** `[ʃélf]` [名]: 棚（板） (複数: shelves)
+  - [x] **toss** `[tɔ́s]` [自 / 他 / 名]: 【他】...を投げる、...を無造作に投げる、...を揺さぶる 【自】揺れる、転げ回る (型: SV, SVO, SVOO, 名: 放ること、コイントス)
+  - [x] **shelf** `[ʃélf]` [名]: 棚（板） (複数: shelves)
 
 - [ ] **PS0429** (Page 372)
   - [ ] **Sentence**: It is **tough** to **twist** off this bottle cap.*(日译: このびんのふたをねじって開けるのは大変だ。)*
-  - [ ] **tough** `[tʌ́f]` [形 / 副]: 【形】難しい、強い、つらい 【副】頑強に
-  - [ ] **twist** `[twíst]` [自 / 他 / 名]: 【他】...をねじり取る、...をよる、...を絡ませる 【自】よれる、身をよじる、曲がりくねる (型: SV, SVO, 名: より合わせること、よじれ)
+  - [x] **tough** `[tʌ́f]` [形 / 副]: 【形】難しい、強い、つらい 【副】頑強に
+  - [x] **twist** `[twíst]` [自 / 他 / 名]: 【他】...をねじり取る、...をよる、...を絡ませる 【自】よれる、身をよじる、曲がりくねる (型: SV, SVO, 名: より合わせること、よじれ)
 
 - [ ] **PS0430** (Page 372)
   - [ ] **Sentence**: He **whistled** at the **attractive** young lady, and she looked the other way.*(日译: 彼がその魅力的な若い女性に口笛を吹くと、彼女はそっぽを向いた。)*
-  - [ ] **whistle** `[hwísl]` [自 / 他 / 名]: 【自】口笛を吹く、笛を鳴らす 【他】...を口笛で吹く (型: SV, SVO, 名: 口笛、笛、ピューという音)
-  - [ ] **attractive** `[ətrǽktiv]` [形]: 魅力的な
+  - [x] **whistle** `[hwísl]` [自 / 他 / 名]: 【自】口笛を吹く、笛を鳴らす 【他】...を口笛で吹く (型: SV, SVO, 名: 口笛、笛、ピューという音)
+  - [x] **attractive** `[ətrǽktiv]` [形]: 魅力的な
 
 - [ ] **PS0431** (Page 373)
   - [ ] **Sentence**: I'd like to **accompany** you on a business trip **sometime**.*(日译: いつか出張に同行させてください。)*
@@ -417,8 +417,8 @@
 
 - [ ] **PS0437** (Page 376)
   - [ ] **Sentence**: The police **arrested** the **victim**'s **employee** for murder.*(日译: 警察は被害者の従業員を殺人の罪で逮捕した。)*
-  - [ ] **arrest** `[ərést]` [他 / 名]: 【他】...を逮捕する、...を引き止める (型: SVO, 名: 逮捕、抑制)
-  - [ ] **victim** `[víktim]` [名]: 犠牲（者）、だまされる人
+  - [x] **arrest** `[ərést]` [他 / 名]: 【他】...を逮捕する、...を引き止める (型: SVO, 名: 逮捕、抑制)
+  - [x] **victim** `[víktim]` [名]: 犠牲（者）、だまされる人
   - [x] **employee** `[implɔiíː]` [名]: 従業員、被雇用者
 
 - [ ] **PS0438** (Page 376)
@@ -441,8 +441,8 @@
 
 - [ ] **PS0442** (Page 378)
   - [ ] **Sentence**: She **breeds** a wide **variety** of sheep on her farm.*(日译: 彼女は自分の牧場で幅広い種類のヒツジを飼育している。)*
-  - [ ] **breed** `[bríːd]` [自 / 他 / 名]: 【他】...を飼育する、（子孫）をつくる、...を産む、...を育てる 【自】子を産む (活: bred / bred, 型: SV, SVO, 名: 品種、種類)
-  - [ ] **variety** `[vəráiəti]` [名]: 種類、変化（に富むこと）、多様（性）
+  - [x] **breed** `[bríːd]` [自 / 他 / 名]: 【他】...を飼育する、（子孫）をつくる、...を産む、...を育てる 【自】子を産む (活: bred / bred, 型: SV, SVO, 名: 品種、種類)
+  - [x] **variety** `[vəráiəti]` [名]: 種類、変化（に富むこと）、多様（性）
 
 - [ ] **PS0443** (Page 378)
   - [ ] **Sentence**: I had to **cancel** my **appointment** with the doctor.*(日译: 私は医者の予約を取り消さなくてはならなかった。)*
@@ -452,18 +452,18 @@
 - [ ] **PS0444** (Page 378)
   - [ ] **Sentence**: We plan to **celebrate** our **victory** **throughout** the night.*(日译: 私たちは夜通し勝利を祝う予定だ。)*
   - [x] **celebrate** `[séləbrèit]` [自 / 他]: 【他】...を祝う、（祝典など）を挙行する 【自】式典を挙行する、祝杯を挙げる (型: SV, SVO)
-  - [ ] **victory** `[víktəri]` [名]: 勝利、優勝 (Page 379)
-  - [ ] **throughout** `[θruːáut]` [前 / 副]: 【前】...の間中、...の至るところに 【副】全部、すっかり、始めから終わりまで (Page 379)
+  - [x] **victory** `[víktəri]` [名]: 勝利、優勝 (Page 379)
+  - [x] **throughout** `[θruːáut]` [前 / 副]: 【前】...の間中、...の至るところに 【副】全部、すっかり、始めから終わりまで (Page 379)
 
 - [ ] **PS0445** (Page 379)
   - [ ] **Sentence**: She **clothed** her **naked** baby.*(日译: 彼女は裸の赤ちゃんに服を着せた。)*
-  - [ ] **clothe** `[klóuð]` [他]: ...に（服を）着せる、...に衣服を与える (型: SVO)
-  - [ ] **naked** `[néikid]` [形]: 裸の、ありのままの
+  - [x] **clothe** `[klóuð]` [他]: ...に（服を）着せる、...に衣服を与える (型: SVO)
+  - [x] **naked** `[néikid]` [形]: 裸の、ありのままの
 
 - [ ] **PS0446** (Page 379)
   - [ ] **Sentence**: **Although** I'm sure there is no problem, I **merely** need to **confirm** it with my boss.*(日译: 問題はないと思いますが、上司に確認するだけ必要があります。)*
   - [x] **although** `[ɔːlðóu]` [接]: たとえ...でも、...とはいえ
-  - [ ] **merely** `[míərli]` [副]: ただ、単に
+  - [x] **merely** `[míərli]` [副]: ただ、単に
   - [x] **confirm** `[kənfə́ːrm]` [他]: ...を確かめる、...を承認する、...の（決意など）を固める (型: SVO)
 
 - [ ] **PS0447** (Page 380)
@@ -474,7 +474,7 @@
 - [ ] **PS0448** (Page 380)
   - [ ] **Sentence**: The doctors could not **cure** his **lung** disease.*(日译: 医者たちは彼の肺病を治せなかった。)*
   - [x] **cure** `[kjúər]` [自 / 他 / 名]: 【他】（病気・人）を治す、（弊害など）を除く 【自】病気が治る、治る (型: SV, SVO, 名: 医療、救済法)
-  - [ ] **lung** `[lʌ́ŋ]` [名]: 肺
+  - [x] **lung** `[lʌ́ŋ]` [名]: 肺
 
 - [ ] **PS0449** (Page 380)
   - [ ] **Sentence**: The team has never been **defeated** in this **competition**.*(日译: そのチームはこの大会で一度も負けたことがない。)*
@@ -484,7 +484,7 @@
 - [ ] **PS0450** (Page 381)
   - [ ] **Sentence**: The plane was **delayed** for an hour, and **thus** we arrived late.*(日译: 飛行機が1時間遅れたので、私たちは遅れて到着した。)*
   - [x] **delay** `[diléi]` [自 / 他 / 名]: 【他】...を遅らせる、...を延期する 【自】のろのろ行動する (型: SV, SVO, 名: 遅延、延期)
-  - [ ] **thus** `[ðʌ́s]` [副]: それゆえに、上に述べたように
+  - [x] **thus** `[ðʌ́s]` [副]: それゆえに、上に述べたように
 
 - [ ] **PS0451** (Page 381)
   - [ ] **Sentence**: Your **income** **determines** the amount of tax you pay.*(日译: 収入があなたの納める税金の額を決める。)*
@@ -493,7 +493,7 @@
 
 - [ ] **PS0452** (Page 382)
   - [ ] **Sentence**: He **dismissed** his **assistant** for giving him **mistaken** **data** about **finances**.*(日译: 彼はアシスタントが誤った財務データを出してきたので解雇した。)*
-  - [ ] **dismiss** `[dismís]` [他]: ...を解雇する、...を解散させる (型: 主にSVO)
+  - [x] **dismiss** `[dismís]` [他]: ...を解雇する、...を解散させる (型: 主にSVO)
   - [x] **assistant** `[əsístənt]` [名 / 形]: 【名】助手、補佐役 【形】援助の、副...
   - [x] **mistaken** `[mistéikən]` [形]: 誤った、間違った
   - [x] **data** `[déitə, dǽtə]` [名]: データ、基礎事実、資料（datumの複数形）
@@ -504,16 +504,16 @@
   - [x] **winner** `[wínər]` [名]: 勝利者、受賞者、人気のあるもの
   - [x] **donate** `[dóuneit]` [他]: ...を寄付［寄贈］する、...を贈与する、...を提供する (型: SVO)
   - [x] **entire** `[intáiər]` [形]: 全体の、そっくりそろっている、連続した (Page 383)
-  - [ ] **reward** `[riwɔ́ːrd]` [名 / 他]: 【名】報酬、報奨金 【他】...に報酬を与える (Page 383)
-  - [ ] **fund** `[fʌ́nd]` [名]: 資金、基金 (Page 383)
-  - [ ] **chapel** `[tʃǽpəl]` [名]: 礼拝堂 (Page 383)
+  - [x] **reward** `[riwɔ́ːrd]` [名 / 他]: 【名】報酬、報奨金 【他】...に報酬を与える (Page 383)
+  - [x] **fund** `[fʌ́nd]` [名]: 資金、基金 (Page 383)
+  - [x] **chapel** `[tʃǽpəl]` [名]: 礼拝堂 (Page 383)
 
 - [ ] **PS0454** (Page 383)
   - [ ] **Sentence**: The **temporary** president has been an **absolute** **failure**, so we need to **elect** someone new.*(日译: 暫定社長は完全な失敗者だから、私たちは誰か新しい人物を選ぶ必要がある。)*
   - [x] **temporary** `[témpərèri]` [名 / 形]: 【形】暫定の、一時の 【名】臨時雇いの人
   - [x] **absolute** `[ǽbsəlùːt]` [名 / 形]: 【形】完全な、混じり気のない、無制限な（限定用法） 【名】絶対的なもの、神
   - [x] **failure** `[féiljər]` [名]: 失敗者、失敗、怠慢、不足
-  - [ ] **elect** `[ilékt]` [他]: ...を選ぶ、...を選挙する (型: SVO, SVOC)
+  - [x] **elect** `[ilékt]` [他]: ...を選ぶ、...を選挙する (型: SVO, SVOC)
 
 - [ ] **PS0455** (Page 384)
   - [ ] **Sentence**: The newspaper company **employs** 20 **security** guards.*(日译: その新聞社では20人の警備員を雇っている。)*
@@ -533,7 +533,7 @@
 - [ ] **PS0458** (Page 385)
   - [ ] **Sentence**: Her powerful **performance** **excited** the audience at the **outdoor** concert.*(日译: 彼女の力強い演奏は、その野外コンサートで聴衆を沸かせた。)*
   - [x] **performance** `[pərfɔ́ːrməns]` [名]: 演奏、上演、遂行、成果、性能
-  - [ ] **excite** `[iksáit]` [他]: ...を興奮させる、...を刺激する (型: SVO)
+  - [x] **excite** `[iksáit]` [他]: ...を興奮させる、...を刺激する (型: SVO)
   - [x] **outdoor** `[áutdɔ̀ːr]` [形]: 野外の、戸外の（限定用法）
 
 - [ ] **PS0459** (Page 385)
@@ -543,26 +543,26 @@
 
 - [ ] **PS0460** (Page 386)
   - [ ] **Sentence**: They are very **keen** to **export** their **mushrooms** to Japan.*(日译: 彼らは自国のキノコを日本に輸出することを強く望んでいる。)*
-  - [ ] **keen** `[kíːn]` [形]: （...したい）と思って、熱心な、鋭敏な、激しい
+  - [x] **keen** `[kíːn]` [形]: （...したい）と思って、熱心な、鋭敏な、激しい
   - [x] **export** `[ikspɔ́ːrt]` [他 / 名]: 【他】...を輸出する (型: SVO, 名: 輸出、（通例複数形で）輸出品 [ékspɔːrt])
   - [x] **mushroom** `[mʌ́ʃruːm]` [名]: キノコ
 
 - [ ] **PS0461** (Page 386)
   - [ ] **Sentence**: This school was **featured** in an **educational** magazine.*(日译: この学校は教育雑誌で特集された。)*
-  - [ ] **feature** `[fíːtʃər]` [自 / 他 / 名]: 【他】...を特集する、...を主演させる、...を特徴づける 【自】特色になっている (型: SV, SVO, 名: 特徴、呼び物、顔立ち)
+  - [x] **feature** `[fíːtʃər]` [自 / 他 / 名]: 【他】...を特集する、...を主演させる、...を特徴づける 【自】特色になっている (型: SV, SVO, 名: 特徴、呼び物、顔立ち)
   - [x] **educational** `[èdʒukéiʃənl]` [形]: 教育（上）の、教育的な
 
 - [ ] **PS0462** (Page 386)
   - [ ] **Sentence**: A modern nation should be **founded** on the **principle** that all citizens are treated **equally**.*(日译: 近代国家は、すべての国民が平等に扱われるという原則のもとに建国されるべきだ。)*
   - [x] **found** `[fáund]` [他]: ...を創立する、...を設立する、...を基づかせる (型: SVO)
-  - [ ] **principle** `[prínsəpl]` [名]: 原則、原理、行動指针
+  - [x] **principle** `[prínsəpl]` [名]: 原則、原理、行動指针
   - [x] **equally** `[íːkwəli]` [副]: 平等に、等しく (Page 387)
 
 - [ ] **PS0463** (Page 387)
   - [ ] **Sentence**: The movie about **atomic** **bombs** **frightened** teenagers and adults **alike**.*(日译: 原子爆弾についてのその映画は、ティーンエージャーも大人も同様におびえさせた。)*
-  - [ ] **atomic** `[ətάmik]` [形]: 原子（力）の
-  - [ ] **bomb** `[bάm]` [名 / 他]: 【名】爆弾 【他】...に爆弾を投下する
-  - [ ] **frighten** `[fráitn]` [自 / 他]: 【他】...をぞっと［ぎょっと］させる 【自】怖がる (型: SV, SVO)
+  - [x] **atomic** `[ətάmik]` [形]: 原子（力）の
+  - [x] **bomb** `[bάm]` [名 / 他]: 【名】爆弾 【他】...に爆弾を投下する
+  - [x] **frighten** `[fráitn]` [自 / 他]: 【他】...をぞっと［ぎょっと］させる 【自】怖がる (型: SV, SVO)
   - [x] **alike** `[əláik]` [副 / 形]: 【副】同様に、等しく 【形】似ている（叙述用法）
 
 - [ ] **PS0464** (Page 388 - 📷 缺失页：未上传 `0388.png`)
@@ -577,12 +577,12 @@
   - [ ] **Sentence**: I will **grant** you that his music is very **original** **indeed**.*(日译: 彼の音楽が実に独創的だということは認めよう。)*
   - [x] **grant** `[grǽnt]` [他]: ...を認める、...を与える (型: SVO, SVOO)
   - [x] **original** `[ərídʒənl]` [名 / 形]: 【形】独創的な、独自の、原始の 【名】原型、原文、本人
-  - [ ] **indeed** `[indíːd]` [副]: 実に、本当に、なるほど、実は
+  - [x] **indeed** `[indíːd]` [副]: 実に、本当に、なるほど、実は
 
 - [ ] **PS0467** (Page 389)
   - [ ] **Sentence**: Can you **identify** the man you talked to at the **pub** last week?*(日译: あなたが先週パブで話した男性が誰だか分かりますか？)*
   - [x] **identify** `[aidéntəfài]` [自 / 他]: 【他】...が誰であるか分かる、...を見分ける、...を同一視する 【自】自分と同一視する (型: SV, SVO)
-  - [ ] **pub** `[pʌ́b]` [名]: パブ、大衆酒場
+  - [x] **pub** `[pʌ́b]` [名]: パブ、大衆酒場
 
 - [ ] PS0468
   - [ ] **Sentence**: We want to **import** more **goods** from your country.*(日译: 私たちはあなたの国からもっと多くの商品を輸入したいと思っています。)*
@@ -591,12 +591,12 @@
 
 - [ ] PS0469
   - [ ] **Sentence**: A Japanese company has **invented** some new cooking **equipment**.*(日译: ある日本企業が新しい調理機器を発明した。)*
-  - [ ] **invent** `[invént]` [他]: ...を考案する、...を生み出す (型: SVO)
+  - [x] **invent** `[invént]` [他]: ...を考案する、...を生み出す (型: SVO)
   - [x] **equipment** `[ikwípmənt]` [名]: 機器、備品、装備
 
 - [ ] PS0470
   - [ ] **Sentence**: She **knitted** that sweater with her mother's **assistance**.*(日译: 彼女は母親の助けを借りて、あのセーターを編んだ)*
-  - [ ] **knit** `[nít]` [他 / 自 / 名]: 【他】...を編む、...をしっかり組み合わせる 【自】編み物をする (型: SV, SVO, SVOO) 【名】編んで作った衣類、ニット
+  - [x] **knit** `[nít]` [他 / 自 / 名]: 【他】...を編む、...をしっかり組み合わせる 【自】編み物をする (型: SV, SVO, SVOO) 【名】編んで作った衣類、ニット
   - [x] **assistance** `[əsístəns]` [名]: 助け、援助
 
 - [ ] PS0471
@@ -611,53 +611,53 @@
 
 - [ ] PS0473
   - [ ] **Sentence**: The **shopkeeper** **piled** the **trousers** on the table.*(日译: 店主はズボンをテーブルの上に積み上げた。)*
-  - [ ] **shopkeeper** `[ʃɑ́pkìːpər]` [名]: 小売店主
-  - [ ] **pile** `[páil]` [他 / 自 / 名]: 【他】...を積み重ねる、...を蓄積する 【自】たまる、積もる (型: SV, SVO) 【名】積み重ね、多数
+  - [x] **shopkeeper** `[ʃɑ́pkìːpər]` [名]: 小売店主
+  - [x] **pile** `[páil]` [他 / 自 / 名]: 【他】...を積み重ねる、...を蓄積する 【自】たまる、積もる (型: SV, SVO) 【名】積み重ね、多数
   - [x] **trousers** `[tráuzərz]` [名]: (通常複数形で) ズボン
 
 - [ ] PS0474
   - [ ] **Sentence**: She **pretends** to be **shy** when she's not drunk.*(日译: 彼女は酔っていないときは恥ずかしそうなふりをしている。)*
-  - [ ] **pretend** `[priténd]` [他 / 自]: 【他】...のふりをする、あつかましくも...する 【自】見せかける、ふりをする (型: SV, SVO) (類: pretend to do (...するように見せかける、あえて...する), pretend to be ... (...のまねをする))
+  - [x] **pretend** `[priténd]` [他 / 自]: 【他】...のふりをする、あつかましくも...する 【自】見せかける、ふりをする (型: SV, SVO) (類: pretend to do (...するように見せかける、あえて...する), pretend to be ... (...のまねをする))
   - [x] **shy** `[ʃái]` [形]: はにかみ屋の、気が進まない
 
 - [ ] PS0475
   - [ ] **Sentence**: A few bold citizens **protested**, and they demanded a **democratic** **government**.*(日译: 少数の勇気ある市民が抗議し、民主的な政府を求めた。)*
-  - [ ] **protest** `[prətést]` [自 / 他 / 名]: 【自】抗議する、言明する 【他】...に対して異議を申し立てる (型: SV, SVO) 【名】抗議、異議の申し立て `[próutest]`
-  - [ ] **democratic** `[dèməkrǽtik]` [形]: 民主的な、民主主義の
+  - [x] **protest** `[prətést]` [自 / 他 / 名]: 【自】抗議する、言明する 【他】...に対して異議を申し立てる (型: SV, SVO) 【名】抗議、異議の申し立て `[próutest]`
+  - [x] **democratic** `[dèməkrǽtik]` [形]: 民主的な、民主主義の
   - [x] **government** `[gʌ́vərnmənt]` [名]: 政府、統治
 
 - [ ] PS0476
   - [ ] **Sentence**: Can you **recommend** a wine that isn't too **bitter**?*(日译: あまり渋くないワインを薦めてください。)*
   - [x] **recommend** `[rèkəménd]` [他]: ...を推薦する、...を勧める (型: SVO) (類: recommend doing (...することを勧める), recommend ... to ~ (...を〜に推薦する))
-  - [ ] **bitter** `[bítər]` [形]: 苦い、厳しい
+  - [x] **bitter** `[bítər]` [形]: 苦い、厳しい
 
 - [ ] PS0477
   - [ ] **Sentence**: The **mall** began to **recycle** bottles and cans for **environmental** **improvement**.*(日译: そのショッピングモールでは環境改善のために瓶や缶のリサイクルを始めた。)*
-  - [ ] **mall** `[mɔ́ːl]` [名]: ショッピングモール
-  - [ ] **recycle** `[riːsáikl]` [他]: ...を再生利用する、...を再循環させる (型: SVO)
+  - [x] **mall** `[mɔ́ːl]` [名]: ショッピングモール
+  - [x] **recycle** `[riːsáikl]` [他]: ...を再生利用する、...を再循環させる (型: SVO)
   - [x] **environmental** `[invàirənméntl]` [形]: 環境 (上) の、周囲の、環境芸術の
   - [x] **improvement** `[imprúːvmənt]` [名]: 改良、進歩、改良点
 
 - [ ] PS0478
   - [ ] **Sentence**: The president said he would **reform** **domestic** policy.*(日译: 大統領は国内政策を改革するつもりだと述べた。)*
-  - [ ] **reform** `[rifɔ́ːrm]` [他 / 自 / 名]: 【他】...をよりよくする、(弊害など) を取り除く 【自】更正する (型: SV, SVO) 【名】改良、改善
+  - [x] **reform** `[rifɔ́ːrm]` [他 / 自 / 名]: 【他】...をよりよくする、(弊害など) を取り除く 【自】更正する (型: SV, SVO) 【名】改良、改善
   - [x] **domestic** `[dəméstik]` [形]: 国内の、家庭の、家庭的な、人に慣れた
 
 - [ ] PS0479
   - [ ] **Sentence**: The **pop** star **refused** to answer further questions on drug use.*(日译: その人気スターは薬物使用に関する質問にそれ以上答えることを拒否した。)*
-  - [ ] **pop** `[pɑ́p]` [形 / 名 / 自]: 【形】大衆向けの、通俗的な (限定用法) 【名】①ポピュラー音楽 ②ポンという音 【自】ポンと鳴る
+  - [x] **pop** `[pɑ́p]` [形 / 名 / 自]: 【形】大衆向けの、通俗的な (限定用法) 【名】①ポピュラー音楽 ②ポンという音 【自】ポンと鳴る
   - [x] **refuse** `[rifjúːz]` [他 / 自]: 【他】...を拒む、...を断る、...を与えることを断る (型: 主に SVO) (類: refuse to do (...することを拒む))
 
 - [ ] PS0480
   - [ ] **Sentence**: My **article** was **rejected** by the **journal**.*(日译: 私の記事はその雑誌に掲載を断られた。)*
-  - [ ] **article** `[áiːrtikl]`? Wait, let's double check article IPA in image: `[ɑ́ːrtikl]`. Let me correct it: `[ɑ́ːrtikl]`
+  - [x] **article** `[áiːrtikl]`? Wait, let's double check article IPA in image: `[ɑ́ːrtikl]`. Let me correct it: `[ɑ́ːrtikl]`
   - [x] **article** `[ɑ́ːrtikl]` [名]: 記事、項目、品物
   - [x] **reject** `[ridʒékt]` [他]: ...を拒絶する、...をはねつける (型: SVO)
   - [x] **journal** `[dʒə́ːrnl]` [名]: 専門誌、雑誌、定期刊行物、(日刊) 新聞、日記
 
 - [ ] PS0481
   - [ ] **Sentence**: The article **related** each person's **individual** **lifestyle** to its effect on the **environment**.*(日译: その記事は個人のライフスタイルと、それが環境に与える影響とを関連付けた。)*
-  - [ ] **relate** `[riléit]` [他 / 自]: 【他】...を関係させる、...を話す 【自】関連する、合致する (型: SV, SVO) (類: relate ... to ~ (...を〜に関連付ける))
+  - [x] **relate** `[riléit]` [他 / 自]: 【他】...を関係させる、...を話す 【自】関連する、合致する (型: SV, SVO) (類: relate ... to ~ (...を〜に関連付ける))
   - [x] **individual** `[ìndivídʒuəl]` [形 / 名]: 【形】個人の、単一の、独自な 【名】個人
   - [x] **lifestyle** `[láifstàil]` [名]: ライフスタイル、生き方
   - [x] **environment** `[inváiərənmənt]` [名]: 自然環境、環境
@@ -665,7 +665,7 @@
 - [ ] PS0482
   - [ ] **Sentence**: Fortunately, the **prisoner** won't be **released**.*(日译: 幸いにも、あの囚人は釈放されないだろう。)*
   - [x] **fortunately** `[fɔ́ːrtʃənətli]` [副]: 幸いにも、幸運なことに
-  - [ ] **prisoner** `[príznər]` [名]: 囚人、捕虜
+  - [x] **prisoner** `[príznər]` [名]: 囚人、捕虜
   - [x] **release** `[rilíːs]` [他 / 名]: 【他】...を自由にする、...を初公開する、...を離す (型: SVO) 【名】解放、解除、初公開
 
 - [ ] PS0483
@@ -681,8 +681,8 @@
 
 - [ ] PS0485
   - [ ] **Sentence**: His **cruel** **comments** don't **represent** this company's opinions.*(日译: 彼の非情な意見は、この会社の考えを代表してはいない。)*
-  - [ ] **cruel** `[krúːəl]` [形]: 冷酷な、むごい
-  - [ ] **comment** `[kɑ́ment]` [名 / 自]: 【名】意見、論評、注釈 【自】批評する、解説する
+  - [x] **cruel** `[krúːəl]` [形]: 冷酷な、むごい
+  - [x] **comment** `[kɑ́ment]` [名 / 自]: 【名】意見、論評、注釈 【自】批評する、解説する
   - [x] **represent** `[rèprizént]` [他]: ...を代表する、...を表す、...であると言う (型: SVO)
 
 - [ ] PS0486
@@ -699,9 +699,9 @@
 
 - [ ] PS0488
   - [ ] **Sentence**: I'm **eager** to **rid** my life of **stress**.*(日译: 私はこの人生からストレスを一掃したい。)*
-  - [ ] **eager** `[íːgər]` [形]: 切望している、熱心な (使える★フレーズ: be eager to do (...したいと思う))
-  - [ ] **rid** `[ríd]` [他]: ...から取り除く、...から除去する (活用: rid / rid) (型: SVO) (類: rid ... of ~ (...から〜を取り除く), get rid of ... (...を脱する、...を片付ける))
-  - [ ] **stress** `[strés]` [名 / 他]: 【名】ストレス、圧迫、強調、アクセント 【他】...を強調する、...に強勢を置く
+  - [x] **eager** `[íːgər]` [形]: 切望している、熱心な (使える★フレーズ: be eager to do (...したいと思う))
+  - [x] **rid** `[ríd]` [他]: ...から取り除く、...から除去する (活用: rid / rid) (型: SVO) (類: rid ... of ~ (...から〜を取り除く), get rid of ... (...を脱する、...を片付ける))
+  - [x] **stress** `[strés]` [名 / 他]: 【名】ストレス、圧迫、強調、アクセント 【他】...を強調する、...に強勢を置く
 
 - [ ] PS0489
   - [ ] **Sentence**: We **roasted** 3 pounds of beefsteak **altogether**.*(日译: 私たちは全部で3ポンドのビーフステーキを焼いた。)*
@@ -715,8 +715,8 @@
 
 - [ ] PS0491
   - [ ] **Sentence**: I **ruined** the **broccoli** soup by adding too much **spice**.*(日译: 私は香辛料を加えすぎてブロッコリーのスープを台無しにしてしまった。)*
-  - [ ] **ruin** `[rúːin]` [他 / 自 / 名]: 【他】...を台無しにする、...を破壊する 【自】荒廃する (型: SV, SVO) 【名】破壊、遺跡、喪失
-  - [ ] **broccoli** `[brɑ́kəli]` [名]: ブロッコリー
+  - [x] **ruin** `[rúːin]` [他 / 自 / 名]: 【他】...を台無しにする、...を破壊する 【自】荒廃する (型: SV, SVO) 【名】破壊、遺跡、喪失
+  - [x] **broccoli** `[brɑ́kəli]` [名]: ブロッコリー
   - [x] **spice** `[spáis]` [名]: 香辛料、薬味、面白味
 
 - [ ] PS0492
@@ -727,19 +727,19 @@
 - [ ] PS0493
   - [ ] **Sentence**: They've **searched** for the **stolen** painting all over the world.*(日译: 彼らは、盗まれた絵画を世界中捜し回った。)*
   - [x] **search** `[sə́ːrtʃ]` [自 / 他 / 名]: 【自】捜し求める、調べる 【他】...を調べる、...を捜す (型: SV, SVO) (類: search for ... (...を捜す)) 【名】捜査、調査、検査
-  - [ ] **stolen** `[stóulən]` [形]: 盗まれた (使える★フレーズ: all over the world (世界中で))
+  - [x] **stolen** `[stóulən]` [形]: 盗まれた (使える★フレーズ: all over the world (世界中で))
 
 - [ ] PS0494
   - [ ] **Sentence**: I'm **seeking** a **partner** with a sense of **humor**.*(日译: 私はユーモアのセンスを持ったパートナーを探している)*
   - [x] **seek** `[síːk]` [他 / 自]: 【他】...を探し求める、...を得ようとする、...を求める 【自】求める、探す (活用: sought / sought) (型: SV, SVO) (類: seek out ... (...を探し出す), seek to do (...しようとする))
   - [x] **partner** `[pɑ́ːrtnər]` [名]: パートナー、相手
-  - [ ] **humor** `[hjúːmər]` [名]: ユーモア、ユーモアを解する心、気分
+  - [x] **humor** `[hjúːmər]` [名]: ユーモア、ユーモアを解する心、気分
 
 - [ ] PS0495
   - [ ] **Sentence**: The artist **roughly** **sketched** his subject in a **sketchbook**.*(日译: その芸術家は、スケッチブックに対象を大まかにスケッチした。)*
-  - [ ] **roughly** `[rʌ́fli]` [副]: おおよそ、粗雑に
-  - [ ] **sketch** `[skétʃ]` [他 / 名]: 【他】...をスケッチする、...の下絵を描く (型: 主に SVO) 【名】スケッチ、下絵、略図
-  - [ ] **sketchbook** `[skétʃbùk]` [名]: スケッチブック
+  - [x] **roughly** `[rʌ́fli]` [副]: おおよそ、粗雑に
+  - [x] **sketch** `[skétʃ]` [他 / 名]: 【他】...をスケッチする、...の下絵を描く (型: 主に SVO) 【名】スケッチ、下絵、略図
+  - [x] **sketchbook** `[skétʃbùk]` [名]: スケッチブック
 
 - [ ] PS0496
   - [ ] **Sentence**: It would be more **convenient** if we **split** the bill in half.*(日译: 勘定は半分に分けるほうが好都合でしょう。)*
@@ -755,11 +755,11 @@
   - [ ] **Sentence**: This drink will **supply** your body with valuable **vitamins** and **minerals**.*(日译: この飲料はあなたの体に貴重なビタミンとミネラルを供給します。)*
   - [x] **supply** `[səplái]` [他 / 名]: 【他】...に [を] 供給する、...の代理を務める (型: SVO) (類: supply ... with ~ (...に〜を供給する)) 【名】供給、在庫 (量)
   - [x] **vitamin** `[váitəmin]` [名]: ビタミン
-  - [ ] **mineral** `[mínərəl]` [名 / 形]: 【名】鉱物、ミネラル 【形】鉱物性の、鉱物を含んだ
+  - [x] **mineral** `[mínərəl]` [名 / 形]: 【名】鉱物、ミネラル 【形】鉱物性の、鉱物を含んだ
 
 - [ ] PS0499
   - [ ] **Sentence**: I **swear** I'll do **whatever** you want.*(日译: 君がしてほしいことなら何でもするって誓うよ。)*
-  - [ ] **swear** `[swέər]` [他 / 自]: 【他】...を誓う、...だと断言する 【自】誓う、断言する (活用: swore / sworn) (型: SV, SVO)
+  - [x] **swear** `[swέər]` [他 / 自]: 【他】...を誓う、...だと断言する 【自】誓う、断言する (活用: swore / sworn) (型: SV, SVO)
   - [x] **whatever** `[hwʌtévər]` [接 / 代 / 副]: 【接】...するものは [こと] は何でも、どんなもの [こと] が...しても 【代】いったい何が [を] 【副】ともかく、いずれにしても
 
 - [ ] PS0500
@@ -782,21 +782,21 @@
 - [ ] PS0503
   - [ ] **Sentence**: I'm a **grown** man, but you are still **treating** me **somewhat** like a child.*(日译: 僕は大人なのに、あなたははいまだに僕をちょっと子どものように扱っている。)*
   - [x] **grown** `[gróun]` [形]: 成長した、成熟した
-  - [ ] **treat** `[tríːt]` [他 / 自]: 【他】...を扱う、...を治療する、...を見なす、...におごる 【自】扱う、交渉する、おごる (型: SV, SVO) (類: treat ... as ~ (...を〜として扱う、...を〜と見なす))
+  - [x] **treat** `[tríːt]` [他 / 自]: 【他】...を扱う、...を治療する、...を見なす、...におごる 【自】扱う、交渉する、おごる (型: SV, SVO) (類: treat ... as ~ (...を〜として扱う、...を〜と見なす))
   - [x] **somewhat** `[sʌ́mhwʌ̀t]` [副]: 少々、いくらか
 
 - [ ] PS0504
   - [ ] **Sentence**: The **journalist** usually **updates** her **blog** on a weekly **basis**.*(日译: そのジャーナリストは通常は週1回ブログを更新している。)*
   - [x] **journalist** `[dʒə́ːrnəlist]` [名]: ジャーナリスト、記者
   - [x] **update** `[ʌpdéit]` [他 / 名]: 【他】(本・情報・ソフトウエアなど) を最新のものにする、...を更新する、...を改訂する (型: SVO) (類: update someone on ... ([人] に...に関する最新情報を提供する)) 【名】最新情報、最新版 `[ʌ́pdèit]`
-  - [ ] **blog** `[blɔ́ːg]` [名]: ブログ
+  - [x] **blog** `[blɔ́ːg]` [名]: ブログ
   - [x] **basis** `[béisis]` [名]: 基礎、基部、原理 (複) bases (使える★フレーズ: on a weekly basis (毎週、週1回))
 
 - [ ] PS0505
   - [ ] **Sentence**: She **gently** **wrapped** the **shell** in her handkerchief and took it home.*(日译: 彼女はその貝殻をハンカチにそっと包んで持ち帰った。)*
-  - [ ] **gently** `[dʒéntli]` [副]: 優しく、親切に、静かに
-  - [ ] **wrap** `[rǽp]` [他 / 自 / 名]: 【他】...を包む、...をまとう、...を包み隠す 【自】くるまる、巻きつく (型: SV, SVO) (類: wrap ... up (...を終わりにする)) 【名】ラップ、包装紙
-  - [ ] **shell** `[ʃél]` [名]: 貝殻、甲羅、硬い入れ物
+  - [x] **gently** `[dʒéntli]` [副]: 優しく、親切に、静かに
+  - [x] **wrap** `[rǽp]` [他 / 自 / 名]: 【他】...を包む、...をまとう、...を包み隠す 【自】くるまる、巻きつく (型: SV, SVO) (類: wrap ... up (...を終わりにする)) 【名】ラップ、包装紙
+  - [x] **shell** `[ʃél]` [名]: 貝殻、甲羅、硬い入れ物
 
 - [ ] PS0506
   - [ ] **Sentence**: I'm **concerned** about global **climate** change.*(日译: 私は地球規模の気候変動を懸念している。)*
@@ -810,13 +810,13 @@
 
 - [ ] PS0508
   - [ ] **Sentence**: Her parents' **absence** from the wedding **ceremony** **disappointed** her.*(日译: 彼女は結婚式での両親の欠席にひどくがっかりした。)*
-  - [ ] **absence** `[ǽbsəns]` [名]: 欠席、不在、不足
+  - [x] **absence** `[ǽbsəns]` [名]: 欠席、不在、不足
   - [x] **ceremony** `[sérəmòuni]` [名]: 式、礼儀
   - [x] **disappoint** `[dìsəpɔ́int]` [他]: ...を落胆させる、...を失望させる (型: SVO) (類: be disappointed at ... (...に失望する))
 
 - [ ] PS0509
   - [ ] **Sentence**: He **glanced** at us, but we were busy with the **housework**.*(日译: 彼は私たちのほうをちらっと見たが、私たちは家事で忙しかった。)*
-  - [ ] **glance** `[glǽns]` [自 / 名]: 【自】ひと目見る (型: SV) (類: glance at ... (...をちらっと見る)) 【名】ひと目
+  - [x] **glance** `[glǽns]` [自 / 名]: 【自】ひと目見る (型: SV) (類: glance at ... (...をちらっと見る)) 【名】ひと目
   - [x] **housework** `[háuswə̀ːrk]` [名]: 家事 (不可算)
 
 - [ ] PS0510
@@ -826,23 +826,23 @@
 
 - [ ] PS0511
   - [ ] **Sentence**: I **regretted** not getting a **receipt** from the restaurant.*(日译: 私はそのレストランで領収書をもらわなかったことを後悔した。)*
-  - [ ] **regret** `[rigrét]` [他 / 名]: 【他】...を後悔する、残念ながら...する (型: SVO) (類: regret doing (...したことを後悔する), regret to do (残念ながら...する)) 【名】遺憾、悲しみ
+  - [x] **regret** `[rigrét]` [他 / 名]: 【他】...を後悔する、残念ながら...する (型: SVO) (類: regret doing (...したことを後悔する), regret to do (残念ながら...する)) 【名】遺憾、悲しみ
   - [x] **receipt** `[risíːt]` [名]: 領収書、受取
 
 - [ ] PS0512
   - [ ] **Sentence**: I **suppose** the **wages** would be higher with a better **employer**.*(日译: もっといい雇い主だったら、賃金は上がると思う。)*
   - [x] **suppose** `[səpóuz]` [他]: ...と思う、...であると仮定する (型: SVO) (類: be supposed to do (...することになっている、...するべきである))
-  - [ ] **wage** `[wéidʒ]` [名]: 賃金、給料
+  - [x] **wage** `[wéidʒ]` [名]: 賃金、給料
   - [x] **employer** `[implɔ́iər]` [名]: 雇い主、使用者
 
 - [ ] PS0513
   - [ ] **Sentence**: The police **suspected** the **politician**, but they had no **evidence**.*(日译: 警察はその政治家を疑ったが、証拠がなかった。)*
   - [x] **suspect** `[səspékt]` [他 / 名]: 【他】...を怪しむ、(...である) らしいと疑う、(危険など) に気付く (型: 主に SVO) (類: suspect ... of ~ (...に〜の疑いをかける)) 【名】容疑者 `[sʌ́spekt]`
-  - [ ] **politician** `[pɑ̀lətíʃən]` [名]: 政治家
+  - [x] **politician** `[pɑ̀lətíʃən]` [名]: 政治家
   - [x] **evidence** `[évidəns]` [名]: 証拠
 
 - [ ] PS0514
   - [ ] **Sentence**: I'm **attempting** an **analysis** of **typical** grammar mistakes made by young people.*(日译: 私は若者たちの典型的な文法の誤りの分析を試みているところです。)*
-  - [ ] **attempt** `[ətémpt]` [他 / 名]: 【他】...を試みる (型: SVO) (類: attempt to do (...しようと試みる)) 【名】試み
+  - [x] **attempt** `[ətémpt]` [他 / 名]: 【他】...を試みる (型: SVO) (類: attempt to do (...しようと試みる)) 【名】試み
   - [x] **analysis** `[ənǽləsis]` [名]: 分析、分析結果
   - [x] **typical** `[típikl]` [形]: 典型的な、特徴的な
