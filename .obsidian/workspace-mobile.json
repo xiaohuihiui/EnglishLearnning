@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e1f1565e4b8884f",
+        "id": "b21f0bd6836a1477",
         "type": "tabs",
         "children": [
           {
-            "id": "68b82bf421167a66",
+            "id": "2e7292ef6761ee96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level3/WordList.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "WordList"
             }
           }
         ]
@@ -166,7 +170,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "68b82bf421167a66",
+  "active": "2e7292ef6761ee96",
   "lastOpenFiles": [
     "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level3/PowerSentences.md",
     "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level2/PowerSetences.md",
