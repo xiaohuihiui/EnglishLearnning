@@ -11,7 +11,7 @@
 - [x]  9. answer: OK 　　,Reviewed:ok
 - [x] 10. answer: OK　  ,Reviewed:ok
 - [x]  11. answer: OK  　,Reviewed:ok
-- [ ] 12. answer: OK  　,Reviewed:ok
+- [x] 12. answer: OK  　,Reviewed:ok
 
 -----------------------------**Word**----------------------------------
 word:意味,中文意思
