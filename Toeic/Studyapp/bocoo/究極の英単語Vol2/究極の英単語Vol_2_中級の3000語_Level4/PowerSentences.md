@@ -28,7 +28,7 @@
   - [ ] **emerge** `[imə́ːrdʒ]` [自]: 現れる、浮かび上がる、身を起こす (型: SV)
 - [ ] PS0523
   - [ ] **Sentence**: The company plans to **expand** its production **capacity** next year.*(日译: その企業は来年、生産力を拡大する予定だ。)*
-  - [ ] **expand** `[ikspǽnd]` [他 / 自]: 【他】...を増す、...を拡大する、...を膨張させる、...を展開する 【自】拡大する、膨らむ (型: SV, SVO)
+  - [x] **expand** `[ikspǽnd]` [他 / 自]: 【他】...を増す、...を拡大する、...を膨張させる、...を展開する 【自】拡大する、膨らむ (型: SV, SVO)
   - [ ] **capacity** `[kəpǽsəti]` [名]: 能力、受容能力、資格
 
 - [ ] PS0524
