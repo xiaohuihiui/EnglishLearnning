@@ -6,16 +6,21 @@
 - [ ] PS0516
   - [ ] **Sentence**: The **businessman** was **bleeding heavily** when the ambulance arrived at the accident site.*(日译: 救急車が事故現場に到着したとき、そのビジネスマンはひどく出血していた。)*
   - [x] **businessman** `[bíznismæn]` [名]: 実業家、会社員
-  - [ ] **bleed** `[blíːd]` [自]: 出血する、心を痛める、重傷を負う
+  - [x]  **bleed** `[blíːd]` [自]: 出血する、心を痛める、重傷を負う
+
+- [ ] PS0517
+ - add by manul
+- [ ] PS0518
+  - add by manul
 
 - [ ] PS0519
   - [ ] **Sentence**: This book about the Roman **Empire consists** of eight chapters.*(日译: ローマ帝国に関するこの本は8つの章から成る。)*
-  - [ ] **empire** `[émpaɪər]` [名]: (しばしばEmpireで)帝国、皇帝の統治
+  - [x] **empire** `[émpaɪər]` [名]: (しばしばEmpireで)帝国、皇帝の統治 
   - [x] **consist** `[kənsíst]` [自]: 成る、存在する、一致する (型: SV)
 - [ ] PS0520
   - [ ] **Sentence**: The vegetables will not **decay** for a long time if kept in **cartons** made with that special **manufacturing** process.*(日译: その特殊な製法で作られた容器に入れておけば、野菜は長期間腐らない。)*
-  - [ ] **decay** `[自 / 他 / 名]`: 【自】腐る、衰える 【他】...を腐らせる 【名】腐敗、衰退 (型: SV, SVO)
-  - [ ] **carton** `[kɑ́ːrtn]` [名]: 大型容器、段ボール箱、カートン（箱の単位）
+  - [x] **decay** `[自 / 他 / 名]`: 【自】腐る、衰える 【他】...を腐らせる 【名】腐敗、衰退 (型: SV, SVO)
+  - [x] **carton** `[kɑ́ːrtn]` [名]: 大型容器、段ボール箱、カートン（箱の単位）
   - [x] **manufacturing** `[mæ̀njəfǽktʃəriŋ]` [名 / 形]: 【名】製造（業） 【形】製造（業）の
 - [ ] PS0521
   - [ ] **Sentence**: The tastes of **mature** audiences **differ** from those of young people.*(日译: 成熟した大人の観客の好みは若い人々のものとは異なる。)*
@@ -25,21 +30,21 @@
 - [ ] PS0522
   - [ ] **Sentence**: A **liberal** trend **emerged** among young people in the last election.*(日译: 前回の選挙では、リベラルな風潮が若い人々の間に見られた。)*
   - [x] **liberal** `[líbərəl]` [形 / 名]: 【形】自由主義の、物惜しみしない、豊富な、公平な 【名】自由主義者、リベラリスト
-  - [ ] **emerge** `[imə́ːrdʒ]` [自]: 現れる、浮かび上がる、身を起こす (型: SV)
+  - [x] **emerge** `[imə́ːrdʒ]` [自]: 現れる、浮かび上がる、身を起こす (型: SV)
 - [ ] PS0523
   - [ ] **Sentence**: The company plans to **expand** its production **capacity** next year.*(日译: その企業は来年、生産力を拡大する予定だ。)*
   - [x] **expand** `[ikspǽnd]` [他 / 自]: 【他】...を増す、...を拡大する、...を膨張させる、...を展開する 【自】拡大する、膨らむ (型: SV, SVO)
-  - [ ] **capacity** `[kəpǽsəti]` [名]: 能力、受容能力、資格
+  - [x] **capacity** `[kəpǽsəti]` [名]: 能力、受容能力、資格
 
 - [ ] PS0524
   - [ ] **Sentence**: The second bomb **exploded** in a **nearby** park **shortly** after the first one.*(日译: 2つ目の爆弾は近くの公園で、最初の爆弾の直後に爆発した。)*
-  - [ ] **explode** `[iksplóud]` [自 / 他]: 【自】爆発する、破裂する 【他】...を爆発させる、...を打破する (型: SV, SVO)
+  - [x] **explode** `[iksplóud]` [自 / 他]: 【自】爆発する、破裂する 【他】...を爆発させる、...を打破する (型: SV, SVO)
   - [x] **nearby** `[níerbái]` [形 / 副 / 前]: 【形】近くの 【副】近くに 【前】...のすぐそばの
   - [x] **shortly** `[ʃɔ́ːrtli]` [副]: 少し、間もなく
 - [ ] PS0525
   - [ ] **Sentence**: The government will **extend** the **welfare** program for another three years.*(日译: 政府はその福祉プログラムをさらに3年間延長する予定だ。)*
   - [x] **extend** `[iksténd]` [他 / 自]: 【他】...を延長する、...を引き伸ばす 【自】広がる、及ぶ (型: SV, SVO)
-  - [ ] **welfare** `[wélfɛər]` [名]: 福祉、幸福、生活保護 (型: 不可算)
+  - [x] **welfare** `[wélfɛər]` [名]: 福祉、幸福、生活保護 (型: 不可算)
 
 - [ ] PS0526
   - [ ] **Sentence**: The rock group's **popularity** is beginning to **fade**.*(日译: そのロックグループの人気は陰り始めている。)*
@@ -52,19 +57,19 @@
 
 - [ ] PS0528
   - [ ] **Sentence**: The **actress generates** a lot of **laughter** when she's in **comedies**.*(日译: コメディーに出演すると、その女優は多くの笑いを生み出す。)*
-  - [ ] **actress** `[ǽktriəs]` [名]: 女優
+  - [x] **actress** `[ǽktriəs]` [名]: 女優
   - [x] **generate** `[dʒénəreit]` [他]: ...を発生させる、...を生み出す、...を引き起こす (型: SVO)
   - [x] **laughter** `[lǽftər]` [名]: 笑い(声) (型: 不可算)
   - [x] **comedy** `[kɑ́mədi]` [名]: コメディー、喜劇
 - [ ] PS0529
   - [ ] **Sentence**: A campfire was **glowing** in the distant **wilderness**.*(日译: 遠くの荒野にキャンプファイヤーが輝いていた。)*
-  - [ ] **glow** `[glóu]` [自 / 名]: 【自】輝く、熱と光を発する、紅潮する 【名】輝き、白熱、明るさ、ほてり (型: SV)
-  - [ ] **wilderness** `[wíldərnis]` [名]: 荒野、荒れ地、だだっ広い所
+  - [x] **glow** `[glóu]` [自 / 名]: 【自】輝く、熱と光を発する、紅潮する 【名】輝き、白熱、明るさ、ほてり (型: SV)
+ - [x] **wilderness** `[wíldərnis]` [名]: 荒野、荒れ地、だだっ広い所
 
 - [ ] PS0530
   - [ ] **Sentence**: This is a **severe** wound that will take several weeks to **heal**.*(日译: これは治るのに数週間かかる重傷だ。)*
-  - [ ] **severe** `[sivíər]` [形]: (状況、天候、痛みなどが)厳しい、厳格な、こわい、簡素な
-  - [ ] **heal** `[híːl]` [自 / 他]: 【自】治る、おさまる 【他】...を治す、...をいやす (型: SV, SVO)
+  - [x] **severe** `[sivíər]` [形]: (状況、天候、痛みなどが)厳しい、厳格な、こわい、簡素な
+  - [x] **heal** `[híːl]` [自 / 他]: 【自】治る、おさまる 【他】...を治す、...をいやす (型: SV, SVO)
 - [ ] PS0531
   - [ ] **Sentence**: The number of **cattle** with the disease is **multiplying** at a rapid pace.*(日译: その病気を持つ牛の数が急速なペースで増えている。)*
   - [ ] **cattle** `[kǽtl]` [名]: (集合的に; 複数扱い)畜牛 (型: 不可算)
