@@ -72,72 +72,72 @@
   - [x] **heal** `[híːl]` [自 / 他]: 【自】治る、おさまる 【他】...を治す、...をいやす (型: SV, SVO)
 - [ ] PS0531
   - [ ] **Sentence**: The number of **cattle** with the disease is **multiplying** at a rapid pace.*(日译: その病気を持つ牛の数が急速なペースで増えている。)*
-  - [ ] **cattle** `[kǽtl]` [名]: (集合的に; 複数扱い)畜牛 (型: 不可算)
+  - [x] **cattle** `[kǽtl]` [名]: (集合的に; 複数扱い)畜牛 (型: 不可算)
   - [x] **multiply** `[mʌ́ltəplài]` [自 / 他]: 【自】増える、広がる 【他】...を増やす、(数学)...を掛ける (型: SV, SVO)
 - [ ] PS0532
   - [ ] **Sentence**: The **interior** of this house **resembles** our old house.*(日译: この家の内装はわれわれの昔の家に似ている。)*
   - [x] **interior** `[intíəriər]` [名 / 形]: 【名】インテリア、内部 【形】内部の、内陸の
-  - [ ] **resemble** `[rizémbl]` [他]: ...に似ている (型: SVO)
+  - [x] **resemble** `[rizémbl]` [他]: ...に似ている (型: SVO)
 
 - [ ] PS0533
   - [ ] **Sentence**: He **restores antique** furniture to make a living.*(日译: 彼は生計を立てるため、アンティークの家具を修復している。)*
   - [x] **restore** `[ristɔ́ːr]` [他]: ...を修復する、...を戻す、...を回復する、...を復帰させる (型: SVO)
-  - [ ] **antique** `[æntíːk]` [形 / 名]: 【形】古風な、過去の、古来の 【名】アンティーク、骨董品
+  - [x] **antique** `[æntíːk]` [形 / 名]: 【形】古風な、過去の、古来の 【名】アンティーク、骨董品
 - [ ] PS0534
   - [ ] **Sentence**: The actor still **retains** his **youthful charm**.*(日译: その俳優は今でも若々しい魅力を持ち続けている。)*
   - [x] **retain** `[ritéin]` [他]: ...を持ち続ける、...を保有する、...を雇っておく (型: SVO)
-  - [ ] **youthful** `[júːθfəl]` [形]: 若々しい、若者らしい
-  - [ ] **charm** `[tʃɑ́ːrm]` [名 / 他 / 自]: 【名】魅力、まじない、お守り 【他】...をうっとりさせる、...に魔法をかける 【自】魅力がある
+  - [x] **youthful** `[júːθfəl]` [形]: 若々しい、若者らしい
+  - [x] **charm** `[tʃɑ́ːrm]` [名 / 他 / 自]: 【名】魅力、まじない、お守り 【他】...をうっとりさせる、...に魔法をかける 【自】魅力がある
 
 - [ ] PS0535
   - [ ] **Sentence**: The **youngsters scattered** on the court when they began to play **dodgeball**.*(日译: 若者たちはドッジボールを始めると、コートに散り散りになった。)*
-  - [ ] **youngster** `[jʌ́ŋstər]` [名]: 子ども、若者、若い動物
-  - [ ] **scatter** `[skǽtər]` [自 / 他 / 名]: 【自】散り散りになる、四散する 【他】...をばらまく、...を[に]まき散らす、...を追い散らす 【名】まき散らすこと (型: SV, SVO)
-  - [ ] **dodgeball** `[dɑ́dʒbɔ̀ːl]` [名]: ドッジボール
+  - [x] **youngster** `[jʌ́ŋstər]` [名]: 子ども、若者、若い動物
+  - [x] **scatter** `[skǽtər]` [自 / 他 / 名]: 【自】散り散りになる、四散する 【他】...をばらまく、...を[に]まき散らす、...を追い散らす 【名】まき散らすこと (型: SV, SVO)
+  - [x] **dodgeball** `[dɑ́dʒbɔ̀ːl]` [名]: ドッジボール
 - [ ] PS0536
   - [ ] **Sentence**: The block dropped by the **crane smashed** into pieces.*(日译: クレーンから落ちたブロックは粉々になった。)*
-  - [ ] **crane** `[kréin]` [名 / 他 / 自]: 【名】クレーン、ツル 【他】(首)をツルのように伸ばす 【自】首を伸ばす、ためらう
-  - [ ] **smash** `[smǽʃ]` [自 / 他 / 名]: 【自】粉々になる、割れる、激突する 【他】...を粉々に砕く、...を撃破する 【名】粉砕すること、激しい一撃 (型: SV, SVO)
+  - [x] **crane** `[kréin]` [名 / 他 / 自]: 【名】クレーン、ツル 【他】(首)をツルのように伸ばす 【自】首を伸ばす、ためらう
+  - [x] **smash** `[smǽʃ]` [自 / 他 / 名]: 【自】粉々になる、割れる、激突する 【他】...を粉々に砕く、...を撃破する 【名】粉砕すること、激しい一撃 (型: SV, SVO)
 
 - [ ] PS0537
   - [ ] **Sentence**: Some people almost **starved** in the **disaster** area because aid supplies were delayed.*(日译: 救援物資が遅れたので、被災地では餓死しそうになった人もいた。)*
-  - [ ] **starve** `[stɑ́ːrv]` [自 / 他]: 【自】餓死する、飢える 【他】...を餓死させる (型: SV, SVO)
+  - [x] **starve** `[stɑ́ːrv]` [自 / 他]: 【自】餓死する、飢える 【他】...を餓死させる (型: SV, SVO)
   - [x] **disaster** `[dizǽstər]` [名]: 災害、天災、大惨事
 - [ ] PS0538
   - [ ] **Sentence**: The **detective** tried to find the suspect, but he had **vanished**.*(日译: 刑事はその容疑者を探し出そうとしたが、彼は姿を消してしまっていた。)*
-  - [ ] **detective** `[ditéktiv]` [名]: 刑事、探偵
-  - [ ] **vanish** `[vǽniʃ]` [自 / 他]: 【自】消える、見えなくなる 【他】...を消す (型: SV, SVO)
+  - [x] **detective** `[ditéktiv]` [名]: 刑事、探偵
+  - [x] **vanish** `[vǽniʃ]` [自 / 他]: 【自】消える、見えなくなる 【他】...を消す (型: SV, SVO)
 - [ ] PS0539
   - [ ] **Sentence**: The **criticism** about this painting **obviously varies** from person to person.*(日译: この絵画への評価は明らかに人によって異なる。)*
-  - [ ] **criticism** `[krítəsìzm]` [名]: 批評、非難
+  - [x] **criticism** `[krítəsìzm]` [名]: 批評、非難
   - [x] **obviously** `[ɑ́bviəsli]` [副]: 明らかに、はっきりと
-  - [ ] **vary** `[vɛ́əri]` [自 / 他]: 【自】異なる、変わる、外れる 【他】...を変える、...を修正する (型: SV, SVO)
+  - [x] **vary** `[vɛ́əri]` [自 / 他]: 【自】異なる、変わる、外れる 【他】...を変える、...を修正する (型: SV, SVO)
 
 - [ ] PS0540
   - [ ] **Sentence**: **Frankly**, I think this **investment** has **weakened** the company.*(日译: 率率に言って、今回の投資はその企業を弱体化させたと思う。)*
-  - [ ] **frankly** `[frǽŋkli]` [副]: 率直に（言うと）、ありのままに
-  - [ ] **investment** `[invéstmənt]` [名]: 投資、投資金
-  - [ ] **weaken** `[wíːkən]` [他 / 自]: 【他】...を弱くする、...を弱める、...を無力にする 【自】弱る、衰弱する (型: SV, SVO)
+  - [x] **frankly** `[frǽŋkli]` [副]: 率直に（言うと）、ありのままに
+  - [x] **investment** `[invéstmənt]` [名]: 投資、投資金
+  - [x] **weaken** `[wíːkən]` [他 / 自]: 【他】...を弱くする、...を弱める、...を無力にする 【自】弱る、衰弱する (型: SV, SVO)
 
 - [ ] PS0541
   - [ ] **Sentence**: After the heavy rains, the **harvest yielded** only half the usual wheat crop.*(日译: その大雨の後で、麦の収穫高は普段の半分にしかならなかった。)*
   - [x] **harvest** `[hɑ́ːrvist]` [名 / 他]: 【名】収穫(高)、収穫期 【他】...を収穫する
-  - [ ] **yield** `[jíːld]` [他 / 自 / 名]: 【他】...を産出する、...を放棄する、...を譲る 【自】収穫を生む、屈する、負ける、取って代わる 【名】生産(力)、収穫、収益 (型: SV, SVO)
+  - [x] **yield** `[jíːld]` [他 / 自 / 名]: 【他】...を産出する、...を放棄する、...を譲る 【自】収穫を生む、屈する、負ける、取って代わる 【名】生産(力)、収穫、収益 (型: SV, SVO)
 
 - [ ] PS0542
   - [ ] **Sentence**: She **accused** him of being a **liar精神**.*(日译: 彼女は彼のことをうそつきだと非難した。)*
-  - [ ] **accuse** `[əkjúːz]` [他]: ...を非難する、...を訴える (型: 主に SVO)
-  - [ ] **liar** `[láiər]` [名]: うそつき
+  - [x] **accuse** `[əkjúːz]` [他]: ...を非難する、...を訴える (型: 主に SVO)
+  - [x] **liar** `[láiər]` [名]: うそつき
 - [ ] PS0543
   - [ ] **Sentence**: Her **remarkable** talent for the piano **amazed** me.*(日译: 私は彼女の非凡なピアノの才能に驚いた。)*
-  - [ ] **remarkable** `[rimɑ́ːrkəbl]` [形]: 非凡な、注目すべき、異常な、珍しい
-  - [ ] **amaze** `[əméiz]` [他]: ...を驚かせる、...をびっくりさせる (型: SVO)
+  - [x] **remarkable** `[rimɑ́ːrkəbl]` [形]: 非凡な、注目すべき、異常な、珍しい
+  - [x] **amaze** `[əméiz]` [他]: ...を驚かせる、...をびっくりさせる (型: SVO)
 
 - [ ] PS0544
   - [ ] **Sentence**: He **amused** the **elderly** people in the **nursing** home with his card tricks.*(日译: 彼は、その老人ホームのお年寄りたちをトランプの手品で楽しませた。)*
-  - [ ] **amuse** `[əmjúːz]` [他]: ...を面白がらせる、...の気を紛らわす (型: SVO)
-  - [ ] **elderly** `[éldərli]` [形]: 初老の、年配の
-  - [ ] **nursing** `[nə́ːrsiŋ]` [名]: 看護、保育 (型: 不可算)
+  - [x] **amuse** `[əmjúːz]` [他]: ...を面白がらせる、...の気を紛らわす (型: SVO)
+  - [x] **elderly** `[éldərli]` [形]: 初老の、年配の
+  - [x] **nursing** `[nə́ːrsiŋ]` [名]: 看護、保育 (型: 不可算)
 - [ ] PS0545
   - [ ] **Sentence**: I **apologize** for my **unkind** comments during the **seminar**.*(日译: セミナー中の私の心ない発言を謝罪します。)*
   - [x] **apologize** `[əpɑ́lədʒàiz]` [自]: わびる、謝る (型: SV)
@@ -147,7 +147,7 @@
 - [ ] PS0546
   - [ ] **Sentence**: The doctor **asserted** the importance of the **therapy**.*(日译: 医師は治療の重要性を主張した。)*
   - [x] **assert** `[əsə́ːrt]` [他]: ...を断言する、...を強く主張する、...を擁護する (型: SVO)
-  - [ ] **therapy** `[θérəpi]` [名]: 治療、療法、理学療法
+  - [x] **therapy** `[θérəpi]` [名]: 治療、療法、理学療法
 - [ ] PS0547
   - [ ] **Sentence**: The **messenger assured** everyone that aid was coming soon.*(日译: その使者は皆に助けはすぐに来ると保証した。)*
   - [x] **messenger** `[mésəndʒər]` [名]: 使者、メッセンジャー、電報配達人
@@ -155,18 +155,18 @@
 - [ ] PS0548
   - [ ] **Sentence**: The scientist's **achievement** made her so famous that she was **constantly bothered** by the press.*(日译: その科学者の功績は彼女を非常に有名にしたので、彼女は絶えずマスコミに悩まされた。)*
   - [x] **achievement** `[ətʃíːvmənt]` [名]: 達成、業績
-  - [ ] **constantly** `[kɑ́nstəntli]` [副]: 絶えず、しきりに
-  - [ ] **bother** `[bɑ́ðər]` [他 / 自 / 名]: 【他】...を悩ます、...をうるさがらせる 【自】くよくよ思い悩む、わざわざする 【名】面倒、悩みの種 (型: SV, SVO)
+  - [x] **constantly** `[kɑ́nstəntli]` [副]: 絶えず、しきりに
+  - [x] **bother** `[bɑ́ðər]` [他 / 自 / 名]: 【他】...を悩ます、...をうるさがらせる 【自】くよくよ思い悩む、わざわざする 【名】面倒、悩みの種 (型: SV, SVO)
 
 - [ ] PS0549
   - [ ] **Sentence**: He **cheated** on the exam even though he had a **reputation** for **honesty**.*(日译: 彼は正直者という評判だったが、その試験で不正を働いた。)*
   - [x] **cheat** `[tʃíːt]` [自 / 他 / 名]: 【自】カンニングをする、詐欺を働く、浮気をする 【他】...を欺く、...からうまく逃れる 【名】詐欺師、偽物、ごまかし、不正行為 (型: SV, SVO)
-  - [ ] **reputation** `[rèpjutéiʃən]` [名]: 評判、名声
-  - [ ] **honesty** `[ɑ́nisti]` [名]: 正直、誠実(さ) (型: 不可算)
+  - [x] **reputation** `[rèpjutéiʃən]` [名]: 評判、名声
+  - [x] **honesty** `[ɑ́nisti]` [名]: 正直、誠実(さ) (型: 不可算)
 
 - [ ] PS0550
   - [ ] **Sentence**: The president **commanded** the army to delay its **departure**.*(日译: 大統領は軍に出発を遅らせるよう命じた。)*
-  - [ ] **command** `[kəmǽnd]` [他 / 自 / 名]: 【他】...に命じる、...を支配する、(尊敬など)を集める、...を見渡す位置にある 【自】命令を発する、見渡す位置にある 【名】命令、指揮権 (型: SV, SVO)
+  - [x] **command** `[kəmǽnd]` [他 / 自 / 名]: 【他】...に命じる、...を支配する、(尊敬など)を集める、...を見渡す位置にある 【自】命令を発する、見渡す位置にある 【名】命令、指揮権 (型: SV, SVO)
   - [x] **departure** `[dipɑ́ːrtʃər]` [名]: 出発、それること、逸脱
 - [ ] PS0551
   - [ ] **Sentence**: After the accident, the driver **confessed** that he hadn't stopped at the **crossing**.*(日译: 事故後、その運転手は交差点で停止しなかったと認めた。)*
