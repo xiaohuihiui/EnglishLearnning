@@ -170,14 +170,14 @@
   - [x] **departure** `[dipɑ́ːrtʃər]` [名]: 出発、それること、逸脱
 - [ ] PS0551
   - [ ] **Sentence**: After the accident, the driver **confessed** that he hadn't stopped at the **crossing**.*(日译: 事故後、その運転手は交差点で停止しなかったと認めた。)*
-  - [ ] **confess** `[kənfés]` [他 / 自]: 【他】...を告白する、...を認める 【自】認める、(罪などを)白状する (型: SV, SVO)
-  - [ ] **crossing** `[krɔ́ːsiŋ]` [名]: 交差点、横断歩道、航海、横断
+   - [x] **confess** `[kənfés]` [他 / 自]: 【他】...を告白する、...を認める 【自】認める、(罪などを)白状する (型: SV, SVO)
+   - [x] **crossing** `[krɔ́ːsiŋ]` [名]: 交差点、横断歩道、航海、横断
 
 - [ ] PS0552
   - [x] **Sentence**: The policies of the **administration** and the **Congress conflict** on the question of the defense **budget**.*(日译: 政府と議会の方針が防衛予算の問題で対立している。)*
-  - [ ] **administration** `[ædmìnəstréiʃən]` [名]: 政府、行政、管理、任期
-  - [ ] **congress** `[kɑ́ŋgris]` [名]: 議会、国会、会議
-  - [ ] **conflict** `[kənflíkt]` [自 / 名]: 【自】対立する、矛盾する 【名】闘争、衝突 (型: SV) (名詞発音: [kɑ́nflikt])
+  - [x] **administration** `[ædmìnəstréiʃən]` [名]: 政府、行政、管理、任期
+  - [x]  **congress** `[kɑ́ŋgris]` [名]: 議会、国会、会議
+  - [x] **conflict** `[kənflíkt]` [自 / 名]: 【自】対立する、矛盾する 【名】闘争、衝突 (型: SV) (名詞発音: [kɑ́nflikt])
   - [x] **budget** `[bʌ́dʒit]` [名 / 他 / 自]: 【名】予算、経費、生活費 【他】（時間・金額）を割り当てる 【自】予算を立てる
 
 - [ ] PS0553
@@ -186,30 +186,30 @@
   - [x] **regularly** `[régjələrli]` [副]: 定期的に、規則正しく
 - [ ] PS0554
   - [ ] **Sentence**: In an effort to encourage **diversity**, they will **debate** the **complicated** problem of **minority** rights.*(日译: 多様性を促すために、彼らはマイノリティーの権利という複雑な問題を討論する。)*
-  - [ ] **diversity** `[divə́ːrsəti]` [名]: 多様(性)、相違(点)
-  - [ ] **debate** `[dibéit]` [他 / 自 / 名]: 【他】...を論ずる、...を討論する 【自】討論する 【名】議論、論争、熟考 (型: SV, SVO)
-  - [ ] **complicated** `[kɑ́mpləkèitid]` [形]: 難しい、複雑な、込み入った
-  - [ ] **minority** `[minɔ́ːrəti]` [名]: 少数派、(多数に対して)少数、少数民族
+  - [x] **diversity** `[divə́ːrsəti]` [名]: 多様(性)、相違(点)
+  - [x] **debate** `[dibéit]` [他 / 自 / 名]: 【他】...を論ずる、...を討論する 【自】討論する 【名】議論、論争、熟考 (型: SV, SVO)
+  - [x] **complicated** `[kɑ́mpləkèitid]` [形]: 難しい、複雑な、込み入った
+  - [x]  **minority** `[minɔ́ːrəti]` [名]: 少数派、(多数に対して)少数、少数民族
 
 - [ ] PS0555
   - [ ] **Sentence**: He **deceived** wealthy women and sold them expensive **jewelry**.*(日译: 彼は裕福な女性たちをだまして高価な宝石を売りつけた。)*
-  - [ ] **deceive** `[disíːv]` [他 / 自]: 【他】...をだます、...を惑わす、...を裏切る 【自】うそをつく (型: SV, SVO)
+  - [x] **deceive** `[disíːv]` [他 / 自]: 【他】...をだます、...を惑わす、...を裏切る 【自】うそをつく (型: SV, SVO)
   - [x] **jewelry** `[dʒúːəlri]` [名]: 宝石類、アクセサリー (型: 不可算)
 - [ ] PS0556
   - [ ] **Sentence**: The judge **declared** the suspect **innocent** of murder.*(日译: 判事はその容疑者が殺人事件について無罪であると言明した。)*
-  - [ ] **declare** `[diklɛ́ər]` [他 / 自]: 【他】...を言明する、...を宣言する、...を申告する 【自】宣言する、意見を表明する (型: SV, SVO, SVOC)
-  - [ ] **innocent** `[ínəsnt]` [形 / 名]: 【形】無罪の、無邪気な、悪意のない、無害な 【名】無邪気な人
+  - [x] **declare** `[diklɛ́ər]` [他 / 自]: 【他】...を言明する、...を宣言する、...を申告する 【自】宣言する、意見を表明する (型: SV, SVO, SVOC)
+  - [x]  **innocent** `[ínəsnt]` [形 / 名]: 【形】無罪の、無邪気な、悪意のない、無害な 【名】無邪気な人
 
 - [ ] PS0557
   - [ ] **Sentence**: He **declined** the **timely** offer of a job with his uncle's **enterprise**.*(日译: 彼は叔父さんの企業で働くという、タイムリーな申し出を辞退した。)*
-  - [ ] **decline** `[dikláin]` [他 / 自 / 名]: 【他】...を辞退する [断る]、...を下に向ける 【自】断る、下に傾く、衰える 【名】衰え、下り勾配、晩年 (型: SV, SVO)
+  - [x] **decline** `[dikláin]` [他 / 自 / 名]: 【他】...を辞退する [断る]、...を下に向ける 【自】断る、下に傾く、衰える 【名】衰え、下り勾配、晩年 (型: SV, SVO)
   - [x] **timely** `[táimli]` [形]: タイムリーな、時機を得た
-  - [ ] **enterprise** `[éntərpràiz]` [名]: 企業、事業、活動、冒険心
+  - [x] **enterprise** `[éntərpràiz]` [名]: 企業、事業、活動、冒険心
 - [ ] PS0558
   - [ ] **Sentence**: He's **apparently discouraging** his kids from keeping a **chick**.*(日译: 彼はどうやら子どもたちにひよこを飼うことをやめさせようとしているようだ。)*
-  - [ ] **apparently** `[əpǽrəntli]` [副]: どうやら、見たところ
-  - [ ] **discourage** `[diskə́ːridʒ]` [他]: ...の希望を失わせる、...を落胆させる、...を妨げる (型: SVO)
-  - [ ] **chick** `[tʃík]` [名]: ひよこ、ひな、(俗語で)若い[魅力的な]女性
+  - [x] *apparently** `[əpǽrəntli]` [副]: どうやら、見たところ
+  - [x] **discourage** `[diskə́ːridʒ]` [他]: ...の希望を失わせる、...を落胆させる、...を妨げる (型: SVO)
+  - [x]  **chick** `[tʃík]` [名]: ひよこ、ひな、(俗語で)若い[魅力的な]女性
 
 - [ ] PS0559
   - [ ] **Sentence**: The couple **encountered** a big snake on their **honeymoon**.*(日译: その夫婦は新婚旅行中に大きなヘビに遭遇した。)*
@@ -218,7 +218,7 @@
 - [ ] PS0560
   - [ ] **Sentence**: He didn't **hesitate** to ask his new **tutor** out on a date after the first lesson.*(日译: 彼は最初の授業のあと、新しい家庭教師をデートに誘うことをためらわなかった。)*
   - [x] **hesitate** `[hézətèit]` [自]: ためらう、ちゅうちょする (型: SV)
-  - [ ] **tutor** `[tjúːtər]` [名 / 他 / 自]: 【名】家庭教師、(英)個別指導教員 【他】(人)を家庭教師として教える 【自】家庭教師をする
+  - [x] **tutor** `[tjúːtər]` [名 / 他 / 自]: 【名】家庭教師、(英)個別指導教員 【他】(人)を家庭教師として教える 【自】家庭教師をする
 
 - [ ] PS0561
   - [ ] **Sentence**: His design was **inspired** by the **posters** of the famous artist.*(日译: 彼のデザインはその有名な芸術家のポスターに触発された。)*
@@ -226,18 +226,18 @@
   - [x] **poster** `[póustər]` [名]: ポスター、広告ビラ
 - [ ] PS0562
   - [ ] **Sentence**: Car **dealers** should **instruct** their customers in the proper use of their cars.*(日译: 自動車ディーラーは彼らが扱う車の適切な使用法を顧客に教えるべきだ。)*
-  - [ ] **dealer** `[díːlər]` [名]: 販売人[店]、ディーラー
-  - [ ] **instruct** `[instrʌ́kt]` [他]: ...を教える、...を指示する (型: SVO)
+  - [x] **dealer** `[díːlər]` [名]: 販売人[店]、ディーラー
+  - [x] **instruct** `[instrʌ́kt]` [他]: ...を教える、...を指示する (型: SVO)
 - [ ] PS0563
   - [ ] **Sentence**: He **insulted** her by saying that her **behavior** at the party was **childish**.*(日译: 彼はそのパーティーでの彼女の振る舞いが子どもじみていたと言い、彼女を侮辱した。)*
-  - [ ] **insult** `[insʌ́lt]` [他 / 名]: 【他】...を侮辱する、...を辱める 【名】侮辱 (型: 主に SVO) (名詞発音: [ínsʌlt])
+  - [x] **insult** `[insʌ́lt]` [他 / 名]: 【他】...を侮辱する、...を辱める 【名】侮辱 (型: 主に SVO) (名詞発音: [ínsʌlt])
   - [x] **behavior** `[bihéivjər]` [名]: 振る舞い、動作、行儀
 
 - [ ] PS0564
   - [ ] **Sentence**: The director **persuaded** the actress not to bring her **bodyguard** onto the film set.*(日译: 監督はその女優に、撮影現場にはボディーガードを連れて来ないよう説得した。)*
-  - [ ] **childish** `[tʃáildiʃ]` [形]: 子どもじみた、幼稚な
+  - [x] **childish** `[tʃáildiʃ]` [形]: 子どもじみた、幼稚な
   - [x] **persuade** `[pərswéid]` [他]: ...を説得する、...を促す、...を納得させる (型: SVO)
-  - [ ] **bodyguard** `[bɑ́digɑ̀ːrd]` [名]: ボディーガード、護衛
+  - [x] **bodyguard** `[bɑ́digɑ̀ːrd]` [名]: ボディーガード、護衛
 - [ ] PS0565
   - [ ] **Sentence**: The minister **preached** about the need for love and **cooperation** between the races.*(日译: 牧師は人種間の愛と協力の必要性を説いた。)*
   - [ ] **preach** `[príːtʃ]` [自 / 他]: 【自】説教する、伝道する 【他】...を説く、...に説教する (型: SV, SVO)
@@ -245,66 +245,66 @@
 
 - [ ] PS0566
   - [ ] **Sentence**: The politician **remarked** that there should be a **ban** on rice imports **via** Southeast Asia.*(日译: その政治家は東南アジア経由の米の輸入を禁止するべきだと述べた。)*
-  - [ ] **remark** `[rimɑ́ːrk]` [他 / 自 / 名]: 【他】...を述べる、...に気付く 【自】感想を述べる 【名】批評、論評、意見、注目 (型: SV, SVO)
-  - [ ] **ban** `[bǽn]` [名 / 他]: 【名】禁止、非難 【他】...を禁止する
-  - [ ] **via** `[váiə]` [前]: ...経由で、...を通って、...の媒介で
+  - [x] **remark** `[rimɑ́ːrk]` [他 / 自 / 名]: 【他】...を述べる、...に気付く 【自】感想を述べる 【名】批評、論評、意見、注目 (型: SV, SVO)
+  - [x] **ban** `[bǽn]` [名 / 他]: 【名】禁止、非難 【他】...を禁止する
+  - [x] **via** `[váiə]` [前]: ...経由で、...を通って、...の媒介で
 - [ ] PS0567
   - [ ] **Sentence**: The mother **scolded** her son for **secretly** eating his little sister's chocolate cake.*(日译: 母は息子が妹のチョコレートケーキをこっそり食べたことをしかった。)*
-  - [ ] **scold** `[skóuld]` [他 / 自]: 【他】...をしかる、...に小言を言う 【自】うるさくしかる (型: SV, SVO)
+  - [x] **scold** `[skóuld]` [他 / 自]: 【他】...をしかる、...に小言を言う 【自】うるさくしかる (型: SV, SVO)
   - [x] **secretly** `[síːkritli]` [副]: こっそりと、秘密に、ひそかに
 
 - [ ] PS0568
   - [ ] **Sentence**: His wife **strongly urged** him to go to **counseling** to stop smoking.*(日译: 妻は彼に禁煙するためにカウンセリングに行くよう強く促した。)*
   - [x] **strongly** `[strɔ́ːŋli]` [副]: 強く、強硬に、強固に
-  - [ ] **urge** `[ə́ːrdʒ]` [他 / 自]: 【他】...に強く迫る、...をせきたてる、...を熱心に勧める 【自】かり立てる (型: SV, SVO)
-  - [ ] **counseling** `[káunsəliŋ]` [名]: カウンセリング、相談、協議
+  - [x] **urge** `[ə́ːrdʒ]` [他 / 自]: 【他】...に強く迫る、...をせきたてる、...を熱心に勧める 【自】かり立てる (型: SV, SVO)
+   - [x] **counseling** `[káunsəliŋ]` [名]: カウンセリング、相談、協議
 
 - [ ] PS0569
   - [ ] **Sentence**: They were **whispering; nevertheless**, I am sure they were talking about their **opposition** to the plan.*(日译: 彼らはひそひそ話をしていたけれど、その計画への反対意見について話していたと私は確信している。)*
   - [x] **whisper** `[hwíspər]` [自 / 他 / 名]: 【自】ささやく、ひそひそ話す 【他】...をささやく 【名】ささやき声、ひそひそ話、うわさ (型: SV, SVO)
-  - [ ] **nevertheless** `[nèvərðəlés]` [副]: それにもかかわらず、とは言っても
-  - [ ] **opposition** `[ɑ̀pəzíʃən]` [名]: 反対、抵抗、反目、反対者
+  - [x] **nevertheless** `[nèvərðəlés]` [副]: それにもかかわらず、とは言っても
+  - [x]  **opposition** `[ɑ̀pəzíʃən]` [名]: 反対、抵抗、反目、反対者
 - [ ] PS0570
   - [ ] **Sentence**: We all believed that her **amazing** story was real until she **winked** at the end of it.*(日译: 彼女が最後に目配せするまで、われわれは皆、彼女の驚くべき話を本当だと信じていた。)*
   - [x] **amazing** `[əméiziŋ]` [形]: 驚くべき、すごい
-  - [ ] **wink** `[wíŋk]` [自 / 他 / 名]: 【自】目配せする、まばたきする 【他】...をまばたきして知らせる 【名】目配せ、ウィンク (型: SV, SVO)
+  - [x]  **wink** `[wíŋk]` [自 / 他 / 名]: 【自】目配せする、まばたきする 【他】...をまばたきして知らせる 【名】目配せ、ウィンク (型: SV, SVO)
 
 - [ ] PS0571
   - [ ] **Sentence**: This new material **absorbs** sweat **significantly** more quickly than our **existing** products.*(日译: この新素材はわが社の既存製品よりもかなり早く汗を吸収する。)*
-  - [ ] **absorb** `[əbzɔ́ːrb]` [他]: ...を吸収する、...を取り入れる、...を熱中させる (型: SVO)
+  - [x] **absorb** `[əbzɔ́ːrb]` [他]: ...を吸収する、...を取り入れる、...を熱中させる (型: SVO)
   - [x] **significantly** `[signífikəntli]` [副]: 著しく、かなり、意味ありげに、意味深いことに
-  - [ ] **existing** `[igzístiŋ]` [形]: 現行の、現存する、現在の(限定用法)
+  - [x] **existing** `[igzístiŋ]` [形]: 現行の、現存する、現在の(限定用法)
 - [ ] PS0572
   - [ ] **Sentence**: I was **bitten** by my neighbor's dog in the past, and I'm still **scared** of dogs.*(日译: 過去に隣人の犬にかまれたことがあり、今でも犬が怖い。)*
-  - [ ] **bite** `[báit]` [他 / 自 / 名]: 【他】...をかむ、...を刺す、(寒さなどが)...にしみる 【自】かみつく 【名】かむこと、かみ傷、ひとかじり (型: SV, SVO)
+  - [x] **bite** `[báit]` [他 / 自 / 名]: 【他】...をかむ、...を刺す、(寒さなどが)...にしみる 【自】かみつく 【名】かむこと、かみ傷、ひとかじり (型: SV, SVO)
   - [x] **scared** `[skɛ́ərd]` [形]: おびえた、びっくりした
 
 - [ ] PS0573
   - [ ] **Sentence**: My dog **occasionally chews** our **slippers** when he needs more **affection**.*(日译: うちの犬はかまってほしくなると、時々私たちのスリッパをかむ。)*
   - [x] **occasionally** `[əkéiʒənəli]` [副]: 時々、時折
-  - [ ] **chew** `[tʃúː]` [他 / 自 / 名]: 【他】...をかむ、...をかみ砕く 【自】かみ砕く 【名】かむこと、かまれる物 (型: SV, SVO)
-  - [ ] **slipper** `[slípər]` [名]: (通常 slippers で)スリッパ
-  - [ ] **affection** `[əfékʃən]` [名]: 愛情、愛着、感情、作用
+  - [x] **chew** `[tʃúː]` [他 / 自 / 名]: 【他】...をかむ、...をかみ砕く 【自】かみ砕く 【名】かむこと、かまれる物 (型: SV, SVO)
+  - [x] **slipper** `[slípər]` [名]: (通常 slippers で)スリッパ
+  - [x] **affection** `[əfékʃən]` [名]: 愛情、愛着、感情、作用
 
 - [ ] PS0574
   - [ ] **Sentence**: I **chopped** vegetables for the **stew; meanwhile**, my daughter was frying the meat.*(日译: 私はシチューに入れる野菜を切り、その間に娘が肉を炒めた。)*
-  - [ ] **chop** `[tʃɑ́p]` [他 / 自 / 名]: 【他】...を切り刻む、...をたたき切る 【自】たたき切る 【名】たたき切ること、一撃、チョップ (型: SV, SVO)
-  - [ ] **stew** `[stjúː]` [名 / 他 / 自]: 【名】シチュー 【他】...をとろ火で煮る 【自】とろとろ煮える
+  - [x]  **chop** `[tʃɑ́p]` [他 / 自 / 名]: 【他】...を切り刻む、...をたたき切る 【自】たたき切る 【名】たたき切ること、一撃、チョップ (型: SV, SVO)
+  - [x]  **stew** `[stjúː]` [名 / 他 / 自]: 【名】シチュー 【他】...をとろ火で煮る 【自】とろとろ煮える
   - [x] **meanwhile** `[míːnhwàil]` [副]: その間に、一方では
 - [ ] PS0575
   - [ ] **Sentence**: The **enthusiastic** audience **clapped** their hands several times during the **mayor's** speech.*(日译: 熱心な聴衆は市長の演説の間に何度も拍手をした。)*
-  - [ ] **enthusiastic** `[inθùːziǽstik]` [形]: 熱心な、熱狂的な、夢中である
-  - [x] **clap** `[klǽp]` [他 / 自 / 名]: 【他】(手)をたたく、...に拍手する、...を激しく打ちつける、...をぽんとたたく 【自】拍手する 【名】パチパチという音 (型: SV, SVO)
-  - [ ] **mayor** `[méiər]` [名]: 市長、(地方自治体の)長
+  - [x]  **enthusiastic** `[inθùːziǽstik]` [形]: 熱心な、熱狂的な、夢中である
+  - [x]  **clap** `[klǽp]` [他 / 自 / 名]: 【他】(手)をたたく、...に拍手する、...を激しく打ちつける、...をぽんとたたく 【自】拍手する 【名】パチパチという音 (型: SV, SVO)
+  - [x]  **mayor** `[méiər]` [名]: 市長、(地方自治体の)長
 
 - [ ] PS0576
   - [ ] **Sentence**: Dogs will be more comfortable in summer if you **clip** off their **excess** hair with scissors.*(日译: はさみで余分な毛を刈ってやれば、犬たちは夏にもっと快適になるだろう。)*
-  - [ ] **clip** `[klíp]` [他 / 自 / 名]: 【他】①...を刈る、...を切り取る ②...をクリップで留める 【自】切る、疾走する 【名】①刈り込み、(新聞などの)切り抜き ②クリップ (型: SV, SVO)
-  - [ ] **excess** `[íkses]` [形 / 名]: 【形】過度の、余分の 【名】過剰、過密、差額、度を越すこと
+  - [x]  **clip** `[klíp]` [他 / 自 / 名]: 【他】①...を刈る、...を切り取る ②...をクリップで留める 【自】切る、疾走する 【名】①刈り込み、(新聞などの)切り抜き ②クリップ (型: SV, SVO)
+  - [x]  **excess** `[íkses]` [形 / 名]: 【形】過度の、余分の 【名】過剰、過密、差額、度を越すこと
 - [ ] PS0577
   - [ ] **Sentence**: Doctors say it is **desirable** for babies to learn to **crawl** before they start walking.*(日译: 医者たちは、赤ちゃんは歩き始める前にはうことを覚えるのが望ましいと言う。)*
-  - [ ] **desirable** `[dizáiərəbl]` [形 / 名]: 【形】望ましい、好ましい 【名】望ましいもの、立派な人
-  - [ ] **crawl** `[krɔ́ːl]` [自 / 名]: 【自】はう、ゆっくり進む、そっと近づく、あふれている 【名】はうこと、徐行 (型: SV)
+  - [x]  **desirable** `[dizáiərəbl]` [形 / 名]: 【形】望ましい、好ましい 【名】望ましいもの、立派な人
+  - [x]  **crawl** `[krɔ́ːl]` [自 / 名]: 【自】はう、ゆっくり進む、そっと近づく、あふれている 【名】はうこと、徐行 (型: SV)
   
 - [ ] **PS0578** (- 📷 缺失页：未上传 `0353.png`)
   - [ ] **Sentence**: *(等待手动补充：例句及日译)*
@@ -319,7 +319,7 @@
 - [ ] PS0580 (Page 077)
   - [ ] **Sentence**: He briefly stopped his workout, descended the stairs, and continued it in the garden.*(日译: 彼はトレーニングを一時中断して階段を下り、庭で続けた。)*
   - [x] **briefly** `[bríːfli]` [副]: ちょっとの間、簡潔に (03161)
-  - [ ] **workout** `[wə́ːrkàut]` [名]: トレーニング、練習、運動 (03162)
+  - [x] **workout** `[wə́ːrkàut]` [名]: トレーニング、練習、運動 (03162)
   - [x] **descend** `[disénd]` [他 / 自]: 【他】...を下る、...を降りる、（be descended で）...の子孫である 【自】降りる、下る、伝わる、身を落とす (型: SV, SVO) (関: ・descend from[to]... (...から[へ]降りる) ・be descended from... (...の血筋[系統]を引いている、...の子孫である)) (03163)
 
 - [ ] PS0581 (Page 077)
