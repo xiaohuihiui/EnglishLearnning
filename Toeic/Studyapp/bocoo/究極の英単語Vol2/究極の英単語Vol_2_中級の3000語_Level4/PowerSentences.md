@@ -324,84 +324,84 @@
 
 - [ ] PS0581 (Page 077)
   - [ ] **Sentence**: He dived into the river in a heroic attempt to save the child.*(日译: 彼は勇敢にもその子どもを助けようとして川に飛び込んだ。)*
-  - [ ] **dive** `[dáiv]` [自 / 名]: 【自】飛び込む、潜る、突進する 【名】飛び込み、ダイビング (活用: dived, dove / dived, 型: 主に SV, 関: ・dive in... (...に飛びつく、...を食べ始める) ・dive into... (...に飛び込む)) (03164)
-  - [ ] **heroic** `[hiróuik]` [形]: 勇敢な、英雄の (03165)
+  - [x] **dive** `[dáiv]` [自 / 名]: 【自】飛び込む、潜る、突進する 【名】飛び込み、ダイビング (活用: dived, dove / dived, 型: 主に SV, 関: ・dive in... (...に飛びつく、...を食べ始める) ・dive into... (...に飛び込む)) (03164)
+  - [x] **heroic** `[hiróuik]` [形]: 勇敢な、英雄の (03165)
   - [ ] **使える★フレーズ**: in an attempt to do (...しようとして)
 
 - [ ] PS0582 (Page 078)
   - [ ] **Sentence**: He cut down the trees and dragged the wood back with a tractor.*(日译: 彼は木を切り、その木材をトラクターで引いて戻った。)*
-  - [ ] **drag** `[drǽg]` [他 / 自 / 名]: 【他】...を引っ張る、...を引きずる 【自】引っ張られる、地面を引きずる (型: SV, SVO, 関: ・drag one's feet (足を引きずる) ・drag on ([会・行事などが]だらだら長引く、延々と続く)) 【名】引きずること、退屈きわまる人、じゃまもの、障害物 (03166)
-  - [ ] **tractor** `[trǽktər]` [名]: トラクター、牽引車 (03167)
+  - [x]  **drag** `[drǽg]` [他 / 自 / 名]: 【他】...を引っ張る、...を引きずる 【自】引っ張られる、地面を引きずる (型: SV, SVO, 関: ・drag one's feet (足を引きずる) ・drag on ([会・行事などが]だらだら長引く、延々と続く)) 【名】引きずること、退屈きわまる人、じゃまもの、障害物 (03166)
+  - [x]  **tractor** `[trǽktər]` [名]: トラクター、牽引車 (03167)
 
 - [ ] PS0583 (Page 078)
   - [ ] **Sentence**: Fold up the linen when you get out of bed.*(日译: 起きたらシーツをたたみなさい。)*
   - [x] **fold** `[fóuld]` [他 / 自 / 名]: 【他】...を折る、...を折りたたむ、（腕など）を組む、...を巻きつける 【自】折れる、折り重なる (型: SV, SVO, 関: ・fold... in three (...を3つに折る) ・with one's arms folded (手をこまぬいて、傍観して、腕を組んで)) 【名】折り目、折りじわ (03168)
     - (TOEIC part 1 頻出!: The man is folding the clothes. (男性が服をたたんでいる。))
-  - [ ] **linen** `[línin]` [名]: （シーツやナプキンなどの）リネン製品 (类: 不可算) (03169)
+  - [x] **linen** `[línin]` [名]: （シーツやナプキンなどの）リネン製品 (类: 不可算) (03169)
 
 - [ ] PS0584 (Page 079)
   - [ ] **Sentence**: She grasped the bloody sword tightly in her hand.*(日译: 彼女は血まみれの剣をしっかりと握った。)*
-  - [ ] **grasp** `[grǽsp]` [他 / 自 / 名]: 【他】...をしっかり握る、...をつかむ、...を理解する 【自】つかまえようとする (型: SV, SVO, 関: ・grasp an opportunity (機会をつかむ) ・grasp at straws (わらにもすがろうとする、困ったときは何にでもすがる)) 【名】つかむこと、理解力 (03170)
-  - [ ] **bloody** `[blʌ́di]` [形]: 血まみれの、血なまぐさい、いまいましい (03171)
-  - [ ] **sword** `[sɔ́ːrd]` [名]: 剣、刀 (03172)
+  - [x] **grasp** `[grǽsp]` [他 / 自 / 名]: 【他】...をしっかり握る、...をつかむ、...を理解する 【自】つかまえようとする (型: SV, SVO, 関: ・grasp an opportunity (機会をつかむ) ・grasp at straws (わらにもすがろうとする、困ったときは何にでもすがる)) 【名】つかむこと、理解力 (03170)
+  - [x] **bloody** `[blʌ́di]` [形]: 血まみれの、血なまぐさい、いまいましい (03171)
+  - [x] **sword** `[sɔ́ːrd]` [名]: 剣、刀 (03172)
 
 - [ ] PS0585 (Page 079)
   - [ ] **Sentence**: The puppy hopped over the little fence and ran out into the meadow.*(日译: 子犬は小さな柵を跳び越え、牧草地へと駆け出した。)*
   - [x] **puppy** `[pʌ́pi]` [名]: 子犬 (03173)
-  - [ ] **hop** `[hɑ́p]` [自 / 他 / 名]: 【自】跳ぶ、はねる 【他】...を跳び越える (型: SV, SVO, 関: ・hop in the car (車に飛び乗る) ・hop over... (...を跳び越す)) 【名】跳躍、短い旅行 (03174)
-  - [ ] **meadow** `[médou]` [名]: 牧草地、低湿地、草原 (03175)
+  - [x] **hop** `[hɑ́p]` [自 / 他 / 名]: 【自】跳ぶ、はねる 【他】...を跳び越える (型: SV, SVO, 関: ・hop in the car (車に飛び乗る) ・hop over... (...を跳び越す)) 【名】跳躍、短い旅行 (03174)
+  - [x] **meadow** `[médou]` [名]: 牧草地、低湿地、草原 (03175)
 
 - [ ] PS0586 (Page 080)
   - [ ] **Sentence**: All the crew knelt down and prayed for a safe voyage.*(日译: 全乗組員はひざまずいて安全な航海を祈った。)*
-  - [ ] **kneel** `[níːl]` [自]: ひざまずく、ひざをつく (活用: knelt, kneeled / knelt, kneeled, 型: SV, 関: ・kneel down (ひざまずく) ・kneel on the floor (床にひざまずく)) (03176)
+  - [x] **kneel** `[níːl]` [自]: ひざまずく、ひざをつく (活用: knelt, kneeled / knelt, kneeled, 型: SV, 関: ・kneel down (ひざまずく) ・kneel on the floor (床にひざまずく)) (03176)
     - (TOEIC part 1 頻出!: The boy is kneeling down in front of the building. (少年がビルの前でひざまずいている。))
-  - [ ] **voyage** `[vɔ́iiidʒ]` [名 / 自]: 【名】航海、船旅 【自】航海する (03177)
+  - [x] **voyage** `[vɔ́iiidʒ]` [名 / 自]: 【名】航海、船旅 【自】航海する (03177)
 
 - [ ] PS0587 (Page 080)
   - [ ] **Sentence**: He leaped from the window of the restroom just before the flames reached him.*(日译: 彼は火の手が回ってくる直前、化粧室の窓から飛び降りた。)*
-  - [ ] **leap** `[líːp]` [自 / 他 / 名]: 【自】跳ぶ、跳びはねる、さっと動く 【他】...を跳び越える (活用: leaped, leapt / leaped, leapt, 型: SV, SVO, 関: ・leap for joy (歓喜する) ・leap into... (...に飛び込む、...に飛び付く、...に飛び乗る)) 【名】跳躍 (03178)
-  - [ ] **restroom** `[réstruːm]` [名]: （レストラン・映画館などの）化粧室、トイレ、洗面所 (03179)
-  - [ ] **flame** `[fléim]` [名 / 自 / 他]: 【名】炎、情熱 【自】炎をあげて燃える、赤らむ 【他】...を燃やす (03180)
+  - [x] **leap** `[líːp]` [自 / 他 / 名]: 【自】跳ぶ、跳びはねる、さっと動く 【他】...を跳び越える (活用: leaped, leapt / leaped, leapt, 型: SV, SVO, 関: ・leap for joy (歓喜する) ・leap into... (...に飛び込む、...に飛び付く、...に飛び乗る)) 【名】跳躍 (03178)
+  - [x] **restroom** `[réstruːm]` [名]: （レストラン・映画館などの）化粧室、トイレ、洗面所 (03179)
+  - [x] **flame** `[fléim]` [名 / 自 / 他]: 【名】炎、情熱 【自】炎をあげて燃える、赤らむ 【他】...を燃やす (03180)
 
 - [ ] PS0588 (Page 081)
   - [ ] **Sentence**: The owner of the inn was napping in his favorite chair by the fireplace.*(日译: 宿屋の主人は暖炉のそばのお気に入りのいすでうたた寝をしていた。)*
-  - [ ] **inn** `[ín]` [名]: 宿屋、小さな旅館 (03181)
-  - [ ] **nap** `[nǽp]` [自 / 名]: 【自】うたた寝する、まどろむ (型: SV, 関: ・catch... napping (...が眠っているのを見つける、...の不意をつく)) 【名】うた寝 (03182)
+  - [x] **inn** `[ín]` [名]: 宿屋、小さな旅館 (03181)
+  - [x] **nap** `[nǽp]` [自 / 名]: 【自】うたた寝する、まどろむ (型: SV, 関: ・catch... napping (...が眠っているのを見つける、...の不意をつく)) 【名】うた寝 (03182)
     - (TOEIC part 1 頻出!: The dog is taking a nap on the porch. (犬がポーチで昼寝をしている。))
 
 - [ ] PS0589 (Page 081)
   - [ ] **Sentence**: He joined our team at the recommendation of the elder of the coaches, but he can't even pitch curve balls.*(日译: 彼は年長のほうのコーチの推薦でうちのチームに入ってきたのだが、カーブボールさえ投げられない。)*
   - [x] **recommendation** `[rèkəmendéiʃən]` [名]: 推薦、推薦状、長所 (03183)
   - [x] **elder** `[éldər]` [形 / 名]: 【形】年長の、年上の 【名】年長者、老人 (03184)
-  - [ ] **pitch** `[pítʃ]` [他 / 自 / 名]: 【他】...を投げる、...を調節する、...を張る 【自】投げる、傾く (型: SV, SVO, 関: ・pitch a perfect game ([投手が]完全試合をする)) 【名】投げること、（音の）調子、位置、傾斜 (03185)
+  - [x] **pitch** `[pítʃ]` [他 / 自 / 名]: 【他】...を投げる、...を調節する、...を張る 【自】投げる、傾く (型: SV, SVO, 関: ・pitch a perfect game ([投手が]完全試合をする)) 【名】投げること、（音の）調子、位置、傾斜 (03185)
 
 - [ ] PS0590 (Page 082)
   - [ ] **Sentence**: I couldn't pronounce the French word correctly.*(日译: 私はそのフランス語の単語を正しく発音することができなかった。)*
-  - [ ] **pronounce** `[prənáuns]` [他 / 自]: 【他】...を発音する、...を宣言する、...を申し渡す 【自】発音する、意見を述べる (型: SV, SVO, SVOC, 例: The doctor pronounced the patient dead. (医者はその患者が死んだと宣告した), 関: ・pronounce a sentence on... (...に刑を宣告する)) (03186)
+  - [x] **pronounce** `[prənáuns]` [他 / 自]: 【他】...を発音する、...を宣言する、...を申し渡す 【自】発音する、意見を述べる (型: SV, SVO, SVOC, 例: The doctor pronounced the patient dead. (医者はその患者が死んだと宣告した), 関: ・pronounce a sentence on... (...に刑を宣告する)) (03186)
   - [x] **correctly** `[kəréktli]` [副]: 正しく、正確に (03187)
-  - [ ] **French** [名 / 形]: フランスの、フランス語、フランス人
+  
 
 - [ ] PS0591 (Page 082)
   - [ ] **Sentence**: The comedian efficiently reused his old jokes to repeatedly entertain audiences.*(日译: そのコメディアンは自分の古いジョークを効率よく再利用し、観客を繰り返し楽しませた。)*
-  - [ ] **comedian** `[kəmíːdiən]` [名]: コメディアン、喜劇役者[作家]、こっけいな人 (03188)
+  - [x] **comedian** `[kəmíːdiən]` [名]: コメディアン、喜劇役者[作家]、こっけいな人 (03188)
   - [x] **efficiently** `[ifíʃəntli]` [副]: 効率よく、効率的に、効果的に (03189)
-  - [ ] **reuse** `[riːjúːz]` [他 / 名]: 【他】...を再利用する (型: SVO, 関: ・reuse the waste (廃棄物を再利用する)) 【名】再利用、再使用、リユース `[riːjúːs]` (03190)
+  - [x] **reuse** `[riːjúːz]` [他 / 名]: 【他】...を再利用する (型: SVO, 関: ・reuse the waste (廃棄物を再利用する)) 【名】再利用、再使用、リユース `[riːjúːs]` (03190)
   - [x] **repeatedly** `[ripíːtidli]` [副]: 繰り返して (03191)
 
 - [ ] PS0592 (Page 083)
   - [ ] **Sentence**: He often scratches his head when he feels uncomfortable or nervous.*(日译: 落ち着かなかったりいらいらしたりすると、彼はよく頭をかく。)*
-  - [ ] **scratch** `[skrǽtʃ]` [他 / 自 / 名]: 【他】...をひっかく、...に傷をつける、...をそぎ取る 【自】ひっかく (型: SV, SVO, 関: ・scratch the surface (表面を引っかく、上っ面だけを扱う[論じる]、初歩をやってみる) ・scratch one's head (頭をかきむしる)) 【名】ひっかき傷 (03192)
+  - [x] **scratch** `[skrǽtʃ]` [他 / 自 / 名]: 【他】...をひっかく、...に傷をつける、...をそぎ取る 【自】ひっかく (型: SV, SVO, 関: ・scratch the surface (表面を引っかく、上っ面だけを扱う[論じる]、初歩をやってみる) ・scratch one's head (頭をかきむしる)) 【名】ひっかき傷 (03192)
   - [x] **uncomfortable** `[ʌnkʌ́mfərtəbl]` [形]: 落ち着かない、心地よくない (03193)
 
 - [ ] PS0593 (Page 083)
   - [ ] **Sentence**: After a quick pursuit, he seized the thief and held him until the police arrived.*(日译: 素早い追跡で、彼は泥棒を捕まえ、警察が到着するまで身柄を拘束した。)*
-  - [ ] **pursuit** `[pərsúːt]` [名]: 追跡、追求、仕事 (03194)
-  - [ ] **seize** `[síːz]` [他 / 自]: 【他】...を逮捕する、...をつかむ、...を奪う、...を押収する 【自】つかむ、とらえる (型: SV, SVO, 関: ・seize on... (...をグッとつかむ、...につけ込む) ・seize power (権力を握る、政権を握る) ・seize the moment (きっかけをつかむ)) (03195)
+  - [x] **pursuit** `[pərsúːt]` [名]: 追跡、追求、仕事 (03194)
+  - [x] **seize** `[síːz]` [他 / 自]: 【他】...を逮捕する、...をつかむ、...を奪う、...を押収する 【自】つかむ、とらえる (型: SV, SVO, 関: ・seize on... (...をグッとつかむ、...につけ込む) ・seize power (権力を握る、政権を握る) ・seize the moment (きっかけをつかむ)) (03195)
 
 - [ ] PS0594 (Page 084)
   - [ ] **Sentence**: Because of the school's tight budget, the cheerleaders had to sew their own uniforms.*(日译: 学校の予算が厳しいので、チアリーダーたちは自分たちのユニホームを縫わなくてはならなかった。)*
-  - [ ] **cheerleader** `[tʃíərlìːdər]` [名]: チアリーダー (03196)
-  - [ ] **sew** `[sóu]` [他 / 自]: 【他】...を縫う、...を縫い合わせる 【自】縫い物をする (活用: sewed / sewn, sewed, 型: SV, SVO, 関: ・sew... on ~ (...を〜に縫いつける) ・sew... up (...を縫い合わせる、...の支配権を握る、...を確保する)) (03197)
+  - [x] **cheerleader** `[tʃíərlìːdər]` [名]: チアリーダー (03196)
+  - [x] **sew** `[sóu]` [他 / 自]: 【他】...を縫う、...を縫い合わせる 【自】縫い物をする (活用: sewed / sewn, sewed, 型: SV, SVO, 関: ・sew... on ~ (...を〜に縫いつける) ・sew... up (...を縫い合わせる、...の支配権を握る、...を確保する)) (03197)
 
 - [ ] PS0595 (Page 084)
   - [ ] **Sentence**: The children skipped along the sidewalk to school.*(日译: 子どもたちは学校までの歩道をスキップで行った。)*
