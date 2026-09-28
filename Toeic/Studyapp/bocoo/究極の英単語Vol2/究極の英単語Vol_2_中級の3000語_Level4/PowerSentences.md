@@ -405,78 +405,77 @@
 
 - [ ] PS0595 (Page 084)
   - [ ] **Sentence**: The children skipped along the sidewalk to school.*(日译: 子どもたちは学校までの歩道をスキップで行った。)*
-  - [ ] **skip** `[skíp]` [自 / 他 / 名]: 【自】軽く飛ぶ、スキップする、飛ばし読みする 【他】...を軽く飛び越える (型: SV, SVO, 関: ・skip breakfast (朝食を抜く) ・Skip it. (どうでもいいことだ。やめてくれ) ・skip school (学校をずる休みする)) 【名】スキップ、軽く飛ぶこと (03198)
+  - [x] **skip** `[skíp]` [自 / 他 / 名]: 【自】軽く飛ぶ、スキップする、飛ばし読みする 【他】...を軽く飛び越える (型: SV, SVO, 関: ・skip breakfast (朝食を抜く) ・Skip it. (どうでもいいことだ。やめてくれ) ・skip school (学校をずる休みする)) 【名】スキップ、軽く飛ぶこと (03198)
   - [x] **sidewalk** `[sáidwɔːk]` [名]: 歩道 (03199)
 
 - [ ] PS0596 (Page 085)
   - [ ] **Sentence**: He snapped his fingers when he came up with an exact translation of the Spanish word.*(日译: そのスペイン語にぴったりな訳語を思いついて、彼は指をパチンと鳴らした。)*
-  - [ ] **snap** `[snǽp]` [他 / 自 / 名]: 【他】...をパチンと鳴らす、...をボキッと折る、...をパクッとかむ 【自】ポキッと折れる、パクッとかみつく (型: SV, SVO, 関: ・snap one's fingers (指をパチンと鳴らす) ・snap back ([バネなどが]跳ね返る、急に元に戻る、言い返す) ・snap out of it (早く立ち直る、ぱっと気分転換する、元気を出す)) 【名】ピシッと打つこと[音]、ポキンと折れること[音]、スナップ写真 (03200)
-  - [ ] **translation** `[trænsléiʃən]` [名]: 翻訳、翻訳書、解釈 (03201)
-  - [ ] **Spanish** [名 / 形]: スペインの、スペイン語、スペイン人
+  - [x] **snap** `[snǽp]` [他 / 自 / 名]: 【他】...をパチンと鳴らす、...をボキッと折る、...をパクッとかむ 【自】ポキッと折れる、パクッとかみつく (型: SV, SVO, 関: ・snap one's fingers (指をパチンと鳴らす) ・snap back ([バネなどが]跳ね返る、急に元に戻る、言い返す) ・snap out of it (早く立ち直る、ぱっと気分転換する、元気を出す)) 【名】ピシッと打つこと[音]、ポキンと折れること[音]、スナップ写真 (03200)
+  - [x] **translation** `[trænsléiʃən]` [名]: 翻訳、翻訳書、解釈 (03201)
 
 - [ ] PS0597 (Page 085)
   - [ ] **Sentence**: A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.*(日译: ウエーターが彼女のドレスに赤ワインをこぼしたので、彼女はそれについて支配人に激しく文句を言った。)*
-  - [ ] **spill** `[spíl]` [他 / 自]: 【他】...をこぼす、...をまき散らす、(血など)を流す、...を振り落とす 【自】こぼれる、落ちる (活用: spilled, spilt / spilled, spilt, 型: SV, SVO, 関: ・spill out (あふれ出る、こぼれる) ・spill the beans (秘密をばらす)) (03202)
-  - [ ] **bitterly** `[bítərli]` [副]: 激しく、ひどく、苦々しく (03203)
+  - [x] **spill** `[spíl]` [他 / 自]: 【他】...をこぼす、...をまき散らす、(血など)を流す、...を振り落とす 【自】こぼれる、落ちる (活用: spilled, spilt / spilled, spilt, 型: SV, SVO, 関: ・spill out (あふれ出る、こぼれる) ・spill the beans (秘密をばらす)) (03202)
+  - [x] **bitterly** `[bítərli]` [副]: 激しく、ひどく、苦々しく (03203)
 
 - [ ] PS0598 (Page 086)
   - [ ] **Sentence**: I squeezed the tube, but there was scarcely any toothpaste in it.*(日译: 私はチューブをきつく絞ったが、歯磨き粉はほとんど残っていなかった。)*
-  - [ ] **squeeze** `[skwíːz]` [他 / 自]: 【他】...を圧搾する、...（の水分など）を搾る、...から搾取する 【自】圧搾する、押し分けて進む (型: SV, SVO, 関: ・squeeze... from ~ (...を〜から搾る) ・squeeze into... (...にぎゅうぎゅうに詰め込む、...に無理に押し込む) ・be squeezed out of... (...から締め出される)) (03204)
-  - [ ] **scarcely** `[skéərsli]` [副]: ほとんど...ない、おそらく...ない、かろうじて (03205)
+  - [x]  **squeeze** `[skwíːz]` [他 / 自]: 【他】...を圧搾する、...（の水分など）を搾る、...から搾取する 【自】圧搾する、押し分けて進む (型: SV, SVO, 関: ・squeeze... from ~ (...を〜から搾る) ・squeeze into... (...にぎゅうぎゅうに詰め込む、...に無理に押し込む) ・be squeezed out of... (...から締め出される)) (03204)
+   - [x] **scarcely** `[skéərsli]` [副]: ほとんど...ない、おそらく...ない、かろうじて (03205)
 
 - [ ] PS0599 (Page 086)
   - [ ] **Sentence**: As the cook stirred the stew, she added the essential ingredient - a piece of ginger.*(日译: その料理人はシチューをかき混ぜながら、欠かせない食材、生姜を一片加えた。)*
   - [x] **stir** `[stə́ːr]` [他 / 自]: 【他】...をかき混ぜる、...を動かす、...を覚醒させる 【自】動く、起きている、（感情などが）わきあがる (型: SV, SVO, 関: ・stir... with ~ (...を〜でかき混ぜる) ・stir memories of... (...の記憶を呼び覚ます)) (03206)
   - [x] **ingredient** `[ingríːdiənt]` [名]: 材料、成分、要素、原料、重要な要素 (03207)
-  - [ ] **ginger** `[dʒíndʒər]` [名]: ショウガ、辛味、元気 (类: 通常不可算) (03208)
+  - [x] **ginger** `[dʒíndʒər]` [名]: ショウガ、辛味、元気 (类: 通常不可算) (03208)
 
 - [ ] PS0600 (Page 087)
   - [ ] **Sentence**: Even an athletic person like him can strain a muscle while playing sports.*(日译: 彼のように運動が得意な人でもスポーツ中に筋肉を痛めることはある。)*
-  - [ ] **athletic** `[æθlétik]` [形]: 運動が得意な、運動競技の、運動選手の (03209)
-  - [ ] **strain** `[stréin]` [他 / 自 / 名]: 【他】（体など）を使いすぎて痛める、...を引っ張る、（体など）を最大限に働かせる、（意味など）を曲げる 【自】引っ張る、筋肉などを最大限に張りつめる、懸命に努力する (型: SV, SVO, 関: ・strain to hear (耳を澄ます) ・strain ties with... (...との関係を緊張させる)) 【名】①曲げる[引っ張る]力、緊張、（力・圧力による）ひずみ[損傷]、重荷 ②血統、品種、素質 (03210)
+  - [x] **athletic** `[æθlétik]` [形]: 運動が得意な、運動競技の、運動選手の (03209)
+  - [x] **strain** `[stréin]` [他 / 自 / 名]: 【他】（体など）を使いすぎて痛める、...を引っ張る、（体など）を最大限に働かせる、（意味など）を曲げる 【自】引っ張る、筋肉などを最大限に張りつめる、懸命に努力する (型: SV, SVO, 関: ・strain to hear (耳を澄ます) ・strain ties with... (...との関係を緊張させる)) 【名】①曲げる[引っ張る]力、緊張、（力・圧力による）ひずみ[損傷]、重荷 ②血統、品種、素質 (03210)
 
 - [ ] PS0601 (Page 087)
   - [ ] **Sentence**: He got awfully drunk and stripped down to his underwear in front of us.*(日译: 彼はひどく酔っぱらってしまい、われわれの目の前で下着姿になるまで脱いだ。)*
   - [x] **awfully** `[ɔ́ːfuli]` [副]: とても、ひどく (03211)
-  - [ ] **strip** `[stríp]` [自 / 他]: 【自】服を脱ぐ、裸になる 【他】...を裸にする、...を奪う、...を取り除く (活用: stripped / stripped, 型: SV, SVO, SVOC, 例: They stripped him naked for the operation. (彼らは手術のために彼を裸にした), 関: ・strip down to... (...になるまで脱ぐ) ・strip... of ~ (...から〜を取り去る[奪う・剥奪する])) (03212)
+  - [x] **strip** `[stríp]` [自 / 他]: 【自】服を脱ぐ、裸になる 【他】...を裸にする、...を奪う、...を取り除く (活用: stripped / stripped, 型: SV, SVO, SVOC, 例: They stripped him naked for the operation. (彼らは手術のために彼を裸にした), 関: ・strip down to... (...になるまで脱ぐ) ・strip... of ~ (...から〜を取り去る[奪う・剥奪する])) (03212)
 
 - [ ] PS0602 (Page 088)
   - [ ] **Sentence**: The knight and his horse wandered over the meadows in the heavy mist.*(日译: 騎士と彼の馬は濃霧の中でその草地をさまよった。)*
-  - [ ] **knight** `[náit]` [名]: 騎士、ナイト爵位（の人） (03213)
-  - [ ] **wander** `[wɑ́ndər]` [自 / 他 / 名]: 【自】さまよう、歩き回る、迷う、（思考などが）とりとめがなくなる 【他】...を歩き回る (型: SV, SVO, 関: ・My mind wandered. (ぼんやりしていたよ) ・wander around... (...をぶらつく) ・wander from... (...からそれる、...を踏み外す)) 【名】ぶらつくこと (03214)
-  - [ ] **mist** `[míst]` [名]: 霧、もや、噴霧（剤） (03215)
+   - [x] **knight** `[náit]` [名]: 騎士、ナイト爵位（の人） (03213)
+   - [x] **wander** `[wɑ́ndər]` [自 / 他 / 名]: 【自】さまよう、歩き回る、迷う、（思考などが）とりとめがなくなる 【他】...を歩き回る (型: SV, SVO, 関: ・My mind wandered. (ぼんやりしていたよ) ・wander around... (...をぶらつく) ・wander from... (...からそれる、...を踏み外す)) 【名】ぶらつくこと (03214)
+   - [x] **mist** `[míst]` [名]: 霧、もや、噴霧（剤） (03215)
 
 - [ ] PS0603 (Page 088)
   - [ ] **Sentence**: The people of this town weave beautiful silk cloth with dragon and lion patterns.*(日译: この町の人々はドラゴンとライオンの模様の美しい絹布を織る。)*
-  - [ ] **weave** `[wíːv]` [他 / 自 / 名]: 【他】①...を織る、...を編む ②...をジグザグに進ませる 【自】①織物を織る ②ジグザグに進む (活用: wove, weaved / woven, wove, weaved, 型: SV, SVO, 関: ・weave one's way through... (...の合間をうまく擦り抜ける) ・weave... into ~ (...を編んで〜にする)) (03216)
+  - [x] **weave** `[wíːv]` [他 / 自 / 名]: 【他】①...を織る、...を編む ②...をジグザグに進ませる 【自】①織物を織る ②ジグザグに進む (活用: wove, weaved / woven, wove, weaved, 型: SV, SVO, 関: ・weave one's way through... (...の合間をうまく擦り抜ける) ・weave... into ~ (...を編んで〜にする)) (03216)
     - (TOEIC part 1 頻出!: The women are weaving baskets. (女性たちがかごを編んでいる。))
-  - [ ] **dragon** `[drǽgən]` [名]: 竜、ドラゴン (03217)
+   - [x] **dragon** `[drǽgən]` [名]: 竜、ドラゴン (03217)
 
 - [ ] PS0604 (Page 089)
   - [ ] **Sentence**: He whipped his horse toward the end of the race and barely beat his competitor.*(日译: 彼はレース終盤にかけて馬にむちを入れ、かろうじて競争相手を打ち負かした。)*
   - [ ] **whip** `[hwíp]` [他 / 自 / 名]: 【他】...をむち打つ、...をたたく、...を急に動かす 【自】急に動く (型: SV, SVO, 関: ・whip... up (...を素早く用意する、...を煽り立てる、...をひっつかむ)) 【名】むち、むち打ち、ホイップ (03218)
   - [ ] **barely** `[bέərli]` [副]: かろうじて、わずかに (03219)
-  - [ ] **competitor** `[kəmpétitər]` [名]: 競争相手、競争者[チーム] (03220)
+  - [x] **competitor** `[kəmpétitər]` [名]: 競争相手、競争者[チーム] (03220)
 
 - [ ] PS0605 (Page 089)
   - [ ] **Sentence**: The pregnant woman on the couch yawned and closed her sleepy eyes.*(日译: ソファに座ったその妊娠中の女性はあくびをし、その眠そうな瞳を閉じた。)*
   - [x] **pregnant** `[prégnənt]` [形]: 妊娠している、意味深長な、充満した、豊富な (03221)
-  - [ ] **couch** `[káutʃ]` [名 / 他 / 自]: 【名】長いす、ソファ、枕つき長いす、寝台 【他】...を表す、（be couched で）体を横たえる、...を暗に示す、...を下げる 【自】横たわる、うずくまる (03222)
-  - [ ] **yawn** `[jɔ́ːn]` [自 / 他 / 名]: 【自】あくびをする 【他】あくびをしながら...と言う (型: SV, SVO, 関: ・make... yawn (...にあくびをさせる、...を退屈させる)) 【名】あくび (03223)
+ - [x] **couch** `[káutʃ]` [名 / 他 / 自]: 【名】長いす、ソファ、枕つき長いす、寝台 【他】...を表す、（be couched で）体を横たえる、...を暗に示す、...を下げる 【自】横たわる、うずくまる (03222)
+ - [x] **yawn** `[jɔ́ːn]` [自 / 他 / 名]: 【自】あくびをする 【他】あくびをしながら...と言う (型: SV, SVO, 関: ・make... yawn (...にあくびをさせる、...を退屈させる)) 【名】あくび (03223)
 
 - [ ] PS0606 (Page 090)
   - [ ] **Sentence**: The woman abused her son for years, but her husband never realized the incidents.*(日译: その女性は息子を何年にもわたって虐待したが、彼女の夫はそのことにまったく気づかなかった。)*
-  - [ ] **abuse** `[əbjúːz]` [他 / 名]: 【他】...を虐待する、...を悪用[乱用]する (型: SVO, 関: ・abuse the system (システムを悪用する)) 【名】乱用、虐待 `[əbjúːs]` (03224)
-  - [ ] **incident** `[ínsədənt]` [名]: 出来事、事件、紛争 (03225)
+  - [x] **abuse** `[əbjúːz]` [他 / 名]: 【他】...を虐待する、...を悪用[乱用]する (型: SVO, 関: ・abuse the system (システムを悪用する)) 【名】乱用、虐待 `[əbjúːs]` (03224)
+  - [x] **incident** `[ínsədənt]` [名]: 出来事、事件、紛争 (03225)
 
 - [ ] PS0607 (Page 090)
   - [ ] **Sentence**: He accomplished many things as chair of the traffic safety commission.*(日译: 交通安全委員会の委員長として、彼は多くのことを成し遂げた。)*
-  - [ ] **accomplish** `[əkɑ́mpliʃ]` [他]: ...を成し遂げる、...を遂行する (型: SVO, 関: ・accomplish a lot (十分達成する) ・accomplish one's goal (目的を果たす、目標を達成する)) (03226)
-  - [ ] **commission** `[kəmíʃən]` [名 / 他]: 【名】委員会、委任、任務、手数料 【他】...を委任する、...に権限を与える (03227)
+  - [x] **accomplish** `[əkɑ́mpliʃ]` [他]: ...を成し遂げる、...を遂行する (型: SVO, 関: ・accomplish a lot (十分達成する) ・accomplish one's goal (目的を果たす、目標を達成する)) (03226)
+  - [x] **commission** `[kəmíʃən]` [名 / 他]: 【名】委員会、委任、任務、手数料 【他】...を委任する、...に権限を与える (03227)
 
 - [ ] PS0608 (Page 091)
   - [ ] **Sentence**: After 10 years on the city council, he has acquired a lot of knowledge regarding city planning.*(日译: 市議会での10年間を経て、彼は都市計画について多くの知識を得た。)*
-  - [ ] **council** `[káunsəl]` [名]: 議会、協議会 (03228)
+  - [x] **council** `[káunsəl]` [名]: 議会、協議会 (03228)
   - [x] **acquire** `[əkwáiər]` [原/他]: ...を得る、...を身に付ける (型: SVO, 関: ・acquire the ability to do (...する能力を獲得する)) (03229)
   - [x] **regarding** `[rigɑ́ːrdiŋ]` [前]: ...に関して、...について (03230)
 
@@ -484,8 +483,8 @@
   - [ ] **Sentence**: Patients have been adapting to more affordable treatments under the physician's direction.*(日译: 患者たちは医師の指示のもと、より手頃な治療法に適応してきた。)*
   - [x] **adapt** `[ədǽpt]` [自 / 他]: 【自】適応する 【他】...に適応させる、...に合わせて変える (型: SV, SVO, 関: ・adapt... to ~ (...を〜に合わせる) ・the ability to adapt (適応能力)) (03231)
   - [x] **affordable** `[əfɔ́ːrdəbl]` [形]: 手頃な価格の、手に入る (03232)
-  - [ ] **treatment** `[tríːtmənt]` [名]: 治療、処置、取り扱い、待遇 (03233)
-  - [ ] **physician** `[fizíʃən]` [名]: 医者、医師 (03234)
+  - [x]  **treatment** `[tríːtmənt]` [名]: 治療、処置、取り扱い、待遇 (03233)
+  - [x]  **physician** `[fizíʃən]` [名]: 医者、医師 (03234)
 
 • [ ] PS0610 (Page 92 - 📷 缺失页：未上传 0092.png)
 	○ [ ] Sentence: (等待手动补充：例句及日译)
@@ -499,8 +498,8 @@
   - [ ] **concerning** `[kənsə́ːrniŋ]` [前]: ...に関して (03241) *(注: 此词位于 Page 093 顶部，属于断档漏掉词汇关联)*
   - [ ] **Sentence**: Most people associate Edison with electrical inventions.*(日译: ほとんどの人がエジソンで電気の発明を連想する。)*
   - [x] **associate** `[əsóuʃièit]` [他 / 自 / 名 / 形]: 【他】...を連想する、...を仲間する 【自】提携する、交際する (型: SV, SVO, 関: ・associate... with ~ (...で〜を連想する) ・associate with... (...と付き合う[交際する、一緒に行動する]) ・associate oneself with... (...と共同する、...に賛同[加盟]する)) 【名】提携者、共同経営者、仲間、準会員 `[əsóuʃiət]` 【形】（仕事などを）一緒にやっている、仲間の、準... `[əsóuʃiət]` (03242)
-  - [ ] **electrical** `[iléktrikəl]` [形]: 電気の[による]、電気関係の (03243)
-  - [ ] **invention** `[invénʃən]` [名]: 発明（品） (03244)
+  - [x] **electrical** `[iléktrikəl]` [形]: 電気の[による]、電気関係の (03243)
+   - [x] **invention** `[invénʃən]` [名]: 発明（品） (03244)
     - (TOEIC part 4 頻出!: This new invention will change our way of life in many ways. (この新発明は、私たちの生活をいろいろな角度から変えていくのです。))
 
 - [ ] PS0613 (Page 093)
@@ -510,9 +509,9 @@
 
 - [ ] PS0614 (Page 094)
   - [ ] **Sentence**: He blended two poisonous chemicals into the fatal drink.*(日译: 彼は2つの毒薬を混ぜ合わせてその死のドリンクを作った。)*
-  - [ ] **blend** `[blénd]` [他 / 自 / 名]: 【他】...をよく混ぜ合わせる、...を調和させる 【自】よく混ざり合う、調和する (型: SV, SVO, 関: ・blend... into ~ (...を混ぜて〜にする) ・blend in with... (...に溶け込む、...と調和する)) 【名】混合、混合物、ブレンド (03247)
-  - [ ] **poisonous** `[pɔ́izənəs]` [形]: 有毒な、有害な (03248)
-  - [ ] **fatal** `[féitl]` [形]: 命にかかわる、致命的な、決定的な (03249)
+ - [x] **blend** `[blénd]` [他 / 自 / 名]: 【他】...をよく混ぜ合わせる、...を調和させる 【自】よく混ざり合う、調和する (型: SV, SVO, 関: ・blend... into ~ (...を混ぜて〜にする) ・blend in with... (...に溶け込む、...と調和する)) 【名】混合、混合物、ブレンド (03247)
+ - [x] **poisonous** `[pɔ́izənəs]` [形]: 有毒な、有害な (03248)
+ - [x]  **fatal** `[féitl]` [形]: 命にかかわる、致命的な、決定的な (03249)
 
 - [ ] PS0615 (Page 094)
   - [ ] **Sentence**: After escaping from Japan, he was finally captured halfway around the world in Brazil.*(日译: 日本から脱出後、彼はついに地球の反対側のブラジルで捕まった。)*
