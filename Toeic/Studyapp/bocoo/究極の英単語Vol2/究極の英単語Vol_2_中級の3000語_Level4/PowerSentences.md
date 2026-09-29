@@ -515,60 +515,60 @@
 
 - [ ] PS0615 (Page 094)
   - [ ] **Sentence**: After escaping from Japan, he was finally captured halfway around the world in Brazil.*(日译: 日本から脱出後、彼はついに地球の反対側のブラジルで捕まった。)*
-  - [ ] **capture** `[kǽptʃər]` [他 / 名]: 【他】...を捕らえる、...を獲得する (型: SVO, 関: ・capture a suspect (容疑者を捕らえる) ・capture someone's interest (...の関心を引く)) 【名】捕獲、逮捕、捕虜 (03250)
-  - [ ] **halfway** `[hǽfwèi]` [副 / 形]: 【副】中間で、途中で、半分だけ 【形】中間の、中途の (03251)
+  - [x] **capture** `[kǽptʃər]` [他 / 名]: 【他】...を捕らえる、...を獲得する (型: SVO, 関: ・capture a suspect (容疑者を捕らえる) ・capture someone's interest (...の関心を引く)) 【名】捕獲、逮捕、捕虜 (03250)
+  - [x] **halfway** `[hǽfwèi]` [副 / 形]: 【副】中間で、途中で、半分だけ 【形】中間の、中途の (03251)
 
 - [ ] PS0616 (Page 094-095)
   - [ ] **Sentence**: The manual combines good maintenance advice with helpful illustrations.*(日译: その説明書は、整備に関する適切な助言と役立つ挿絵とを組み合わせている。)*
-  - [ ] **manual** `[mǽnjuəl]` [名 / 形]: 【名】説明書、マニュアル、小冊子 【形】手の、手動の (03252)
-  - [ ] **combine** `[kəmbáin]` [他 / 自 / 名]: 【他】...を組み合わせる、...を結合して一体にする、...を合わせ持つ 【自】結合する (型: SV, SVO, 関: ・combine... with ~ (...と〜を組み合わせる) ・combine into one (合体する)) 【名】連合体、企業連合 `[kɑ́mbain]` (03253)
+  - [x] **manual** `[mǽnjuəl]` [名 / 形]: 【名】説明書、マニュアル、小冊子 【形】手の、手動の (03252)
+  - [x] **combine** `[kəmbáin]` [他 / 自 / 名]: 【他】...を組み合わせる、...を結合して一体にする、...を合わせ持つ 【自】結合する (型: SV, SVO, 関: ・combine... with ~ (...と〜を組み合わせる) ・combine into one (合体する)) 【名】連合体、企業連合 `[kɑ́mbain]` (03253)
   - [x] **maintenance** `[méintənəns]` [名]: 整備、維持、保守 (类: 不可算) (03254)
-  - [ ] **illustration** `[ìləstréiʃən]` [名]: 挿絵、イラスト、実例 (03255)
+  - [x] **illustration** `[ìləstréiʃən]` [名]: 挿絵、イラスト、実例 (03255)
 
 - [ ] PS0617 (Page 095)
   - [ ] **Sentence**: Many young people commit crimes due to poverty and despair.*(日译: 多くの若者は貧困と絶望から犯罪を犯す。)*
-  - [ ] **commit** `[kəmít]` [他]: （罪・過失など）を犯す、...を委任する、...を収容する、...をゆだねる、（commit oneself で）自分の立場を明言する、誓う (型: 主に SVO, 関: ・commit a murder (殺人を犯す) ・commit... to ~ (...を〜に託す、...を〜に送る、...を〜にゆだねる) ・commit oneself on... (...について立場を明らかにする)) (03256)
-  - [ ] **poverty** `[pɑ́vərti]` [名]: 貧困、欠乏 (类: 不可算) (03257)
-  - [ ] **despair** `[dispέər]` [名 / 自]: 【名】絶望、失望 【自】絶望する、あきらめる (03258)
+  - [x] **commit** `[kəmít]` [他]: （罪・過失など）を犯す、...を委任する、...を収容する、...をゆだねる、（commit oneself で）自分の立場を明言する、誓う (型: 主に SVO, 関: ・commit a murder (殺人を犯す) ・commit... to ~ (...を〜に託す、...を〜に送る、...を〜にゆだねる) ・commit oneself on... (...について立場を明らかにする)) (03256)
+  - [x] **poverty** `[pɑ́vərti]` [名]: 貧困、欠乏 (类: 不可算) (03257)
+  - [x] **despair** `[dispέər]` [名 / 自]: 【名】絶望、失望 【自】絶望する、あきらめる (03258)
 
 - [ ] PS0618 (Page 096)
   - [ ] **Sentence**: The swimmer's strong determination drives her on to compete for a better ranking.*(日译: その水泳選手の強い意志は、よりよい順位を勝ち取るよう彼女を突き動かす。)*
   - [x] **determination** `[ditə̀ːrminéiʃən]` [名]: 決意、決心、決定 (类: 通常不可算) (03259)
-  - [ ] **compete** `[kəmpíːt]` [自]: （競技会などに）参加する、競争する、匹敵する (型: SV, 関: ・compete in... (...に参加する) ・compete with... (...と競争する、...と張り合う)) (03260)
-  - [ ] **ranking** `[rǽŋkiŋ]` [名]: ランキング、順位、ランク付け (03261)
+  - [x] **compete** `[kəmpíːt]` [自]: （競技会などに）参加する、競争する、匹敵する (型: SV, 関: ・compete in... (...に参加する) ・compete with... (...と競争する、...と張り合う)) (03260)
+  - [x]  **ranking** `[rǽŋkiŋ]` [名]: ランキング、順位、ランク付け (03261)
 
 - [ ] PS0619 (Page 096)
   - [ ] **Sentence**: He couldn't concentrate on the task because he lacked the motivation to build a database.*(日译: 彼はデータベースを構築する意欲がなかったため、その仕事に集中できなかった。)*
-  - [ ] **concentrate** `[kɑ́nsəntrèit]` [自 / 他 / 名]: 【自】集中する、専念する、濃縮する 【他】...を集める、...を濃縮する (型: SV, SVO, 関: ・concentrate on... (...に集中する) ・concentrate... on ~ (...を〜に集中させる)) 【名】凝縮[濃縮]物 (03262)
+   - [x] **concentrate** `[kɑ́nsəntrèit]` [自 / 他 / 名]: 【自】集中する、専念する、濃縮する 【他】...を集める、...を濃縮する (型: SV, SVO, 関: ・concentrate on... (...に集中する) ・concentrate... on ~ (...を〜に集中させる)) 【名】凝縮[濃縮]物 (03262)
   - [x] **task** `[tǽsk]` [名 / 他]: 【名】仕事、作業 【他】...に過酷な負担をかける (03263)
-  - [ ] **motivation** `[mòutəvéiʃən]` [名]: 意欲、自発性、動機付け、刺激 (03264)
+  - [x] **motivation** `[mòutəvéiʃən]` [名]: 意欲、自発性、動機付け、刺激 (03264)
   - [x] **database** `[déitəbèis]` [名]: データベース (03265)
 
 - [ ] PS0620 (Page 097)
   - [ ] **Sentence**: Even Napoleon couldn't conquer Russia during its harsh winter.*(日译: ナポレオンでさえあの厳冬期にロシアを征服することはできなかった。)*
-  - [ ] **conquer** `[kɑ́ŋkər]` [他 / 自]: 【他】...を征服する、...を克服する 【自】征服する、勝つ (型: SV, SVO, 関: ・conquer one's fears (恐怖心を克服する) ・conquer nature (自然を克服する)) (03266)
-  - [ ] **harsh** `[hɑ́ːrʃ]` [形]: 厳しい、過酷な、ざらざらした (03267)
+  - [x] **conquer** `[kɑ́ŋkər]` [他 / 自]: 【他】...を征服する、...を克服する 【自】征服する、勝つ (型: SV, SVO, 関: ・conquer one's fears (恐怖心を克服する) ・conquer nature (自然を克服する)) (03266)
+  - [x] **harsh** `[hɑ́ːrʃ]` [形]: 厳しい、過酷な、ざらざらした (03267)
 
 - [ ] PS0621 (Page 097)
   - [ ] **Sentence**: That tall building was constructed last year, and it completely changed the scenery around here.*(日译: 昨年あの高層ビルが建てられ、この辺りの景観をすっかり変えてしまった。)*
   - [x] **construct** `[kənstrʌ́kt]` [他 / 名]: 【他】...を建設する、...を組み立てる、...を構成する (型: SVO, 関: ・construct a theory (理論を組み立てる) ・well constructed (うまく構成された、よく出来た)) 【名】建築物、構成物 `[kɑ́nstrʌkt]` (03268)
-  - [ ] **scenery** `[síːnəri]` [名]: 景観、風景 (类: 不可算) (03269)
+  - [x] **scenery** `[síːnəri]` [名]: 景観、風景 (类: 不可算) (03269)
 
 - [ ] PS0622 (Page 098)
   - [ ] **Sentence**: My father won an award that included the prize of cruising around the globe.*(日译: 私の父は地球を一周するクルージングをする賞品を含む賞を獲得した。)*
   - [x] **award** `[əwɔ́ːrd]` [名 / 他]: 【名】賞、賞品、賞金 【他】...を（賞として）与える (03270)
-  - [ ] **cruise** `[krúːz]` [自 / 他 / 名]: 【自】巡航する、巡洋する、快適に走る、巡回する、歩き回る 【他】...をゆっくり走る (型: SV, SVO, 関: ・cruise down to... ([車で]...へ行く) ・cruise round (周航する)) 【名】巡航、巡洋航海、船旅 (03271)
+  - [x] **cruise** `[krúːz]` [自 / 他 / 名]: 【自】巡航する、巡洋する、快適に走る、巡回する、歩き回る 【他】...をゆっくり走る (型: SV, SVO, 関: ・cruise down to... ([車で]...へ行く) ・cruise round (周航する)) 【名】巡航、巡洋航海、船旅 (03271)
   - [x] **globe** `[glóub]` [名]: 地球、球体 (03272)
 
 - [ ] PS0623 (Page 098)
   - [ ] **Sentence**: She decorated the table in the living room with lace.*(日译: 彼女はリビングのテーブルをレースで飾った。)*
-  - [ ] **decorate** `[dékərèit]` [他]: ...を飾る、...にペンキを塗る (型: SVO, 関: ・decorate... with ~ (...を〜で飾る) ・be decorated in... ([色など]でインテリアがまとめられている)) (03273)
-  - [ ] **lace** `[léis]` [名 / 他 / 自]: 【名】レース、ひも 【他】...をひもで締める 【自】ひもで締まる (03274)
+  - [x] **decorate** `[dékərèit]` [他]: ...を飾る、...にペンキを塗る (型: SVO, 関: ・decorate... with ~ (...を〜で飾る) ・be decorated in... ([色など]でインテリアがまとめられている)) (03273)
+  - [x]  **lace** `[léis]` [名 / 他 / 自]: 【名】レース、ひも 【他】...をひもで締める 【自】ひもで締まる (03274)
 
 - [ ] PS0624 (Page 099)
   - [ ] **Sentence**: He has demonstrated extraordinary talent as a violinist.*(日译: 彼はバイオリン奏者としてたぐいまれな才能を示した。)*
-  - [ ] **demonstrate** `[démənstrèit]` [他 / 自]: 【他】...を明示する、...を証明する、...を示す 【自】意思表示する (型: SV, SVO, 関: ・demonstrate against... (...に反対するデモ[示威運動]を行う)) (03275)
-  - [ ] **extraordinary** `[ikstrɔ́ːrdənèri]` [形]: 非凡な、非常な、特命の (03276)
+  - [x] **demonstrate** `[démənstrèit]` [他 / 自]: 【他】...を明示する、...を証明する、...を示す 【自】意思表示する (型: SV, SVO, 関: ・demonstrate against... (...に反対するデモ[示威運動]を行う)) (03275)
+  - [x] **extraordinary** `[ikstrɔ́ːrdənèri]` [形]: 非凡な、非常な、特命の (03276)
     - (TOEIC part 5,6 頻出!: What an extraordinary success our business has become in just a few years. (わずか数年でわれわれの事業はなんという驚くべき成功を収めたのだろう。))
 
 - [ ] PS0625 (Page 099)
@@ -588,15 +588,15 @@
 
 - [x] PS0628 (Page 101)
   - [ ] **large quantities of ...** [词组]: 大量の... *(注: 位于 Page 101 顶部补遗)*
-  - [ ] **Sentence**: In his speech, he emphasized the need to make the company's business more profitable.*(日译: スピーチの中で彼は会社の事業をより収益の高いものにする必要性を強調した。)*
-  - [ ] **emphasize** `[émfəsàiz]` [他]: ...を強調する、...を重要視する (型: SVO, 関: ・emphasize that... (...ということを強調する) ・emphasize the importance of... (...の重要性を強調する) ・emphasize a word (語を強調して言う)) (03286)
-  - [ ] **profitable** `[prɑ́fitəbl]` [形]: 利益になる、有益な、ためになる (03287)
+  - [x] **Sentence**: In his speech, he emphasized the need to make the company's business more profitable.*(日译: スピーチの中で彼は会社の事業をより収益の高いものにする必要性を強調した。)*
+  - [x] **emphasize** `[émfəsàiz]` [他]: ...を強調する、...を重要視する (型: SVO, 関: ・emphasize that... (...ということを強調する) ・emphasize the importance of... (...の重要性を強調する) ・emphasize a word (語を強調して言う)) (03286)
+ - [x] **profitable** `[prɑ́fitəbl]` [形]: 利益になる、有益な、ためになる (03287)
 
 - [ ] PS0629 (Page 101)
   - [ ] **Sentence**: Feedback from clients can enable us to increase company revenue.*(日译: 顧客からの意見によって、会社の収入を増加させることができる。)*
   - [x] **feedback** `[fíːdbæ̀k]` [名]: フィードバック、反応 (03288)
   - [x] **enable** `[inéibl]` [他]: ...を可能にする (型: SVO, 関: ・enable... to do (...に〜することを可能にさせる)) (03289)
-  - [ ] **revenue** `[révənjùː]` [名]: 収入（源）、歳入、総所得額、国税庁 (03290)
+  - [x] **revenue** `[révənjùː]` [名]: 収入（源）、歳入、総所得額、国税庁 (03290)
 
 - [ ] PS0630 (Page 102)
   - [ ] **Sentence**: She enclosed her recent pictures in the packet she sent to her parents.*(日译: 彼女は自分の最近の写真を両親への小包に同封した。)*
@@ -606,49 +606,49 @@
 
 - [ ] PS0631 (Page 102)
   - [ ] **Sentence**: The victims had to endure severe food shortages after the floods.*(日译: 被害者たちは洪水の後、深刻な食料不足に耐えなければならなかった。)*
-  - [ ] **endure** `[indjúər]` [他 / 自]: 【他】...に耐える、...を我慢する 【自】耐える、持ちこたえる (型: SV, SVO, 関: ・as long as life endures (命の続く限り) ・endure doing (...するのを耐える)) (03293)
+  - [x] **endure** `[indjúər]` [他 / 自]: 【他】...に耐える、...を我慢する 【自】耐える、持ちこたえる (型: SV, SVO, 関: ・as long as life endures (命の続く限り) ・endure doing (...するのを耐える)) (03293)
   - [x] **shortage** `[ʃɔ́ːrtidʒ]` [名]: 不足、不足高 (03294)
 
 - [ ] PS0632 (Page 102-103)
   - [ ] **Sentence**: She is actively engaging in volunteer work as the organization's administrator.*(日译: 彼女はその団体の管理者としてボランティア活動に積極的に従事している。)*
-  - [ ] **actively** `[ǽktivli]` [副]: 積極的に、活発に (03295)
-  - [ ] **engage** `[ingéidʒ]` [自 / 他]: 【自】従事する、誓う 【他】...を従事させる、...を婚約させる、（心・注意など）を引く (型: SV, SVO, 関: ・engage in... (...に従事する) ・engage for... (...を請け合う、...を保証する)) (03296)
+  - [x] **actively** `[ǽktivli]` [副]: 積極的に、活発に (03295)
+  - [x] **engage** `[ingéidʒ]` [自 / 他]: 【自】従事する、誓う 【他】...を従事させる、...を婚約させる、（心・注意など）を引く (型: SV, SVO, 関: ・engage in... (...に従事する) ・engage for... (...を請け合う、...を保証する)) (03296)
   - [x] **administrator** `[ædmínəstrèitər]` [名]: 管理者、行政官 (03297)
 
 - [ ] PS0633 (Page 103)
   - [ ] **Sentence**: The millionaire proudly exhibited his art collection at the city museum.*(日译: その大富豪は自身の美術コレクションを市の博物館に誇らしげに展示した。)*
-  - [ ] **millionaire** `[mìljənέər]` [名]: 富豪、百万長者 (03298)
-  - [ ] **proudly** `[práudli]` [副]: 誇らしげに、威張って、堂々と (03299)
-  - [ ] **exhibit** `[igzíbit]` [他 / 名]: 【他】...を展示する、（感情など）を表す、...を見せる (型: 主に SVO, 関: ・exhibit signs of... (...の兆候を示す)) 【名】提出、提示、公示 (03300)
+  - [x] **millionaire** `[mìljənέər]` [名]: 富豪、百万長者 (03298)
+  - [x] **proudly** `[práudli]` [副]: 誇らしげに、威張って、堂々と (03299)
+  - [x]  **exhibit** `[igzíbit]` [他 / 名]: 【他】...を展示する、（感情など）を表す、...を見せる (型: 主に SVO, 関: ・exhibit signs of... (...の兆候を示す)) 【名】提出、提示、公示 (03300)
 
 - [ ] PS0634 (Page 103)
   - [ ] **Sentence**: His bike is exposed to the heavy rain in the stormy weather.*(日译: 大荒れの天候のなか、彼の自転車は豪雨にさらされている。)*
   - [x] **expose** `[ikspóuz]` [他]: ...をさらす、...を陳列する、...を暴露する (型: SVO, 関: ・expose... to ~ (...を〜にさらす) ・expose a secret (秘密を暴く)) (03301)
-  - [ ] **stormy** `[stɔ́ːrmi]` [形]: 荒れ模様の、嵐の、激しい (03302)
+  - [x] **stormy** `[stɔ́ːrmi]` [形]: 荒れ模様の、嵐の、激しい (03302)
 
 - [ ] PS0635 (Page 104)
   - [ ] **Sentence**: Following the environmental impact assessment, he decided to flee from the dangerous zone.*(日译: 環境影響評価の後、彼は危険地帯からの脱出を決意した。)*
-  - [ ] **assessment** `[əsésmənt]` [名]: 評価（額）、査定（額） (03303)
+  - [x] **assessment** `[əsésmənt]` [名]: 評価（額）、査定（額） (03303)
     - (TOEIC part 7 頻出!: Do you know the importance of having an accurate and quick assessment of the company's financial status? (会社の財政状況を正確に素早く評価することの重要性をご存じですか？))
-  - [ ] **flee** `[flíː]` [自 / 他]: 【自】逃げる、消える 【他】...から逃げる (活用: fled / fled, 型: SV, SVO, 関: ・flee from... (...から逃げる) ・flee abroad (国外逃亡する) ・flee the scene (現場から逃げる)) (03304)
+  - [x] **flee** `[flíː]` [自 / 他]: 【自】逃げる、消える 【他】...から逃げる (活用: fled / fled, 型: SV, SVO, 関: ・flee from... (...から逃げる) ・flee abroad (国外逃亡する) ・flee the scene (現場から逃げる)) (03304)
 
 - [ ] PS0636 (Page 104)
   - [ ] **Sentence**: Parliament makes legislation, and the administration governs the country.*(日译: 国会は法律を制定し、政府は国を統治する。)*
-  - [ ] **parliament** `[pɑ́ːrləmənt]` [名]: （Parliament で）国会、議会 (03305)
-  - [ ] **legislation** `[lèdʒisléiʃən]` [名]: 法律、立法 (类: 不可算) (03306)
-  - [ ] **govern** `[gʌ́vərn]` [他 / 自]: 【他】...を統治[支配]する、...を管理する、...を左右する 【自】統治を行う (型: SV, SVO, 関: ・govern oneself (自制する)) (03307)
+  - [x] **parliament** `[pɑ́ːrləmənt]` [名]: （Parliament で）国会、議会 (03305)
+  - [x] **legislation** `[lèdʒisléiʃən]` [名]: 法律、立法 (类: 不可算) (03306)
+  - [x] **govern** `[gʌ́vərn]` [他 / 自]: 【他】...を統治[支配]する、...を管理する、...を左右する 【自】統治を行う (型: SV, SVO, 関: ・govern oneself (自制する)) (03307)
 
 - [ ] PS0637 (Page 105)
   - [ ] **Sentence**: If we just imitate other companies' products, we will never see any significant growth in our sales.*(日译: 他社の製品をただまねても、わが社の売り上げに大きな伸びは決して見られないだろう。)*
-  - [ ] **imitate** `[ímətèit]` [他]: ...をまねる、...を見習う、...を模写[模造・偽造]する (型: SVO, 関: ・imitate nature (自然を模倣する)) (03308)
-  - [x]**significant** `[signífikənt]` [形]: 大幅な、重要な、意味のある (03309)
+  - [x] **imitate** `[ímətèit]` [他]: ...をまねる、...を見習う、...を模写[模造・偽造]する (型: SVO, 関: ・imitate nature (自然を模倣する)) (03308)
+  - [x] **significant** `[signífikənt]` [形]: 大幅な、重要な、意味のある (03309)
     - (TOEIC part 5,6 頻出!: There have been significant increases in sales this quarter. (今四半期の売り上げは大幅に増えている。))
 
 - [ ] PS0638 (Page 105)
   - [ ] **Sentence**: In terms of economics, the government wants to impose a heavier tax burden on office workers.*(日译: 経済学の観点から、政府は会社員に増税という重荷を課したがっている。)*
   - [x] **economics** `[ìːkənɑ́miks]` [名]: （単数扱い）経済学、（複数扱い）経済状態 (03310)
-  - [ ] **impose** `[impóuz]` [他 / 自]: 【他】...を課する、...を押しつける、...をつかませる 【自】つけこむ、無理強いする (型: SV, SVO, 関: ・impose... on ~ (...を〜に課す、...を〜に押しつける)) (03311)
-  - [ ] **burden** `[bə́ːrdn]` [名 / 他]: 【名】負担、重荷、荷物 【他】...に重荷を負わせる (03312)
+  - [x] **impose** `[impóuz]` [他 / 自]: 【他】...を課する、...を押しつける、...をつかませる 【自】つけこむ、無理強いする (型: SV, SVO, 関: ・impose... on ~ (...を〜に課す、...を〜に押しつける)) (03311)
+  - [x] **burden** `[bə́ːrdn]` [名 / 他]: 【名】負担、重荷、荷物 【他】...に重荷を負わせる (03312)
 
 - [ ] PS0639 (Page 106)
   - [ ] **Sentence**: Our research indicates that the new medicine is more efficient than conventional treatments.*(日译: われわれの研究は、その新薬が従来の治療よりも効率的であることを示している。)*
@@ -660,35 +660,35 @@
 
 - [ ] PS0640 (Page 106)
   - [ ] **Sentence**: He inherited his mother's chain of lodges and inns, so now he's a millionaire.*(日译: 彼は母親の山小屋と宿屋のチェーンを受け継いだので、今では大金持ちだ。)*
-  - [ ] **inherit** `[inhérit]` [他 / 自]: 【他】...を受け継ぐ、...を相続する 【自】財産を受け継ぐ、人の後を継ぐ (型: SV, SVO, 関: ・inherit... from ~ (...を〜から相続する[受け継ぐ])) (03316)
-  - [ ] **lodge** `[lɑ́dʒ]` [名 / 自 / 他]: 【名】山小屋、番小屋、ロッジ 【自】泊まる 【他】...を泊める (03317)
+  - [x] **inherit** `[inhérit]` [他 / 自]: 【他】...を受け継ぐ、...を相続する 【自】財産を受け継ぐ、人の後を継ぐ (型: SV, SVO, 関: ・inherit... from ~ (...を〜から相続する[受け継ぐ])) (03316)
+  - [x] **lodge** `[lɑ́dʒ]` [名 / 自 / 他]: 【名】山小屋、番小屋、ロッジ 【自】泊まる 【他】...を泊める (03317)
 
 - [ ] PS0641 (Page 107)
   - [ ] **Sentence**: The runner was badly injured when he fell on a steep slope and hit a tree.*(日译: そのランナーは急な斜面で転倒して木にぶつかり、大けがを負った。)*
   - [x] **injure** `[índʒər]` [他]: ...を痛める[傷つける]、...を害する (型: SVO, 関: ・injure oneself with... (...でけがをする)) (03318)
-  - [ ] **steep** `[stíːp]` [形 / 名 / 他]: 【形】急な、険しい、不当に高い 【名】①急勾配の場所 ②浸すこと 【他】...を浸す (03319)
+  - [x] **steep** `[stíːp]` [形 / 名 / 他]: 【形】急な、険しい、不当に高い 【名】①急勾配の場所 ②浸すこと 【他】...を浸す (03319)
 
 - [ ] PS0642 (Page 107)
   - [ ] **Sentence**: He instituted a fund to protect wildlife in Alaska.*(日译: 彼はアラスカの野生生物を保護するための基金を設置した。)*
-  - [ ] **institute** `[ínstətjùːt]` [他 / 名]: 【他】（制度・習慣）を設ける、...を制定する、...を始める、...を任命する (型: SVO, 関: ・institute rules (規制を制定する) ・institute reforms (改革を始める)) 【名】会、学会 (03320)
-  - [ ] **wildlife** `[wáildlàif]` [名]: 野生生物 (类: 不可算) (03321)
+  - [x] **institute** `[ínstətjùːt]` [他 / 名]: 【他】（制度・習慣）を設ける、...を制定する、...を始める、...を任命する (型: SVO, 関: ・institute rules (規制を制定する) ・institute reforms (改革を始める)) 【名】会、学会 (03320)
+  - [x] **wildlife** `[wáildlàif]` [名]: 野生生物 (类: 不可算) (03321)
 
 - [ ] PS0643 (Page 108)
   - [ ] **Sentence**: We could have reached a settlement if he hadn't interfered in the negotiations.*(日译: もし彼が交渉に口出しをしなければ、私たちは合意に達していただろう。)*
-  - [ ] **settlement** `[sétlmənt]` [名]: 解決、合意、入植、定住 (03322)
+  - [x] **settlement** `[sétlmənt]` [名]: 解決、合意、入植、定住 (03322)
   - [ ] **interfere** `[ìntərfíər]` [自]: 邪魔をする、干渉する、調停する、衝突する (型: SV, 関: ・interfere in... (...に干渉する、...に口出しする) ・interfere with... (...の邪魔をする)) (03323)
   - [ ] **negotiation** `[nigòuʃiéiʃən]` [名]: 交渉、話し合い、乗り越えること (03324)
-    - (TOEIC part 2,3 頻出!: Please let me be involved in the negotiation of our salaries. (どうか給与交渉に私を加えてください。))
+   - (TOEIC part 2,3 頻出!: Please let me be involved in the negotiation of our salaries. (どうか給与交渉に私を加えてください。))
 
 - [ ] PS0644 (Page 108)
   - [ ] **Sentence**: In ancient times when armies invaded other lands, they showed no mercy toward the native people.*(日译: 古代において、軍隊が他国の地を侵略する際は先住民に対して無慈悲だった。)*
-  - [ ] **ancient** `[éinʃənt]` [形 / 名]: 【形】古代の、大昔の 【名】古代人 (03325)
-  - [ ] **invade** `[invéid]` [他 / 自]: 【他】...を侵略する、...に侵入する、...に押し寄せる 【自】侵入する、侵略する (型: 主に SVO, 関: ・invade the territory (領域を侵す) ・invade privacy (プライバシーを侵害する)) (03326)
-  - [ ] **mercy** `[mə́ːrsi]` [名]: 慈悲、寛容、ありがたいこと (03327)
+  - [x]  **ancient** `[éinʃənt]` [形 / 名]: 【形】古代の、大昔の 【名】古代人 (03325)
+  - [x]  **invade** `[invéid]` [他 / 自]: 【他】...を侵略する、...に侵入する、...に押し寄せる 【自】侵入する、侵略する (型: 主に SVO, 関: ・invade the territory (領域を侵す) ・invade privacy (プライバシーを侵害する)) (03326)
+  - [x]  **mercy** `[mə́ːrsi]` [名]: 慈悲、寛容、ありがたいこと (03327)
 
 - [ ] PS0645 (Page 109)
   - [ ] **Sentence**: Nowadays, major companies are afraid to invest in new business ventures.*(日译: 近ごろ、大企業は新しい投機的事業に投資するのを恐れている。)*
-  - [x]**nowadays** `[náuədèiz]` [副 / 名]: 【副】近ごろ、今日では 【名】現代 (03328)
+  - [x] **nowadays** `[náuədèiz]` [副 / 名]: 【副】近ごろ、今日では 【名】現代 (03328)
   - [x] **invest** `[invést]` [自 / 他]: 【自】投資する 【他】...を投資する、...を運用する、（時間や精力など）を使う、...を付与する、...に備わる (型: SV, SVO, 関: ・invest in... (...に投資する)) (03329)
     - (TOEIC part 2,3 頻出!: I invested my life savings in this project, and I hope it will be successful. (私は老後の蓄えをこの事業に投資したの。事業が成功するといいんだけど。))
   - [x] **venture** `[véntʃər]` [名 / 他 / 自]: 【名】投機的事業、冒険 【他】...を危険にさらす、...を冒険的に試みる 【自】危険を冒して行く (03330)
@@ -697,13 +697,13 @@
 - [ ] PS0646 (Page 110)
   - [ ] **Sentence**: The police are investigating the cause of the explosion and the possibility of a link to terror groups.*(日译: 警察はその爆発の原因とテログループとの関連の可能性を調べている。)*
   -[x] **investigate** `[invéstəgèit]` [他 / 自]: 【他】...を調査する、...を研究する、...を捜査する 【自】研究する (型: SV, SVO, 関: ・investigate a case (事件を捜査する)) (03331)
-  - [ ] **explosion** `[iksplóuʒən]` [名]: 爆発 (03332)
-  - [ ] **terror** `[térər]` [名]: テロ（行為）、非常な恐ろしさ (03333)
+  -[x] **explosion** `[iksplóuʒən]` [名]: 爆発 (03332)
+  -[x] **terror** `[térər]` [名]: テロ（行為）、非常な恐ろしさ (03333)
 
 - [ ] PS0647 (Page 110)
   - [ ] **Sentence**: The missing teenager was not kidnapped but willingly ran away from home with her boyfriend.*(日译: その行方不明のティーンエージャーは誘拐されたのではなく、進んで恋人と家出したのだった。)*
-  - [ ] **kidnap** `[kídnæ̀p]` [他 / 名]: 【他】...を誘拐する、...をさらる (型: SVO, 関: ・kidnap a child (子どもを誘拐する)) 【名】誘拐 (03334)
-  - [ ] **willingly** `[wíliŋli]` [副]: 進んで、喜んで (03335)
+  -[x]  **kidnap** `[kídnæ̀p]` [他 / 名]: 【他】...を誘拐する、...をさらる (型: SVO, 関: ・kidnap a child (子どもを誘拐する)) 【名】誘拐 (03334)
+  -[x] **willingly** `[wíliŋli]` [副]: 進んで、喜んで (03335)
   - [ ] **使える★フレーズ**: run away from ... (...から逃げ出す、[主義]を捨てる)
 
 - [ ] PS0648 (Page 111)
