@@ -676,8 +676,8 @@
 - [ ] PS0643 (Page 108)
   - [ ] **Sentence**: We could have reached a settlement if he hadn't interfered in the negotiations.*(日译: もし彼が交渉に口出しをしなければ、私たちは合意に達していただろう。)*
   - [x] **settlement** `[sétlmənt]` [名]: 解決、合意、入植、定住 (03322)
-  - [ ] **interfere** `[ìntərfíər]` [自]: 邪魔をする、干渉する、調停する、衝突する (型: SV, 関: ・interfere in... (...に干渉する、...に口出しする) ・interfere with... (...の邪魔をする)) (03323)
-  - [ ] **negotiation** `[nigòuʃiéiʃən]` [名]: 交渉、話し合い、乗り越えること (03324)
+   - [x] **interfere** `[ìntərfíər]` [自]: 邪魔をする、干渉する、調停する、衝突する (型: SV, 関: ・interfere in... (...に干渉する、...に口出しする) ・interfere with... (...の邪魔をする)) (03323)
+   - [x] **negotiation** `[nigòuʃiéiʃən]` [名]: 交渉、話し合い、乗り越えること (03324)
    - (TOEIC part 2,3 頻出!: Please let me be involved in the negotiation of our salaries. (どうか給与交渉に私を加えてください。))
 
 - [ ] PS0644 (Page 108)
@@ -708,20 +708,20 @@
 
 - [ ] PS0648 (Page 111)
   - [ ] **Sentence**: He caused a sensation when, against nearly impossible odds, he located the royal tomb.*(日译: 不可能に思えるような確率だったにもかかわらず、その王家の墓を発見し、彼は世間を騒がせた。)*
-  - [ ] **sensation** `[senséiʃən]` [名]: 物議、感覚 (03336)
-  - [ ] **odds** `[ɑ́dz]` [名]: 確率、見込み、賭け率（オッズ） (03337)
-  - [x] **locate** `[lóukeit]` [他 / 自]: 【他】...の所在位置を突き止める、...を発見する、...を置く 【自】定住する (型: SV, SVO, 関: ・be located in[on]... (...に位置する、...にある)) (03338)
-  - [ ] **tomb** `[túːm]` [名]: 墓、霊廟、墓石 (03339)
+  -[x]  **sensation** `[senséiʃən]` [名]: 物議、感覚 (03336)
+  -[x]  **odds** `[ɑ́dz]` [名]: 確率、見込み、賭け率（オッズ） (03337)
+   -[x]  **locate** `[lóukeit]` [他 / 自]: 【他】...の所在位置を突き止める、...を発見する、...を置く 【自】定住する (型: SV, SVO, 関: ・be located in[on]... (...に位置する、...にある)) (03338)
+   -[x]  **tomb** `[túːm]` [名]: 墓、霊廟、墓石 (03339)
 
 - [ ] PS0649 (Page 111)
   - [ ] **Sentence**: A skillful carpenter can mend an old chair like new.*(日译: 腕のいい大工なら古い椅子を新品のように修復できる。)*
-  - [ ] **skillful** `[skílfəl]` [形]: 腕のいい、熟練した (03340)
-  - [ ] **mend** `[ménd]` [他 / 自 / 名]: 【他】...を修復する、...を直す、...を癒やす 【自】快方に向かう、よくなる (型: SV, SVO, 関: ・mend... with ~ (...を〜で直す) ・mend one's ways (行いを改める、更生する)) 【名】修繕、改良 (03341)
+   -[x]  **skillful** `[skílfəl]` [形]: 腕のいい、熟練した (03340)
+   -[x]  **mend** `[ménd]` [他 / 自 / 名]: 【他】...を修復する、...を直す、...を癒やす 【自】快方に向かう、よくなる (型: SV, SVO, 関: ・mend... with ~ (...を〜で直す) ・mend one's ways (行いを改める、更生する)) 【名】修繕、改良 (03341)
 
 - [ ] PS0650 (Page 112)
   - [ ] **Sentence**: Rebels would never obey them.*(日译: 反逆者たちは決して彼らに従わないだろう。)*
-  - [ ] **rebel** `[rébəl]` [名 / 形 / 自]: 【名】反逆者、反抗者 【形】反抗する、反逆の 【自】反抗する、反乱を起こす `[ribél]` (03342)
-  - [x] **obey** `[oubéi]` [他 / 自]: 【他】...に従う、...に応じる 【自】言われたとおりにする (型: SV, SVO, 関: ・obey the law (法律に従う、法律を守る)) (03343)
+   -[x]  **rebel** `[rébəl]` [名 / 形 / 自]: 【名】反逆者、反抗者 【形】反抗する、反逆の 【自】反抗する、反乱を起こす `[ribél]` (03342)
+   - [x] **obey** `[oubéi]` [他 / 自]: 【他】...に従う、...に応じる 【自】言われたとおりにする (型: SV, SVO, 関: ・obey the law (法律に従う、法律を守る)) (03343)
 
 - [ ] PS0651 (Page 112)
   - [ ] **Sentence**: Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.*(日译: 幸運にも、彼はトラックの運転免許を取得し、その食料品店で職を得ることができた。)*
@@ -741,15 +741,15 @@
   - [ ] **Sentence**: He is confident that the company will eventually overcome its current problems.*(日译: 彼は会社が現在の問題をいずれは克服するだろうと確信している。)*
   - [x] **confident** `[kɑ́nfidənt]` [形]: 確信している、自信がある (03350)
     - (TOEIC part 5,6 頻出!: We are confident that you will enjoy our entertainment. (私たちの出し物を、きっとお楽しみいただけるものと思います。))
-  - [ ] **eventually** `[ivéntʃuəli]` [副]: いずれは、結局は (03351)
+    - [x] **eventually** `[ivéntʃuəli]` [副]: いずれは、結局は (03351)
     - (TOEIC part 5,6 頻出!: Eventually, this project will be completed and everyone will take pride in the results. (いつかはこのプロジェクトが完成して、みんなが成果を誇りに思えるでしょう。))
   - [x] **overcome** `[òuvərkʌ́m]` [他 / 自]: 【他】...を克服する、...に打ち勝つ、...をぐったりさせる 【自】勝つ (活用: overcame / overcome, 型: SV, SVO, 関: ・overcome a difficulty (困難に勝つ) ・be overcome by the heat (暑さにまいる)) (03352)
-  - [ ] **current** `[kə́ːrənt]` [形 / 名]: 【形】今の、現時の、一般に知られている 【名】流れ、流動、電流 (03353)
+   - [x] **current** `[kə́ːrənt]` [形 / 名]: 【形】今の、現時の、一般に知られている 【名】流れ、流動、電流 (03353)
 
 - [ ] PS0654 (Page 114-115)
   - [ ] **Sentence**: The boss postponed preparations for the new advertisement campaign until autumn.*(日译: ボスは新しい広告キャンペーンの準備を秋まで延期した。)*
   - [x] **postpone** `[poustpóun]` [他]: ...を延期する、...を後に置く (型: SVO, 関: ・postpone... until ~ (...を〜まで延期する) ・postpone doing (...することを延期する)) (03354)
-  - [ ] **preparation** `[prèpəréiʃən]` [名]: 準備、心構え (03355)
+  - [x] **preparation** `[prèpəréiʃən]` [名]: 準備、心構え (03355)
   - [x] **advertisement** `[ædvərtáizmənt]` [名]: 広告、宣伝 (短縮形: ad) (03356)
     - (TOEIC part 5,6 頻出!: A suggestion was made to postpone the meeting until the chairman has recovered his health. (会長の健康が戻るまでミーティングを延期するように提案がなされた。))
     - (TOEIC part 7 頻出!: If you would like to place an advertisement for your business in our newspaper, please call our advertising department. (弊社の新聞に広告掲載を希望される方は、広告部までお電話ください。))
@@ -757,27 +757,27 @@
 - [ ] PS0655 (Page 115)
   - [ ] **Sentence**: The association has preserved several of the state's historical buildings.*(日译: その協会は、州内のいくつかの歴史的建造物を保存してきた。)*
   - [x] **association** `[əsòusiéiʃən]` [名]: 団体、組合、連合、交際 (03357)
-  - [ ] **preserve** `[prizə́ːrv]` [他 / 名]: 【他】...を保護する、...を保存する、（食料など）を保存加工する (型: 主に SVO, 関: ・preserve... from ~ (...を〜から守る)) 【名】保存するもの、保存物、砂糖煮、保存食品 (03358)
-  - [[x]**historical** `[histɔ́ːrikəl]` [形]: 歴史的な、歴史の、歴史上実在した (03359)
+ - [x] **preserve** `[prizə́ːrv]` [他 / 名]: 【他】...を保護する、...を保存する、（食料など）を保存加工する (型: 主に SVO, 関: ・preserve... from ~ (...を〜から守る)) 【名】保存するもの、保存物、砂糖煮、保存食品 (03358)
+  - [x] **historical** `[histɔ́ːrikəl]` [形]: 歴史的な、歴史の、歴史上実在した (03359)
 
 - [ ] PS0656 (Page 116)
   - [ ] **Sentence**: We will proceed with the construction of the new amusement park according to plan.*(日译: われわれは新しい遊園地の建設を計画どおりに続ける。)*
   - [x] **proceed** `[prəsíːd]` [自 / 名]: 【自】続ける、進む、発する (型: SV, 関: ・proceed with... (...を進める) ・proceed to... (...へ進む、...に向かう) ・proceed to do (続けて...する、し始める)) 【名】売上高 (03360)
   - [x] **construction** `[kənstrʌ́kʃən]` [名]: 建設、構造、建造物 (03361)
     - (TOEIC part 1 頻出!: The building is under construction. (ビルは建設中だ。))
-  - [ ] **amusement** `[əmjúːzmənt]` [名]: 娯楽、楽しみ、愉快 (03362)
+   - [x] * **amusement** `[əmjúːzmənt]` [名]: 娯楽、楽しみ、愉快 (03362)
 
 - [ ] PS0657 (Page 116)
   - [ ] **Sentence**: The army was prolonging its occupation of the southern region of the country.*(日译: 軍はその国の南部地域の占領を延長していた。)*
-  - [ ] **prolong** `[prəlɔ́ːŋ]` [他]: ...を延長する、...を長引かせる、（音など）を長く伸ばして発音する (型: SVO, 関: ・prolong one's stay (滞在を延長する) ・prolong life (延命する)) (03363)
+  - [x] **prolong** `[prəlɔ́ːŋ]` [他]: ...を延長する、...を長引かせる、（音など）を長く伸ばして発音する (型: SVO, 関: ・prolong one's stay (滞在を延長する) ・prolong life (延命する)) (03363)
   - [x] **occupation** `[ὰkjupéiʃən]` [名]: 占領、占有、仕事、業務 (03364)
   - [x] **region** `[ríːdʒən]` [名]: 地域、地方、領域、部位 (03365)
     - (TOEIC part 4 頻出!: Certain regions of the country have been destroyed by floods. (その国のある地域は洪水で壊滅的な打撃を受けた。))
 
 - [ ] PS0658 (Page 117)
   - [ ] **Sentence**: It is important to promote the use of more advanced medical practices in developing countries.*(日译: 発展途上国においては、もっと高度な医療の実施を促進することが重要だ。)*
-  - [ ] **promote** `[prəmóut]` [他]: ...を促進する、...を昇格させる、...を発起する (型: SVO, 関: ・promote health (健康を増進[促進]する) ・be promoted to manager (部長に昇進する)) (03366)
-  - [ ] **advanced** `[ædvǽnst]` [形]: 高度な、前にある、上級の (03367)
+  - [x] **promote** `[prəmóut]` [他]: ...を促進する、...を昇格させる、...を発起する (型: SVO, 関: ・promote health (健康を増進[促進]する) ・be promoted to manager (部長に昇進する)) (03366)
+  - [x] **advanced** `[ædvǽnst]` [形]: 高度な、前にある、上級の (03367)
   - [x] **developing** `[divéləpiŋ]` [形]: 発展途上の (03368)
 
 - [ ] PS0659 (Page 117)
@@ -789,7 +789,7 @@
 
 - [ ] PS0660 (Page 118)
   - [ ] **Sentence**: He is pursuing a career as a dog trainer.*(日译: 彼は犬の調教師のキャリアを追求し続けている。)*
-  - [ ] **pursue** `[pərsúː]` [他 / 自]: 【他】...を追い求める、...を実行する、...を追いかける 【自】追う、続ける (型: SV, SVO, 関: ・pursue a policy of... (...の政策を推進する)) (03371)
+  - [x] **pursue** `[pərsúː]` [他 / 自]: 【他】...を追い求める、...を実行する、...を追いかける 【自】追う、続ける (型: SV, SVO, 関: ・pursue a policy of... (...の政策を推進する)) (03371)
     - (TOEIC part 5,6 頻出!: If you wish to pursue a claim against the company, you must submit your request before the due date. (会社に対して申し立てを行う場合は、締め切りまでに請求書を提出しなければならない。))
   - [x] **trainer** `[tréinər]` [名]: 調教師、トレーナー、（英、trainers で）ジョギングシューズ (03372)
 
@@ -803,39 +803,39 @@
 
 - [ ] PS0662 (Page 119)
   - [ ] **Sentence**: If you can't repay your loan, you will get a bad credit rating.*(日译: もしローンを返済できないと信用格付けが悪くなるよ。)*
-  - [ ] **repay** `[ripéi]` [他 / 自]: 【他】...を返済する、...を払い戻す、...に報いる 【自】払い戻す、報いる (活用: repaid / repaid, 型: SV, SVO, SVOO, 例: He repaid me the money he'd borrowed. (彼は私に借金を返済した), 関: ・repay a debt (借金を返す、借りを返す) ・repay someone's kindness (人の親切な行為に報いる)) (03376)
+  - [x] **repay** `[ripéi]` [他 / 自]: 【他】...を返済する、...を払い戻す、...に報いる 【自】払い戻す、報いる (活用: repaid / repaid, 型: SV, SVO, SVOO, 例: He repaid me the money he'd borrowed. (彼は私に借金を返済した), 関: ・repay a debt (借金を返す、借りを返す) ・repay someone's kindness (人の親切な行為に報いる)) (03376)
   -[x] **rating** `[réitiŋ]` [名]: 格付け、レーティング、重要度、評価、（番組の）人気度 (03377)
 
 - [ ] PS0663 (Page 119)
   - [ ] **Sentence**: My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.*(日译: 弟は仲間と遊んでいて浅い池に落ちたが、通りすがりの人が助けてくれた。)*
-  - [ ] **shallow** `[ʃǽlou]` [形 / 名]: 【形】浅い、浅はかな 【名】浅瀬 (03378)
+  - [x] **shallow** `[ʃǽlou]` [形 / 名]: 【形】浅い、浅はかな 【名】浅瀬 (03378)
     - (TOEIC part 1 頻出!: Some doughnuts are placed on the shallow tray. (浅いトレイの上にドーナツがいくつかある。))
-  - [ ] **companion** `[kəmpǽnjən]` [名]: 連れ、仲間 (03379)
-  - [ ] **rescue** `[réskjuː]` [他 / 名]: 【他】...を救助する、...を解放する、...を不法に奪還する (型: SVO, 関: ・rescue... from ~ (...を〜から救助する[解放する])) 【名】救助、救出 (03380)
+  - [x] **companion** `[kəmpǽnjən]` [名]: 連れ、仲間 (03379)
+  - [x] **rescue** `[réskjuː]` [他 / 名]: 【他】...を救助する、...を解放する、...を不法に奪還する (型: SVO, 関: ・rescue... from ~ (...を〜から救助する[解放する])) 【名】救助、救出 (03380)
 
 - [ ] PS0664 (Page 120)
   - [ ] **Sentence**: Some athletes can't resist the temptation to use illegal drugs that will improve their performance.*(日译: 自分のパフォーマンスを高めるための非合法な薬物を使いたいという誘惑に耐えられない運動選手もいる。)*
-  - [ ] **resist** `[rizíst]` [他 / 自]: 【他】...に耐える、...に抵抗する 【自】抵抗する (型: SV, SVO, 関: ・can't resist the temptation to do (...したい誘惑に勝てない) ・resists doing (...することに抵抗する、...することを拒む)) (03381)
-  - [ ] **temptation** `[temptéiʃən]` [名]: 誘惑、衝動、誘惑するもの (03382)
-  - [ ] **illegal** `[ilíːgəl]` [形]: 非合法の、違法の (03383)
+  - [x] **resist** `[rizíst]` [他 / 自]: 【他】...に耐える、...に抵抗する 【自】抵抗する (型: SV, SVO, 関: ・can't resist the temptation to do (...したい誘惑に勝てない) ・resists doing (...することに抵抗する、...することを拒む)) (03381)
+  - [x] **temptation** `[temptéiʃən]` [名]: 誘惑、衝動、誘惑するもの (03382)
+  - [x] **illegal** `[ilíːgəl]` [形]: 非合法の、違法の (03383)
     - (TOEIC part 2,3 頻出!: Be careful, I just got a ticket for illegal parking there the other day. (気をつけて、この前、そこで駐車違反で切符を切られたばかりなんだ。))
 
 - [ ] PS0665 (Page 120-121)
   - [ ] **Sentence**: We will have to resolve this worrying problem regarding the surf as soon as possible.*(日译: 私たちはできるだけ早急に、打ち寄せる波に関するこの面倒な問題を解決しなくてはならないだろう。)*
   - [x] **resolve** `[rizɑ́lv]` [他 / 自 / 名]: 【他】...を解決する、...を決心する、...を分解する 【自】決定する、分解する (型: SV, SVO, 関: ・resolve to do (...しようと決心する) ・be resolved to do (...する決心をしている) ・resolve oneself to... (...へと変化する)) 【名】決心、決意、決断 (03384)
   - [x] **worrying** `[wə́ːriiŋ]` [形]: 面倒な、悩ませる (03385)
-  - [ ] **surf** `[sə́ːrf]` [名 / 自]: 【名】打ち寄せる波 (类: 不可算) 【自】波乗りをする (03386)
+  - [x] **surf** `[sə́ːrf]` [名 / 自]: 【名】打ち寄せる波 (类: 不可算) 【自】波乗りをする (03386)
 
 - [ ] PS0666 (Page 121)
   - [ ] **Sentence**: The police tried to restrain the angry crowd of fans on the street after their team lost the hockey game.*(日译: 警察は、チームがアイスホッケーの試合に負けた後、路上の怒れるファンの集団を制止しようとした。)*
   - [x] **restrain** `[ristréin]` [他]: ...を制止する、...を抑える、...を拘束する (型: SVO, 関: ・restrain... from ~ (...に〜をやめさせる) ・restrain oneself from doing (自制して...するのをやめる)) (03387)
-  - [ ] **hockey** `[hɑ́ki]` [名]: （米）アイスホッケー、（英）ホッケー (类: 不可算) (03388)
+  - [x] **hockey** `[hɑ́ki]` [名]: （米）アイスホッケー、（英）ホッケー (类: 不可算) (03388)
 
 - [ ] PS0667 (Page 122)
   - [ ] **Sentence**: The investigation revealed that he was innocent and saved his reputation.*(日译: 捜査は彼が無実であることを明らかにし、彼の名声を保った。)*
-  - [ ] **investigation** `[invèstəgéiʃən]` [名]: 捜査、調査、調書 (03389)
+  - [x] **investigation** `[invèstəgéiʃən]` [名]: 捜査、調査、調書 (03389)
     - (TOEIC part 2,3 頻出!: Have you finished the investigation that the boss told you to do? (ボスに言われた調査は終了したの？))
-  - [ ] **reveal** `[rivíːl]` [他 / 名]: 【他】...を明らかにする、...を示す (型: SVO, 関: ・reveal that... (...だと言い表す[暴露する]) ・reveal... as ~ (...が〜だということを示す[暴露する])) 【名】暴露、露呈、黙示 (03390)
+  - [x] **reveal** `[rivíːl]` [他 / 名]: 【他】...を明らかにする、...を示す (型: SVO, 関: ・reveal that... (...だと言い表す[暴露する]) ・reveal... as ~ (...が〜だということを示す[暴露する])) 【名】暴露、露呈、黙示 (03390)
     - (TOEIC part 5,6 頻出!: Time will reveal whether our leaders have been wise. (私たちのリーダーが賢明だったかどうかは時がたてば明らかになる。))
 
 - [ ] PS0668 (Page 122)
@@ -854,7 +854,7 @@
 
 - [ ] PS0671 (Page 124)
   - [ ] **Sentence**: The maker is shifting the emphasis of its production policy.*(日译: そのメーカーは、生産方針の重点を移行している。)*
-  - [ ] **shift** `[ʃíft]` [他 / 自 / 名]: 【他】...を移す、...をずらす、（責任など）をなすりつける、...を取り替える 【自】移動する、変化する、なんとかやっていく (型: SV, SVO, 関: ・shift... from ~ (...を〜から移す) ・shift the blame for... (...の責任転嫁をする)) 【名】移動、転換、交替、シフト（交替制勤務） (03399)
+  - [x] **shift** `[ʃíft]` [他 / 自 / 名]: 【他】...を移す、...をずらす、（責任など）をなすりつける、...を取り替える 【自】移動する、変化する、なんとかやっていく (型: SV, SVO, 関: ・shift... from ~ (...を〜から移す) ・shift the blame for... (...の責任転嫁をする)) 【名】移動、転換、交替、シフト（交替制勤務） (03399)
   - [x] **emphasis** `[émfəsis]` [名]: 主眼点、強調 (03400)
 
 - [ ] PS0672 (Page 124)
@@ -864,34 +864,34 @@
 
 - [ ] PS0673 (Page 125)
   - [ ] **Sentence**: Tame fools submit to the commands of their masters.*(日译: 飼い慣らされたばか者は主人の命令に従う。)*
-  - [ ] **tame** `[téim]` [形 / 他]: 【形】飼い慣らされた、従順な 【他】...を飼い慣らす (03403)
-  - [ ] **fool** `[fúːl]` [名]: 分別のない人、ばか者、熱狂者 (03404)
-  - [ ] **submit** `[səbmít]` [自 / 他]: 【自】従う、服従する 【他】...を服従させる、...を甘受する、...を提出する (型: SV, SVO, 関: ・submit to... (...に服従する) ・submit oneself to... (...に服従する) ・submit a report on... (...に関する報告を提出する)) (03405)
+   - [x] **tame** `[téim]` [形 / 他]: 【形】飼い慣らされた、従順な 【他】...を飼い慣らす (03403)
+   - [x] **fool** `[fúːl]` [名]: 分別のない人、ばか者、熱狂者 (03404)
+   - [x] **submit** `[səbmít]` [自 / 他]: 【自】従う、服従する 【他】...を服従させる、...を甘受する、...を提出する (型: SV, SVO, 関: ・submit to... (...に服従する) ・submit oneself to... (...に服従する) ・submit a report on... (...に関する報告を提出する)) (03405)
     - (TOEIC part 2,3 頻出!: You must submit your application soon, or you will run out of time. (早く申込書を提出しないと時間がなくなるよ。))
 
 - [ ] PS0674 (Page 125)
   - [ ] **Sentence**: The proud tribe has never surrendered to foreign armies.*(日译: その誇り高き部族は、外国の軍に対して決して降伏しなかった。)*
-  - [ ] **tribe** `[tráib]` [名]: 部族、種族 (03406)
-  - [ ] **surrender** `[səréndər]` [自 / 他 / 名]: 【自】降伏する、身をゆだねる 【他】...を引き渡す、...を放棄する (型: SV, SVO, 関: ・surrender to... (...に降伏する) ・surrender oneself to... (...に自首[降伏]する) ・surrender one's weapons (武器を放棄する)) 【名】降伏、降参、明け渡し (03407)
+   - [x] **tribe** `[tráib]` [名]: 部族、種族 (03406)
+   - [x] **surrender** `[səréndər]` [自 / 他 / 名]: 【自】降伏する、身をゆだねる 【他】...を引き渡す、...を放棄する (型: SV, SVO, 関: ・surrender to... (...に降伏する) ・surrender oneself to... (...に自首[降伏]する) ・surrender one's weapons (武器を放棄する)) 【名】降伏、降参、明け渡し (03407)
 
 - [ ] PS0675 (Page 126)
   - [ ] **Sentence**: The interpreter underlined the words on the certificate for which she didn't know the definition.*(日译: その通訳は定義を知らない証明書の単語に下線を引いた。)*
-  - [ ] **interpreter** `[intə́ːrpritər]` [名]: 通訳者、解釈者 (03408)
+  - [x] **interpreter** `[intə́ːrpritər]` [名]: 通訳者、解釈者 (03408)
   - [x] **underline** `[ʌ̀ndərláin]` [他 / 名]: 【他】...に下線を引く、...を強調する (型: SVO, 関: ・underline the fact that... (...という事実を強調する)) 【名】下線 (03409)
-  - [ ] **certificate** `[sertífikət]` [名 / 他]: 【名】証明書、修了証明書 【他】...を証明する、...に証明書を与える (03410)
-    - (TOEIC part 7 頻出!: A certificate of possession will be required from those who wish to sell a car at the sale. (その販売会で車の売却を希望される方は、所有権の証明書が必要です。))
+  - [x] **certificate** `[sertífikət]` [名 / 他]: 【名】証明書、修了証明書 【他】...を証明する、...に証明書を与える (03410)
+  - (TOEIC part 7 頻出!: A certificate of possession will be required from those who wish to sell a car at the sale. (その販売会で車の売却を希望される方は、所有権の証明書が必要です。))
   - [x] **definition** `[dèfəníʃən]` [名]: 定義、定義すること、（レンズの）解像力 (03411)
 
 - [ ] PS0676 (Page 126)
   - [ ] **Sentence**: He was relatively young for the a head of state, but he united a country that had been divided by civil war.*(日译: 彼は国家元首としては比較的若かったが、内戦によって分裂したその国を団結させた。)*
-  - [ ] **relatively** `[rélətivli]` [副]: 比較的、割合に (03412)
+   - [x] **relatively** `[rélətivli]` [副]: 比較的、割合に (03412)
     - (TOEIC part 5,6 頻出!: We are relatively sure that we will win the proposal. (わが社がその提案を勝ち取れると、ある程度確信しています。))
-  - [ ] **united** [单词]:を団結させる、…を結合する
-  - [ ] **civil** [单词]: 国内の、市民の、一般人の
+   - [x] **united** [单词]:を団結させる、…を結合する
+   - [x] **civil** [单词]: 国内の、市民の、一般人の
 
 - [ ] PS0677
   - [ ] **Sentence**: My stomach aches, but the doctor said he couldn't determine the source of the pain.*(日译: 私は胃が痛いのだが、医者は痛みの原因を特定できないと言った。)*
-  - [ ] **ache** `[éik]` [自 / 名]: 【自】痛む、うずく、（…したくて）たまらない、切望する 【名】痛み、切望 (型: SV)
+  - [x] **ache** `[éik]` [自 / 名]: 【自】痛む、うずく、（…したくて）たまらない、切望する 【名】痛み、切望 (型: SV)
   - [x] **source** `[sɔ́ːrs]` [名 / 他]: 【名】原因、情報源、出典 【他】…の情報源を明らかにする、…を供給する
 
 - [ ] PS0678
