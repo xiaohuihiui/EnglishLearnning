@@ -898,25 +898,25 @@
   - [ ] **Sentence**: Tell him our charity appreciates his generous gift.*(日译: 私たちの慈善団体は彼の惜しみない贈り物に感謝していると、彼に伝えてください。)*
   - [x] **charity** `[tʃǽrəti]` [名]: 慈善団体、慈善、思いやり
   - [x] **appreciate** `[əpríːʃièit]` [他]: 【他】…を感謝する、…を正当に評価する、…を十分に意識する (型: 主に SVO)
-  - [ ] **generous** `[dʒénərəs]` [形]: 物惜しみしない、豊富な、濃い
+  - [x] **generous** `[dʒénərəs]` [形]: 物惜しみしない、豊富な、濃い
 
 - [ ] PS0679
   - [ ] **Sentence**: Everyone in the forum assumed the new ecosystem would bring innovation.*(日译: フォーラムに参加した誰もが、新しい生態系が革新をもたらすと推測していた。)*
-  - [ ] **forum** `[fɔ́ːrəm]` [名]: フォーラム、公開討論会、公共広場
-  - [ ] **assume** `[əsúːm]` [他]: 【他】…を当然のことと決めてかかる、…と仮定する、…を引き受ける、（態度）をとる (型: 主に SVO)
+  - [x]  **forum** `[fɔ́ːrəm]` [名]: フォーラム、公開討論会、公共広場
+  - [x]  **assume** `[əsúːm]` [他]: 【他】…を当然のことと決めてかかる、…と仮定する、…を引き受ける、（態度）をとる (型: 主に SVO)
   - [x] **ecosystem** `[íːkousìstəm]` [名]: 生態系、エコシステム
-  - [ ] **innovation** `[ìnəvéiʃən]` [名]: 革新、新しく取り入れたもの、改変したもの
+  - [x]  **innovation** `[ìnəvéiʃən]` [名]: 革新、新しく取り入れたもの、改変したもの
 
 - [ ] PS0680
   - [ ] **Sentence**: Specialists calculate that the world's population will definitely grow to 8 billion over the next decade.*(日译: 専門家は世界の人口は間違いなく今後10年で80億に達するだろうと計算している。)*
-  - [ ] **calculate** `[kǽlkjulèit]` [他 / 自]: 【他】…を計算する、…を算出する、…と見積もる、…を決める 【自】計算する (型: SV, SVO)
+  - [x] **calculate** `[kǽlkjulèit]` [他 / 自]: 【他】…を計算する、…を算出する、…と見積もる、…を決める 【自】計算する (型: SV, SVO)
   - [x] **definitely** `[définitli]` [副]: 確かに、明確に
   - [x] **billion** `[bíl jən]` [名]: 10億
   - [x] **decade** `[dékeid]` [名]: 10年間、10を単位とする1組
 
 - [ ] PS0681
   - [ ] **Sentence**: We concluded that we had made the correct judgment.*(日译: 私たちは正しい判断を下したのだという結論に至った。)*
-  - [ ] **conclude** `[kənklúːd]` [他 / 自]: 【他】…と結論を出す、…の結末をつける、…を決心する 【自】終わる、決定する (型: SV, SVO)
+  - [x] **conclude** `[kənklúːd]` [他 / 自]: 【他】…と結論を出す、…の結末をつける、…を決心する 【自】終わる、決定する (型: SV, SVO)
   - [x] **judgment** `[dʒʌ́dʒmənt]` [名]: 判断、判決、意見
 
 - [ ] PS0682
@@ -941,14 +941,14 @@
 - [ ] PS0686
   - [ ] **Sentence**: I was asked by my boss to estimate the cost of suburb development.*(日译: 私は上司にその郊外開発の費用を見積もるよう頼まれた。)*
   - [x] **estimate** `[éstəmèit]` [他 / 自 / 名]: 【他】…を見積もる、…を評価する 【自】見積もりをする 【名】見積（額） [éstəmət] (型: SV, SVO)
-  - [ ] **suburb** `[sʌ́bəːrb]` [名]: 郊外
+  - [x] **suburb** `[sʌ́bəːrb]` [名]: 郊外
 
 - [ ] PS0687
   - [ ] **Sentence**: The counselor helps familiarize students with the curriculum and registration process.*(日译: カウンセラーは、学生がカリキュラムや登録手続きに慣れるようサポートする。)*
   - [x] **counselor** `[káunsələr]` [名]: カウンセラー、助言者、指導教官、弁護士
-  - [ ] **familiarize** `[fəmíliəràiz]` [他]: 【他】…を慣れさせる、…を習熟させる (型: SVO)
-  - [ ] **curriculum** `[kəríkjuləm]` [名]: （学校の）カリキュラム、履修課程 [複] curriculums, curricula
-  - [ ] **registration** `[rèdʒistréiʃən]` [名]: 登録、記載、登記された事項
+  - [x] **familiarize** `[fəmíliəràiz]` [他]: 【他】…を慣れさせる、…を習熟させる (型: SVO)
+  - [x] **curriculum** `[kəríkjuləm]` [名]: （学校の）カリキュラム、履修課程 [複] curriculums, curricula
+  - [x] **registration** `[rèdʒistréiʃən]` [名]: 登録、記載、登記された事項
 
 - [ ] PS0688 (Page 134 - 📷 缺失页：未上传 0134.png)
   - [ ] Sentence: (等待手动补充：例句及日译)
@@ -960,23 +960,23 @@
 
 - [ ] PS0690
   - [ ] **Sentence**: Don't overlook the possibility that personal data could be stolen from your briefcase.*(日译: 個人データがあなたのブリーフケースから盗まれる可能性があることを見落としてははいけない。)*
-  - [ ] **overlook** `[òuvərlúk]` [他 / 名]: 【他】…を見落とす、…を大目に見る、…を見渡せる 【名】展望のきくところ、高台 [óuvərlùk] (型: SVO)
-  - [ ] **briefcase** `[bríːfkèis]` [名]: ブリーフケース、書類かばん
+  - [x] **overlook** `[òuvərlúk]` [他 / 名]: 【他】…を見落とす、…を大目に見る、…を見渡せる 【名】展望のきくところ、高台 [óuvərlùk] (型: SVO)
+  - [x] **briefcase** `[bríːfkèis]` [名]: ブリーフケース、書類かばん
 
 - [ ] PS0691
   - [ ] **Sentence**: Despite the fact that the company has a huge debt, it is generally perceived to be a strong company.*(日译: その会社は巨額の負債を抱えているが、一般には強力な企業と考えられている。)*
-  - [ ] **despite** `[dispáit]` [前 / 名]: 【前】…にもかかわらず 【名】侮辱、無礼
-  - [ ] **debt** `[dét]` [名]: 負債、借金、借金状態、恩義
-  - [ ] **perceive** `[pərsíːv]` [他]: 【他】…を認める、…に気付く、…を理解する (型: 主に SVO)
+  - [x] **despite** `[dispáit]` [前 / 名]: 【前】…にもかかわらず 【名】侮辱、無礼
+  - [x] **debt** `[dét]` [名]: 負債、借金、借金状態、恩義
+  - [x] **perceive** `[pərsíːv]` [他]: 【他】…を認める、…に気付く、…を理解する (型: 主に SVO)
 
 - [ ] PS0692
   - [ ] **Sentence**: Do you recall when the delivery of the calligraphy stationery is going to be?*(日译: 書道の文具の配達はいつかの予定か覚えてる？)*
-  - [ ] **recall** `[rikɔ́ːl]` [他 / 名]: 【他】…を思い出す、…を思い出させる、…を呼び戻す、…を回収する 【名】回想、追想、呼び戻すこと (型: SVO)
-  - [ ] **delivery** `[dilívəri]` [名]: 配達、引き渡し、出産、演説
-  - [ ] **calligraphy** `[kəlíg rəfi]` [名]: 書道、筆跡、飾り文字
+  - [x] **recall** `[rikɔ́ːl]` [他 / 名]: 【他】…を思い出す、…を思い出させる、…を呼び戻す、…を回収する 【名】回想、追想、呼び戻すこと (型: SVO)
+  - [x] **delivery** `[dilívəri]` [名]: 配達、引き渡し、出産、演説
+  - [x] **calligraphy** `[kəlíg rəfi]` [名]: 書道、筆跡、飾り文字
   - [x] **stationery** `[stéiʃənèri]` [名]: 文房具、便せん [複] 不可算
 
 - [ ] PS0693
   - [ ] **Sentence**: The magician thrilled her audience with some skillful tricks.*(日译: その手品師は巧妙なトリックで観客をわくわくさせた。)*
   - [x] **magician** `[mədʒíʃən]` [名]: 手品師、魔法使い
-  - [ ] **thrill** `[θríl]` [他 / 自 / 名]: 【他】…をわくわくさせる、…をぞくぞくさせる 【自】（強い感情が）走る、ぞくぞくする 【名】わくわくすること、身震い、戦慄 (型: SV, SVO)
+  - [x] **thrill** `[θríl]` [他 / 自 / 名]: 【他】…をわくわくさせる、…をぞくぞくさせる 【自】（強い感情が）走る、ぞくぞくする 【名】わくわくすること、身震い、戦慄 (型: SV, SVO)
