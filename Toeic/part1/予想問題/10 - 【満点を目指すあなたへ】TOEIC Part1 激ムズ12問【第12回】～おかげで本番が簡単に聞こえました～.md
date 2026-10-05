@@ -9,9 +9,9 @@
 7. [x] answer: ok    ,Reviewed:ok
 8. [x] answer:  ok   ,Reviewed:ok
 9. [x] answer:  ng   ,Reviewed:ok
-10. [x] answer: ng   ,Reviewed:
-11. [x] answer: ok  ,Reviewed:
-12. [x] answer: ok ,Reviewed:
+10. [x] answer: ng   ,Reviewed: ok
+11. [x] answer: ok  ,Reviewed: ok
+12. [x] answer: ok ,Reviewed: ok
 -----------------------------**Word**----------------------------------
 * word:意味,中文意思
 * ornate balustrades:装飾が施された手すり
@@ -30,3 +30,10 @@
 * shrub,bush:低木
 * silverware  (銀製)  食器
 * cutlery:カトラリー（ナイフ、フォーク、スプーンなどの金物類）
+* overpass:陸橋 
+* suspension bridge:吊り橋 
+* foliage:枝葉、紅葉
+* drape:カーテン 
+* obscure :~ を遮る 
+* windowsill:窓台
+* lighting fixtures；照明器具
