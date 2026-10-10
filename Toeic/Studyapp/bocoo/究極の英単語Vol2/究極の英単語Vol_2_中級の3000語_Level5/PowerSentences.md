@@ -1,7 +1,7 @@
 - [ ] PS0694_04001-04002 (Page 204)
   - [ ] **Sentence**: I had to accustom myself to the strict diet restrictions of the hospital. *(日译: 病院ではその厳しい食事制限に慣れなくてはならなかった。)*
-  - [ ] **accustom** `[əkʌ́stəm]` [他]: …を慣らす[習慣づける] (型: SVO) / ・accustom oneself to…(…に慣れる)
-  - [ ] **restriction** `[ristríkʃən]` [名]: 制限(するもの)、限定(するもの)、制約条件、遠慮
+  - [x] **accustom** `[əkʌ́stəm]` [他]: …を慣らす[習慣づける] (型: SVO) / ・accustom oneself to…(…に慣れる)
+  - [x] **restriction** `[ristríkʃən]` [名]: 制限(するもの)、限定(するもの)、制約条件、遠慮
 
 - [ ] PS0695_04003-04005 (Page 204)
   - [ ] **Sentence**: With her incredible devotion to work, she rapidly ascended the company ranks to become the first female president. *(日译: 仕事に対する途方もない献身で、彼女は瞬く間に階級を上りつめ、その企業初の女性社長となった。)*
