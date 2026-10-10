@@ -11,7 +11,7 @@
 9. [x] answer: ng    ,Reviewed:ok
 10. [x] answer: ng   ,Reviewed:ok
 11. [x] answer: ng  ,Reviewed:ok
-12. [x] answer: ok ,Reviewed:
+12. [x] answer: ok ,Reviewed:ok
 -----------------------------**Word**----------------------------------
 * word:意味,中文意思
 *  lean A against B:AをBに立てかける
