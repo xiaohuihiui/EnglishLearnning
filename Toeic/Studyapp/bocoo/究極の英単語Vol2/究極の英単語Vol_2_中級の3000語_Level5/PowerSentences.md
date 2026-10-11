@@ -5,14 +5,14 @@
 
 - [ ] PS0695_04003-04005 (Page 204)
   - [ ] **Sentence**: With her incredible devotion to work, she rapidly ascended the company ranks to become the first female president. *(日译: 仕事に対する途方もない献身で、彼女は瞬く間に階級を上りつめ、その企業初の女性社長となった。)*
-  - [ ] **incredible** `[inkrédəbl]` [形]: 途方もない、驚くべき、信じられない
+  - [x] **incredible** `[inkrédəbl]` [形]: 途方もない、驚くべき、信じられない
   - [ ] **devotion** `[divóuʃən]` [名]: 献身、専念、充てること、信仰
-
+ - [ ] **ascend** `[əsénd]` [他]: …を登る、…を上がる / [自]: 上がる、登る、高くなる (型: SV, SVO) / ・ascend to…(…に登る) / ・ascend against a stream(流れをさかのぼる) / ・ascend the stairs(階段を上る)
+ - 
 - [ ] PS0696_04006-04007 (Page 205)
   - [ ] **Sentence**: According to my wife, I sometimes cease breathing when I'm asleep. *(日译: 妻によると、私は眠っている時に時々呼吸をしなくなるらしい。)*
-  - [ ] **ascend** `[əsénd]` [他]: …を登る、…を上がる / [自]: 上がる、登る、高くなる (型: SV, SVO) / ・ascend to…(…に登る) / ・ascend against a stream(流れをさかのぼる) / ・ascend the stairs(階段を上る)
   - [ ] **cease** `[síːs]` [他]: …をやめる / [自]: 終わる、やむ、中止する (型: SV, SVO) / ・cease doing [to do](…しなくなる) / [名]: 終止
-  - [ ] **breathing** `[bríːðiŋ]` [名]: 呼吸、ちょっとの間、(風などの)そよぎ
+  - [x] **breathing** `[bríːðiŋ]` [名]: 呼吸、ちょっとの間、(風などの)そよぎ
 
 - [ ] PS0697_04008-04009 (Page 205)
   - [ ] **Sentence**: Fourteen cities and nine counties constitute this prefecture. *(日译: 14の市と9つの郡がこの県を構成する。)*
@@ -21,12 +21,12 @@
 
 - [ ] PS0698_04010-04011 (Page 206)
   - [ ] **Sentence**: She converted to Christianity under the influence of her husband. *(日译: 彼女は夫の影響でキリスト教に改宗した。)*
-  - [ ] **convert** `[kənvə́ːrt]` [他]: 改宗[改心]する、転向する、変形する / [他]: …を変える、…を改宗させる (型: SV, SVO) / ・convert … into ～(…を～に変える) / ・convert … to ～(…を～に転向[改宗]させる) / [名]: 転向者、改宗者
+  - [x] **convert** `[kənvə́ːrt]` [他]: 改宗[改心]する、転向する、変形する / [他]: …を変える、…を改宗させる (型: SV, SVO) / ・convert … into ～(…を～に変える) / ・convert … to ～(…を～に転向[改宗]させる) / [名]: 転向者、改宗者
   - [ ] **Christianity** `[krìstʃiǽnəti]` [名]: キリスト教、キリスト教信仰
 
 - [ ] PS0699_04012-04014 (Page 206)
   - [ ] **Sentence**: An unusually massive flock of black birds darkened the sky. *(日译: 黒い鳥たちの異常なほどの大群が空を暗くした。)*
-  - [ ] **unusually** `[ʌnjúːʒuəli]` [副]: 異常に、非常に
+  - [x] **unusually** `[ʌnjúːʒuəli]` [副]: 異常に、非常に
   - [ ] **massive** `[mǽsiv]` [形]: 大きい、大きな塊をなす、大きくて重い
   - [ ] **darken** `[dάːrkən]` [他]: …を暗くする、…を黒くする、…をあいまいにする、…の目を見えなくする / [自]: 暗くなる、黒ずむ、曇る (型: SV, SVO) / ・darken someone's door(…の家を訪問する、…の家の敷居をまたぐ) / ・someone's brow darkens(…の顔が曇る)
 
@@ -39,7 +39,7 @@
 
 - [ ] PS0701_04019-04020 (Page 207)
   - [ ] **Sentence**: The sugar cubes dissolved in my coffee and disappeared without a trace. *(日译: その角砂糖は私のコーヒーの中に溶けて跡形もなく消えた。)*
-  - [ ] **cube** `[kjúːb]` [名]: 立方体、立方、3乗 / [他]: …をさいの目に切る、…の体積を求める、…に髪型の切り目を入れる
+  - [x] **cube** `[kjúːb]` [名]: 立方体、立方、3乗 / [他]: …をさいの目に切る、…の体積を求める、…に髪型の切り目を入れる
   - [ ] **dissolve** `[dizάlv]` [他]: 溶ける、分解する、解散する、消失する / [他]: …を溶かす、…を解除する、…を分解する (型: SV, SVO) / ・dissolve … in ～(…を～に溶かす) / ・dissolve a committee(委員会を解散させる) / [名]: (映像手法)ディゾルブ
 
 - [ ] PS0702_04021-04021 (Page 208)
@@ -55,64 +55,64 @@
   - [ ] **Sentence**: The comedian dwells in a stylish apartment situated downtown. *(日译: そのコメディアンは都心にあるおしゃれなアパートに住んでいる。)*
   - [ ] **dwell** `[dwél]` [自]: 住む、居住する、存在する (型: SV) / ・dwell in…(…に住む) / ・dwell on…(…をよくよく考える、…を詳しく述べる)
   - [ ] **stylish** `[stáiliʃ]` [形]: 流行の、粋な
-  - [ ] **situated** `[sítʃuèitid]` [形]: 位置している、ある状態にある
+  - [x] **situated** `[sítʃuèitid]` [形]: 位置している、ある状態にある
 
 - [ ] PS0705_04027-04028 (Page 209)
   - [ ] **Sentence**: He enlarged the humorous photograph taken in his boyhood, and put it into a frame. *(日译: 彼は少年時代に撮ったユーモラスな写真を拡大して、額に入れた。)*
   - [ ] **enlarge** `[inlάːrdʒ]` [他]: …を引き伸ばす、…を大きく[拡大]する / [自]: 大きくなる、広がる、引き伸ばしできる、詳しく話す (型: SV, SVO) / ・enlarge on this point(この点を詳述する)
-  - [ ] **humorous** `[hjúːmərəs]` [形]: ユーモアのある、こっけいな
+  - [x] **humorous** `[hjúːmərəs]` [形]: ユーモアのある、こっけいな
 
 - [ ] PS0706_04029-04031 (Page 210)
   - [ ] **Sentence**: Our policy ensures genuine equality between women and men in opportunities for promotion. *(日译: わが社の方針は、男女間における昇進機会の真の平等を保証している。)*
-  - [ ] **ensure** `[inʃúər]` [他]: …を保証する、…を確保する、…を守る (型: SVO, SVOO) / ・The army ensured the prisoner a clean cell.(軍は捕虜に清潔な小部屋を保証[確保]した) / ・ensure that…(…ということを確実にする[請け合う])
+  - [x] **ensure** `[inʃúər]` [他]: …を保証する、…を確保する、…を守る (型: SVO, SVOO) / ・The army ensured the prisoner a clean cell.(軍は捕虜に清潔な小部屋を保証[確保]した) / ・ensure that…(…ということを確実にする[請け合う])
   - [ ] **genuine** `[dʒénjuin]` [形]: 本物の、誠実な、純血の
-  - [ ] **equality** `[ikwάləti]` [名]: 平等、等しいこと、一様性、等式
+  - [x] **equality** `[ikwάləti]` [名]: 平等、等しいこと、一様性、等式
 
 - [ ] PS0707_04032-04033 (Page 210)
   - [ ] **Sentence**: I wish I could erase the memory of our romance. *(日译: 私たちの恋の思い出をぬぐい去ることができたらいいのに。)*
   - [ ] **erase** `[iréis]` [他]: …をぬぐい去る、…をぬぐい消す、…を削除する / [他]: たやすく消える、文字などを消す (型: SV, SVO) / ・erase … from one's mind(…のことを忘れる)
-  - [ ] **romance** `[roumǽns]` [名]: 恋愛、恋愛小説[映画]、(中世)騎士物語、空想小説、情緒 / [自]: ロマンチックに話す、誇張して話す / [形]: 空想的に誇張する、…に求愛する / [名]: ロマンス[ロマン]語(系)の
+  - [x] **romance** `[roumǽns]` [名]: 恋愛、恋愛小説[映画]、(中世)騎士物語、空想小説、情緒 / [自]: ロマンチックに話す、誇張して話す / [形]: 空想的に誇張する、…に求愛する / [名]: ロマンス[ロマン]語(系)の
 
 - [ ] PS0708_04034-04035 (Page 211)
   - [ ] **Sentence**: Everybody said it's a risky investment, but he insisted that the gain will exceed the cost. *(日译: 誰もがそれは危険な投資だと言ったが、彼は利益が費用を上回ると主張した。)*
   - [ ] **risky** `[ríski]` [形]: 危険な、大胆な
-  - [ ] **exceed** `[iksíːd]` [他]: …を上回る、…の限界を越える / [自]: 勝る、卓越する (型: SV, SVO) / ・exceed the limit(度を超す、枠を超える) / ・exceed in …(…の点で勝る)
+  - [x] **exceed** `[iksíːd]` [他]: …を上回る、…の限界を越える / [自]: 勝る、卓越する (型: SV, SVO) / ・exceed the limit(度を超す、枠を超える) / ・exceed in …(…の点で勝る)
 
 - [ ] PS0709_04036-04038 (Page 211)
   - [ ] **Sentence**: The current assignment has been exhausting him mentally. *(日译: このところの任務が彼を精神的に消耗させている。)*
-  - [ ] **assignment** `[əsáinmənt]` [名]: 任務、(任務などの)割り当て、課業、指示、譲渡
-  - [ ] **exhaust** `[igzɔ́ːst]` [他]: …をひどく疲れさせる、…を使い果たす、…を不毛にする、…を空にする / [自]: 排出[放出]する (型: SV, SVO) / ・exhaust one's resources(資産を使い果たす) / [名]: 排出、排気、排気装置
-  - [ ] **mentally** `[méntəli]` [副]: 精神的に、心の中で、精神的な面で言えば
+  - [x] **assignment** `[əsáinmənt]` [名]: 任務、(任務などの)割り当て、課業、指示、譲渡
+  - [x] **exhaust** `[igzɔ́ːst]` [他]: …をひどく疲れさせる、…を使い果たす、…を不毛にする、…を空にする / [自]: 排出[放出]する (型: SV, SVO) / ・exhaust one's resources(資産を使い果たす) / [名]: 排出、排気、排気装置
+  - [x] **mentally** `[méntəli]` [副]: 精神的に、心の中で、精神的な面で言えば
 
 - [ ] PS0710_04039-04041 (Page 212)
   - [ ] **Sentence**: The soy milk expires today, so firstly, take what you need, then ask if anyone else wants it. *(日译: 豆乳が今日で賞味期限が切れるので、まずは必要な分を取って、それから他に必要な人がいるか聞いてください。)*
   - [ ] **soy** `[sɔ́i]` [名]: 大豆、しょうゆ
-  - [ ] **expire** `[ikspáiər]` [自]: 期限が切れる、終了する、満期になる (型: SV)
-  - [ ] **firstly** `[fə́ːrstli]` [副]: まず第1に
+  - [x] **expire** `[ikspáiər]` [自]: 期限が切れる、終了する、満期になる (型: SV)
+  - [x] **firstly** `[fə́ːrstli]` [副]: まず第1に
 
 - [ ] PS0711_04042-04044 (Page 212)
   - [ ] **Sentence**: Japanese animation is currently flourishing in Western countries. *(日译: 日本のアニメーションは現在、西欧諸国で成功している。)*
-  - [ ] **animation** `[ænəméiʃən]` [名]: アニメーション、動画(制作)、活気(づけること)、生気(を与えること)
-  - [ ] **currently** `[kə́ːrəntli]` [副]: 現在は、一般に、容易に
-  - [ ] **flourish** `[flə́ːriʃ]` [自]: 成功している、栄える、盛んである / [他]: …を振り回す、…を打ち振る、…を見せびらかす (型: SV, SVO) / ・flourish in …(…の分野で栄える[広く使われる]) / [名]: 振り回すこと、見せびらかし、飾り書き
+  - [x] **animation** `[ænəméiʃən]` [名]: アニメーション、動画(制作)、活気(づけること)、生気(を与えること)
+  - [x] **currently** `[kə́ːrəntli]` [副]: 現在は、一般に、容易に
+  - [x] **flourish** `[flə́ːriʃ]` [自]: 成功している、栄える、盛んである / [他]: …を振り回す、…を打ち振る、…を見せびらかす (型: SV, SVO) / ・flourish in …(…の分野で栄える[広く使われる]) / [名]: 振り回すこと、見せびらかし、飾り書き
 
 - [ ] PS0712_04045-04047 (Page 213)
   - [ ] **Sentence**: If they're too stubborn to make a compromise, we'll have to halt negotiations. *(日译: もし彼らが頑固で何の妥協もしない場合、われわれは交渉を打ち切らなくてはならないだろう。)*
-  - [ ] **stubborn** `[stʌ́bərn]` [形]: 頑固な、強情な、確固とした、処理しにくい
-  - [ ] **compromise** `[kάmprəmàiz]` [名]: 妥協、歩み寄り、妥協案、(信用・評判などを)危うくすること / [自]: …を妥協して解決する、(信用・評判などを)汚す / [自]: 妥協する
+  - [x] **stubborn** `[stʌ́bərn]` [形]: 頑固な、強情な、確固とした、処理しにくい
+  - [x] **compromise** `[kάmprəmàiz]` [名]: 妥協、歩み寄り、妥協案、(信用・評判などを)危うくすること / [自]: …を妥協して解決する、(信用・評判などを)汚す / [自]: 妥協する
   - [ ] **halt** `[hɔ́ːlt]` [他]: …を終わらせる、…を停止させる / [自]: 止まる、停止する、中止する (型: SV, SVO) / [名]: 中止、休止 / [形]: 止まれ、動くな
 
 - [ ] PS0713_04048-04051 (Page 214)
   - [ ] **Sentence**: These bugs usually inhabit moist woodlands. *(日译: これらの虫は普通、湿潤な森林地帯に生息する。)*
-  - [ ] **bug** `[bʌ́g]` [名]: 虫、昆虫、微生物、(機械の)欠陥、熱狂家、夢中になること / [他]: …を困らせる、…の害虫を駆除する、…に盗聴器を取り付ける / [自]: (目が驚きなどで)飛び出る、素早く立ち去る
+  - [x] **bug** `[bʌ́g]` [名]: 虫、昆虫、微生物、(機械の)欠陥、熱狂家、夢中になること / [他]: …を困らせる、…の害虫を駆除する、…に盗聴器を取り付ける / [自]: (目が驚きなどで)飛び出る、素早く立ち去る
   - [ ] **inhabit** `[inhǽbit]` [他]: …に生息[居住]する、…に存在する (型: SVO)
-  - [ ] **moist** `[mɔ́ist]` [形]: 湿潤な、湿った、しっとりとした、涙ぐんだ、分泌物の多い
+  - [x] **moist** `[mɔ́ist]` [形]: 湿潤な、湿った、しっとりとした、涙ぐんだ、分泌物の多い
   - [ ] **woodland** `[wúdlənd]` [名]: (しばしば woodlands で)森林地(帯) / [形]: 森林地(帯)の[に住む]
 
 - [ ] PS0714_04052-04053 (Page 214)
   - [ ] **Sentence**: Where did that terrific idea originate? *(日译: その素晴らしいアイデアはどこから生まれたの？)*
   - [ ] **terrific** `[tərífik]` [形]: 素晴らしい、激しい、恐ろしい
-  - [ ] **originate** `[ərídʒənèit]` [自]: 発案される、起こる、始まる / [他]: …を始める、…をもたらす、…を発明[発案]する (型: SV, SVO) / ・originate in …(…に由来する、…に始まる) / ・originate with …(…を端緒とする)
+  - [x] **originate** `[ərídʒənèit]` [自]: 発案される、起こる、始まる / [他]: …を始める、…をもたらす、…を発明[発案]する (型: SV, SVO) / ・originate in …(…に由来する、…に始まる) / ・originate with …(…を端緒とする)
 
 - [ ] PS0715_04054-04055 (Page 215)
   - [ ] **Sentence**: If the civil war drags on, these camps will be overflowing with refugees. *(日译: 内戦が長引けば、これらの収容施設は難民であふれるだろう。)*
