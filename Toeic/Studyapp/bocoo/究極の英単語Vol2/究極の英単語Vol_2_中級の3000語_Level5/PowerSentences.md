@@ -121,12 +121,12 @@
 
 - [ ] PS0716_04056-04057 (Page 215)
   - [ ] **Sentence**: I overslept this morning and consequently missed my breakfast. *(日译: 今朝は寝坊したので、朝食が食べられなかった。)*
-  - [ ] **oversleep** `[òuvərslíːp]` [自]: 寝過ごす、朝寝坊をする (型: SV)
+  - [x] ] **oversleep** `[òuvərslíːp]` [自]: 寝過ごす、朝寝坊をする (型: SV)
   - [ ] **consequently** `[kánsəkwèntli]` [副]: その結果として、従って
 
 - [ ] PS0717_04058-04060 (Page 216)
   - [ ] **Sentence**: It is commonly believed that the ancient civilization perished in a great flood. *(日译: 一般に、その古代文明は大洪水によって滅びたと考えられている。)*
-  - [ ] **commonly** `[kάmənli]` [副]: 一般に、普通に、通例、安っぽく
+  - [x] **commonly** `[kάmənli]` [副]: 一般に、普通に、通例、安っぽく
   - [ ] **civilization** `[sìvəlizéiʃən]` [名]: 文明(様式)、文明国、洗練、文明化、教化
   - [ ] **perish** `[périʃ]` [自]: (災害などで)死ぬ、消える、堕落する / [他]: …を倒させる、…をだめにする (型: SV, SVO) / ・be perishing for…(…したくてたまらない) / ・perish in a flood(洪水で死ぬ) / ・perish from the earth(地上から消滅する)
 
@@ -139,7 +139,7 @@
 - [ ] PS0719_04064-04067 (Page 217)
   - [ ] **Sentence**: Chaos and confusion prevailed among the hurricane victims. *(日译: ハリケーン被災者の間に無秩序と混乱が広がった。)*
   - [ ] **chaos** `[kéiɑs]` [名]: 無秩序、混乱(状態)、カオス
-  - [ ] **confusion** `[kənfjúːʒən]` [名]: 混乱状態、混乱させること、あいまい、当惑
+  - [x]] **confusion** `[kənfjúːʒən]` [名]: 混乱状態、混乱させること、あいまい、当惑
   - [ ] **prevail** `[prəvéil]` [自]: 広がっている、圧倒する、首尾よくいく、説き伏せる (型: SV) / ・prevail against …(…に打ち勝つ、…をしのぐ) / ・prevail in …(…に蔓延する[広がる])
   - [ ] **hurricane** `[hə́ːrəkèin]` [名]: ハリケーン、大暴風
 
@@ -151,14 +151,14 @@
 
 - [ ] PS0721_04071-04072 (Page 218)
   - [ ] **Sentence**: If you want to study effectively, you should take a break and refresh yourself now. *(日译: 効果的に勉強したいなら、ここで休憩して気分転換しなよ。)*
-  - [ ] **effectively** `[iféktivli]` [副]: 効果的に、事実上
-  - [ ] **refresh** `[rifréʃ]` [他]: …を元気にする、…を新たにする、…を充電する / [自]: 元気を回復する、腹ごしらえをする (型: SV, SVO) / ・refresh oneself with …(…によって元気を回復する)
+  - [x] **effectively** `[iféktivli]` [副]: 効果的に、事実上
+  - [x] **refresh** `[rifréʃ]` [他]: …を元気にする、…を新たにする、…を充電する / [自]: 元気を回復する、腹ごしらえをする (型: SV, SVO) / ・refresh oneself with …(…によって元気を回復する)
 
 - [ ] PS0722_04073-04075 (Page 218)
   - [ ] **Sentence**: I hope this aspirin will relieve my toothache. *(日译: このアスピリンが歯の痛みを和らげてくれるといいけど。)*
-  - [ ] **aspirin** `[ǽspərin]` [名]: アスピリン(錠)
-  - [ ] **relieve** `[rilíːv]` [他]: …を和らげる、…を安心させる、…を解放する、…を浮き彫りにする / [他]: (投手が)救援する (型: SV, SVO) / ・relieve someone's mind(…の心配を取り除いてやる) / ・relieve … of ～(…から～を取り除く)
-  - [ ] **toothache** `[túːθèik]` [名]: 歯痛
+  - [x] **aspirin** `[ǽspərin]` [名]: アスピリン(錠)
+  - [x] **relieve** `[rilíːv]` [他]: …を和らげる、…を安心させる、…を解放する、…を浮き彫りにする / [他]: (投手が)救援する (型: SV, SVO) / ・relieve someone's mind(…の心配を取り除いてやる) / ・relieve … of ～(…から～を取り除く)
+  - [x] **toothache** `[túːθèik]` [名]: 歯痛
 
 - [ ] PS0723_04076-04077 (Page 218)
   - [ ] **Sentence**: The talks between these two countries are in recess and will resume next week. *(日译: 両国間の協議は休会中だが、来週再開されるだろう。)*
@@ -167,14 +167,14 @@
 
 - [ ] PS0724_04078-04081 (Page 219)
   - [ ] **Sentence**: Social uncertainty is steadily reviving the communist movement in the country. *(日译: 社会の不安定さがその国で共産主義運動を着実に復活させている。)*
-  - [ ] **uncertainty** `[ʌnsə́ːrtnti]` [名]: 不安定、確信のなさ、はっきりしない状態、不明確なこと
-  - [ ] **steadily** `[stédəli]` [副]: 堅実に、どんどん
+  - [x] **uncertainty** `[ʌnsə́ːrtnti]` [名]: 不安定、確信のなさ、はっきりしない状態、不明確なこと
+  - [x] **steadily** `[stédəli]` [副]: 堅実に、どんどん
   - [ ] **revive** `[riváiv]` [他]: …を復活させる、…を生き返らせる、…を回復させる、…を再上映する / [自]: 生き返る、意識を回復する、よみがえる、再び注目される (型: SV, SVO) / ・revive memories of …(…を思い出させる)
   - [ ] **communist** `[kάmjənist]` [名]: 共産主義者、(Communist で)共産党員 / [形]: 共産主義(者)の
 
 - [ ] PS0725_04082-04083 (Page 220)
   - [ ] **Sentence**: Evidently, she didn't know that wool products shrink in the wash. *(日译: 間違いなく、彼女はウール製品が洗濯すると縮むということを知らなかった。)*
-  - [ ] **evidently** `[évədəntli]` [副]: 明らかに、どうやら
+  - [x] **evidently** `[évədəntli]` [副]: 明らかに、どうやら
   - [ ] **shrink** `[ʃríŋk]` [自]: 縮む、小さくなる、減少する、避ける / [他]: …を縮める、…を減らす (型: SV, SVO) / ・shrink from danger(危険にひるむ) / ・shrink in length(丈が詰まる) / ・shrink in the wash(洗濯すると縮む) / [名]: しじみ、収縮、精神科医
 
 - [ ] PS0726_04084-04086 (Page 220)
@@ -186,25 +186,25 @@
 - [ ] PS0727_04087-04089 (Page 221)
   - [ ] **Sentence**: The stars were literally sparkling overhead, and I felt like I could reach out and touch them. *(日译: 星たちが文字どおり頭上に輝いていて、手を伸ばして触れることができそうな気がした。)*
   - [ ] **literally** `[lítərəli]` [副]: 文字どおり、まさしく、逐語的に、一語一語
-  - [ ] **sparkle** `[spάːrkl]` [自]: 輝く、火花を発する、泡立つ、活気がある / [他]: (火花など)を発する、…をきらきらと輝かす (型: SV, SVO) / [名]: 火花、輝き、活気、発泡
-  - [ ] **overhead** `[òuvərhéd]` [副]: 頭上に、高く / [形]: 頭上の、一般的な / [名]: 経常経費、天井
+  - [x] **sparkle** `[spάːrkl]` [自]: 輝く、火花を発する、泡立つ、活気がある / [他]: (火花など)を発する、…をきらきらと輝かす (型: SV, SVO) / [名]: 火花、輝き、活気、発泡
+  - [x] **overhead** `[òuvərhéd]` [副]: 頭上に、高く / [形]: 頭上の、一般的な / [名]: 経常経費、天井
 
 - [ ] PS0728_04090-04092 (Page 221)
   - [ ] **Sentence**: My aunt is a psychologist specializing in criminal psychology. *(日译: 私のおばは心理学者で、犯罪心理学を専門としています。)*
-  - [ ] **psychologist** `[saikάlədʒist]` [名]: 心理学者、精神分析医、人の心を見抜くがうまい人
-  - [ ] **specialize** `[spéʃəlàiz]` [自]: 専門とする、特殊化する / [他]: …を特殊化する、…を詳しく扱う (型: SV, SVO) / ・specialize in …(…を専門に扱う、…を専攻する)
-  - [ ] **psychology** `[saikάlədʒi]` [名]: 心理学、心理、
+  - [x] **psychologist** `[saikάlədʒist]` [名]: 心理学者、精神分析医、人の心を見抜くがうまい人
+  - [x] **specialize** `[spéʃəlàiz]` [自]: 専門とする、特殊化する / [他]: …を特殊化する、…を詳しく扱う (型: SV, SVO) / ・specialize in …(…を専門に扱う、…を専攻する)
+  - [x] **psychology** `[saikάlədʒi]` [名]: 心理学、心理、
 
 - [ ] PS0729_04093-04095 (Page 222)
   - [ ] **Sentence**: The vigorous old man thrives on a simple diet and time outside under the shining sun. *(日译: その元気な老人は、シンプルな食事と輝く太陽の下での時間を楽しんでいる。)*
   - [ ] **vigorous** `[vígərəs]` [形]: 活力にあふれた、力強い、強制的な
-  - [ ] **thrive** `[θráiv]` [自]: (事業などが)成功する、繁栄する、(植物などが)成長する、生きがいにする (型: SV) / ・thrive on …(…を生きがいにする)
-  - [ ] **shining** `[ʃáiniŋ]` [形]: 光る、きらめく、明るい、目立つ、優れた(限定用法)
+  - [x] **thrive** `[θráiv]` [自]: (事業などが)成功する、繁栄する、(植物などが)成長する、生きがいにする (型: SV) / ・thrive on …(…を生きがいにする)
+  - [x] **shining** `[ʃáiniŋ]` [形]: 光る、きらめく、明るい、目立つ、優れた(限定用法)
 
 - [ ] PS0730_04096-04098 (Page 222)
   - [ ] **Sentence**: Misfortune transformed the young man into a brutal criminal. *(日译: 不運がその若者を凶悪な犯罪者へと変えた。)*
-  - [ ] **misfortune** `[misfɔ́ːrtʃən]` [名]: 不運、逆境、不幸な出来事
-  - [ ] **transform** `[trænsfɔ́ːrm]` [他]: …を変形させる、…を変化させる、…を変革する (型: SVO) / ・transform … into ～(…を～に変える)
+  - [x] **misfortune** `[misfɔ́ːrtʃən]` [名]: 不運、逆境、不幸な出来事
+  - [x] **transform** `[trænsfɔ́ːrm]` [他]: …を変形させる、…を変化させる、…を変革する (型: SVO) / ・transform … into ～(…を～に変える)
 
 - [ ] PS0731_04099-04100 (Page 223)
   - [ ] **Sentence**: When boys are up to mischief, their eyes sometimes twinkle. *(日译: 男の子がいたずらをしようとするとき、その目はときときらきらと輝く。)*
