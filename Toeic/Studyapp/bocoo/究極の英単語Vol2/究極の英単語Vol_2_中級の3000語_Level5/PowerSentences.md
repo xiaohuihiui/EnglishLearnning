@@ -1,5 +1,5 @@
-- [ ] PS0694_04001-04002 (Page 204)
-  - [ ] **Sentence**: I had to accustom myself to the strict diet restrictions of the hospital. *(日译: 病院ではその厳しい食事制限に慣れなくてはならなかった。)*
+- [x] PS0694_04001-04002 (Page 204)
+  - [x] **Sentence**: I had to accustom myself to the strict diet restrictions of the hospital. *(日译: 病院ではその厳しい食事制限に慣れなくてはならなかった。)*
   - [x] **accustom** `[əkʌ́stəm]` [他]: …を慣らす[習慣づける] (型: SVO) / ・accustom oneself to…(…に慣れる)
   - [x] **restriction** `[ristríkʃən]` [名]: 制限(するもの)、限定(するもの)、制約条件、遠慮
 
