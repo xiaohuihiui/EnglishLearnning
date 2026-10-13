@@ -307,10 +307,10 @@
   - [ ] **emotionally** `[imóuʃənəli]` [副]: 感情的に、情緒的に、情緒的な面について言えば
   - [ ] **refusal** `[rifjúːzəl]` [名]: 拒絶、拒否、優先権
 
-- [ ] PS0749_04147-04148 (Page 233)
-  - [ ] **Sentence**: He teased his friend about his colorful necktie. *(日译: 彼は友達のカラフルなネクタイをからかった。)*
-  - [ ] **tease** `[tíːz]` [他]: …をからかう、…をいじめる、(羊毛など)をすく / [自]: しつこくいじめる、からかう、ねだる (型: SV, SVO) / ・tease … out(…をうまく探り出す) / ・tease … into doing(…をからかって…させる) / [名]: しつこくいじめる人
-  - [ ] **necktie** `[néktài]` [名]: ネクタイ、タイ
+- [x] PS0749_04147-04148 (Page 233)
+  - [x] **Sentence**: He teased his friend about his colorful necktie. *(日译: 彼は友達のカラフルなネクタイをからかった。)*
+  - [x] **tease** `[tíːz]` [他]: …をからかう、…をいじめる、(羊毛など)をすく / [自]: しつこくいじめる、からかう、ねだる (型: SV, SVO) / ・tease … out(…をうまく探り出す) / ・tease … into doing(…をからかって…させる) / [名]: しつこくいじめる人
+  - [x] **necktie** `[néktài]` [名]: ネクタイ、タイ
 
 - [ ] PS0750_04149-04151 (Page 234)
   - [ ] **Sentence**: My co-worker activated the software we use to analyze the company's earnings. *(日译: 私の同僚は、会社の収益を分析するために我々が使用しているソフトウェアを起動した。)*
