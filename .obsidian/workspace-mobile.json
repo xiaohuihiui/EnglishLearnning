@@ -11,10 +11,14 @@
             "id": "62b6920e35117a2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level5/PowerSentences.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "PowerSentences"
             }
           }
         ]
@@ -47,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "[\"type\"]",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -163,11 +167,15 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "masking-as-md:Open text file": false
     }
   },
   "active": "62b6920e35117a2e",
   "lastOpenFiles": [
+    "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level1/wordList.md",
+    "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level5/index.txt",
+    "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level4/index.txt",
     "Toeic/Studyapp/bocoo/究極の英単語Vol1/究極の英単語Vol._1_初級の3000語-level1/index.md",
     "無題のファイル.md",
     "無題のフォルダ 4",
