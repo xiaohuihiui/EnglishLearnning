@@ -209,18 +209,18 @@
 - [ ] PS0731_04099-04100 (Page 223)
   - [ ] **Sentence**: When boys are up to mischief, their eyes sometimes twinkle. *(日译: 男の子がいたずらをしようとするとき、その目はときときらきらと輝く。)*
   - [ ] **mischief** `[místʃif]` [名]: いたずら、ちゃめっ気、損害、悪影響、いたずらっ子
-  - [ ] **twinkle** `[twíŋkl]` [自]: 輝く、きらりと光る、軽快に動く、まばたきする / [他]: …をきらりと光らせる (型: SV, SVO) / [名]: きらめき、輝き、軽快な動き
+  - [x] **twinkle** `[twíŋkl]` [自]: 輝く、きらりと光る、軽快に動く、まばたきする / [他]: …をきらりと光らせる (型: SV, SVO) / [名]: きらめき、輝き、軽快な動き
 
 - [ ] PS0732_04101-04103 (Page 224)
   - [ ] **Sentence**: A fellow journalist acquainted me with the presidential candidate. *(日译: ジャーナリスト仲間が、私をその大統領候補に紹介してくれた。)*
   - [ ] **acquaint** `[əkwéint]` [他]: …を紹介する、…を知らせる (型: SVO) / ・acquaint oneself with …(…に精通する、…を知る)
   - [ ] **presidential** `[prèzədénʃəl]` [形]: 大統領(職)の、支配的な(限定用法)
-  - [ ] **candidate** `[kǽndidèit]` [名]: 候補者、志願者
+  - [x] **candidate** `[kǽndidèit]` [名]: 候補者、志願者
 
 - [ ] PS0733_04104-04105 (Page 225)
   - [ ] **Sentence**: Nowadays, TV commercials aren't considered the ultimate medium for advertising products. *(日译: 今日ではテレビCMは、商品を宣伝するための究極のメディアとは考えられていない。)*
   - [ ] **ultimate** `[ʌ́ltəmət]` [形]: 究極の、最終の、決定的な、これ以上細分化できない(限定用法) / [名]: 最終段階
-  - [ ] **advertise** `[ǽdvərtàiz]` [他]: …を広告する、…を公表する、…と知らせる / [自]: 募集広告を出す、自己宣伝する (型: SV, SVO) / ・advertise for …(…を公募する、…を募集する) / ・advertise in magazines(雑誌に広告を出す)
+  - [x] **advertise** `[ǽdvərtàiz]` [他]: …を広告する、…を公表する、…と知らせる / [自]: 募集広告を出す、自己宣伝する (型: SV, SVO) / ・advertise for …(…を公募する、…を募集する) / ・advertise in magazines(雑誌に広告を出す)
 
 - [ ] PS0734_04106-04108 (Page 225)
   - [ ] **Sentence**: This movie uses irony to condemn the French colonists in Africa. *(日译: この映画はアフリカにおけるフランス入植者らを非難するのに皮肉を用いている。)*
@@ -230,38 +230,38 @@
 
 - [ ] PS0735_04109-04112 (Page 226)
   - [ ] **Sentence**: Her husband unexpectedly consented to a divorce after three years of legal dispute. *(日译: 3年におよぶ法的争議の末、彼女の夫は突然離婚に同意した。)*
-  - [ ] **unexpectedly** `[ʌnikspéktidli]` [副]: 突然に、不意に
+  - [x] **unexpectedly** `[ʌnikspéktidli]` [副]: 突然に、不意に
   - [ ] **consent** `[kənsént]` [自]: 同意する、承諾する (型: SV) / ・consent to do(…することを承諾する) / ・consent that …(…に同意する) / [名]: 承諾、承認、同意
   - [ ] **divorce** `[divɔ́ːrs]` [名]: 離婚、離縁、分離 / [他]: …と離婚する、…を分離する
   - [ ] **dispute** `[dispjúːt]` [名]: 論争、議論、口論、紛争 / [他]: …に反論する、…を議論する、…に抵抗する / [自]: 論争する、口論する
 
 - [ ] PS0736_04113-04114 (Page 226)
   - [ ] **Sentence**: I consulted Mr. Carter before my oral presentation to the class. *(日译: 私はクラスへの口頭発表の前に、カーター先生に助言を求めた。)*
-  - [ ] **consult** `[kənsʌ́lt]` [他]: …に助言を求める[相談する]、…を調べる、…を考慮に入れる / [自]: 話し合う、相談する、顧問を務める (型: SV, SVO) / ・consult … about ～(～について…に相談する) / ・consult on …(…に取り組む) / ・consult with …(…と話し合う)
-
+  - [x] **consult** `[kənsʌ́lt]` [他]: …に助言を求める[相談する]、…を調べる、…を考慮に入れる / [自]: 話し合う、相談する、顧問を務める (型: SV, SVO) / ・consult … about ～(～について…に相談する) / ・consult on …(…に取り組む) / ・consult with …(…と話し合う)
+  - [ ] **oral** `[ɔ́ːrəl]` [形]: 口頭の、口述の、口の / [名]: 口頭試問
+  - 
 - [ ] PS0737_04115-04118 (Page 227)
   - [ ] **Sentence**: Her facial expression was plainly conveying boredom. *(日译: 彼女の表情は退屈をはっきりと伝えていた。)*
-  - [ ] **oral** `[ɔ́ːrəl]` [形]: 口頭の、口述の、口の / [名]: 口頭試問
-  - [ ] **facial** `[féiʃəl]` [形]: 顔の、顔面の、顔用の / [名]: 美顔術、顔の手入れ
-  - [ ] **plainly** `[pléinli]` [副]: はっきりと、率直に、質素に
+  - [] **facial** `[féiʃəl]` [形]: 顔の、顔面の、顔用の / [名]: 美顔術、顔の手入れ
+  - [x] **plainly** `[pléinli]` [副]: はっきりと、率直に、質素に
   - [ ] **convey** `[kənvéi]` [他]: …を伝える、…を運ぶ、…を譲渡する (型: SVO) / ・convey a disease to …(病気を…に移す)
   - [ ] **boredom** `[bɔ́ːrdəm]` [名]: 退屈、けん怠、ものぐさ
 
 - [ ] PS0738_04119-04121 (Page 228)
   - [ ] **Sentence**: The waiters there treat customers so rudely that the restaurant has been damned by critics. *(日译: ウェイターたちが客を無礼に扱うので、そのレストランは批評家たちからきらされている。)*
-  - [ ] **rudely** `[rúːdli]` [副]: 無礼に、突然に、荒々しく
-  - [ ] **damn** `[dæm]` [他]: …を悪いと決めつける、…をけなす、…破滅させる、…のろう / [名]: のろう / (型: SV, SVO) / ・damn … with faint praise(…をいい加減に褒めて実はけなす) / [名]: のろい、ののしり
+  - [x] **rudely** `[rúːdli]` [副]: 無礼に、突然に、荒々しく
+  - [x] **damn** `[dæm]` [他]: …を悪いと決めつける、…をけなす、…破滅させる、…のろう / [名]: のろう / (型: SV, SVO) / ・damn … with faint praise(…をいい加減に褒めて実はけなす) / [名]: のろい、ののしり
   - [ ] **critic** `[krítik]` [名]: 批評家、鑑定家
 
 - [ ] PS0739_04122-04123 (Page 228)
   - [ ] **Sentence**: His dirty jokes disgust his colleagues. *(日译: 彼の下品なジョークは同僚たちをうんざりさせている。)*
   - [ ] **disgust** `[disgʌ́st]` [他]: …をうんざりさせる、…に吐き気を催させる (型: SVO) / ・be disgusted with …(…にうんざりしている、…でもうかついている) / [名]: むかつき、嫌悪
-  - [ ] **colleague** `[kάliːg]` [名]: 同僚、仲間、同業者
+  - [x] **colleague** `[kάliːg]` [名]: 同僚、仲間、同業者
 
 - [ ] PS0740_04124-04125 (Page 229)
   - [ ] **Sentence**: His distinctly loud voice embarrassed the rest of us at the table in the restaurant. *(日译: 彼のはっきりした大きな声で、レストランで同じテーブルにいるわれわれ全員ははずかしい思いをした。)*
   - [ ] **distinctly** `[distíŋktli]` [副]: はっきりと、疑いもなく
-  - [ ] **embarrass** `[imbǽrəs]` [他]: …に恥ずかしい思いをさせる、…をろうばいさせる、…を苦境に陥れる、…を阻害する、…を混乱させる (型: SV, SVO) / ・be embarrassed by …(…で恥ずかしい思いをする) / ・embarrass oneself(きまり悪くなる、まごつく) / ・be embarrassed about doing(…をしたことで困る)
+  - [x] **embarrass** `[imbǽrəs]` [他]: …に恥ずかしい思いをさせる、…をろうばいさせる、…を苦境に陥れる、…を阻害する、…を混乱させる (型: SV, SVO) / ・be embarrassed by …(…で恥ずかしい思いをする) / ・embarrass oneself(きまり悪くなる、まごつく) / ・be embarrassed about doing(…をしたことで困る)
 
 -  [ ] PS0741_04126-04127 (Page 229)
  - [ ] Sentence: (等待手动补充：例句及日译)
@@ -270,13 +270,13 @@
 - [ ] PS0742_04128-04130 (Page 230)
   - [ ] **Sentence**: He flattered his superior on his tie, but it somehow made the atmosphere a little unpleasant. *(日译: 彼は上司のネクタイを褒めたが、どういうわけか場の空気を少し悪くしてしまった。)*
   - [ ] **flatter** `[flǽtər]` [他]: …にお世辞を言う、…にこびる、…を得意がらせる、…を実物以上によく見せる / [自]: お世辞を言う (型: SV, SVO) / ・flatter … on ～(…のことを褒めて機嫌をとる)
-  - [ ] **superior** `[supíəriər]` [名]: 上司、先輩、目上の人 / [形]: 優れた、(…より)上の、上級の
-  - [ ] **unpleasant** `[ʌnplézənt]` [形]: 不愉快な、不快にさせる、いやな、無礼な
+  - [x] **superior** `[supíəriər]` [名]: 上司、先輩、目上の人 / [形]: 優れた、(…より)上の、上級の
+  - [x] **unpleasant** `[ʌnplézənt]` [形]: 不愉快な、不快にさせる、いやな、無礼な
 
 - [ ] PS0743_04131-04132 (Page 230)
   - [ ] **Sentence**: She jealously inquired about his relationship with the charming lady in the photograph. *(日译: 彼女はしっとして、写真に写っている魅力的な女性と彼との関係を尋ねた。)*
-  - [ ] **inquire** `[inkwáiər]` [自]: 尋ねる、調査する / [他]: …を尋ねる、…を聞く (型: SV, SVO) / ・inquire after …(…の健康状態を尋ねる) / ・inquire for …(…に面会を求める、…について問い合わせる)
-  - [ ] **charming** `[tʃάːrmiŋ]` [形]: 魅力的な、うっとりさせるような
+  - [x] **inquire** `[inkwáiər]` [自]: 尋ねる、調査する / [他]: …を尋ねる、…を聞く (型: SV, SVO) / ・inquire after …(…の健康状態を尋ねる) / ・inquire for …(…に面会を求める、…について問い合わせる)
+  - [x] **charming** `[tʃάːrmiŋ]` [形]: 魅力的な、うっとりさせるような
 
 - [ ] PS0744_04133-04135 (Page 231)
   - [ ] **Sentence**: He only murmurs his complaints about his wife, so she's completely unaware of his frustration. *(日译: 彼が妻への不満を大声に言わないので、彼女は夫のフラストレーションにまったく気付いていない。)*
@@ -286,37 +286,37 @@
 
 - [ ] PS0745_04136-04138 (Page 231)
   - [ ] **Sentence**: He's unwilling to negotiate independently with us, so we'll have to contact his agent first. *(日译: 彼は単独では交渉したがらないから、われわれはまず彼の代理人と連絡をとらねばならないだろう。)*
-  - [ ] **unwilling** `[ʌnwíliŋ]` [形]: 気が進まない、不本意の
-  - [ ] **negotiate** `[nigóuʃièit]` [自]: 交渉する、協議する、話し合う / [他]: …と交渉する、…を(交渉して)取り決める、…を切り抜ける (型: SV, SVO) / ・negotiate with …(…と交渉する) / ・sit at the negotiating table(交渉のテーブルにつく)
-  - [ ] **independently** `[ìndipéndəntli]` [副]: 独立して、自主的に
+  - [x] **unwilling** `[ʌnwíliŋ]` [形]: 気が進まない、不本意の
+  - [x] **negotiate** `[nigóuʃièit]` [自]: 交渉する、協議する、話し合う / [他]: …と交渉する、…を(交渉して)取り決める、…を切り抜ける (型: SV, SVO) / ・negotiate with …(…と交渉する) / ・sit at the negotiating table(交渉のテーブルにつく)
+  - [x] **independently** `[ìndipéndəntli]` [副]: 独立して、自主的に
 
 - [ ] PS0746_04139-04141 (Page 232)
   - [ ] **Sentence**: He pleaded innocent to the charge of killing the noted guitarist. *(日译: 彼はその著名なギタリストを殺害したという容疑に対して無罪を主張した。)*
   - [ ] **plead** `[plíːd]` [自]: 申し立て[主張]する、嘆願する / [他]: …を主張する (型: SV, SVO, SVC) / ・plead with … for ～(…に～を懇願する) / ・plead with … to do(…に～してくれと懇願する)
   - [ ] **noted** `[nóutid]` [形]: 著名な、顕著な
-  - [ ] **guitarist** `[gitάːrist]` [名]: ギタリスト
+  - [x] **guitarist** `[gitάːrist]` [名]: ギタリスト
 
 - [ ] PS0747_04142-04143 (Page 232)
   - [ ] **Sentence**: There were very noticeable signs that proclaimed, "Smoking is not allowed in this restaurant." *(日译: 「当レストラン内は禁煙です」と示す非常に目立つはり紙があった。)*
-  - [ ] **noticeable** `[nóutisəbl]` [形]: 人目を引く、目立つ、注目に値する
+  - [x] **noticeable** `[nóutisəbl]` [形]: 人目を引く、目立つ、注目に値する
   - [ ] **proclaim** `[proukléim]` [他]: …を公然と示す、…を宣言する、…を公表する (型: SVO, SVOC) / ・The king proclaimed him a leader.(王は、彼がリーダーだと宣言した) / ・proclaim oneself …(…を自称する、自ら…と名乗る)
 
 - [ ] PS0748_04144-04146 (Page 233)
   - [ ] **Sentence**: I reacted emotionally to his refusal to accept my apology. *(日译: 彼が私の謝罪を受け入れるのを拒んだことに対し、私は感情的に反応してしまった。)*
   - [ ] **react** `[riǽkt]` [自]: 反応する、反作用する、影響し合う、反対する / [自]: …に(化学)反応を起こさせる (型: SV, SVO) / ・react on …(…に反応する) / ・react against …(…に反抗[反対]する)
-  - [ ] **emotionally** `[imóuʃənəli]` [副]: 感情的に、情緒的に、情緒的な面について言えば
+  - [x] **emotionally** `[imóuʃənəli]` [副]: 感情的に、情緒的に、情緒的な面について言えば
   - [ ] **refusal** `[rifjúːzəl]` [名]: 拒絶、拒否、優先権
 
 - [x] PS0749_04147-04148 (Page 233)
   - [x] **Sentence**: He teased his friend about his colorful necktie. *(日译: 彼は友達のカラフルなネクタイをからかった。)*
-  - [x] **tease** `[tíːz]` [他]: …をからかう、…をいじめる、(羊毛など)をすく / [自]: しつこくいじめる、からかう、ねだる (型: SV, SVO) / ・tease … out(…をうまく探り出す) / ・tease … into doing(…をからかって…させる) / [名]: しつこくいじめる人
+  - [] **tease** `[tíːz]` [他]: …をからかう、…をいじめる、(羊毛など)をすく / [自]: しつこくいじめる、からかう、ねだる (型: SV, SVO) / ・tease … out(…をうまく探り出す) / ・tease … into doing(…をからかって…させる) / [名]: しつこくいじめる人
   - [x] **necktie** `[néktài]` [名]: ネクタイ、タイ
 
 - [ ] PS0750_04149-04151 (Page 234)
   - [ ] **Sentence**: My co-worker activated the software we use to analyze the company's earnings. *(日译: 私の同僚は、会社の収益を分析するために我々が使用しているソフトウェアを起動した。)*
-  - [ ] **co-worker** `[kòuwə́ːrkər]` [名]: 同僚
-  - [ ] **activate** `[ǽktəvèit]` [他]: …を動作させる、…を起動させる、…を活性化する (型: SVO) / ・activate a license(ライセンスを有効にする)
-  - [ ] **earnings** `[ə́ːrniŋz]` [名]: 収入、働いて収入を得ること
+  - [x] **co-worker** `[kòuwə́ːrkər]` [名]: 同僚
+  - [x] **activate** `[ǽktəvèit]` [他]: …を動作させる、…を起動させる、…を活性化する (型: SVO) / ・activate a license(ライセンスを有効にする)
+  - [x] **earnings** `[ə́ːrniŋz]` [名]: 収入、働いて収入を得ること
 
 - [ ] PS0751_04152-04155 (Page 234)
   - [ ] **Sentence**: The artists have arrayed their artwork for the upcoming exhibition in the warehouse. *(日译: 画家たちは倉庫で今度の展覧会に向けて芸術作品を配置した。)*
