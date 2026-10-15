@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d671c0f45d74ab1b",
+        "id": "beabf1a59429f487",
         "type": "tabs",
         "children": [
           {
-            "id": "735a271d1b9ff193",
+            "id": "2f1a2455626586f8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,7 +131,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level5/PowerSentences.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -165,10 +164,11 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "masking-as-md:Open text file": false
+      "masking-as-md:Open text file": false,
+      "fleurdict:FleurDict 生词本": false
     }
   },
-  "active": "735a271d1b9ff193",
+  "active": "2f1a2455626586f8",
   "lastOpenFiles": [
     "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level5/index.txt",
     "Toeic/Studyapp/bocoo/究極の英単語Vol2/究極の英単語Vol_2_中級の3000語_Level5/PowerSentences.md",

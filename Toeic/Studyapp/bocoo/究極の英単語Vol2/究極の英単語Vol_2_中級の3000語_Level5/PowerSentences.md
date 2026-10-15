@@ -410,28 +410,28 @@
 - [ ] PS0768_04197-04198 (Page 243)
   - [ ] **Sentence**: The lion looked fierce and roared like thunder. *(日译: そのライオンはどう猛そうで、雷のようにほえた。)*
   - [ ] **fierce** `[fíərs]` [形]: どう猛な、荒々しい、(風雨などが)激しい / [副]: ひどく
-  - [ ] **roar** `[rɔ́ːr]` [自]: わめく、怒鳴る、大笑いする、ごう音を立てる / [他]: …を大声で言う、…を叫んでする (型: SV, SVO) / ・roar with laughter(大笑いする) /
+  - [x] **roar** `[rɔ́ːr]` [自]: わめく、怒鳴る、大笑いする、ごう音を立てる / [他]: …を大声で言う、…を叫んでする (型: SV, SVO) / ・roar with laughter(大笑いする) /
 
 - [ ] PS0769_04199-04200 (Page 243)
   - [ ] **Sentence**: Technically, she slapped me rather than hit me. *(日译: 厳密には、彼女は僕を殴ったというより、僕に平手打ちを食らわせた。)*
-  - [ ] **technically** `[téknɪkli]` [副]: 厳密にいえば、技術的には、専門的には
+  - [x] **technically** `[téknɪkli]` [副]: 厳密にいえば、技術的には、専門的には
   - [ ] **slap** `[slæp]` [他]: …に平手打ちを食らわす、…をたたきつけるように置く / [自]: ピシャリと音を立てる (型: SV, SVO) / ・slap … on the cheek(…にびんたを食らわす) / ・slap … down(…をやめさせる、…をたたきつけるように置く) / [名]: 平手打ち、平手打ちのような音、非難 / [副]: 突然に
 
 - [ ] PS0770_04201-04202 (Page 244)
   - [ ] **Sentence**: A man on a motorbike snatched her handbag from behind. *(日译: 小型バイクに乗った男が背後から彼女のハンドバッグをひったくった。)*
-  - [ ] **motorbike** `[móʊtərbàɪk]` [名]: 小型オートバイ、バイク
+  - [x] **motorbike** `[móʊtərbàɪk]` [名]: 小型オートバイ、バイク
   - [ ] **snatch** `[snætʃ]` [他]: …をひったくる[さっと取る、強奪する]、…を急いで取る、…を獲得する / [自]: ひっつかもうとする、飛びつく (型: SV, SVO) / ・have … snatched away(…をひったくられる) / ・snatch a meal(急いで食事する) / ・snatch at a straw(わらにもすがろうとする) / [名]: ひったくり、強奪、(歌などの)一片、ひととき
 
 - [ ] PS0771_04203-04206 (Page 244)
   - [ ] **Sentence**: I started sneezing nonstop, so I initially thought I had the flu. *(日译: くしゃみが止まらなくなって、初めはインフルエンザにかかったのだと思った。)*
-  - [ ] **sneeze** `[sníːz]` [自]: くしゃみをする (型: SV) / ・sneeze at …(…をばかにする) / [名]: くしゃみ
-  - [ ] **nonstop** `[nɑ̀nstάp]` [副]: 休みなしで、途中で止まらないで、ノンストップで / [形]: 途中で止まらない、ノンストップの / [名]: 直行便
-  - [ ] **initially** `[ɪnɪ́ʃəli]` [副]: 初めに、冒頭に
-  - [ ] **flu** `[fluː]` [名]: インフルエンザ、流感
+  - [x] **sneeze** `[sníːz]` [自]: くしゃみをする (型: SV) / ・sneeze at …(…をばかにする) / [名]: くしゃみ
+  - [x] **nonstop** `[nɑ̀nstάp]` [副]: 休みなしで、途中で止まらないで、ノンストップで / [形]: 途中で止まらない、ノンストップの / [名]: 直行便
+  - [x] **initially** `[ɪnɪ́ʃəli]` [副]: 初めに、冒頭に
+  - [x] **flu** `[fluː]` [名]: インフルエンザ、流感
 
 - [ ] PS0772_04207-04208 (Page 245)
   - [ ] **Sentence**: One of the girls became awfully homesick, and she used to sob in her room at night. *(日译: 少女の中の一人はひどくホームシックになって、夜になると自分の部屋で泣いたものだ。)*
-  - [ ] **homesick** `[hóʊmsɪk]` [形]: ホームシックの
+  - [x] **homesick** `[hóʊmsɪk]` [形]: ホームシックの
   - [ ] **sob** `[sɑ́b]` [自]: むせび泣く、あえぐ / [他]: …をむせび泣きながら言う、むせび泣いて…をする (型: SV, SVO) / ・sob with grief(悲しくてむせび泣く) / ・sob one's heart out(胸も張り裂けんばかりにむせび泣く) / [名]: むせび泣き、泣きじゃくり
 
 - [ ] PS0773_04209-04211 (Page 245)
@@ -443,7 +443,7 @@
 - [ ] PS0774_04212-04216 (Page 246)
   - [ ] **Sentence**: He trod with a cautious stride on the icy and slippery road. *(日译: 彼は凍結して滑りやすい道を慎重な足取りで歩いた。)*
   - [ ] **tread** `[trɛd]` [自]: 歩く、踏む、踏み潰す / [他]: …を踏む、…を踏みつける、…を踏みにじる (型: SV, SVO) / ・tread on …(…を踏みつける) / ・tread on someone's toes(…の足を踏む、…を怒らせる) / [名]: 足音、(タイヤの)溝形
-  - [ ] **cautious** `[kɔ́ːʃəs]` [形]: 慎重な、用心深い、注意深い
+  - [x] **cautious** `[kɔ́ːʃəs]` [形]: 慎重な、用心深い、注意深い
   - [ ] **stride** `[stráɪd]` [名]: 大股の足取り、ひとまたぎ、進歩 / [自]: 大股で歩く、またぐ / [他]: …を大またで歩く、…をまたぐ
   - [ ] **icy** `[áɪsi]` [形]: 氷で覆われた、氷のような、氷で作った、滑りやすい
   - [ ] **slippery** `[slípəri]` [形]: よく滑る、つかみにくい、不安定な
@@ -452,65 +452,65 @@
   - [ ] **Sentence**: The armed robbers abandoned the car and ran off separately. *(日译: 武装した強盗たちは車を乗り捨て、別々に逃げた。)*
   - [ ] **armed** `[ɑ́ːrmd]` [形]: 武装した、武器を持った、強化された
   - [ ] **abandon** `[əbǽndən]` [他]: …を捨てる、…を断念する、…を明け渡す、…を放棄する (型: SVO) / ・abandon oneself to …(〔感情・衝動〕に身を委ねる) / ・abandon a plan(計画を中断する) / ・Abandon your weapons.(武器を捨てろ) / [名]: 気まま、自由奔放
-  - [ ] **separately** `[sɛ́pərɪtli]` [副]: 個々に、離れて、独立して
+  - [x] **separately** `[sɛ́pərɪtli]` [副]: 個々に、離れて、独立して
 
 - [ ] PS0776_04220-04221 (Page 248)
   - [ ] **Sentence**: The unfair tax law should be abolished. *(日译: その不公平な税法は廃止されるべきだ。)*
-  - [ ] **unfair** `[ʌ̀nfɛ́ər]` [形]: 不公正な、ずるい、あの世の悪い
-  - [ ] **abolish** `[əbάlɪʃ]` [他]: …を廃止する、…を根絶する、…をだめにする (型: SVO) / ・abolish the death penalty(死刑を廃止する) / ・abolish war(戦争をなくす)
+  - [x] **unfair** `[ʌ̀nfɛ́ər]` [形]: 不公正な、ずるい、あの世の悪い
+  - [x] **abolish** `[əbάlɪʃ]` [他]: …を廃止する、…を根絶する、…をだめにする (型: SVO) / ・abolish the death penalty(死刑を廃止する) / ・abolish war(戦争をなくす)
 
 - [ ] PS0777_04222-04225 (Page 249)
   - [ ] **Sentence**: The innovative company is accelerating its recycling efforts for a sustainable future. *(日译: その革新的な企業は、持続可能な未来のためにリサイクルの取り組みを加速している。)*
-  - [ ] **innovative** `[ínəvèɪtɪv]` [形]: 革新的な
-  - [ ] **accelerate** `[æksɛ́ləreɪt]` [他]: …の速度を上げる、…を加速する、…を促進する、…の時期を早める / [自]: 速度を上げる、加速する、促進される (型: SV, SVO) / ・accelerate a car(車の速度を上げる) / ・accelerate the pace of reform(改革を加速する)
-  - [ ] **recycling** `[rìːsáɪklɪŋ]` [名]: 再生利用の / [名]: 再生利用
-  - [ ] **sustainable** `[səstéɪnəbl]` [形]: 維持できる、耐え得る、立証できる、環境を破壊せずに継続できる
+  - [x] **innovative** `[ínəvèɪtɪv]` [形]: 革新的な
+  - [x] **accelerate** `[æksɛ́ləreɪt]` [他]: …の速度を上げる、…を加速する、…を促進する、…の時期を早める / [自]: 速度を上げる、加速する、促進される (型: SV, SVO) / ・accelerate a car(車の速度を上げる) / ・accelerate the pace of reform(改革を加速する)
+  - [x] **recycling** `[rìːsáɪklɪŋ]` [名]: 再生利用の / [名]: 再生利用
+  - [x] **sustainable** `[səstéɪnəbl]` [形]: 維持できる、耐え得る、立証できる、環境を破壊せずに継続できる
 
 - [ ] PS0778_04226-04227 (Page 250)
   - [ ] **Sentence**: His pessimistic statements really annoy me. *(日译: 彼の悲観的な発言は私を本当にいらいらさせる。)*
   - [ ] **pessimistic** `[pɛ̀səmɪ́stɪk]` [形]: 悲観的な、厭世的な
-  - [ ] **annoy** `[ənɔ́ɪ]` [他]: …をいらいらさせる、…を悩ます / [自]: (人・行為が)いらいらしい、うるわしい (型: SV, SVO) / ・be annoyed with …(…にむかつく) / ・I'm getting annoyed.(イライラしてきたよ)
+  - [x] **annoy** `[ənɔ́ɪ]` [他]: …をいらいらさせる、…を悩ます / [自]: (人・行為が)いらいらしい、うるわしい (型: SV, SVO) / ・be annoyed with …(…にむかつく) / ・I'm getting annoyed.(イライラしてきたよ)
 
 - [ ] PS0779_04228-04230 (Page 250)
   - [ ] **Sentence**: If he can assemble a team of experienced and skilled workers, the project will be a success. *(日译: 彼が経験と腕もある労働者たちの団をまとめられれば、そのプロジェクトは成功するだろう。)*
-  - [ ] **assemble** `[əsɛ́mbl]` [他]: …を集める、…をまとめる、…を組み立てる / [自]: 集まる、集合する (型: SV, SVO) / ・assemble a machine(機械を組み立てる) / ・assemble … into ～(…を組み合わせて～を作る)
-  - [ ] **experienced** `[ɪkspíəriənst]` [形]: 経験豊かな、熟達した
-  - [ ] **skilled** `[skɪld]` [形]: 熟練した、特殊技能を持っている、熟練を要する
+  - [x] **assemble** `[əsɛ́mbl]` [他]: …を集める、…をまとめる、…を組み立てる / [自]: 集まる、集合する (型: SV, SVO) / ・assemble a machine(機械を組み立てる) / ・assemble … into ～(…を組み合わせて～を作る)
+  - [x] **experienced** `[ɪkspíəriənst]` [形]: 経験豊かな、熟達した
+  - [x] **skilled** `[skɪld]` [形]: 熟練した、特殊技能を持っている、熟練を要する
 
 - [ ] PS0780_04231-04232 (Page 251)
   - [ ] **Sentence**: Ideally, I don't like to assign homework to my students during holidays. *(日译: 理想としては、私って生徒たちに休日に宿題なんか出したくない。)*
   - [ ] **ideally** `[aɪdíːəli]` [副]: 理想的には、理想的に、観念的に
-  - [ ] **assign** `[əsáɪn]` [他]: …を割り当てる、…を任命する、(日時・場所など)を指定する、…を特定する、…を譲渡する / [名]: 財産権を譲渡する (型: SV, SVO, SVOO) / ・They assigned him the work.(彼らは彼に仕事を割り当てた) / ・assign a day for …(…の日取りを決める) / ・assign … to do(…をするように任命する) / [名]: (assigns で)譲受人
+  - [x] **assign** `[əsáɪn]` [他]: …を割り当てる、…を任命する、(日時・場所など)を指定する、…を特定する、…を譲渡する / [名]: 財産権を譲渡する (型: SV, SVO, SVOO) / ・They assigned him the work.(彼らは彼に仕事を割り当てた) / ・assign a day for …(…の日取りを決める) / ・assign … to do(…をするように任命する) / [名]: (assigns で)譲受人
 
 - [ ] PS0781_04233-04235 (Page 251)
   - [ ] **Sentence**: Her imaginative writing astonished her teachers when she was in elementary school. *(日译: 小学生だった頃、彼女の想像力に富んだ文章は、教師たちを驚かせた。)*
-  - [ ] **imaginative** `[ɪmǽdʒənətɪv]` [形]: 想像力に富んだ、想像による、真実性に乏しい
+  - [x] **imaginative** `[ɪmǽdʒənətɪv]` [形]: 想像力に富んだ、想像による、真実性に乏しい
   - [ ] **astonish** `[əstάnɪʃ]` [他]: …を驚かす、…をびっくりさせる (型: SVO) / ・be astonished at [by] …(…に驚く) / ・be astonished to hear the news(そのニュースを聞いて驚く)
   - [ ] **elementary** `[ɛ̀ləmɛ́ntəri]` [形]: 小学校の、初歩の、初等の、単純な、要素的な
 
 - [ ] PS0782_04236-04238 (Page 252)
   - [ ] **Sentence**: His company attained its high goals using a revolutionary strategy. *(日译: 彼の会社は高い目標を、画期的な戦略で達成した。)*
-  - [ ] **attain** `[ətéɪn]` [他]: …を達成する、…に到達する / [自]: 到達する (型: SV, SVO) / ・attain one's aims(目標を達成する) / ・attain fame(名声を得る) / ・attain to a great age(高齢に達する)
-  - [ ] **revolutionary** `[rɛ̀vəlúːʃənèri]` [形]: 画期的な、革命的な、革命の、回転する
-  - [ ] **strategy** `[strǽtədʒi]` [名]: 戦略、兵法、策略、計画
+  - [x] **attain** `[ətéɪn]` [他]: …を達成する、…に到達する / [自]: 到達する (型: SV, SVO) / ・attain one's aims(目標を達成する) / ・attain fame(名声を得る) / ・attain to a great age(高齢に達する)
+  - [x] **revolutionary** `[rɛ̀vəlúːʃənèri]` [形]: 画期的な、革命的な、革命の、回転する
+  - [x] **strategy** `[strǽtədʒi]` [名]: 戦略、兵法、策略、計画
 
 - [ ] PS0783_04239-04241 (Page 252)
   - [ ] **Sentence**: On Halloween, we carve pumpkins into lanterns with scary faces called "jack-o'-lanterns." *(日译: ハロウィーンには、かぼちゃを彫って「ジャック・オー・ランタン」と呼ばれる怖い顔をしたカボチャのちょうちんを作る。)*
-  - [ ] **carve** `[kάːrv]` [他]: …を彫る、…を刻む、…を薄く切る、…を切り開く / [自]: 彫刻する、肉を切り分ける (型: SV, SVO, SVOO) / ・He carved her a figure from the wood.(彼はその木から、彼女に人形を彫ってあげた) / ・carve … into ～(…を彫って～を作る) / ・carve … out(…を切り出す、…を開拓する) / ・carve … up(…を小さく切る[切り刻む]、…を分割する)
-  - [ ] **lantern** `[lǽntərn]` [名]: ちょうちん、ランタン、手さげランプ、(灯台頂部の)灯火室
-  - [ ] **scary** `[skɛ́əri]` [形]: 怖い、恐ろしい、おびえやすい
+  - [x] **carve** `[kάːrv]` [他]: …を彫る、…を刻む、…を薄く切る、…を切り開く / [自]: 彫刻する、肉を切り分ける (型: SV, SVO, SVOO) / ・He carved her a figure from the wood.(彼はその木から、彼女に人形を彫ってあげた) / ・carve … into ～(…を彫って～を作る) / ・carve … out(…を切り出す、…を開拓する) / ・carve … up(…を小さく切る[切り刻む]、…を分割する)
+  - [x] **lantern** `[lǽntərn]` [名]: ちょうちん、ランタン、手さげランプ、(灯台頂部の)灯火室
+  - [x] **scary** `[skɛ́əri]` [形]: 怖い、恐ろしい、おびえやすい
 
 - [ ] PS0784_04242-04244 (Page 253)
   - [ ] **Sentence**: The spokesperson will clarify the details of our collaboration at the conference. *(日译: 広報担当者が、会議で我々の協力内容の詳細を明らかにする。)*
-  - [ ] **spokesperson** `[spóʊkspə̀ːrsn]` [名]: スポークスマン、代弁者、代表者
-  - [ ] **clarify** `[klǽrəfàɪ]` [他]: …を明らかにする、…をはっきりさせる (型: SVO)
+  - [x] **spokesperson** `[spóʊkspə̀ːrsn]` [名]: スポークスマン、代弁者、代表者
+  - [x] **clarify** `[klǽrəfàɪ]` [他]: …を明らかにする、…をはっきりさせる (型: SVO)
   - [ ] **collaboration** `[kəlæ̀bəréɪʃən]` [名]: 合作、協同、協力、コラボレーション、共同作品
 
 - [ ] PS0785_04245-04247 (Page 254)
   - [ ] **Sentence**: He had composed a couple of symphonies long before he became known as a conductor. *(日译: 彼は指揮者として知られるようになるずっと以前に、いくつかの交響曲を作曲した。)*
-  - [ ] **compose** `[kəmpóʊz]` [他]: …を作曲する、…を構成する、…から成る、…を整理する、…を制作する / [自]: 詩を作る、作曲する (型: SV, SVO) / ・be composed of …(…から成り立つ) / ・compose oneself(心を落ち着ける、落ち着く)
+  - [x] **compose** `[kəmpóʊz]` [他]: …を作曲する、…を構成する、…から成る、…を整理する、…を制作する / [自]: 詩を作る、作曲する (型: SV, SVO) / ・be composed of …(…から成り立つ) / ・compose oneself(心を落ち着ける、落ち着く)
   - [ ] **symphony** `[sɪ́mfəni]` [名]: 交響曲、(交響楽団の)演奏会
-  - [ ] **conductor** `[kəndʌ́ktər]` [名]: 指揮者、車掌
+  - [x] **conductor** `[kəndʌ́ktər]` [名]: 指揮者、車掌
 
 - [ ] PS0786_04248-04249 (Page 254)
   - [ ] **Sentence**: It is absurd to try to conceal your age because everyone gets old. *(日译: 誰もが歳をとるのだから、自分の年齢を隠そうとするなんてばかげている。)*
