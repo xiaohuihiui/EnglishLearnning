@@ -321,49 +321,49 @@
 - [ ] PS0751_04152-04155 (Page 234)
   - [ ] **Sentence**: The artists have arrayed their artwork for the upcoming exhibition in the warehouse. *(日译: 画家たちは倉庫で今度の展覧会に向けて芸術作品を配置した。)*
   - [ ] **array** `[əréi]` [他]: …を配置する、…を盛装させる (型: SVO) / [名]: 配置、(an array of …で)…の列挙
-  - [ ] **artwork** `[άːrtwèrk]` [名]: 芸術作品、挿絵、図版
-  - [ ] **upcoming** `[ʌ́pkʌ̀miŋ]` [形]: 近づく、今度の、来たるべき
-  - [ ] **warehouse** `[wéərhàus]` [名]: 倉庫
+  - [x] **artwork** `[άːrtwèrk]` [名]: 芸術作品、挿絵、図版
+  - [x] **upcoming** `[ʌ́pkʌ̀miŋ]` [形]: 近づく、今度の、来たるべき
+  - [x] **warehouse** `[wéərhàus]` [名]: 倉庫
 
 - [ ] PS0752_04156-04157 (Page 235)
   - [ ] **Sentence**: I deleted the old files on my tablet to clear space. *(日译: スペースを空けるために、タブレットの古いファイルを削除した。)*
-  - [ ] **delete** `[dilíːt]` [他]: …を削除する、…を消す (型: SVO) / ・delete a sentence(1文を削除する)
-  - [ ] **tablet** `[tǽblət]` [名]: 錠剤、タブレット、板状小片
+  - [x] **delete** `[dilíːt]` [他]: …を削除する、…を消す (型: SVO) / ・delete a sentence(1文を削除する)
+  - [x] **tablet** `[tǽblət]` [名]: 錠剤、タブレット、板状小片
 
 - [ ] PS0753_04158-04161 (Page 235)
   - [ ] **Sentence**: He wanted us to download lots of needless attachments on our mobile devices. *(日译: 彼は我々にたくさんの不要な添付ファイルを携帯デバイスにダウンロードさせたがった。)*
-  - [ ] **download** `[dáunlòud]` [他]: ダウンロードする (型: SVO)
-  - [ ] **needless** `[níːdlis]` [形]: 不必要な、無駄な
-  - [ ] **attachment** `[ətǽtʃmənt]` [名]: 付属物[品]、(コンピューターで)添付ファイル、愛着、愛情
-  - [ ] **mobile** `[móubəl]` [形]: 移動しやすい、可動性の(限定用法) / [名]: 携帯電話、モビール(動く彫刻)
+  - [x] **download** `[dáunlòud]` [他]: ダウンロードする (型: SVO)
+  - [x] **needless** `[níːdlis]` [形]: 不必要な、無駄な
+  - [x] **attachment** `[ətǽtʃmənt]` [名]: 付属物[品]、(コンピューターで)添付ファイル、愛着、愛情
+  - [x] **mobile** `[móubəl]` [形]: 移動しやすい、可動性の(限定用法) / [名]: 携帯電話、モビール(動く彫刻)
 
 - [ ] PS0754_04162-04165 (Page 236)
   - [ ] **Sentence**: The factory emits harmful emissions containing dioxides that are believed to cause allergy issues in the area. *(日译: その工場は、その地域でのアレルギー問題の原因と見られている二酸化物を含んだ有害な排出物を排出している。)*
-  - [ ] **emit** `[imít]` [他]: …を出す、…を放つ、…を発令する、…を口に出す (型: SVO) / ・emit carbon dioxide(二酸化炭素を排出する)
-  - [ ] **emission** `[imíʃən]` [名]: 放出(量)、放射、排出
-  - [ ] **dioxide** `[daiάksaid]` [名]: 二酸化物
+  - [x] **emit** `[imít]` [他]: …を出す、…を放つ、…を発令する、…を口に出す (型: SVO) / ・emit carbon dioxide(二酸化炭素を排出する)
+  - [x] **emission** `[imíʃən]` [名]: 放出(量)、放射、排出
+  - [x] **dioxide** `[daiάksaid]` [名]: 二酸化物
 
 - [ ] PS0756_04169-04171 (Page 237)
   - [ ] **Sentence**: The announcer exclaimed that the player was a sporting legend. *(日译: そのアナウンサーは、その選手がスポーツ界の伝説だと叫んだ。)*
-  - [ ] **exclaim** `[ikskléim]` [他]: …と叫ぶ[言う] / [自]: 叫ぶ、絶叫する、言う (型: SV, SVO) / ・exclaim against …(…を非難する)
-  - [ ] **sporting** `[spɔ́ːrtiŋ]` [形]: スポーツの、スポーツ用の、スポーツ好きの、正々堂々とした、冒険的な
-  - [ ] **legend** `[lédʒənd]` [名]: 伝説、言い伝え、説明文、(地図などの)凡例
+  - [x] **exclaim** `[ikskléim]` [他]: …と叫ぶ[言う] / [自]: 叫ぶ、絶叫する、言う (型: SV, SVO) / ・exclaim against …(…を非難する)
+  - [x] **sporting** `[spɔ́ːrtiŋ]` [形]: スポーツの、スポーツ用の、スポーツ好きの、正々堂々とした、冒険的な
+  - [x] **legend** `[lédʒənd]` [名]: 伝説、言い伝え、説明文、(地図などの)凡例
 
 - [ ] PS0757_04172-04173 (Page 237)
   - [ ] **Sentence**: My daughter patiently taught her dog to fetch a ball. *(日译: 私の娘は自分の犬にボールを取ってくるよう根気強く教えた。)*
-  - [ ] **patiently** `[péiʃəntli]` [副]: 根気よく、気長に
-  - [ ] **fetch** `[fétʃ]` [他]: …を取ってくる、…を行って取ってくる、…を連れてくる、…の値になる、…を魅惑する、(息など)を吐く / [自]: 行って物を取ってくる、進む、回り道をする、獲物を取ってくる (型: SV, SVO, SVOO) / ・fetch around(評判する、[意識を]回復させる) / ・fetch and carry(使い走りをする、雑用をする) / [名]: 取ってくること、広がり
+  - [x] **patiently** `[péiʃəntli]` [副]: 根気よく、気長に
+  - [x] **fetch** `[fétʃ]` [他]: …を取ってくる、…を行って取ってくる、…を連れてくる、…の値になる、…を魅惑する、(息など)を吐く / [自]: 行って物を取ってくる、進む、回り道をする、獲物を取ってくる (型: SV, SVO, SVOO) / ・fetch around(評判する、[意識を]回復させる) / ・fetch and carry(使い走りをする、雑用をする) / [名]: 取ってくること、広がり
 
 - [ ] PS0758_04174-04176 (Page 238)
   - [ ] **Sentence**: She frowned with contempt when the interviewer kept asking her rude questions. *(日译: インタビュアーが失礼な質問ばかりするので、彼女は軽べつをこめてまゆをひそめた。)*
   - [ ] **frown** `[fráun]` [自]: まゆをひそめる、しかめっ面をする / [他]: (不機嫌)をまゆをひそめて示す、…にらんで退かせる (型: SV, SVO) / ・frown on …(…に不賛成の意を表す) / [名]: 難しい顔つき、顔色
   - [ ] **contempt** `[kəntémpt]` [名]: 軽べつ、侮辱罪
-  - [ ] **interviewer** `[íntərvjùːər]` [名]: インタビュアー、訪問記者、面接担当者
+  - [x] **interviewer** `[íntərvjùːər]` [名]: インタビュアー、訪問記者、面接担当者
 
 - [ ] PS0759_04177-04179 (Page 238)
   - [ ] **Sentence**: The boy was eagerly gazing at the picture of a mummy in the magazine. *(日译: その少年は、雑誌の中のミイラの写真を熱心に見ていた。)*
   - [ ] **eagerly** `[íːgərli]` [副]: 熱心に、熱望して
-  - [ ] **gaze** `[géiz]` [自]: じっと見る、凝視する (型: SV) / ・gaze about(見回す) / ・gaze at …(…をじっと見る) / ・gaze on …(…をじっと見つめる) / [名]: 凝視、注視
+  - [x] **gaze** `[géiz]` [自]: じっと見る、凝視する (型: SV) / ・gaze about(見回す) / ・gaze at …(…をじっと見る) / ・gaze on …(…をじっと見つめる) / [名]: 凝視、注視
   - [ ] **mummy** `[mʌ́mi]` [名]: ミイラ、干からびたもの、生気のない人
 
 - [ ] PS0760_04180-04181 (Page 239)
@@ -379,7 +379,7 @@
 - [ ] PS0762_04184-04186 (Page 240)
   - [ ] **Sentence**: The injured man groaned painfully while a doctor examined his broken ribs. *(日译: けがをした男性は、医師が折れたあばら骨を調べている間、苦しげにうめいた。)*
   - [ ] **groan** `[gróun]` [自]: うめく、不満の声を上げる、ミシミシいう / [他]: …をうめきながら言う、…をやじり倒す (型: SV, SVO) / ・groan at having to do(…しなければならないことに不満の声を上げる) / ・groan in [with] pain(苦痛にうめく) / [名]: うめき声、あざけりの声
-  - [ ] **painfully** `[péinfəli]` [副]: 苦しげに、痛々しく、たいへん、ひどく
+  - [x] **painfully** `[péinfəli]` [副]: 苦しげに、痛々しく、たいへん、ひどく
   - [ ] **rib** `[ríb]` [名]: ろっ骨、あばら(骨)、(かさなどの)骨、うね / [他]: (船)にろっ骨[ろく材]をつける(補強する)、…にうねをつける
 
 - [ ] PS0763_04187-04188 (Page 240)
