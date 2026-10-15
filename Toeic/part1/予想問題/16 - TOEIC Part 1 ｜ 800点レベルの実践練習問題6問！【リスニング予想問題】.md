@@ -1,6 +1,6 @@
 - [x] 
 -----------------------------**Question**----------------------------------
-1. [x] answer: ok      ,Reviewed: 
+1. [x] answer: ok      ,Reviewed: ok
 2. [x] answer: ok     ,Reviewed: 
 3. [x] answer: ng     ,Reviewed:
 4. [x] answer: ng     ,Reviewed:
