@@ -601,12 +601,12 @@
 
 - [ ] PS0801_04292-04292 (Page 262)
   - [ ] **Sentence**: If you eat or drink during the movie, try not to disturb others. *(日译: 映画の上映中に食べたり飲んだりするなら、ほかの人の迷惑にならないように。)*
-  - [ ] **disturb** `[dɪstə́ːrb]` [他]: …を邪魔する、…を妨げる、…を乱す、…を不安にする / [自]: 睡眠[休息]を邪魔する (型: SV, SVO) / ・Don't disturb yourself.(お構いなく) / ・Do not disturb.(就寝中、起こさないでください[ホテルの部屋などの掲示])
+  - [x] **disturb** `[dɪstə́ːrb]` [他]: …を邪魔する、…を妨げる、…を乱す、…を不安にする / [自]: 睡眠[休息]を邪魔する (型: SV, SVO) / ・Don't disturb yourself.(お構いなく) / ・Do not disturb.(就寝中、起こさないでください[ホテルの部屋などの掲示])
 
 - [ ] PS0802_04293-04294 (Page 263)
   - [ ] **Sentence**: The bathtub has been draining surprisingly well since you cleaned the pipe. *(日译: あなたがパイプの掃除をしてくれてから、バスタブの排水が驚くほどよくなった。)*
   - [ ] **drain** `[dréɪn]` [自]: 排水する、流れ出る、徐々に消失する / [他]: …を排出させる、…をすっかり抜き取る、…を飲み干す、…を消耗させる (型: SV, SVO) / ・drain water(水を抜く、水をはかせる) / ・drain … of ～(…から～をすっかり抜き取る、…から～を奪う) / [名]: 排水溝、下水管、流出
-  - [ ] **surprisingly** `[sərpráɪzɪŋli]` [副]: 驚くほど、意外にも、驚いたことに
+  - [x] **surprisingly** `[sərpráɪzɪŋli]` [副]: 驚くほど、意外にも、驚いたことに
 
 - [ ] PS0803_04295-04297 (Page 263)
   - [ ] **Sentence**: My hairdresser suggested that I should dye my hair blond. *(日译: 美容師が私に髪をブロンドに染めたほうがいいって勧めたの。)*
@@ -616,43 +616,43 @@
 
 - [ ] PS0804_04298-04301 (Page 264)
   - [ ] **Sentence**: I'm editing an article about the adventurer's magnificent expedition to the South Pole. *(日译: 私はその冒険家の壮大な南極探検に関する記事を編集している。)*
-  - [ ] **edit** `[ɛ́dɪt]` [他]: …を編集する、…を校訂する / [自]: 編集する (型: SV, SVO) / ・edit out(削除する) / [名]: 編集、社説
+  - [x] **edit** `[ɛ́dɪt]` [他]: …を編集する、…を校訂する / [自]: 編集する (型: SV, SVO) / ・edit out(削除する) / [名]: 編集、社説
   - [ ] **adventurer** `[ædvɛ́ntʃərər]` [名]: 冒険家、野心家
-  - [ ] **magnificent** `[mægnɪ́fəsənt]` [形]: 壮大な、堂々たる、崇高な、極上の
+  - [x] **magnificent** `[mægnɪ́fəsənt]` [形]: 壮大な、堂々たる、崇高な、極上の
   - [ ] **expedition** `[ɛ̀kspədɪ́ʃən]` [名]: 探検(旅行)、遠征(隊)
 
 - [ ] PS0805_04302-04303 (Page 264)
   - [ ] **Sentence**: His athletic accomplishments in high school entitled him to the scholarship. *(日译: 高校での運動競技の成績が、彼にその奨学金を受ける資格を与えた。)*
   - [ ] **accomplishment** `[əkάmplɪʃmənt]` [名]: 業績、教養、才能、完成
-  - [ ] **entitle** `[ɪntáɪtl]` [他]: …に資格[権利]を与える、…に表題をつける、…に呼びかける (型: SVO) / ・be entitled to [do](…の[する]資格がある) / ・be entitled …(…という名前がついている) / ・The book is entitled The Setting Sun.(その本の題名は『落日』だ)
+  - [x] **entitle** `[ɪntáɪtl]` [他]: …に資格[権利]を与える、…に表題をつける、…に呼びかける (型: SVO) / ・be entitled to [do](…の[する]資格がある) / ・be entitled …(…という名前がついている) / ・The book is entitled The Setting Sun.(その本の題名は『落日』だ)
 
 - [ ] PS0806_04304-04307 (Page 265)
   - [ ] **Sentence**: A team of researchers evaluated the folk remedy and concluded that it was powerless against stomachaches. *(日译: ある研究者のチームがその民間療法の評価を行い、腹痛には効果がないと結論づけた。)*
-  - [ ] **evaluate** `[ɪvǽljuèɪt]` [他]: …を評価する、…を見積もる、…の数値を求める (型: SVO)
+  - [x] **evaluate** `[ɪvǽljuèɪt]` [他]: …を評価する、…を見積もる、…の数値を求める (型: SVO)
   - [ ] **remedy** `[rɛ́mədi]` [名]: 治療、医薬品、矯正手段、法的救済(手段) / [他]: …を治療する、…を矯正する
   - [ ] **powerless** `[páʊərləs]` [形]: 効果がない、無効の、無力の
-  - [ ] **stomachache** `[stʌ́məkèɪk]` [名]: 腹痛、胃痛
+  - [x] **stomachache** `[stʌ́məkèɪk]` [名]: 腹痛、胃痛
 
 - [ ] PS0807_04308-04309 (Page 265)
   - [ ] **Sentence**: The president will exclude her from his next cabinet out of consideration for public sentiment. *(日译: 国民感情に対する配慮から、大統領は彼女を次期内閣には入れないだろう。)*
-  - [ ] **exclude** `[ɪksklúːd]` [他]: …を除外する、…を締め出す、…を考慮に入れない (型: SVO) / ・exclude … from ～(…を～から締め出す)
+  - [x] **exclude** `[ɪksklúːd]` [他]: …を除外する、…を締め出す、…を考慮に入れない (型: SVO) / ・exclude … from ～(…を～から締め出す)
   - [ ] **sentiment** `[sɛ́ntəmənt]` [名]: 感情、心情、意見、感想、感傷
 
 - [ ] PS0808_04310-04312 (Page 266)
   - [ ] **Sentence**: The newscaster helped finalize the report covering the vaccine's efficiency. *(日译: そのニュースキャスターは、ワクチンの効果に関する報告書をまとめるのを手伝った。)*
-  - [ ] **newscaster** `[njúːzkæ̀stər]` [名]: ニュースキャスター
+  - [x] **newscaster** `[njúːzkæ̀stər]` [名]: ニュースキャスター
   - [ ] **finalize** `[fáɪnəlàɪz]` [他]: (計画・合意)の最終版を仕上げる、(外交・取引)を完結させる、…に決着をつける (型: SVO)
   - [ ] **vaccine** `[væksíːn]` [名]: ワクチン
 
 - [ ] PS0809_04313-04314 (Page 266)
   - [ ] **Sentence**: Our college policy forbids coaches to punish athletes physically. *(日译: われわれの大学の方針は、コーチに選手への体罰を禁止している。)*
-  - [ ] **forbid** `[fərbɪ́d]` [他]: …を禁じる、…を許さない (型: SVO, SVOO) / ・The doctor forbade the patient beer.(医者は患者にビールを禁止した) / ・forbid doing(…することを禁止する) / ・forbid … to do(…に～することを禁じる、…に～することを許さない)
+  - [x] **forbid** `[fərbɪ́d]` [他]: …を禁じる、…を許さない (型: SVO, SVOO) / ・The doctor forbade the patient beer.(医者は患者にビールを禁止した) / ・forbid doing(…することを禁止する) / ・forbid … to do(…に～することを禁じる、…に～することを許さない)
   - [ ] **physically** `[fízɪkli]` [副]: 身体的に、身体上、自然の法則によって、物理的に
 
 - [ ] PS0810_04315-04316 (Page 267)
   - [ ] **Sentence**: You're not fulfilling your obligations as a parent. *(日译: あなたは親としての義務を果たしていない。)*
-  - [ ] **fulfill** `[fʊlfíl]` [他]: …を果たす、…を実行する、…を満たす、…を満足させる (型: SVO) / ・fulfill oneself(自分の能力を十分に発揮する)
-  - [ ] **obligation** `[ὰbləgéɪʃən]` [名]: 義務、責任、債務、恩義
+  - [x] **fulfill** `[fʊlfíl]` [他]: …を果たす、…を実行する、…を満たす、…を満足させる (型: SVO) / ・fulfill oneself(自分の能力を十分に発揮する)
+  - [x] **obligation** `[ὰbləgéɪʃən]` [名]: 義務、責任、債務、恩義
 
 - [ ] PS0811_04317-04318 (Page 267)
   - [ ] **Sentence**: My grandfather generously furnished me with money before the trip. *(日译: 祖父は旅行前、私に気前よくお金をくれた。)*
