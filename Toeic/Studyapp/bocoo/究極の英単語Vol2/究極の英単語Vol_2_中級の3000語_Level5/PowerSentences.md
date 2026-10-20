@@ -665,43 +665,43 @@
 
 - [ ] PS0813_04320-04322 (Page 268)
   - [ ] **Sentence**: This comparison of survival rates highlights the significance of early treatment of the disease. *(日译: この生存率の比較は、その病気の早期治療の重要性を強調している。)*
-  - [ ] **survival** `[sərváɪvəl]` [名]: 生存、生き残ること、生存者
-  - [ ] **highlight** `[háɪlàɪt]` [他]: …を強調する、…を目立たせる、…にマーカーで印をつける、…の一部を脱色する (型: SVO) / [名]: 呼び物、目玉商品
-  - [ ] **significance** `[sɪgnɪ́fɪkəns]` [名]: 重要性、意味、意義
+  - [x] **survival** `[sərváɪvəl]` [名]: 生存、生き残ること、生存者
+  - [x] **highlight** `[háɪlàɪt]` [他]: …を強調する、…を目立たせる、…にマーカーで印をつける、…の一部を脱色する (型: SVO) / [名]: 呼び物、目玉商品
+  - [x] **significance** `[sɪgnɪ́fɪkəns]` [名]: 重要性、意味、意義
 
 - [ ] PS0814_04323-04326 (Page 269)
   - [ ] **Sentence**: This book illustrates how to make traditional Thanksgiving feasts with over 30 recipes. *(日译: この本は、伝統的な感謝祭のごちそうの作り方を30種類以上の調理法とともに説明している。)*
   - [ ] **illustrate** `[íləstrèɪt]` [他]: …を説明する、…を明らかにする、…にさし絵を入れる / [自]: 例をあげて説明する (型: SV, SVO) / ・illustrate … with ～(…を～で説明する)
-  - [ ] **thanksgiving** `[θæ̀ŋksgívɪŋ]` [名]: (Thanksgiving Day で)感謝祭、感謝、謝恩、感謝の祈り
+  - [x] **thanksgiving** `[θæ̀ŋksgívɪŋ]` [名]: (Thanksgiving Day で)感謝祭、感謝、謝恩、感謝の祈り
   - [ ] **feast** `[fíːst]` [名]: ごちそう、祝宴、祝祭 / [自]: ごちそうになる、大いに楽しむ / [他]: …をもてなす、…を大いに楽しませる
-  - [ ] **recipe** `[rɛ́səpi]` [名]: 調理法、秘けつ
+  - [x] **recipe** `[rɛ́səpi]` [名]: 調理法、秘けつ
 
 - [ ] PS0815_04327-04329 (Page 270)
   - [ ] **Sentence**: The president used his strong leadership to implement numerous financial reforms. *(日译: その大統領は、数の財務改革を実行するために強力な指導力を発揮した。)*
-  - [ ] **leadership** `[líːdərʃɪp]` [名]: 指導(力)、指導者の地位、統率(力)、指導者団
+  - [x] **leadership** `[líːdərʃɪp]` [名]: 指導(力)、指導者の地位、統率(力)、指導者団
   - [ ] **implement** `[ímpləmənt]` [他]: …を実行[履行]する、(条件など)を満たす、…に道具[手段]を提供する (型: SVO) / ・implement a contract(契約を履行する) / [名]: 道具、備品、手段
   - [ ] **numerous** `[njúːmərəs]` [形]: 非常に多い、おびただしい、多数から成る
 
 - [ ] PS0816_04330-04332 (Page 270)
   - [ ] **Sentence**: The police chief implied that they had a number of prime suspects in the bank robbery. *(日译: 警察長は、その銀行強盗事件の有力な容疑者は数名いることをほのめかした。)*
   - [ ] **imply** `[ɪmpláɪ]` [他]: …をほのめかす、…を暗示する、…を含む (型: SVO) / ・imply the need for …(…の必要性を示唆する) / ・Are you implying that I'm lying to you?(私があなたにうそを言っているとでもおっしゃるのですか？)
-  - [ ] **prime** `[praɪm]` [形]: 最も重要な、第一級の、最初の、原始的な / [名]: 最盛期、初期、素数 / [他]: …を準備する、…に火薬を詰める、…を下塗りする、…に予備知識を与える
-  - [ ] **robbery** `[rάbəri]` [名]: 強盗事件、強盗
+  - [x] **prime** `[praɪm]` [形]: 最も重要な、第一級の、最初の、原始的な / [名]: 最盛期、初期、素数 / [他]: …を準備する、…に火薬を詰める、…を下塗りする、…に予備知識を与える
+  - [x] **robbery** `[rάbəri]` [名]: 強盗事件、強盗
 
 - [ ] PS0817_04333-04334 (Page 271)
   - [ ] **Sentence**: At the airport, security officers inspect passengers' baggage at random. *(日译: 空港では、警備員たちが旅客たちの荷物を無作為に検査している。)*
-  - [ ] **inspect** `[ɪnspɛ́kt]` [他]: …を点検する、…を検査する、…を視察する (型: SVO) / ・inspect the damage(損傷を調べる)
-  - [ ] **random** `[rǽndəm]` [形]: 無作為の、でたらめの(限定用法)
+  - [x] **inspect** `[ɪnspɛ́kt]` [他]: …を点検する、…を検査する、…を視察する (型: SVO) / ・inspect the damage(損傷を調べる)
+  - [x] **random** `[rǽndəm]` [形]: 無作為の、でたらめの(限定用法)
 
 - [ ] PS0818_04335-04336 (Page 271)
   - [ ] **Sentence**: You'd better install a burglar alarm in your new car. *(日译: 新しい車には盗難警報装置を取り付けた方がいいよ。)*
-  - [ ] **install** `[ɪnstɔ́ːl]` [他]: …を取り付ける、…を任命する、…にインストールする (型: SVO) / ・install … in ～(…を～に取り付ける[据え付ける]) / ・install … as ～(…を～に任命する) / ・install oneself in …([場所]にゆったり落ち着く)
+  - [x] **install** `[ɪnstɔ́ːl]` [他]: …を取り付ける、…を任命する、…にインストールする (型: SVO) / ・install … in ～(…を～に取り付ける[据え付ける]) / ・install … as ～(…を～に任命する) / ・install oneself in …([場所]にゆったり落ち着く)
   - [ ] **burglar** `[bə́ːrglər]` [名]: (夜間の)押し込み泥棒、家宅侵入窃盗犯
 
 - [ ] PS0819_04337-04339 (Page 272)
   - [ ] **Sentence**: Her jewelry looked glorious, and she had insured it for a respectable amount. *(日译: 彼女の宝石は素晴らしく、彼女はそれに対して相当な額の保険をかけていた。)*
   - [ ] **glorious** `[glɔ́ːriəs]` [形]: 素晴らしい、栄誉ある、見事な
-  - [ ] **insure** `[inʃúər]` [他]: …に保険をかける、…を保証する / [自]: 保険に入る (型: SV, SVO) / ・insure one's house against fire(家に火災保険をかける)
+  - [] **insure** `[inʃúər]` [他]: …に保険をかける、…を保証する / [自]: 保険に入る (型: SV, SVO) / ・insure one's house against fire(家に火災保険をかける)
   - [ ] **respectable** `[rispéktəbl]` [形]: 立派な、まともな、まずまずの
 
 - [ ] PS0820_04340-04341 (Page 272)
