@@ -712,14 +712,14 @@
 - [ ] PS0821_04342-04344 (Page 273)
   - [ ] **Sentence**: The architect modified the design of the house, and it produced an astonishing improvement. *(日译: 建築家はその家の設計を部分的に修正し、目覚ましい改善を生んだ。)*
   - [ ] **architect** `[άːrkətèkt]` [名]: 建築家、設計者、考案者、製作者 / [他]: …を設計する、…を構成する
-  - [ ] **modify** `[mάdəfài]` [他]: …を部分的に修正する、…を修飾する、…を緩和する / [自]: (部分的に)変更される (型: SV, SVO) / ・modify one's demands(要求を和らげる)
-  - [ ] **astonishing** `[əstάniʃiŋ]` [形]: 目覚ましい、驚くべき、びっくりさせるような
+  - [x] **modify** `[mάdəfài]` [他]: …を部分的に修正する、…を修飾する、…を緩和する / [自]: (部分的に)変更される (型: SV, SVO) / ・modify one's demands(要求を和らげる)
+  - [x] **astonishing** `[əstάniʃiŋ]` [形]: 目覚ましい、驚くべき、びっくりさせるような
 
 - [ ] PS0822_04345-04347 (Page 273)
   - [ ] **Sentence**: The infection obliged the girl to stay isolated from her family. *(日译: その感染症は、少女を家族から隔離することを余儀なくした。)*
   - [ ] **infection** `[infékʃən]` [名]: 伝染病、伝染、感染、汚染、感化
   - [ ] **oblige** `[əbláidʒ]` [他]: …に余儀なくさせる、…に義務づける、…に強いられる、…に親切にする / [自]: 人に好意を示す、人を喜ばせる (型: SV, SVO) / ・oblige … to do(…に～することを余儀なくさせる) / ・oblige by doing(…して人を喜ばせる)
-  - [ ] **isolated** `[áisəlèitid]` [形]: 隔離[分離]された、孤立した、1回だけの
+  - [x] **isolated** `[áisəlèitid]` [形]: 隔離[分離]された、孤立した、1回だけの
 
 - [ ] PS0823_04348-04350 (Page 274 - 📷 缺失页：未上传 274.png)
   - [ ] **Sentence**: (等待手动补充：例句及日译)
@@ -732,12 +732,12 @@
 
 - [ ] PS0826_04355-04356 (Page 275)
   - [ ] **Sentence**: The emission of harmful gases is unhealthy for local people and pollutes the atmosphere more widely. *(日译: 有害なガスの排出は地域住民の健康に悪く、大気を広範囲に汚染するかもしれない。)*
-  - [ ] **unhealthy** `[ʌnhélθi]` [形]: 健康的でない、病身の、健康によくない、不健全な
-  - [ ] **pollute** `[pəlúːt]` [他]: …を汚染する、…を汚す、…を堕落させる (型: SVO) / ・be polluted with chemicals(化学物質で汚染されている)
+  - [x] **unhealthy** `[ʌnhélθi]` [形]: 健康的でない、病身の、健康によくない、不健全な
+  - [x] **pollute** `[pəlúːt]` [他]: …を汚染する、…を汚す、…を堕落させる (型: SVO) / ・be polluted with chemicals(化学物質で汚染されている)
 
 - [ ] PS0827_04357-04360 (Page 276)
   - [ ] **Sentence**: This touching movie portrays the Black singer's courageous battle against prejudice. *(日译: この感動的な映画は、その黒人歌手の偏見との勇気ある戦いを描いている。)*
-  - [ ] **touching** `[tʌ́tʃiŋ]` [形]: 人の心を動かす、感動的な / [前]: …に関して、…について
+  - [x] **touching** `[tʌ́tʃiŋ]` [形]: 人の心を動かす、感動的な / [前]: …に関して、…について
   - [ ] **portray** `[pɔːrtréi]` [他]: …を表現する[描く]、…を言葉で描く、…を演じる (型: SVO) / ・portray … as ～(…を～であるとありありと描写する)
   - [ ] **courageous** `[kəréidʒəs]` [形]: 勇気のある、勇ましい
   - [ ] **prejudice** `[prédʒudis]` [名]: 偏見、先入観、不利益 / [他]: …に偏見を抱かせる、…に損害を与える
@@ -745,9 +745,9 @@
 - [ ] PS0828_04361-04364 (Page 276)
   - [ ] **Sentence**: For the sake of elephant conservation, the export of ivory is utterly prohibited from the country. *(日译: ゾウ保護のため、その国からの象牙輸出は完全に禁止されている。)*
   - [ ] **conservation** `[kὰnsərvéiʃən]` [名]: 保護、保存、管理
-  - [ ] **ivory** `[áivəri]` [名]: 象牙(製品)、象牙質、象牙色
+  - [x] **ivory** `[áivəri]` [名]: 象牙(製品)、象牙質、象牙色
   - [ ] **utterly** `[ʌ́tərli]` [副]: まったく、完全に、すっかり
-  - [ ] **prohibit** `[prouhíbit]` [他]: …を禁止する、…を差し止める、…を妨げる (型: SVO) / ・prohibit … from doing(…が～するのを禁じる)
+  - [x] **prohibit** `[prouhíbit]` [他]: …を禁止する、…を差し止める、…を妨げる (型: SVO) / ・prohibit … from doing(…が～するのを禁じる)
 
 - [ ] PS0829_04365-04365 (Page 277)
   - [ ] **Sentence**: With this instrument, you can punch holes in 20 sheets of paper at a time. *(日译: この器具なら、一度に20枚の紙に穴を開けることができる。)*
@@ -755,28 +755,28 @@
 
 - [ ] PS0830_04366-04369 (Page 277)
   - [ ] **Sentence**: She's a distinguished novelist and qualifies for this honorable post. *(日译: 彼女は有名な小説家だし、この名誉あるポストには適任だ。)*
-  - [ ] **distinguished** `[distíŋgwiʃt]` [形]: 有名な、際立った、抜群の、気品のある
-  - [ ] **novelist** `[nάvəlist]` [名]: 小説家
-  - [ ] **qualify** `[kwάləfài]` [自]: 適任である、資格を取得する / [他]: …に資格を与える、…を適任とする、…を修正する、…を見なす (型: SV, SVO) / ・qualify for doing(…する資格を得る) / ・qualify … as ～(…に～の資格を与える、…を～と見なす)
+  - [x] **distinguished** `[distíŋgwiʃt]` [形]: 有名な、際立った、抜群の、気品のある
+  - [x] **novelist** `[nάvəlist]` [名]: 小説家
+  - [x] **qualify** `[kwάləfài]` [自]: 適任である、資格を取得する / [他]: …に資格を与える、…を適任とする、…を修正する、…を見なす (型: SV, SVO) / ・qualify for doing(…する資格を得る) / ・qualify … as ～(…に～の資格を与える、…を～と見なす)
   - [ ] **honorable** `[άnərəbl]` [形]: 名誉に値する、高潔な、立派な
 
 - [ ] PS0831_04370-04373 (Page 278)
   - [ ] **Sentence**: The professor often quotes medieval proverbs, but they're beyond our comprehension. *(日译: その教授はよく中世のことを引用するが、私たちには到底理解できない。)*
-  - [ ] **quote** `[kwoʊt]` [他]: …を引用する、(例など)を示す、…を(証拠などとして)持ち出す、…の値を見積もる / [自]: 引用する、相場を見積もる (型: SV, SVO, SVOO) / ・He quoted me an obvious example.(彼は私に分かりやすい例を示してくれた) / ・quote … from ～(…を～から引用する) / [名]: 引用語句[文]、引用符
+  - [x] **quote** `[kwoʊt]` [他]: …を引用する、(例など)を示す、…を(証拠などとして)持ち出す、…の値を見積もる / [自]: 引用する、相場を見積もる (型: SV, SVO, SVOO) / ・He quoted me an obvious example.(彼は私に分かりやすい例を示してくれた) / ・quote … from ～(…を～から引用する) / [名]: 引用語句[文]、引用符
   - [ ] **medieval** `[mìdiíːvəl]` [形]: 中世の、中世的な、古めかしい
   - [ ] **proverb** `[prάvəːrb]` [名]: ことわざ、格言、評判のある人[もの]
   - [ ] **comprehension** `[kὰmprihénʃən]` [名]: 理解(力)、知識、理解度テスト、包括
 
 - [ ] PS0832_04374-04376 (Page 278)
   - [ ] **Sentence**: Approximately one-third of the nation's gasoline is refined in facilities around the coast. *(日译: この国のガソリンのおよそ3分の1は、沿岸の施設で精製される。)*
-  - [ ] **approximately** `[əprάksəmətli]` [副]: およそ、だいたい、約…
+  - [x] **approximately** `[əprάksəmətli]` [副]: およそ、だいたい、約…
   - [ ] **refine** `[rifáin]` [他]: …を精製する、…から不純物を除く、…を洗練する / [自]: 純粋になる、洗練される (型: SV, SVO) / ・refine on …(…を改良する、…より優れている、…を細かく区別する)
-  - [ ] **facility** `[fəsíləti]` [名]: 施設、機関、便利さ、才能
+  - [x] **facility** `[fəsíləti]` [名]: 施設、機関、便利さ、才能
 
 - [ ] PS0833_04377-04379 (Page 279)
   - [ ] **Sentence**: The undergraduate wanted to register for Oriental philosophy, but the class was full. *(日译: その学部生は東洋哲学を登録したかったのだが、そのクラスは定員に達していた。)*
   - [ ] **undergraduate** `[ʌ̀ndərgrǽdʒuət]` [名]: (大学院生に対して)学部の学生 / [形]: 学部の学生の
-  - [ ] **register** `[rédʒistər]` [自]: 登録する、(感情が)表れる、効果がある / [他]: …を登録する、…を記録する、…を書留にする、(感情)を表情で表す (型: SV, SVO) / ・register a birth(出生届を出す) / [名]: 一覧表、目録、レジスター、書留郵便、登記係
+  - [x] **register** `[rédʒistər]` [自]: 登録する、(感情が)表れる、効果がある / [他]: …を登録する、…を記録する、…を書留にする、(感情)を表情で表す (型: SV, SVO) / ・register a birth(出生届を出す) / [名]: 一覧表、目録、レジスター、書留郵便、登記係
   - [ ] **oriental** `[ɔ̀ːriéntl]` [形]: 東洋(風)の、東洋人の(通常 Oriental) / [名]: しばしば侮辱的に使用される。
 
 - [ ] PS0834_04380-04382 (Page 280)
