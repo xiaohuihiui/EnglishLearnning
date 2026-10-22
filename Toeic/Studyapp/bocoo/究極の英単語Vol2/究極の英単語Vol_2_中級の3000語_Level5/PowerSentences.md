@@ -819,24 +819,24 @@
 
 - [ ] PS0841_04397-04398 (Page 283)
   - [ ] **Sentence**: According to police, the killer rinsed his bloody hands here. *(日译: 警察によれば、殺人犯はここで血のついた手をすいでいる。)*
-  - [ ] **killer** `[kílər]` [名]: 殺人者、死因、魅力的な人、ものすごく難しい問題
+  - [x] **killer** `[kílər]` [名]: 殺人者、死因、魅力的な人、ものすごく難しい問題
   - [ ] **rinse** `[ríns]` [他]: …をすすぐ[ゆすぐ]、…をきれいにする、…をリンスする (型: SVO) / ・rinse … with ～(…で…をすすぐ) / [名]: ゆすぎ(洗い)、ゆすぎ洗いの水、リンス剤
 
 - [ ] PS0842_04399-04400 (Page 283)
   - [ ] **Sentence**: He shed tears of joy at the finishing line because it was the first time he'd completed a full marathon. *(日译: フルマラソンを完走したのは初めてだったので、彼はゴールで喜びの涙を流した。)*
   - [ ] **shed** `[ʃéd]` [他]: (涙・血)を流す、…を落とす、…を脱ぎ捨てる / [自]: 落ちる (型: SV, SVO) / [名]: 納屋
-  - [ ] **marathon** `[mǽrəθὰn]` [名]: マラソン、長距離競走
+  - [x] **marathon** `[mǽrəθὰn]` [名]: マラソン、長距離競走
 
 - [ ] PS0843_04401-04403 (Page 284)
   - [ ] **Sentence**: We desperately need to shorten the development period to meet the deadline. *(日译: 期日に間に合わせるためには、われわれはどうしても開発期間を短縮する必要がある。)*
   - [ ] **desperately** `[déspərətli]` [副]: ひどく、やけくそになって、必死になって
-  - [ ] **shorten** `[ʃɔ́ːrtn]` [他]: …の長さを短くする、…を縮める、(菓子・パンなど)をさくさくさせる、…を減らす / [自]: 短くなる、縮む (型: SV, SVO) / ・shorten a dress(服を詰める) / ・shorten the length of …(…の期間を短縮する)
-  - [ ] **deadline** `[dédlàin]` [名]: 最終期限、締め切り、越えてはならない線
+  - [x] **shorten** `[ʃɔ́ːrtn]` [他]: …の長さを短くする、…を縮める、(菓子・パンなど)をさくさくさせる、…を減らす / [自]: 短くなる、縮む (型: SV, SVO) / ・shorten a dress(服を詰める) / ・shorten the length of …(…の期間を短縮する)
+  - [x] **deadline** `[dédlàin]` [名]: 最終期限、締め切り、越えてはならない線
 
 - [ ] PS0844_04404-04406 (Page 284)
   - [ ] **Sentence**: This new product provides vital moisture and softens your skin. *(日译: この新製品は不可欠な水分を与え、あなたの肌を柔らかくします。)*
   - [ ] **vital** `[váitl]` [形]: 不可欠な、活気のある、極めて重要な、生命の、命に関わる
-  - [ ] **moisture** `[mɔ́istʃər]` [名]: 水蒸気、水分、湿気
+  - [x] **moisture** `[mɔ́istʃər]` [名]: 水蒸気、水分、湿気
   - [ ] **soften** `[sɔ́ːfn]` [他]: …を柔らかくする、…を和らげる、…を抑える / [自]: 柔らかくなる、和らぐ (型: SV, SVO) / ・soften … up(…を柔らかくする、[人の態度など]を軟化させる)
 
 - [ ] PS0845_04407-04409 (Page 285)
@@ -857,17 +857,17 @@
 
 - [ ] PS0848_04414-04416 (Page 286)
   - [ ] **Sentence**: A small chat can sometimes stimulate your brain and increase productivity. *(日译: ちょっとしたおしゃべりも、時には脳を刺激し生産性を高める。)*
-  - [ ] **chat** `[tʃæt]` [名]: 雑談、おしゃべり、チャット(ネットワーク上のおしゃべり) / [自]: 気楽に話す、チャットする(ネットワーク上でおしゃべりする) / [名]: …に話しかける、…といちゃつく
+  - [x] **chat** `[tʃæt]` [名]: 雑談、おしゃべり、チャット(ネットワーク上のおしゃべり) / [自]: 気楽に話す、チャットする(ネットワーク上でおしゃべりする) / [名]: …に話しかける、…といちゃつく
   - [ ] **stimulate** `[stímjulèit]` [他]: …を刺激する、…を興奮させる、…を元気づける / [自]: 刺激(剤)となる (型: SV, SVO) / ・stimulate … to do(…を刺激して～させる)
-  - [ ] **productivity** `[pròudʌktívəti]` [名]: 生産性、生産力、多産、多作
+  - [x] **productivity** `[pròudʌktívəti]` [名]: 生産性、生産力、多産、多作
 
 - [ ] PS0849_04417-04419 (Page 287)
   - [ ] **Sentence**: During orientation, the child stomped, revealing a short temper. *(日译: オリエンテーション中、その子は足を踏み鳴らし短気を露呈した。)*
-  - [ ] **orientation** `[ɔ̀ːrientéiʃən]` [名]: 方向性、志向、入門指導、オリエンテーション
+  - [x] **orientation** `[ɔ̀ːrientéiʃən]` [名]: 方向性、志向、入門指導、オリエンテーション
   - [ ] **stomp** `[stɑ́mp]` [自]: (怒りなどで)足を踏み鳴らす / [他]: (足)を踏み鳴らす、…を踏みつける (型: SV, SVO)
-  - [ ] **temper** `[témpər]` [名]: 気分、かんしゃく、平静
+  - [x] **temper** `[témpər]` [名]: 気分、かんしゃく、平静
 
-- [ ] PS0850_04420-04422 (Page 287)
+- [x] PS0850_04420-04422 (Page 287)
   - [ ] **Sentence**: This tragic event strengthened our interaction and mutual trust. *(日译: その悲劇的な出来事は私たちの交流と互いの信頼を強めた。)*
   - [ ] **tragic** `[trǽdʒik]` [形]: 悲劇の、悲惨な、痛ましい
   - [ ] **strengthen** `[stréŋθən]` [他]: …を強化する、…を力づける / [自]: 強くなる、強固になる、元気づく (型: SV, SVO) / ・strengthen a muscle(筋肉を強化する)
@@ -875,21 +875,21 @@
 
 - [ ] PS0851_04423-04424 (Page 288)
   - [ ] **Sentence**: The country is striving to avoid a military conflict with its neighbor through intense diplomatic efforts. *(日译: その国は熱心な外交的取り組みによって、隣国との軍事衝突を避ける努力をしている。)*
-  - [ ] **strive** `[stráiv]` [自]: 努力する、懸命に試みる、争う (型: SV) / ・strive to do(…しようと努力する) / ・strive for …(…のために懸命に努力する)
+  - [x] **strive** `[stráiv]` [自]: 努力する、懸命に試みる、争う (型: SV) / ・strive to do(…しようと努力する) / ・strive for …(…のために懸命に努力する)
   - [ ] **diplomatic** `[dìpləmǽtik]` [形]: 外交(上)の、外交の手腕のある
 
 - [ ] PS0852_04425-04427 (Page 288)
   - [ ] **Sentence**: A consumer is going to sue the manufacturer for damaging his health. *(日译: ある消費者が健康被害を受けたとして、その製造元を訴えようとしている。)*
-  - [ ] **consumer** `[kənsúːmər]` [名]: 消費者、消費するもの
+  - [x] **consumer** `[kənsúːmər]` [名]: 消費者、消費するもの
   - [ ] **sue** `[súː]` [他]: …を相手どって訴えを起こす、…に請う / [自]: 訴訟を起こす、請願する (型: SV, SVO) / ・sue … for divorce(…を相手どって離婚訴訟を起こす)
-  - [ ] **manufacturer** `[mæ̀njufǽktʃərər]` [名]: 製造業者、メーカー、工場主、製造会社
+  - [x] **manufacturer** `[mæ̀njufǽktʃərər]` [名]: 製造業者、メーカー、工場主、製造会社
 
 - [ ] PS0853_04428-04431 (Page 289)
   - [ ] **Sentence**: The gentleman summarized the notable items before the auction. *(日译: その紳士は、オークション前に注目すべき商品を簡潔に説明した。)*
-  - [ ] **gentleman** `[dʒéntlmən]` [名]: 紳士、男の方
+  - [x] **gentleman** `[dʒéntlmən]` [名]: 紳士、男の方
   - [ ] **summarize** `[sʌ́məràiz]` [他]: …を要約する、…をかいつまんで言う (型: SVO) / ・summarize the results of …(…の結果をまとめる) / ・be succinctly [neatly] summarized(簡潔に[きちんと]要約されている)
-  - [ ] **notable** `[nóutəbl]` [形]: 注目に値する、著しい、有名な、重要な / [名]: (通常 notables で)著名人
-  - [ ] **auction** `[ɔ́ːkʃən]` [名]: 競売、オークション / [他]: …を競売にかける
+  - [x] **notable** `[nóutəbl]` [形]: 注目に値する、著しい、有名な、重要な / [名]: (通常 notables で)著名人
+  - [x] **auction** `[ɔ́ːkʃən]` [名]: 競売、オークション / [他]: …を競売にかける
 
 - [ ] PS0854_04432-04434 (Page 290)
   - [ ] **Sentence**: The president summoned the top executives to discuss the matter privately. *(日译: 社長はその問題を内密に協議するため、最高幹部らを招集した。)*
@@ -902,30 +902,30 @@
 
 - [ ] PS0856_04436-04437 (Page 291)
   - [ ] **Sentence**: Her income is not substantial enough to sustain her family. *(日译: 彼女の収入は家族を支えるのに十分とは言えない。)*
-  - [ ] **substantial** `[səbstǽnʃəl]` [形]: 十分な、かなりの、根本の、現実の、有力な、物質的な / [名]: 実質(的なもの)、実質的価値のあるもの
-  - [ ] **sustain** `[səstéin]` [他]: …を費う、…を維持する、…を元気づける、…を被る、…の重さに耐える、…を支持する、…を立派にこなす (型: SVO) / ・sustain someone's interest(…の興味を持続させる) / ・sustain the weight of …(…の重さに耐える)
+  - [x] **substantial** `[səbstǽnʃəl]` [形]: 十分な、かなりの、根本の、現実の、有力な、物質的な / [名]: 実質(的なもの)、実質的価値のあるもの
+  - [x] **sustain** `[səstéin]` [他]: …を費う、…を維持する、…を元気づける、…を被る、…の重さに耐える、…を支持する、…を立派にこなす (型: SVO) / ・sustain someone's interest(…の興味を持続させる) / ・sustain the weight of …(…の重さに耐える)
 
 - [ ] PS0857_04438-04439 (Page 291)
   - [ ] **Sentence**: Overwhelming hunger tempted the boy to steal a candy bar from the grocery store. *(日译: どうしようもない空腹が少年をその食料品店からチョコレートバーを盗む気にさせた。)*
-  - [ ] **overwhelming** `[òuvərwélmiŋ]` [形]: 圧倒的な、抗しがたい
+  - [x] **overwhelming** `[òuvərwélmiŋ]` [形]: 圧倒的な、抗しがたい
   - [ ] **tempt** `[témpt]` [他]: …を誘惑する、…の関心を引く、…を誘う、(神など)を試す (型: SVO) / ・tempt … to do(…を～する気にさせる) / ・tempt God(神を試みる)
 
 - [ ] PS0858_04440-04442 (Page 292)
   - [ ] **Sentence**: Lastly, tighten the nut, then test if the apparatus functions. *(日译: 最後にそのナットを締め、装置が機能するかどうかをテストしてください。)*
-  - [ ] **lastly** `[lǽstli]` [副]: 終わりに、最後に
+  - [x] **lastly** `[lǽstli]` [副]: 終わりに、最後に
   - [ ] **tighten** `[táitn]` [他]: …をしっかり締める、…を厳しくする / [自]: しっかり締まる、ぴんと張る (型: SV, SVO) / ・tighten up …(…を厳しくする)
   - [ ] **apparatus** `[æ̀pərǽtəs]` [名]: 装置、機械、器具、器官、機構
 
 - [ ] PS0859_04443-04445 (Page 292)
   - [ ] **Sentence**: We must not tolerate any unjust treatment of ethnic minorities. *(日译: われわれは少数民族に対するどのような不当な扱いも容認してはならない。)*
-  - [ ] **tolerate** `[tάləreit]` [他]: …を許容する、…を大目に見る、…に耐える、…に耐性がある (型: SVO) / ・tolerate one another(お互いに我慢[卒倒]し合う) / ・tolerate someone's criticism(…の批判を甘受する)
-  - [ ] **unjust** `[ʌndʒʌ́st]` [形]: 不公平な、不正な、理にかなっていない
+  - [x] **tolerate** `[tάləreit]` [他]: …を許容する、…を大目に見る、…に耐える、…に耐性がある (型: SVO) / ・tolerate one another(お互いに我慢[卒倒]し合う) / ・tolerate someone's criticism(…の批判を甘受する)
+  - [x] **unjust** `[ʌndʒʌ́st]` [形]: 不公平な、不正な、理にかなっていない
   - [ ] **ethnic** `[éθnik]` [形]: 民族の、民族(学)的な、エスニックの / [名]: 少数民族系市民、民族的背景
 
 - [ ] PS0860_04446-04447 (Page 293)
   - [ ] **Sentence**: I will trim the hedge in the front yard this weekend. *(日译: 週末に前庭の生け垣を刈り込むつもりだ。)*
-  - [ ] **trim** `[trím]` [他]: …を刈り込んで整える、…を手入れする、…を削減する、…に飾りを付ける / [自]: つり合いが取れる、中道政策を取る (型: SV, SVO) / ・be trimmed with …(…で飾られている) / ・trim away(トリミングする、切り取る、切り落とす) / [名]: 整えること / [形]: こぎれいな / [副]: こぎれいに、きちんとして
-  - [ ] **hedge** `[hédʒ]` [名]: 生け垣、境界、抑え、保険、(言質を取られないための)あいまいな発言 / [他]: …を生け垣で囲む、…に予防線を張る / [自]: あらかじめ逃げ道を作っておく、垣根を作る / [形]: 垣根(用)の、低級な
+  - [x] **trim** `[trím]` [他]: …を刈り込んで整える、…を手入れする、…を削減する、…に飾りを付ける / [自]: つり合いが取れる、中道政策を取る (型: SV, SVO) / ・be trimmed with …(…で飾られている) / ・trim away(トリミングする、切り取る、切り落とす) / [名]: 整えること / [形]: こぎれいな / [副]: こぎれいに、きちんとして
+  - [x] **hedge** `[hédʒ]` [名]: 生け垣、境界、抑え、保険、(言質を取られないための)あいまいな発言 / [他]: …を生け垣で囲む、…に予防線を張る / [自]: あらかじめ逃げ道を作っておく、垣根を作る / [形]: 垣根(用)の、低級な
 
 - [ ] PS0861_04448-04449 (Page 293)
   - [ ] **Sentence**: The detective finally uncovered a vital clue that might solve the whole mystery. *(日译: その探偵はついに、すべての謎を解き明かすかもしれない重要な手掛かりを発見した。)*
