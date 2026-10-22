@@ -782,35 +782,35 @@
 - [ ] PS0834_04380-04382 (Page 280)
   - [ ] **Sentence**: The authority regulates the marketing and advertising of video games containing violence. *(日译: 当局は暴力を含んだビデオゲームの売買と宣伝を規制している。)*
   - [ ] **regulate** `[régjulèit]` [他]: …を規制する、…を統制する、…を調整する、…を整然とさせる (型: SVO) / ・regulate traffic(交通整理をする)
-  - [ ] **marketing** `[mάːrkitiŋ]` [名]: 市場での売買、マーケティング(製造から販売までの過程)
-  - [ ] **advertising** `[ǽdvərtàiziŋ]` [名]: 広告を出すこと、広告業
+  - [x] **marketing** `[mάːrkitiŋ]` [名]: 市場での売買、マーケティング(製造から販売までの過程)
+  - [x] **advertising** `[ǽdvərtàiziŋ]` [名]: 広告を出すこと、広告業
 
 - [ ] PS0835_04383-04384 (Page 280)
   - [ ] **Sentence**: It would be ridiculous to pay that much money to renew my membership. *(日译: 会員資格更新にそんな大金を払うなんて、ばかげているように思います。)*
-  - [ ] **ridiculous** `[ridíkjuləs]` [形]: ばかげた、おかしな、途方もない
-  - [ ] **renew** `[rinjúː]` [他]: …を更新する、…を入れ替える、…を復活させる、…を再び始める / [自]: 再び始まる、回復する、契約を更新する (型: SV, SVO) / ・I want to renew this book.(この本の貸出を延長したいのですが) / ・renew old friendships(旧交を温める)
+  - [x] **ridiculous** `[ridíkjuləs]` [形]: ばかげた、おかしな、途方もない
+  - [x] **renew** `[rinjúː]` [他]: …を更新する、…を入れ替える、…を復活させる、…を再び始める / [自]: 再び始まる、回復する、契約を更新する (型: SV, SVO) / ・I want to renew this book.(この本の貸出を延長したいのですが) / ・renew old friendships(旧交を温める)
 
 - [ ] PS0836_04385-04387 (Page 281)
   - [ ] **Sentence**: This printing technique enables us to reproduce consistent color. *(日译: この印刷技術は、安定した色の再現を可能にする。)*
-  - [ ] **printing** `[príntiŋ]` [名]: 印刷(術・業)、印刷物、(写真の)焼きつけ
-  - [ ] **reproduce** `[rìːprədjúːs]` [他]: …を再現する、…を複写[複製]する、…を再生する、…を繁殖させる / [自]: 繁殖する、再生される、(うまく)複写[複製]する (型: SV, SVO) / ・reproduce a photograph(写真を複写する) / ・reproduce oneself(生殖[繁殖]する)
+  - [x] **printing** `[príntiŋ]` [名]: 印刷(術・業)、印刷物、(写真の)焼きつけ
+  - [x] **reproduce** `[rìːprədjúːs]` [他]: …を再現する、…を複写[複製]する、…を再生する、…を繁殖させる / [自]: 繁殖する、再生される、(うまく)複写[複製]する (型: SV, SVO) / ・reproduce a photograph(写真を複写する) / ・reproduce oneself(生殖[繁殖]する)
   - [ ] **consistent** `[kənsístənt]` [形]: 安定した、不変の、首尾一貫した、一致する
 
 - [ ] PS0837_04388-04390 (Page 281)
   - [ ] **Sentence**: The hippopotamus feeding was rescheduled due to a delay in the delivery of their food. *(日译: カバの餌付けは餌の納入の遅れにより予定変更された。)*
   - [ ] **hippopotamus** `[hìpəpάtəməs]` [名]: カバ
-  - [ ] **feeding** `[fíːdiŋ]` [名]: 餌を与えること、摂食、供給
-  - [ ] **reschedule** `[riːskédʒuːl]` [他]: (予定の)日時を変更する、(…に)延期する、(返済期限などを)延ばす (型: SVO) / ・reschedule … for ～(…を～に変更する)
+  - [x] **feeding** `[fíːdiŋ]` [名]: 餌を与えること、摂食、供給
+  - [x] **reschedule** `[riːskédʒuːl]` [他]: (予定の)日時を変更する、(…に)延期する、(返済期限などを)延ばす (型: SVO) / ・reschedule … for ～(…を～に変更する)
 
 - [ ] PS0838_04391-04392 (Page 282)
   - [ ] **Sentence**: Due to the stressful work environment, she decided to resign. *(日译: ストレスの多い職場環境のため、彼女は辞職することに決めた。)*
   - [ ] **stressful** `[strésfəl]` [形]: ストレスの多い、緊張を引き起こす
-  - [ ] **resign** `[rizáin]` [自]: 辞任する、辞職する、諦める / [他]: …を辞任する、…を断念する、…を譲り渡す (型: SV, SVO) / ・resign oneself to one's fate(運命に身を任せる) / ・resign from one's job(辞めを辞める)
+  - [x] **resign** `[rizáin]` [自]: 辞任する、辞職する、諦める / [他]: …を辞任する、…を断念する、…を譲り渡す (型: SV, SVO) / ・resign oneself to one's fate(運命に身を任せる) / ・resign from one's job(辞めを辞める)
 
 - [ ] PS0839_04393-04394 (Page 282)
   - [ ] **Sentence**: The mass media are saying that the new law would severely restrict press freedom. *(日译: マスコミはその新しい法律は報道の自由を厳しく制限するものだと言っている。)*
   - [ ] **severely** `[səvíərli]` [副]: 厳しく、激しく
-  - [ ] **restrict** `[ristríkt]` [他]: …を制限[限定]する (型: SVO) / ・restrict … to ～(…を～に限定[制限]する)
+  - [x] **restrict** `[ristríkt]` [他]: …を制限[限定]する (型: SVO) / ・restrict … to ～(…を～に限定[制限]する)
 
 - [ ] PS0840_04395-04396 (Page 282)
   - [ ] **Sentence**: The commander decided to retreat from the area of conflict. *(日译: 司令官はその紛争地域からの撤退を決めた。)*
