@@ -929,25 +929,25 @@
 
 - [ ] PS0861_04448-04449 (Page 293)
   - [ ] **Sentence**: The detective finally uncovered a vital clue that might solve the whole mystery. *(日译: その探偵はついに、すべての謎を解き明かすかもしれない重要な手掛かりを発見した。)*
-  - [ ] **uncover** `[ʌnkʌ́vər]` [他]: …を暴く、…の覆いを取る / [自]: 覆いを取る (型: SV, SVO) / ・uncover a clue(手がかりを見つけ出す) / ・uncover a plot(陰謀を暴露する)
+  - [] **uncover** `[ʌnkʌ́vər]` [他]: …を暴く、…の覆いを取る / [自]: 覆いを取る (型: SV, SVO) / ・uncover a clue(手がかりを見つけ出す) / ・uncover a plot(陰謀を暴露する)
   - [ ] **clue** `[klúː]` [名]: 手掛かり、きっかけ、糸口 / [他]: …に手掛かりを与える
 
 - [ ] PS0862_04450-04452 (Page 294)
   - [ ] **Sentence**: My uncle underwent a deep depression following his retirement. *(日译: 私の叔父は退職の後、重いうつ病を経験した。)*
-  - [ ] **undergo** `[ʌ̀ndərgóu]` [他]: …を経験する、…を受ける、…を経る、…に耐える (型: SVO) / ・undergo surgery(手術を受ける)
+  - [x] **undergo** `[ʌ̀ndərgóu]` [他]: …を経験する、…を受ける、…を経る、…に耐える (型: SVO) / ・undergo surgery(手術を受ける)
   - [ ] **depression** `[dipréʃən]` [名]: うつ病、憂うつ、不景気、くぼみ、押し下げること、低気圧
-  - [ ] **retirement** `[ritáiərmənt]` [名]: 退職、引退、退去、隠居(所)、回収
+  - [x] **retirement** `[ritáiərmənt]` [名]: 退職、引退、退去、隠居(所)、回収
 
 - [ ] PS0863_04453-04454 (Page 294)
   - [ ] **Sentence**: He undertook a tough corporate acquisition. *(日译: 彼は困難な企業買収を請け負った。)*
-  - [ ] **undertake** `[ʌ̀ndərtéik]` [他]: …を引き受ける、…を請け負う、…を始める / [名]: 責任を負う、引き受ける、保証する (型: SV, SVO) / ・undertake to do(…することを引き受ける)
-  - [ ] **acquisition** `[æ̀kwəzíʃən]` [名]: 取得、獲得(物)、(企業)買収取得物
+  - [x] **undertake** `[ʌ̀ndərtéik]` [他]: …を引き受ける、…を請け負う、…を始める / [名]: 責任を負う、引き受ける、保証する (型: SV, SVO) / ・undertake to do(…することを引き受ける)
+  - [x] **acquisition** `[æ̀kwəzíʃən]` [名]: 取得、獲得(物)、(企業)買収取得物
 
 - [ ] PS0864_04455-04457 (Page 295)
   - [ ] **Sentence**: Your lie may not violate the law, but it's morally unacceptable. *(日译: あなたのうそは法を犯さないかもしれないが、道徳的に受け入れられない。)*
   - [ ] **violate** `[váiəlèit]` [他]: …に違反する、…を犯す、(約束など)を破る、…を汚す[冒涜する]、…を乱す (型: SVO) / ・violate a promise(約束を破る)
   - [ ] **morally** `[mɔ́rəli]` [副]: 道徳的に、道徳的見地から(言えば)、精神的に、事実上
-  - [ ] **unacceptable** `[ʌ̀nəkséptəbl]` [形]: 受け入れられない、許されない、容認できない、歓迎できない
+  - [x] **unacceptable** `[ʌ̀nəkséptəbl]` [形]: 受け入れられない、許されない、容認できない、歓迎できない
 
 - [ ] PS0865_04458-04460 (Page 295)
   - [ ] **Sentence**: My parents vowed eternal love in this chapel precisely 30 years ago. *(日译: うちの両親は、まさに30年前、このチャペルで永遠の愛を誓った。)*
@@ -958,13 +958,13 @@
 - [ ] PS0866_04461-04463 (Page 296)
   - [ ] **Sentence**: She quietly wept to see the awesome sunset painting the sky so beautifully. *(日译: 彼女はすばらしい夕焼けが美しく空を染めるのを見ながら静かに泣いた。)*
   - [ ] **weep** `[wíːp]` [自]: 泣く / [他]: …を嘆き悲しむ (型: SV, SVO) / ・weep for joy(うれし泣きする) / [名]: 泣くこと
-  - [ ] **awesome** `[ɔ́ːsəm]` [形]: 畏敬の念を起こさせる、素晴らしい、恐ろしい、すごい
-  - [ ] **beautifully** `[bjúːtəfəli]` [副]: 見事に、美しく、上手に
+  - [x] **awesome** `[ɔ́ːsəm]` [形]: 畏敬の念を起こさせる、素晴らしい、恐ろしい、すごい
+  - [x] **beautifully** `[bjúːtəfəli]` [副]: 見事に、美しく、上手に
 
 - [ ] PS0867_04464-04466 (Page 296)
   - [ ] **Sentence**: The electronics company officially announced that it would withdraw from the computer market. *(日译: その電子機器企業は、コンピューター市場から撤退することを公式に発表した。)*
-  - [ ] **electronics** `[ilèktrάniks]` [名]: (単数扱い)電子工学[技術]、(複数扱い)電子機器
-  - [ ] **officially** `[əfíʃəli]` [副]: 公式に(は)、職務上、本格的に、表向きには
+  - [x] **electronics** `[ilèktrάniks]` [名]: (単数扱い)電子工学[技術]、(複数扱い)電子機器
+  - [x] **officially** `[əfíʃəli]` [副]: 公式に(は)、職務上、本格的に、表向きには
   - [ ] **withdraw** `[wiðdrɔ́ː]` [自]: 退く、引っ込む、提案などを撤回する / [他]: …を引っ込める、…を撤回する、…を退かせる、…を引き出す (型: SV, SVO) / ・withdraw into oneself(自分の殻の中に閉じこもる) / ・withdraw a request(要求を撤回する)
 
 - [ ] PS0868_04467-04468 (Page 298)
@@ -984,8 +984,8 @@
 
 - [ ] PS0871_04473-04474 (Page 299)
   - [ ] **Sentence**: A police dog detected drugs hidden in the suspicious suitcase. *(日译: 警察犬がその怪しげなスーツケースに隠されていた麻薬を見つけた。)*
-  - [ ] **detect** `[ditékt]` [他]: …を見つける、…の正体を見抜く (型: SVO) / ・detect … doing(…が～しているのを見つける)
-  - [ ] **suspicious** `[səspíʃəs]` [形]: 疑いを起こさせる、疑い深い
+  - [x] **detect** `[ditékt]` [他]: …を見つける、…の正体を見抜く (型: SVO) / ・detect … doing(…が～しているのを見つける)
+  - [x] **suspicious** `[səspíʃəs]` [形]: 疑いを起こさせる、疑い深い
 
 - [ ] PS0872_04475-04475 (Page 300)
   - [ ] **Sentence**: I'd like to go by air, but my husband dreads the idea of flying. *(日译: 私は飛行機で行きたいのですが、夫は飛行機で旅行するという計画をひどく怖がる。)*
@@ -1004,13 +1004,13 @@
 
 - [ ] PS0875_04483-04486 (Page 302)
   - [ ] **Sentence**: Some influential economists predict the recession will continue. *(日译: 影響力のある経済学者らが、景気後退はまだ続くと予測している。)*
-  - [ ] **influential** `[ìnfluénʃəl]` [形]: 大きな影響を与える、有力な、動機となる
-  - [ ] **economist** `[ikάnəmist]` [名]: 経済学者、倹約家
-  - [ ] **predict** `[pridíkt]` [他]: …を予報する、…と予言する / [自]: 予言する、予報する (型: SV, SVO) / ・predict that …(…ということを予想する)
-  - [ ] **recession** `[riséʃən]` [名]: 景気後退、一時的不景気、撤退、後退、(壁などの)引っ込んだ部分
+  - [x] **influential** `[ìnfluénʃəl]` [形]: 大きな影響を与える、有力な、動機となる
+  - [x] **economist** `[ikάnəmist]` [名]: 経済学者、倹約家
+  - [x] **predict** `[pridíkt]` [他]: …を予報する、…と予言する / [自]: 予言する、予報する (型: SV, SVO) / ・predict that …(…ということを予想する)
+  - [x] **recession** `[riséʃən]` [名]: 景気後退、一時的不景気、撤退、後退、(壁などの)引っ込んだ部分
 
 - [ ] PS0876_04487-04489 (Page 302)
   - [ ] **Sentence**: The dim figure outside the window startled me, but it was only a neighbor in a white garment. *(日译: 窓の外のぼんやりした人影にぎょっとしたが、ただの白い服を着た近所の人だった。)*
   - [ ] **dim** `[dím]` [形]: 薄暗い、ぼやけた / [他]: …を薄暗くする / [自]: 薄暗くなる
   - [ ] **startle** `[stάːrtl]` [他]: …をぎょっとさせる / [自]: ぎょっとする (型: SV, SVO) / ・be startled out of one's sleep(はっとして目が覚める) / ・be startled by …(…にあっと驚く[びっくりする]) / [名]: 驚き、はっとさせるもの
-  - [ ] **garment** 服
+  - [x] **garment** 服
