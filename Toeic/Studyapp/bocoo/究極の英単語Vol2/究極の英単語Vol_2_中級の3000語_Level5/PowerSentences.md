@@ -138,16 +138,16 @@
 
 - [ ] PS0719_04064-04067 (Page 217)
   - [ ] **Sentence**: Chaos and confusion prevailed among the hurricane victims. *(日译: ハリケーン被災者の間に無秩序と混乱が広がった。)*
-  - [ ] **chaos** `[kéiɑs]` [名]: 無秩序、混乱(状態)、カオス
+  - [x] **chaos** `[kéiɑs]` [名]: 無秩序、混乱(状態)、カオス
   - [x]] **confusion** `[kənfjúːʒən]` [名]: 混乱状態、混乱させること、あいまい、当惑
-  - [ ] **prevail** `[prəvéil]` [自]: 広がっている、圧倒する、首尾よくいく、説き伏せる (型: SV) / ・prevail against …(…に打ち勝つ、…をしのぐ) / ・prevail in …(…に蔓延する[広がる])
-  - [ ] **hurricane** `[hə́ːrəkèin]` [名]: ハリケーン、大暴風
+  - [x] **prevail** `[prəvéil]` [自]: 広がっている、圧倒する、首尾よくいく、説き伏せる (型: SV) / ・prevail against …(…に打ち勝つ、…をしのぐ) / ・prevail in …(…に蔓延する[広がる])
+  - [x] **hurricane** `[hə́ːrəkèin]` [名]: ハリケーン、大暴風
 
 - [ ] PS0720_04068-04070 (Page 217)
   - [ ] **Sentence**: The kingdom continued to prosper after the king's throne passed to his heir. *(日译: その王国は、後継者に王位が譲られた後も栄え続けた。)*
-  - [ ] **prosper** `[prάspər]` [自]: 成功する、栄える / [他]: …を栄えさせる (型: SV, SVO) / ・prosper in …(…で成功する)
+  - [x] **prosper** `[prάspər]` [自]: 成功する、栄える / [他]: …を栄えさせる (型: SV, SVO) / ・prosper in …(…で成功する)
   - [ ] **throne** `[θróun]` [名]: 王位、王座、国王、司教の座 / [他]: …を王位につかせる / [自]: 王位につく、即位する
-  - [ ] **heir** `[ɛ́ər]` [名]: 後継者、継承者、相続人
+  - [x] **heir** `[ɛ́ər]` [名]: 後継者、継承者、相続人
 
 - [ ] PS0721_04071-04072 (Page 218)
   - [ ] **Sentence**: If you want to study effectively, you should take a break and refresh yourself now. *(日译: 効果的に勉強したいなら、ここで休憩して気分転換しなよ。)*
@@ -162,30 +162,30 @@
 
 - [ ] PS0723_04076-04077 (Page 218)
   - [ ] **Sentence**: The talks between these two countries are in recess and will resume next week. *(日译: 両国間の協議は休会中だが、来週再開されるだろう。)*
-  - [ ] **recess** `[ríːses]` [名]: 休み、休暇、休廷、休憩時間、奥まった所 / [他]: …を奥まったところに置く、…を中断させる / [自]: 休憩する、休会する
-  - [ ] **resume** `[rizjúːm]` [他]: 再開する、再び始まる / [他]: …を再開する、…を再び占める、…を取り戻す、…を要約する (型: SV, SVO) / ・resume one's work(仕事に復帰する) / ・resume a seat(再び席に着く)
+  - [x] **recess** `[ríːses]` [名]: 休み、休暇、休廷、休憩時間、奥まった所 / [他]: …を奥まったところに置く、…を中断させる / [自]: 休憩する、休会する
+  - [x] **resume** `[rizjúːm]` [他]: 再開する、再び始まる / [他]: …を再開する、…を再び占める、…を取り戻す、…を要約する (型: SV, SVO) / ・resume one's work(仕事に復帰する) / ・resume a seat(再び席に着く)
 
 - [ ] PS0724_04078-04081 (Page 219)
   - [ ] **Sentence**: Social uncertainty is steadily reviving the communist movement in the country. *(日译: 社会の不安定さがその国で共産主義運動を着実に復活させている。)*
   - [x] **uncertainty** `[ʌnsə́ːrtnti]` [名]: 不安定、確信のなさ、はっきりしない状態、不明確なこと
   - [x] **steadily** `[stédəli]` [副]: 堅実に、どんどん
-  - [ ] **revive** `[riváiv]` [他]: …を復活させる、…を生き返らせる、…を回復させる、…を再上映する / [自]: 生き返る、意識を回復する、よみがえる、再び注目される (型: SV, SVO) / ・revive memories of …(…を思い出させる)
-  - [ ] **communist** `[kάmjənist]` [名]: 共産主義者、(Communist で)共産党員 / [形]: 共産主義(者)の
+  - [x] **revive** `[riváiv]` [他]: …を復活させる、…を生き返らせる、…を回復させる、…を再上映する / [自]: 生き返る、意識を回復する、よみがえる、再び注目される (型: SV, SVO) / ・revive memories of …(…を思い出させる)
+  - [x] **communist** `[kάmjənist]` [名]: 共産主義者、(Communist で)共産党員 / [形]: 共産主義(者)の
 
 - [ ] PS0725_04082-04083 (Page 220)
   - [ ] **Sentence**: Evidently, she didn't know that wool products shrink in the wash. *(日译: 間違いなく、彼女はウール製品が洗濯すると縮むということを知らなかった。)*
   - [x] **evidently** `[évədəntli]` [副]: 明らかに、どうやら
-  - [ ] **shrink** `[ʃríŋk]` [自]: 縮む、小さくなる、減少する、避ける / [他]: …を縮める、…を減らす (型: SV, SVO) / ・shrink from danger(危険にひるむ) / ・shrink in length(丈が詰まる) / ・shrink in the wash(洗濯すると縮む) / [名]: しじみ、収縮、精神科医
+  - [x] **shrink** `[ʃríŋk]` [自]: 縮む、小さくなる、減少する、避ける / [他]: …を縮める、…を減らす (型: SV, SVO) / ・shrink from danger(危険にひるむ) / ・shrink in length(丈が詰まる) / ・shrink in the wash(洗濯すると縮む) / [名]: しじみ、収縮、精神科医
 
 - [ ] PS0726_04084-04086 (Page 220)
   - [ ] **Sentence**: Energy consumption usually soars in summertime. *(日译: エネルギー消費量はたいてい夏に急増する。)*
-  - [ ] **consumption** `[kənsʌ́mpʃən]` [名]: 消費高、消費、消耗、食物消費量
+  - [x] **consumption** `[kənsʌ́mpʃən]` [名]: 消費高、消費、消耗、食物消費量
   - [ ] **soar** `[sɔ́ːr]` [自]: 急上昇する、舞い上がる、そびえ立つ (型: SV) / ・soar above(空へ舞い上がる) / ・soar to the top of …(…のトップに上り詰める) / [名]: 高く舞い上がること、上昇の範囲[限度]
-  - [ ] **summertime** `[sʌ́mər tàim]` [名]: 夏季、夏時間
+  - [x] **summertime** `[sʌ́mər tàim]` [名]: 夏季、夏時間
 
 - [ ] PS0727_04087-04089 (Page 221)
   - [ ] **Sentence**: The stars were literally sparkling overhead, and I felt like I could reach out and touch them. *(日译: 星たちが文字どおり頭上に輝いていて、手を伸ばして触れることができそうな気がした。)*
-  - [ ] **literally** `[lítərəli]` [副]: 文字どおり、まさしく、逐語的に、一語一語
+  - [x] **literally** `[lítərəli]` [副]: 文字どおり、まさしく、逐語的に、一語一語
   - [x] **sparkle** `[spάːrkl]` [自]: 輝く、火花を発する、泡立つ、活気がある / [他]: (火花など)を発する、…をきらきらと輝かす (型: SV, SVO) / [名]: 火花、輝き、活気、発泡
   - [x] **overhead** `[òuvərhéd]` [副]: 頭上に、高く / [形]: 頭上の、一般的な / [名]: 経常経費、天井
 
@@ -197,7 +197,7 @@
 
 - [ ] PS0729_04093-04095 (Page 222)
   - [ ] **Sentence**: The vigorous old man thrives on a simple diet and time outside under the shining sun. *(日译: その元気な老人は、シンプルな食事と輝く太陽の下での時間を楽しんでいる。)*
-  - [ ] **vigorous** `[vígərəs]` [形]: 活力にあふれた、力強い、強制的な
+  - [x] **vigorous** `[vígərəs]` [形]: 活力にあふれた、力強い、強制的な
   - [x] **thrive** `[θráiv]` [自]: (事業などが)成功する、繁栄する、(植物などが)成長する、生きがいにする (型: SV) / ・thrive on …(…を生きがいにする)
   - [x] **shining** `[ʃáiniŋ]` [形]: 光る、きらめく、明るい、目立つ、優れた(限定用法)
 
@@ -208,50 +208,50 @@
 
 - [ ] PS0731_04099-04100 (Page 223)
   - [ ] **Sentence**: When boys are up to mischief, their eyes sometimes twinkle. *(日译: 男の子がいたずらをしようとするとき、その目はときときらきらと輝く。)*
-  - [ ] **mischief** `[místʃif]` [名]: いたずら、ちゃめっ気、損害、悪影響、いたずらっ子
+  - [x] **mischief** `[místʃif]` [名]: いたずら、ちゃめっ気、損害、悪影響、いたずらっ子
   - [x] **twinkle** `[twíŋkl]` [自]: 輝く、きらりと光る、軽快に動く、まばたきする / [他]: …をきらりと光らせる (型: SV, SVO) / [名]: きらめき、輝き、軽快な動き
 
 - [ ] PS0732_04101-04103 (Page 224)
   - [ ] **Sentence**: A fellow journalist acquainted me with the presidential candidate. *(日译: ジャーナリスト仲間が、私をその大統領候補に紹介してくれた。)*
-  - [ ] **acquaint** `[əkwéint]` [他]: …を紹介する、…を知らせる (型: SVO) / ・acquaint oneself with …(…に精通する、…を知る)
-  - [ ] **presidential** `[prèzədénʃəl]` [形]: 大統領(職)の、支配的な(限定用法)
+  - [x] **acquaint** `[əkwéint]` [他]: …を紹介する、…を知らせる (型: SVO) / ・acquaint oneself with …(…に精通する、…を知る)
+  - [x] **presidential** `[prèzədénʃəl]` [形]: 大統領(職)の、支配的な(限定用法)
   - [x] **candidate** `[kǽndidèit]` [名]: 候補者、志願者
 
 - [ ] PS0733_04104-04105 (Page 225)
   - [ ] **Sentence**: Nowadays, TV commercials aren't considered the ultimate medium for advertising products. *(日译: 今日ではテレビCMは、商品を宣伝するための究極のメディアとは考えられていない。)*
-  - [ ] **ultimate** `[ʌ́ltəmət]` [形]: 究極の、最終の、決定的な、これ以上細分化できない(限定用法) / [名]: 最終段階
+  - [x] **ultimate** `[ʌ́ltəmət]` [形]: 究極の、最終の、決定的な、これ以上細分化できない(限定用法) / [名]: 最終段階
   - [x] **advertise** `[ǽdvərtàiz]` [他]: …を広告する、…を公表する、…と知らせる / [自]: 募集広告を出す、自己宣伝する (型: SV, SVO) / ・advertise for …(…を公募する、…を募集する) / ・advertise in magazines(雑誌に広告を出す)
 
 - [ ] PS0734_04106-04108 (Page 225)
   - [ ] **Sentence**: This movie uses irony to condemn the French colonists in Africa. *(日译: この映画はアフリカにおけるフランス入植者らを非難するのに皮肉を用いている。)*
-  - [ ] **irony** `[áiərəni]` [名]: 皮肉、反語、予期に反する結末
-  - [ ] **condemn** `[kəndém]` [他]: …を非難する、…に有罪の判決をする、…を強いる (型: SVO) / ・condemn … for ～(～の理由で…を責める) / ・condemn … as ～(…を～だと非難する)
-  - [ ] **colonist** `[kάlənist]` [名]: 入植者、植民地の住民、海外移住者
+  - [x] **irony** `[áiərəni]` [名]: 皮肉、反語、予期に反する結末
+  - [x] **condemn** `[kəndém]` [他]: …を非難する、…に有罪の判決をする、…を強いる (型: SVO) / ・condemn … for ～(～の理由で…を責める) / ・condemn … as ～(…を～だと非難する)
+  - [x] **colonist** `[kάlənist]` [名]: 入植者、植民地の住民、海外移住者
 
 - [ ] PS0735_04109-04112 (Page 226)
   - [ ] **Sentence**: Her husband unexpectedly consented to a divorce after three years of legal dispute. *(日译: 3年におよぶ法的争議の末、彼女の夫は突然離婚に同意した。)*
   - [x] **unexpectedly** `[ʌnikspéktidli]` [副]: 突然に、不意に
-  - [ ] **consent** `[kənsént]` [自]: 同意する、承諾する (型: SV) / ・consent to do(…することを承諾する) / ・consent that …(…に同意する) / [名]: 承諾、承認、同意
-  - [ ] **divorce** `[divɔ́ːrs]` [名]: 離婚、離縁、分離 / [他]: …と離婚する、…を分離する
-  - [ ] **dispute** `[dispjúːt]` [名]: 論争、議論、口論、紛争 / [他]: …に反論する、…を議論する、…に抵抗する / [自]: 論争する、口論する
+  - [x] **consent** `[kənsént]` [自]: 同意する、承諾する (型: SV) / ・consent to do(…することを承諾する) / ・consent that …(…に同意する) / [名]: 承諾、承認、同意
+  - [x] **divorce** `[divɔ́ːrs]` [名]: 離婚、離縁、分離 / [他]: …と離婚する、…を分離する
+  - [x] **dispute** `[dispjúːt]` [名]: 論争、議論、口論、紛争 / [他]: …に反論する、…を議論する、…に抵抗する / [自]: 論争する、口論する
 
 - [ ] PS0736_04113-04114 (Page 226)
   - [ ] **Sentence**: I consulted Mr. Carter before my oral presentation to the class. *(日译: 私はクラスへの口頭発表の前に、カーター先生に助言を求めた。)*
   - [x] **consult** `[kənsʌ́lt]` [他]: …に助言を求める[相談する]、…を調べる、…を考慮に入れる / [自]: 話し合う、相談する、顧問を務める (型: SV, SVO) / ・consult … about ～(～について…に相談する) / ・consult on …(…に取り組む) / ・consult with …(…と話し合う)
-  - [ ] **oral** `[ɔ́ːrəl]` [形]: 口頭の、口述の、口の / [名]: 口頭試問
+  - [x] **oral** `[ɔ́ːrəl]` [形]: 口頭の、口述の、口の / [名]: 口頭試問
   - 
 - [ ] PS0737_04115-04118 (Page 227)
   - [ ] **Sentence**: Her facial expression was plainly conveying boredom. *(日译: 彼女の表情は退屈をはっきりと伝えていた。)*
   - [] **facial** `[féiʃəl]` [形]: 顔の、顔面の、顔用の / [名]: 美顔術、顔の手入れ
   - [x] **plainly** `[pléinli]` [副]: はっきりと、率直に、質素に
-  - [ ] **convey** `[kənvéi]` [他]: …を伝える、…を運ぶ、…を譲渡する (型: SVO) / ・convey a disease to …(病気を…に移す)
-  - [ ] **boredom** `[bɔ́ːrdəm]` [名]: 退屈、けん怠、ものぐさ
+  - [x] **convey** `[kənvéi]` [他]: …を伝える、…を運ぶ、…を譲渡する (型: SVO) / ・convey a disease to …(病気を…に移す)
+  - [x] **boredom** `[bɔ́ːrdəm]` [名]: 退屈、けん怠、ものぐさ
 
 - [ ] PS0738_04119-04121 (Page 228)
   - [ ] **Sentence**: The waiters there treat customers so rudely that the restaurant has been damned by critics. *(日译: ウェイターたちが客を無礼に扱うので、そのレストランは批評家たちからきらされている。)*
   - [x] **rudely** `[rúːdli]` [副]: 無礼に、突然に、荒々しく
   - [x] **damn** `[dæm]` [他]: …を悪いと決めつける、…をけなす、…破滅させる、…のろう / [名]: のろう / (型: SV, SVO) / ・damn … with faint praise(…をいい加減に褒めて実はけなす) / [名]: のろい、ののしり
-  - [ ] **critic** `[krítik]` [名]: 批評家、鑑定家
+  - [x] **critic** `[krítik]` [名]: 批評家、鑑定家
 
 - [ ] PS0739_04122-04123 (Page 228)
   - [ ] **Sentence**: His dirty jokes disgust his colleagues. *(日译: 彼の下品なジョークは同僚たちをうんざりさせている。)*
@@ -260,7 +260,7 @@
 
 - [ ] PS0740_04124-04125 (Page 229)
   - [ ] **Sentence**: His distinctly loud voice embarrassed the rest of us at the table in the restaurant. *(日译: 彼のはっきりした大きな声で、レストランで同じテーブルにいるわれわれ全員ははずかしい思いをした。)*
-  - [ ] **distinctly** `[distíŋktli]` [副]: はっきりと、疑いもなく
+  - [x] **distinctly** `[distíŋktli]` [副]: はっきりと、疑いもなく
   - [x] **embarrass** `[imbǽrəs]` [他]: …に恥ずかしい思いをさせる、…をろうばいさせる、…を苦境に陥れる、…を阻害する、…を混乱させる (型: SV, SVO) / ・be embarrassed by …(…で恥ずかしい思いをする) / ・embarrass oneself(きまり悪くなる、まごつく) / ・be embarrassed about doing(…をしたことで困る)
 
 -  [ ] PS0741_04126-04127 (Page 229)
@@ -269,7 +269,7 @@
 
 - [ ] PS0742_04128-04130 (Page 230)
   - [ ] **Sentence**: He flattered his superior on his tie, but it somehow made the atmosphere a little unpleasant. *(日译: 彼は上司のネクタイを褒めたが、どういうわけか場の空気を少し悪くしてしまった。)*
-  - [ ] **flatter** `[flǽtər]` [他]: …にお世辞を言う、…にこびる、…を得意がらせる、…を実物以上によく見せる / [自]: お世辞を言う (型: SV, SVO) / ・flatter … on ～(…のことを褒めて機嫌をとる)
+  - [x] **flatter** `[flǽtər]` [他]: …にお世辞を言う、…にこびる、…を得意がらせる、…を実物以上によく見せる / [自]: お世辞を言う (型: SV, SVO) / ・flatter … on ～(…のことを褒めて機嫌をとる)
   - [x] **superior** `[supíəriər]` [名]: 上司、先輩、目上の人 / [形]: 優れた、(…より)上の、上級の
   - [x] **unpleasant** `[ʌnplézənt]` [形]: 不愉快な、不快にさせる、いやな、無礼な
 
@@ -280,9 +280,9 @@
 
 - [ ] PS0744_04133-04135 (Page 231)
   - [ ] **Sentence**: He only murmurs his complaints about his wife, so she's completely unaware of his frustration. *(日译: 彼が妻への不満を大声に言わないので、彼女は夫のフラストレーションにまったく気付いていない。)*
-  - [ ] **murmur** `[mə́ːrmər]` [他]: …をつぶやく、…を小声で言う / [自]: つぶやく、不平を言う、ぐちを言う (型: SV, SVO) / [名]: ささやき、つぶやき
-  - [ ] **unaware** `[ʌnəwéər]` [形]: 気付かない、知らない、不注意な
-  - [ ] **frustration** `[frʌstréiʃən]` [名]: 欲求不満、挫折、失望
+  - [x] **murmur** `[mə́ːrmər]` [他]: …をつぶやく、…を小声で言う / [自]: つぶやく、不平を言う、ぐちを言う (型: SV, SVO) / [名]: ささやき、つぶやき
+  - [x] **unaware** `[ʌnəwéər]` [形]: 気付かない、知らない、不注意な
+  - [x] **frustration** `[frʌstréiʃən]` [名]: 欲求不満、挫折、失望
 
 - [ ] PS0745_04136-04138 (Page 231)
   - [ ] **Sentence**: He's unwilling to negotiate independently with us, so we'll have to contact his agent first. *(日译: 彼は単独では交渉したがらないから、われわれはまず彼の代理人と連絡をとらねばならないだろう。)*
@@ -292,20 +292,20 @@
 
 - [ ] PS0746_04139-04141 (Page 232)
   - [ ] **Sentence**: He pleaded innocent to the charge of killing the noted guitarist. *(日译: 彼はその著名なギタリストを殺害したという容疑に対して無罪を主張した。)*
-  - [ ] **plead** `[plíːd]` [自]: 申し立て[主張]する、嘆願する / [他]: …を主張する (型: SV, SVO, SVC) / ・plead with … for ～(…に～を懇願する) / ・plead with … to do(…に～してくれと懇願する)
-  - [ ] **noted** `[nóutid]` [形]: 著名な、顕著な
+  - [x] **plead** `[plíːd]` [自]: 申し立て[主張]する、嘆願する / [他]: …を主張する (型: SV, SVO, SVC) / ・plead with … for ～(…に～を懇願する) / ・plead with … to do(…に～してくれと懇願する)
+  - [x] **noted** `[nóutid]` [形]: 著名な、顕著な
   - [x] **guitarist** `[gitάːrist]` [名]: ギタリスト
 
 - [ ] PS0747_04142-04143 (Page 232)
   - [ ] **Sentence**: There were very noticeable signs that proclaimed, "Smoking is not allowed in this restaurant." *(日译: 「当レストラン内は禁煙です」と示す非常に目立つはり紙があった。)*
   - [x] **noticeable** `[nóutisəbl]` [形]: 人目を引く、目立つ、注目に値する
-  - [ ] **proclaim** `[proukléim]` [他]: …を公然と示す、…を宣言する、…を公表する (型: SVO, SVOC) / ・The king proclaimed him a leader.(王は、彼がリーダーだと宣言した) / ・proclaim oneself …(…を自称する、自ら…と名乗る)
+  - [x] **proclaim** `[proukléim]` [他]: …を公然と示す、…を宣言する、…を公表する (型: SVO, SVOC) / ・The king proclaimed him a leader.(王は、彼がリーダーだと宣言した) / ・proclaim oneself …(…を自称する、自ら…と名乗る)
 
 - [ ] PS0748_04144-04146 (Page 233)
   - [ ] **Sentence**: I reacted emotionally to his refusal to accept my apology. *(日译: 彼が私の謝罪を受け入れるのを拒んだことに対し、私は感情的に反応してしまった。)*
-  - [ ] **react** `[riǽkt]` [自]: 反応する、反作用する、影響し合う、反対する / [自]: …に(化学)反応を起こさせる (型: SV, SVO) / ・react on …(…に反応する) / ・react against …(…に反抗[反対]する)
+  - [x] **react** `[riǽkt]` [自]: 反応する、反作用する、影響し合う、反対する / [自]: …に(化学)反応を起こさせる (型: SV, SVO) / ・react on …(…に反応する) / ・react against …(…に反抗[反対]する)
   - [x] **emotionally** `[imóuʃənəli]` [副]: 感情的に、情緒的に、情緒的な面について言えば
-  - [ ] **refusal** `[rifjúːzəl]` [名]: 拒絶、拒否、優先権
+  - [x] **refusal** `[rifjúːzəl]` [名]: 拒絶、拒否、優先権
 
 - [x] PS0749_04147-04148 (Page 233)
   - [x] **Sentence**: He teased his friend about his colorful necktie. *(日译: 彼は友達のカラフルなネクタイをからかった。)*
@@ -320,7 +320,7 @@
 
 - [ ] PS0751_04152-04155 (Page 234)
   - [ ] **Sentence**: The artists have arrayed their artwork for the upcoming exhibition in the warehouse. *(日译: 画家たちは倉庫で今度の展覧会に向けて芸術作品を配置した。)*
-  - [ ] **array** `[əréi]` [他]: …を配置する、…を盛装させる (型: SVO) / [名]: 配置、(an array of …で)…の列挙
+  - [x] **array** `[əréi]` [他]: …を配置する、…を盛装させる (型: SVO) / [名]: 配置、(an array of …で)…の列挙
   - [x] **artwork** `[άːrtwèrk]` [名]: 芸術作品、挿絵、図版
   - [x] **upcoming** `[ʌ́pkʌ̀miŋ]` [形]: 近づく、今度の、来たるべき
   - [x] **warehouse** `[wéərhàus]` [名]: 倉庫
@@ -356,20 +356,20 @@
 
 - [ ] PS0758_04174-04176 (Page 238)
   - [ ] **Sentence**: She frowned with contempt when the interviewer kept asking her rude questions. *(日译: インタビュアーが失礼な質問ばかりするので、彼女は軽べつをこめてまゆをひそめた。)*
-  - [ ] **frown** `[fráun]` [自]: まゆをひそめる、しかめっ面をする / [他]: (不機嫌)をまゆをひそめて示す、…にらんで退かせる (型: SV, SVO) / ・frown on …(…に不賛成の意を表す) / [名]: 難しい顔つき、顔色
-  - [ ] **contempt** `[kəntémpt]` [名]: 軽べつ、侮辱罪
+  - [x] **frown** `[fráun]` [自]: まゆをひそめる、しかめっ面をする / [他]: (不機嫌)をまゆをひそめて示す、…にらんで退かせる (型: SV, SVO) / ・frown on …(…に不賛成の意を表す) / [名]: 難しい顔つき、顔色
+  - [x] **contempt** `[kəntémpt]` [名]: 軽べつ、侮辱罪
   - [x] **interviewer** `[íntərvjùːər]` [名]: インタビュアー、訪問記者、面接担当者
 
 - [ ] PS0759_04177-04179 (Page 238)
   - [ ] **Sentence**: The boy was eagerly gazing at the picture of a mummy in the magazine. *(日译: その少年は、雑誌の中のミイラの写真を熱心に見ていた。)*
-  - [ ] **eagerly** `[íːgərli]` [副]: 熱心に、熱望して
+  - [x] **eagerly** `[íːgərli]` [副]: 熱心に、熱望して
   - [x] **gaze** `[géiz]` [自]: じっと見る、凝視する (型: SV) / ・gaze about(見回す) / ・gaze at …(…をじっと見る) / ・gaze on …(…をじっと見つめる) / [名]: 凝視、注視
-  - [ ] **mummy** `[mʌ́mi]` [名]: ミイラ、干からびたもの、生気のない人
+  - [x] **mummy** `[mʌ́mi]` [名]: ミイラ、干からびたもの、生気のない人
 
 - [ ] PS0760_04180-04181 (Page 239)
   - [ ] **Sentence**: He grabbed his dressing gown and rushed out of the bedroom to get the phone. *(日译: 彼は部屋着をつかむと、電話に出るため寝室を飛び出した。)*
-  - [ ] **grab** `[græb]` [他]: …をひっつかむ[ぎゅっとつかむ、ひったくる]、…を素早く食べる、…を捕らえる、…の心をつかむ / [自]: ひっつかむ、ひったくる (型: SV, SVO) / ・grab a bite(軽く食べる) / ・How does that grab you?(これについてどう思いますか) / [名]: ひったくり、強奪、横領
-  - [ ] **gown** `[gáun]` [名]: 室内着、ガウン、夜会服
+  - [x] **grab** `[græb]` [他]: …をひっつかむ[ぎゅっとつかむ、ひったくる]、…を素早く食べる、…を捕らえる、…の心をつかむ / [自]: ひっつかむ、ひったくる (型: SV, SVO) / ・grab a bite(軽く食べる) / ・How does that grab you?(これについてどう思いますか) / [名]: ひったくり、強奪、横領
+  - [x] **gown** `[gáun]` [名]: 室内着、ガウン、夜会服
 
 - [ ] PS0761_04182-04183 (Page 239)
   - [ ] **Sentence**: My son opened his present and instantly grinned when he saw what was inside. *(日译: 息子はプレゼントを開け、中の物を見るとすぐににっこりと笑った。)*
