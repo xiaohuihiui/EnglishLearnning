@@ -373,54 +373,54 @@
 
 - [ ] PS0761_04182-04183 (Page 239)
   - [ ] **Sentence**: My son opened his present and instantly grinned when he saw what was inside. *(日译: 息子はプレゼントを開け、中の物を見るとすぐににっこりと笑った。)*
-  - [ ] **instantly** `[ínstəntli]` [副]: すぐに / [接]: …するとすぐに
-  - [ ] **grin** `[grin]` [自]: にっこり笑う、(軽べつを感じ)にやりと笑う、歯をむき出す / [他]: 歯を見せて(喜び・軽べつなど)を示す (型: SV, SVO) / ・grin with delight(喜んでにっこり笑う) / ・grin at …(…ににこやかにする) / ・grin from ear to ear(口をいっぱいに開けて笑う) / [名]: にこやかな笑い、にやにや笑い
+  - [x] **instantly** `[ínstəntli]` [副]: すぐに / [接]: …するとすぐに
+  - [x] **grin** `[grin]` [自]: にっこり笑う、(軽べつを感じ)にやりと笑う、歯をむき出す / [他]: 歯を見せて(喜び・軽べつなど)を示す (型: SV, SVO) / ・grin with delight(喜んでにっこり笑う) / ・grin at …(…ににこやかにする) / ・grin from ear to ear(口をいっぱいに開けて笑う) / [名]: にこやかな笑い、にやにや笑い
 
 - [ ] PS0762_04184-04186 (Page 240)
   - [ ] **Sentence**: The injured man groaned painfully while a doctor examined his broken ribs. *(日译: けがをした男性は、医師が折れたあばら骨を調べている間、苦しげにうめいた。)*
-  - [ ] **groan** `[gróun]` [自]: うめく、不満の声を上げる、ミシミシいう / [他]: …をうめきながら言う、…をやじり倒す (型: SV, SVO) / ・groan at having to do(…しなければならないことに不満の声を上げる) / ・groan in [with] pain(苦痛にうめく) / [名]: うめき声、あざけりの声
+  - [x] **groan** `[gróun]` [自]: うめく、不満の声を上げる、ミシミシいう / [他]: …をうめきながら言う、…をやじり倒す (型: SV, SVO) / ・groan at having to do(…しなければならないことに不満の声を上げる) / ・groan in [with] pain(苦痛にうめく) / [名]: うめき声、あざけりの声
   - [x] **painfully** `[péinfəli]` [副]: 苦しげに、痛々しく、たいへん、ひどく
-  - [ ] **rib** `[ríb]` [名]: ろっ骨、あばら(骨)、(かさなどの)骨、うね / [他]: (船)にろっ骨[ろく材]をつける(補強する)、…にうねをつける
+  - [x] **rib** `[ríb]` [名]: ろっ骨、あばら(骨)、(かさなどの)骨、うね / [他]: (船)にろっ骨[ろく材]をつける(補強する)、…にうねをつける
 
 - [ ] PS0763_04187-04188 (Page 240)
   - [ ] **Sentence**: The winds are howling outside, and it makes me more reluctant to go out. *(日译: 外では風がヒューヒュー吹いていて、外に出るのにより気が進まなくなる。)*
-  - [ ] **howl** `[hául]` [自]: ヒューヒュー鳴る、うなる、遠ぼえする、わめく / [他]: …をうなりながら[わめいて、怒号して]言う、…をどなって圧倒する (型: SV, SVO) / ・howl out(うなる、大声で叫ぶ) / [名]: 遠ぼえ、うなり、うめき声、笑い声
-  - [ ] **reluctant** `[rilʌ́ktənt]` [形]: 気乗りしない、不承不承の
+  - [x] **howl** `[hául]` [自]: ヒューヒュー鳴る、うなる、遠ぼえする、わめく / [他]: …をうなりながら[わめいて、怒号して]言う、…をどなって圧倒する (型: SV, SVO) / ・howl out(うなる、大声で叫ぶ) / [名]: 遠ぼえ、うなり、うめき声、笑い声
+  - [x] **reluctant** `[rilʌ́ktənt]` [形]: 気乗りしない、不承不承の
 
 - [ ] PS0764_04189-04190 (Page 241)
   - [ ] **Sentence**: He's seemingly serious about losing weight this time, so he jogs every morning. *(日译: 見たところ、彼も今度はやせることに本気を入れているようで、毎朝ジョギングしている。)*
-  - [ ] **seemingly** `[síːmiŋli]` [副]: 一見したところ、うわべは、外見から判断すると
-  - [ ] **jog** `[dʒɑ́g]` [自]: ジョギングをする、ゆっくり進む / [他]: …を揺り動かす、…を呼び起こす、(馬)を一定の速足で進める (型: SV, SVO) / [名]: ジョギング、徐行、揺れ
+  - [x] **seemingly** `[síːmiŋli]` [副]: 一見したところ、うわべは、外見から判断すると
+  - [x] **jog** `[dʒɑ́g]` [自]: ジョギングをする、ゆっくり進む / [他]: …を揺り動かす、…を呼び起こす、(馬)を一定の速足で進める (型: SV, SVO) / [名]: ジョギング、徐行、揺れ
 
 - [ ] PS0765_04191-04191 (Page 241)
   - [ ] **Sentence**: Children love to lick the bowl after beating cream. *(日译: 子供たちはクリームを泡立てた後、ボウルをなめるのが大好きだ。)*
-  - [ ] **lick** `[lík]` [他]: …をなめる、…に軽く触れる、…を打ち負かす、…を打つ / [自]: さっと動く、全速力で動く (型: SV, SVO, SVOC) / ・The boy licked the dish clean.(その少年は皿をなめてきれいした) / ・lick … off(…をなめて取る) / ・lick up …(…をなめつくす、…を飲み込む) / [名]: ひとなめ、少量、パンチ、速力
+  - [x] **lick** `[lík]` [他]: …をなめる、…に軽く触れる、…を打ち負かす、…を打つ / [自]: さっと動く、全速力で動く (型: SV, SVO, SVOC) / ・The boy licked the dish clean.(その少年は皿をなめてきれいした) / ・lick … off(…をなめて取る) / ・lick up …(…をなめつくす、…を飲み込む) / [名]: ひとなめ、少量、パンチ、速力
 
 - [ ] PS0766_04192-04194 (Page 242)
   - [ ] **Sentence**: She moans about the agony of working with someone who demands absolute obedience. *(日译: 彼女は絶対服従を求める人物と仕事をすることの苦痛を嘆く。)*
-  - [ ] **moan** `[móun]` [自]: うめき声をあげる、不平を言う / [他]: …をうめくような声で言う、…を嘆く、…と不満に言う (型: SV, SVO) / ・moan about …(…について嘆く) / ・moan at …(…に文句を言う) / [名]: うめき、うなり、不平
-  - [ ] **agony** `[ǽgəni]` [名]: 苦痛、苦悩、激情
-  - [ ] **obedience** `[obíːdiəns]` [名]: 服従、忠実
+  - [x] **moan** `[móun]` [自]: うめき声をあげる、不平を言う / [他]: …をうめくような声で言う、…を嘆く、…と不満に言う (型: SV, SVO) / ・moan about …(…について嘆く) / ・moan at …(…に文句を言う) / [名]: うめき、うなり、不平
+  - [x] **agony** `[ǽgəni]` [名]: 苦痛、苦悩、激情
+  - [x] **obedience** `[obíːdiəns]` [名]: 服従、忠実
 
 - [ ] PS0767_04195-04196 (Page 242)
   - [ ] **Sentence**: The boy's aunt pinched his cheek tenderly by way of a greeting. *(日译: 少年の叔母は、あいさつのつもりで彼のほおを優しくつねった。)*
-  - [ ] **pinch** `[píntʃ]` [他]: …をつまむ、…を(挟んで)締めつける、…を摘み取る、…を苦しめる / [自]: 締めつける、窮屈である、切り詰めた生活をする (型: SV, SVO) / ・pinch off …(…を摘み取る) / ・pinch pennies on …(…の出費を切り詰める) / [名]: つまむこと、少量、激痛、難儀、ピンチ
-  - [ ] **tenderly** `[téndərli]` [副]: 優しく、親切に、弱々しく、柔らかく
+  - [x] **pinch** `[píntʃ]` [他]: …をつまむ、…を(挟んで)締めつける、…を摘み取る、…を苦しめる / [自]: 締めつける、窮屈である、切り詰めた生活をする (型: SV, SVO) / ・pinch off …(…を摘み取る) / ・pinch pennies on …(…の出費を切り詰める) / [名]: つまむこと、少量、激痛、難儀、ピンチ
+  - [x] **tenderly** `[téndərli]` [副]: 優しく、親切に、弱々しく、柔らかく
 
 - [ ] PS0768_04197-04198 (Page 243)
   - [ ] **Sentence**: The lion looked fierce and roared like thunder. *(日译: そのライオンはどう猛そうで、雷のようにほえた。)*
-  - [ ] **fierce** `[fíərs]` [形]: どう猛な、荒々しい、(風雨などが)激しい / [副]: ひどく
+  - [x] **fierce** `[fíərs]` [形]: どう猛な、荒々しい、(風雨などが)激しい / [副]: ひどく
   - [x] **roar** `[rɔ́ːr]` [自]: わめく、怒鳴る、大笑いする、ごう音を立てる / [他]: …を大声で言う、…を叫んでする (型: SV, SVO) / ・roar with laughter(大笑いする) /
 
 - [ ] PS0769_04199-04200 (Page 243)
   - [ ] **Sentence**: Technically, she slapped me rather than hit me. *(日译: 厳密には、彼女は僕を殴ったというより、僕に平手打ちを食らわせた。)*
   - [x] **technically** `[téknɪkli]` [副]: 厳密にいえば、技術的には、専門的には
-  - [ ] **slap** `[slæp]` [他]: …に平手打ちを食らわす、…をたたきつけるように置く / [自]: ピシャリと音を立てる (型: SV, SVO) / ・slap … on the cheek(…にびんたを食らわす) / ・slap … down(…をやめさせる、…をたたきつけるように置く) / [名]: 平手打ち、平手打ちのような音、非難 / [副]: 突然に
+  - [x] **slap** `[slæp]` [他]: …に平手打ちを食らわす、…をたたきつけるように置く / [自]: ピシャリと音を立てる (型: SV, SVO) / ・slap … on the cheek(…にびんたを食らわす) / ・slap … down(…をやめさせる、…をたたきつけるように置く) / [名]: 平手打ち、平手打ちのような音、非難 / [副]: 突然に
 
 - [ ] PS0770_04201-04202 (Page 244)
   - [ ] **Sentence**: A man on a motorbike snatched her handbag from behind. *(日译: 小型バイクに乗った男が背後から彼女のハンドバッグをひったくった。)*
   - [x] **motorbike** `[móʊtərbàɪk]` [名]: 小型オートバイ、バイク
-  - [ ] **snatch** `[snætʃ]` [他]: …をひったくる[さっと取る、強奪する]、…を急いで取る、…を獲得する / [自]: ひっつかもうとする、飛びつく (型: SV, SVO) / ・have … snatched away(…をひったくられる) / ・snatch a meal(急いで食事する) / ・snatch at a straw(わらにもすがろうとする) / [名]: ひったくり、強奪、(歌などの)一片、ひととき
+  - [x] **snatch** `[snætʃ]` [他]: …をひったくる[さっと取る、強奪する]、…を急いで取る、…を獲得する / [自]: ひっつかもうとする、飛びつく (型: SV, SVO) / ・have … snatched away(…をひったくられる) / ・snatch a meal(急いで食事する) / ・snatch at a straw(わらにもすがろうとする) / [名]: ひったくり、強奪、(歌などの)一片、ひととき
 
 - [ ] PS0771_04203-04206 (Page 244)
   - [ ] **Sentence**: I started sneezing nonstop, so I initially thought I had the flu. *(日译: くしゃみが止まらなくなって、初めはインフルエンザにかかったのだと思った。)*
@@ -432,26 +432,26 @@
 - [ ] PS0772_04207-04208 (Page 245)
   - [ ] **Sentence**: One of the girls became awfully homesick, and she used to sob in her room at night. *(日译: 少女の中の一人はひどくホームシックになって、夜になると自分の部屋で泣いたものだ。)*
   - [x] **homesick** `[hóʊmsɪk]` [形]: ホームシックの
-  - [ ] **sob** `[sɑ́b]` [自]: むせび泣く、あえぐ / [他]: …をむせび泣きながら言う、むせび泣いて…をする (型: SV, SVO) / ・sob with grief(悲しくてむせび泣く) / ・sob one's heart out(胸も張り裂けんばかりにむせび泣く) / [名]: むせび泣き、泣きじゃくり
+  - [x] **sob** `[sɑ́b]` [自]: むせび泣く、あえぐ / [他]: …をむせび泣きながら言う、むせび泣いて…をする (型: SV, SVO) / ・sob with grief(悲しくてむせび泣く) / ・sob one's heart out(胸も張り裂けんばかりにむせび泣く) / [名]: むせび泣き、泣きじゃくり
 
 - [ ] PS0773_04209-04211 (Page 245)
   - [ ] **Sentence**: He stumbled over the doorstep and hit his forehead on the floor. *(日译: 彼は戸口の段階でつまずき、額を床で打った。)*
-  - [ ] **stumble** `[stʌ́mbl]` [自]: つまずく、よろめく、とちる、失敗する、偶然見つける (型: SV) / ・stumble along(よろよろ歩く) / ・stumble over a word(言葉につまる) / [名]: つまずき、よろめき、失敗、道徳上の過ち
-  - [ ] **doorstep** `[dɔ́ːrstɛp]` [名]: 戸口の踏み段
-  - [ ] **forehead** `[fɔ́ːrhɛd]` [名]: 額、前額部、物の前部
+  - [x] **stumble** `[stʌ́mbl]` [自]: つまずく、よろめく、とちる、失敗する、偶然見つける (型: SV) / ・stumble along(よろよろ歩く) / ・stumble over a word(言葉につまる) / [名]: つまずき、よろめき、失敗、道徳上の過ち
+  - [x] **doorstep** `[dɔ́ːrstɛp]` [名]: 戸口の踏み段
+  - [x] **forehead** `[fɔ́ːrhɛd]` [名]: 額、前額部、物の前部
 
 - [ ] PS0774_04212-04216 (Page 246)
   - [ ] **Sentence**: He trod with a cautious stride on the icy and slippery road. *(日译: 彼は凍結して滑りやすい道を慎重な足取りで歩いた。)*
-  - [ ] **tread** `[trɛd]` [自]: 歩く、踏む、踏み潰す / [他]: …を踏む、…を踏みつける、…を踏みにじる (型: SV, SVO) / ・tread on …(…を踏みつける) / ・tread on someone's toes(…の足を踏む、…を怒らせる) / [名]: 足音、(タイヤの)溝形
+  - [x] **tread** `[trɛd]` [自]: 歩く、踏む、踏み潰す / [他]: …を踏む、…を踏みつける、…を踏みにじる (型: SV, SVO) / ・tread on …(…を踏みつける) / ・tread on someone's toes(…の足を踏む、…を怒らせる) / [名]: 足音、(タイヤの)溝形
   - [x] **cautious** `[kɔ́ːʃəs]` [形]: 慎重な、用心深い、注意深い
-  - [ ] **stride** `[stráɪd]` [名]: 大股の足取り、ひとまたぎ、進歩 / [自]: 大股で歩く、またぐ / [他]: …を大またで歩く、…をまたぐ
-  - [ ] **icy** `[áɪsi]` [形]: 氷で覆われた、氷のような、氷で作った、滑りやすい
-  - [ ] **slippery** `[slípəri]` [形]: よく滑る、つかみにくい、不安定な
+  - [x] **stride** `[stráɪd]` [名]: 大股の足取り、ひとまたぎ、進歩 / [自]: 大股で歩く、またぐ / [他]: …を大またで歩く、…をまたぐ
+  - [x] **icy** `[áɪsi]` [形]: 氷で覆われた、氷のような、氷で作った、滑りやすい
+  - [x] **slippery** `[slípəri]` [形]: よく滑る、つかみにくい、不安定な
 
 - [ ] PS0775_04217-04219 (Page 248)
   - [ ] **Sentence**: The armed robbers abandoned the car and ran off separately. *(日译: 武装した強盗たちは車を乗り捨て、別々に逃げた。)*
-  - [ ] **armed** `[ɑ́ːrmd]` [形]: 武装した、武器を持った、強化された
-  - [ ] **abandon** `[əbǽndən]` [他]: …を捨てる、…を断念する、…を明け渡す、…を放棄する (型: SVO) / ・abandon oneself to …(〔感情・衝動〕に身を委ねる) / ・abandon a plan(計画を中断する) / ・Abandon your weapons.(武器を捨てろ) / [名]: 気まま、自由奔放
+  - [x] **armed** `[ɑ́ːrmd]` [形]: 武装した、武器を持った、強化された
+  - [x] **abandon** `[əbǽndən]` [他]: …を捨てる、…を断念する、…を明け渡す、…を放棄する (型: SVO) / ・abandon oneself to …(〔感情・衝動〕に身を委ねる) / ・abandon a plan(計画を中断する) / ・Abandon your weapons.(武器を捨てろ) / [名]: 気まま、自由奔放
   - [x] **separately** `[sɛ́pərɪtli]` [副]: 個々に、離れて、独立して
 
 - [ ] PS0776_04220-04221 (Page 248)
@@ -468,7 +468,7 @@
 
 - [ ] PS0778_04226-04227 (Page 250)
   - [ ] **Sentence**: His pessimistic statements really annoy me. *(日译: 彼の悲観的な発言は私を本当にいらいらさせる。)*
-  - [ ] **pessimistic** `[pɛ̀səmɪ́stɪk]` [形]: 悲観的な、厭世的な
+  - [x] **pessimistic** `[pɛ̀səmɪ́stɪk]` [形]: 悲観的な、厭世的な
   - [x] **annoy** `[ənɔ́ɪ]` [他]: …をいらいらさせる、…を悩ます / [自]: (人・行為が)いらいらしい、うるわしい (型: SV, SVO) / ・be annoyed with …(…にむかつく) / ・I'm getting annoyed.(イライラしてきたよ)
 
 - [ ] PS0779_04228-04230 (Page 250)
@@ -479,14 +479,14 @@
 
 - [ ] PS0780_04231-04232 (Page 251)
   - [ ] **Sentence**: Ideally, I don't like to assign homework to my students during holidays. *(日译: 理想としては、私って生徒たちに休日に宿題なんか出したくない。)*
-  - [ ] **ideally** `[aɪdíːəli]` [副]: 理想的には、理想的に、観念的に
+  - [x] **ideally** `[aɪdíːəli]` [副]: 理想的には、理想的に、観念的に
   - [x] **assign** `[əsáɪn]` [他]: …を割り当てる、…を任命する、(日時・場所など)を指定する、…を特定する、…を譲渡する / [名]: 財産権を譲渡する (型: SV, SVO, SVOO) / ・They assigned him the work.(彼らは彼に仕事を割り当てた) / ・assign a day for …(…の日取りを決める) / ・assign … to do(…をするように任命する) / [名]: (assigns で)譲受人
 
 - [ ] PS0781_04233-04235 (Page 251)
   - [ ] **Sentence**: Her imaginative writing astonished her teachers when she was in elementary school. *(日译: 小学生だった頃、彼女の想像力に富んだ文章は、教師たちを驚かせた。)*
   - [x] **imaginative** `[ɪmǽdʒənətɪv]` [形]: 想像力に富んだ、想像による、真実性に乏しい
-  - [ ] **astonish** `[əstάnɪʃ]` [他]: …を驚かす、…をびっくりさせる (型: SVO) / ・be astonished at [by] …(…に驚く) / ・be astonished to hear the news(そのニュースを聞いて驚く)
-  - [ ] **elementary** `[ɛ̀ləmɛ́ntəri]` [形]: 小学校の、初歩の、初等の、単純な、要素的な
+  - [x] **astonish** `[əstάnɪʃ]` [他]: …を驚かす、…をびっくりさせる (型: SVO) / ・be astonished at [by] …(…に驚く) / ・be astonished to hear the news(そのニュースを聞いて驚く)
+  - [x] **elementary** `[ɛ̀ləmɛ́ntəri]` [形]: 小学校の、初歩の、初等の、単純な、要素的な
 
 - [ ] PS0782_04236-04238 (Page 252)
   - [ ] **Sentence**: His company attained its high goals using a revolutionary strategy. *(日译: 彼の会社は高い目標を、画期的な戦略で達成した。)*
@@ -504,7 +504,7 @@
   - [ ] **Sentence**: The spokesperson will clarify the details of our collaboration at the conference. *(日译: 広報担当者が、会議で我々の協力内容の詳細を明らかにする。)*
   - [x] **spokesperson** `[spóʊkspə̀ːrsn]` [名]: スポークスマン、代弁者、代表者
   - [x] **clarify** `[klǽrəfàɪ]` [他]: …を明らかにする、…をはっきりさせる (型: SVO)
-  - [ ] **collaboration** `[kəlæ̀bəréɪʃən]` [名]: 合作、協同、協力、コラボレーション、共同作品
+  - [x] **collaboration** `[kəlæ̀bəréɪʃən]` [名]: 合作、協同、協力、コラボレーション、共同作品
 
 - [ ] PS0785_04245-04247 (Page 254)
   - [ ] **Sentence**: He had composed a couple of symphonies long before he became known as a conductor. *(日译: 彼は指揮者として知られるようになるずっと以前に、いくつかの交響曲を作曲した。)*
