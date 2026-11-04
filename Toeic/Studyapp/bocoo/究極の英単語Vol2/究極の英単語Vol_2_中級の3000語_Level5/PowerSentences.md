@@ -509,19 +509,19 @@
 - [ ] PS0785_04245-04247 (Page 254)
   - [ ] **Sentence**: He had composed a couple of symphonies long before he became known as a conductor. *(日译: 彼は指揮者として知られるようになるずっと以前に、いくつかの交響曲を作曲した。)*
   - [x] **compose** `[kəmpóʊz]` [他]: …を作曲する、…を構成する、…から成る、…を整理する、…を制作する / [自]: 詩を作る、作曲する (型: SV, SVO) / ・be composed of …(…から成り立つ) / ・compose oneself(心を落ち着ける、落ち着く)
-  - [ ] **symphony** `[sɪ́mfəni]` [名]: 交響曲、(交響楽団の)演奏会
+  - [x] **symphony** `[sɪ́mfəni]` [名]: 交響曲、(交響楽団の)演奏会
   - [x] **conductor** `[kəndʌ́ktər]` [名]: 指揮者、車掌
 
 - [ ] PS0786_04248-04249 (Page 254)
   - [ ] **Sentence**: It is absurd to try to conceal your age because everyone gets old. *(日译: 誰もが歳をとるのだから、自分の年齢を隠そうとするなんてばかげている。)*
-  - [ ] **absurd** `[əbsə́ːrd]` [形]: ばかげた、不条理な / [名]: 不条理
-  - [ ] **conceal** `[kənsíːl]` [他]: …を隠す、…を秘密にする (型: SVO) / ・conceal oneself(身を隠す、潜伏する) / ・conceal the fact that …(…という事実を隠す) / ・conceal … from ～(～に…を秘密にする)
+  - [x] **absurd** `[əbsə́ːrd]` [形]: ばかげた、不条理な / [名]: 不条理
+  - [x] **conceal** `[kənsíːl]` [他]: …を隠す、…を秘密にする (型: SVO) / ・conceal oneself(身を隠す、潜伏する) / ・conceal the fact that …(…という事実を隠す) / ・conceal … from ～(～に…を秘密にする)
 
 - [ ] PS0787_04250-04252 (Page 255)
   - [ ] **Sentence**: Doctors confined her to the ward because she was at high risk for suicide. *(日译: 自殺の危険性が高かったので、医師らは彼女をその病棟に入れた。)*
-  - [ ] **confine** `[kənfáɪn]` [他]: …を閉じ込める、…を制限する (型: SVO) / ・confine … to ～(…を～に閉じ込める、…を～に制限する) / ・be confined to …(…に限定される、…に限られる) / [名]: 境界、国境
-  - [ ] **ward** `[wɔ́ːrd]` [名]: (特定患者を収容する)病棟、区、監房、被後見人、中庭 / [他]: …を病室に収容する、…を避ける
-  - [ ] **suicide** `[súːəsàɪd]` [名]: 自殺(的行為)、自滅、自殺者
+  - [x] **confine** `[kənfáɪn]` [他]: …を閉じ込める、…を制限する (型: SVO) / ・confine … to ～(…を～に閉じ込める、…を～に制限する) / ・be confined to …(…に限定される、…に限られる) / [名]: 境界、国境
+  - [x] **ward** `[wɔ́ːrd]` [名]: (特定患者を収容する)病棟、区、監房、被後見人、中庭 / [他]: …を病室に収容する、…を避ける
+  - [x] **suicide** `[súːəsàɪd]` [名]: 自殺(的行為)、自滅、自殺者
 
 - [ ] PS0788_04253-04255 (Page 255)
   - [ ] **Sentence**: We're presently confronting a very challenging business environment. *(日译: われわれは目下、非常に厳しいある経営環境に直面している。)*
@@ -540,29 +540,29 @@
 
 - [ ] PS0791_04261-04264 (Page 257)
   - [ ] **Sentence**: As a patron of the event, the superstar annually contributes some money. *(日译: そのイベントの支援者として、そのスーパースターは毎年、そのイベントにお金を寄付している。)*
-  - [ ] **patron** `[péɪtrən]` [名]: 後援者、パトロン、ひいき客、経営者
+  - [x] **patron** `[péɪtrən]` [名]: 後援者、パトロン、ひいき客、経営者
   - [x] **superstar** `[súːpərstàːr]` [名]: スーパースター
   - [x] **annually** `[ǽnjuəli]` [副]: 毎年、年1回
   - [x] **contribute** `[kəntríbjùːt]` [他]: …を寄付する、…を寄稿する / [自]: 寄付する、寄与[貢献]する、寄稿する (型: SV, SVO) / ・contribute … to ～(…を～に与える)
 
 - [ ] PS0792_04265-04267 (Page 257)
   - [ ] **Sentence**: I'm trying to cope with loneliness in these new and unfamiliar surroundings. *(日译: 私はこの新しいなじみのない環境で、孤独に対処しようとしている。)*
-  - [ ] **cope** `[kóʊp]` [自]: 対処する、対抗する、こなす (型: SV) / ・cope with …([困難・問題など]に立ち向かう[対処する])
+  - [x] **cope** `[kóʊp]` [自]: 対処する、対抗する、こなす (型: SV) / ・cope with …([困難・問題など]に立ち向かう[対処する])
   - [x] **loneliness** `[lóʊnlinəs]` [名]: 孤独、寂しさ
   - [x] **unfamiliar** `[ʌ̀nfəmíljər]` [形]: よく知らない、なじみの薄い、異なった
 
 - [ ] PS0793_04268-04270 (Page 258)
   - [ ] **Sentence**: He decided to cultivate the fertile soil and grow organic vegetables. *(日译: 彼はその肥えた土地を耕して有機野菜を育てようと決めた。)*
-  - [ ] **cultivate** `[kʌ́ltəvèɪt]` [他]: …を耕す、…を栽培する、(才能など)を養う、(友情など)をはぐくむ (型: SVO) / ・cultivate one's ability(…の能力を高める)
+  - [x] **cultivate** `[kʌ́ltəvèɪt]` [他]: …を耕す、…を栽培する、(才能など)を養う、(友情など)をはぐくむ (型: SVO) / ・cultivate one's ability(…の能力を高める)
   - [x] **fertile** `[fə́ːrtl]` [形]: 肥えた、肥沃な、多産な、繁殖力のある、創造力豊かな
   - [x] **organic** `[ɔːrgǽnɪk]` [形]: 有機の、有機体の、臓器の / [名]: 有機肥料
 
 - [ ] PS0794_04271-04274 (Page 258)
   - [ ] **Sentence**: Poverty and desperate hunger wholly deprived him of his dignity. *(日译: 貧しさと絶望的な空腹が彼の尊厳を完全に奪った。)*
-  - [ ] **desperate** `[dɛ́spərɪt]` [形]: 絶望的な、自暴自棄の、欲しくてたまらない、必死の
-  - [ ] **wholly** `[hóʊlli]` [副]: 完全に、まったく、全面的に、全体として
-  - [ ] **deprive** `[dɪpráɪv]` [他]: …から奪う、…に許さない[与えない]、…を免職する (型: SVO) / ・deprive … of ～(…から～を奪う、…に～を与えない)
-  - [ ] **dignity** `[dígnəti]` [名]: 威厳、重々しさ、品位、高位(の人)
+  - [x] **desperate** `[dɛ́spərɪt]` [形]: 絶望的な、自暴自棄の、欲しくてたまらない、必死の
+  - [x] **wholly** `[hóʊlli]` [副]: 完全に、まったく、全面的に、全体として
+  - [x] **deprive** `[dɪpráɪv]` [他]: …から奪う、…に許さない[与えない]、…を免職する (型: SVO) / ・deprive … of ～(…から～を奪う、…に～を与えない)
+  - [x] **dignity** `[dígnəti]` [名]: 威厳、重々しさ、品位、高位(の人)
 
 - [ ] PS0795_04275-04277 (Page 259)
   - [ ] **Sentence**: She devoted her free time to studying historic architecture around the country. *(日译: 彼女は自由時間を各地の歴史的建築の研究にささげた。)*
@@ -572,10 +572,10 @@
 
 - [ ] PS0796_04278-04281 (Page 259)
   - [ ] **Sentence**: Prominent business leaders were invited to the embassy to dine with the ambassador. *(日译: 著名なビジネスリーダーたちが、大使と食事をするため大使館に招かれた。)*
-  - [ ] **prominent** `[prάmənənt]` [形]: 著名な、卓越した、目立った、突出[突起]した
-  - [ ] **embassy** `[ɛ́mbəsi]` [名]: 大使館、大使の職、使節団
-  - [ ] **dine** `[daɪn]` [自]: 食事をする、正餐をとる / [他]: …にごちそうする、…を正餐に招待する (型: SV, SVO) / ・dine in(自宅で食事をする) / ・dine out(外食する) / ・dine on …(…を食事に食べる、…のごちそうを受ける)
-  - [ ] **ambassador** `[æmbǽsədər]` [名]: 大使、使節
+  - [x] **prominent** `[prάmənənt]` [形]: 著名な、卓越した、目立った、突出[突起]した
+  - [x] **embassy** `[ɛ́mbəsi]` [名]: 大使館、大使の職、使節団
+  - [x] **dine** `[daɪn]` [自]: 食事をする、正餐をとる / [他]: …にごちそうする、…を正餐に招待する (型: SV, SVO) / ・dine in(自宅で食事をする) / ・dine out(外食する) / ・dine on …(…を食事に食べる、…のごちそうを受ける)
+  - [x] **ambassador** `[æmbǽsədər]` [名]: 大使、使節
 
 - [ ] PS0797_04282-04283 (Page 260)
   - [ ] **Sentence**: I had to dip my hand into the fountain to pick my sunglasses out of the water. *(日译: 私はサングラスを拾うために、手を噴水の中に入れなくてはならなかった。)*
@@ -586,7 +586,7 @@
   - [ ] **Sentence**: The boy with the liver disorder was discharged from the hospital less than a week after surgery. *(日译: その肝臓疾患の少年は、手術から1週間もしないうちに退院した。)*
   - [x] **liver** `[lívər]` [名]: ①肝臓、レバー、赤褐色 ②生活者、住民
   - [x] **disorder** `[dɪsɔ́ːrdər]` [名]: (心身機能の)疾患[不調・障害・異常]、無秩序、混乱、不規則 / [他]: …の秩序を乱す、…を混乱させる、(心身)の異常を起こさせる
-  - [ ] **discharge** `[dɪstʃάːrdʒ]` [他]: …を退院させる、…を解放する、…を免除する、…を解雇する、…を遂行[履行]する、(弾丸など)を発射する、…を降ろす、…を放電する、…を釈放する / [自]: (船が)荷を降ろす、流れ出す、重荷がなくなる (型: SV, SVO) / ・discharge a gun at …(…に発砲する) / ・discharge employees(従業員を解雇する) / [名]: 解放、免除、退院
+  - [x] **discharge** `[dɪstʃάːrdʒ]` [他]: …を退院させる、…を解放する、…を免除する、…を解雇する、…を遂行[履行]する、(弾丸など)を発射する、…を降ろす、…を放電する、…を釈放する / [自]: (船が)荷を降ろす、流れ出す、重荷がなくなる (型: SV, SVO) / ・discharge a gun at …(…に発砲する) / ・discharge employees(従業員を解雇する) / [名]: 解放、免除、退院
   - [x] **surgery** `[sə́ːrdʒəri]` [名]: 手術(法)、外科、手術室
 
 - [ ] PS0799_04288-04289 (Page 261)
