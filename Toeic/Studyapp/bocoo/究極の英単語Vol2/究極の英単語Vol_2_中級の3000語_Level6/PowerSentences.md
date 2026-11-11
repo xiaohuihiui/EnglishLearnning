@@ -104,7 +104,7 @@
   - [ ] **Sentence**: The father thought that his son's reckless nature rendered him unsuitable as a successor. *(日译: 父親は、向こう見ずな性格のせいで息子は後継者には不向きだと考えた。)*
   - [ ] **reckless** `[réklis]` [形]: むちゃな、無鉄砲な、向こう見ずな
   - [ ] **render** `[réndər]` [他]: …を(～に)する[させる]、…を行う、…を果たす、…を与える、…を示す (型: SVO, SVOC)
-  - [ ] **unsuitable** `[ʌnsúːtəbl]` [形]: 不適当な、不向きな、不似合いな
+  - [x] **unsuitable** `[ʌnsúːtəbl]` [形]: 不適当な、不向きな、不似合いな
 
 - [ ] PS0895 (Page 374 - 📷 缺失页：未上传完整 374.png)
   - [ ] Sentence: (等待手动补充：例句及日译)
@@ -113,19 +113,19 @@
 - [ ] PS0896_05060-05062 (Page 375)
   - [ ] **Sentence**: His absence from the conference signified his disapproval of the proposition. *(日译: 彼が会議を欠席したのは、彼がその提案に反対しているということを表していた。)*
   - [ ] **signify** `[sígnəfài]` [他]: …を表示する、…を知らせる、(…ということ)を表明する、…の表れである / [自]: 重要である、影響がある (型: SV, SVO) / ・signify the realization of …(…の実現を表す)
-  - [ ] **disapproval** `[dìsəprúːvəl]` [名]: 不同意、不賛成、不満
+  - [x] **disapproval** `[dìsəprúːvəl]` [名]: 不同意、不賛成、不満
   - [ ] **proposition** `[prὰpəzíʃən]` [名]: 提案、提議、発議、取引条件の申し出 / [他]: …に計画を提案する
 
 - [ ] PS0897_05063-05064 (Page 375)
   - [ ] **Sentence**: Before his attendance at the ceremony, he checked his appearance and straightened his tie in the bathroom. *(日译: その式典に出席する前に、彼はバスルームで身なりを確認し、ネクタイをまっすぐにした。)*
-  - [ ] **attendance** `[əténdəns]` [名]: 出席(回数)、出席者、付き添い
+  - [x] **attendance** `[əténdəns]` [名]: 出席(回数)、出席者、付き添い
   - [ ] **straighten** `[stréitn]` [他]: …をまっすぐにする、…を整理する / [自]: まっすぐになる、きちんとなる、よくなる (型: SV, SVO) / ・straighten oneself out(しゃんとする、まともになる、心を入れ替える) / ・straighten out …([問題など]を取り除く、…を更生させる)
 
 - [ ] PS0898_05065-05067 (Page 376)
   - [ ] **Sentence**: Statistics show that the gap between the rich and the poor has been continuously widening over the last few years. *(日译: 統計は、過去数年にわたって富める層と貧困層の格差が絶え間なく広がっていることを示している。)*
   - [ ] **statistics** `[stətístiks]` [名]: 統計、統計学[論]、統計資料
-  - [ ] **continuously** `[kəntínjuəsli]` [副]: 間断なく、連続して、ひっきりなしに
-  - [ ] **widen** `[wáidn]` [自]: 広くなる / [他]: …を広くする (型: SV, SVO) / ・widen the gap in …(…における格差を拡大する)
+  - [x] **continuously** `[kəntínjuəsli]` [副]: 間断なく、連続して、ひっきりなしに
+  - [x] **widen** `[wáidn]` [自]: 広くなる / [他]: …を広くする (型: SV, SVO) / ・widen the gap in …(…における格差を拡大する)
 
 - [ ] PS0899_05068-05069 (Page 378)
   - [ ] **Sentence**: He boasted about how much money he had made by gambling. *(日译: 彼はギャンブルでどれだけ稼いだかについて自慢した。)*
@@ -140,13 +140,13 @@
 
 - [ ] PS0901_05073-05074 (Page 379)
   - [ ] **Sentence**: She gave him a respectful bow and congratulated him on his promotion. *(日译: 彼女は彼に丁寧におじぎをして、昇進のお祝いを述べた。)*
-  - [ ] **respectful** `[rispékt fəl]` [形]: 礼儀正しい、尊敬の念に満ちた、丁寧な
-  - [ ] **congratulate** `[kəngrǽtʃulèit]` [他]: …にお祝いを言う、…に祝詞を述べる、…が運よくできたことを喜ぶ (型: SVO) / ・congratulate … on ～(…のことで…にお祝い[喜び]を述べる、…について…を褒める) / ・congratulate oneself(喜ぶ、一人で得意がる)
+  - [x] **respectful** `[rispékt fəl]` [形]: 礼儀正しい、尊敬の念に満ちた、丁寧な
+  - [x] **congratulate** `[kəngrǽtʃulèit]` [他]: …にお祝いを言う、…に祝詞を述べる、…が運よくできたことを喜ぶ (型: SVO) / ・congratulate … on ～(…のことで…にお祝い[喜び]を述べる、…について…を褒める) / ・congratulate oneself(喜ぶ、一人で得意がる)
 
 - [ ] PS0902_05075-05078 (Page 380)
   - [ ] **Sentence**: The drug interacted with a nutrient and caused an impairment in the patient's digestion. *(日译: その薬は栄養剤と相互作用し、患者の消化不良を引き起こした。)*
-  - [ ] **interact** `[ìntərǽkt]` [自]: 交流する、相互に作用する (型: SV) / ・interact with each other(交流し合う、相互に作用し合う)
-  - [ ] **nutrient** `[njúːtriənt]` [名]: (通常 nutrients で)栄養物、栄養素、栄養剤 / [形]: 栄養を含む、滋養になる
+  - [x] **interact** `[ìntərǽkt]` [自]: 交流する、相互に作用する (型: SV) / ・interact with each other(交流し合う、相互に作用し合う)
+  - [x] **nutrient** `[njúːtriənt]` [名]: (通常 nutrients で)栄養物、栄養素、栄養剤 / [形]: 栄養を含む、滋養になる
   - [ ] **impairment** `[impéərmənt]` [名]: 損傷、悪化
   - [ ] **digestion** `[didʒéstʃən]` [名]: 消化、消化力、理解
 
