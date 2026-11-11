@@ -1,47 +1,47 @@
 - [ ] PS0877_05001-05004 (Page 364)
   - [ ] **Sentence**: It started with a trivial misunderstanding, but her hostility toward him gradually accumulated. *(日译: それはささいな誤解から始まったのだが、彼に対する彼女の敵意は徐々に積もっていった。)*
   - [ ] **trivial** `[tríviəl]` [形]: ささいな、取るに足らない、浅薄な
-  - [ ] **misunderstanding** `[mìsʌndərstǽndiŋ]` [名]: 誤解、解釈違い、意見の相違
+  - [x] **misunderstanding** `[mìsʌndərstǽndiŋ]` [名]: 誤解、解釈違い、意見の相違
   - [ ] **hostility** `[hastíləti]` [名]: 敵意、対立、反対、戦闘行為
-  - [ ] **accumulate** `[əkjúːmjulèit]` [他]: 増える、積もる、集まる / [他]: …を積み上げる、…を蓄積する、…を集める (型: SV, SVO) / ・accumulate a fund(資金を集める)
+  - [x] **accumulate** `[əkjúːmjulèit]` [他]: 増える、積もる、集まる / [他]: …を積み上げる、…を蓄積する、…を集める (型: SV, SVO) / ・accumulate a fund(資金を集める)
 
 - [ ] PS0878_05005-05007 (Page 364)
   - [ ] **Sentence**: Tourism in the country is booming, despite its unsteady political climate. *(日译: 不安定な政治情勢にもかかわらず、その国の観光産業は急成長している。)*
   - [ ] **tourism** `[túərizəm]` [名]: 観光(事業)、旅行、観光旅行
   - [ ] **boom** `[búːm]` [自]: 急に発展する、とどろく / [他]: …を知らせる、…を派手に宣伝する (型: SV, SVO) / [名]: 急速な増加、急成長、ブーンという音、とどろき / [形]: 急発展した、人気が急に沸いた
-  - [ ] **unsteady** `[ʌnstédi]` [形]: 不安定な、堅固でない、しっかりしていない、不規則な、身持ちの悪い / [他]: …を不安定にする、…を動揺させる
+  - [x] **unsteady** `[ʌnstédi]` [形]: 不安定な、堅固でない、しっかりしていない、不規則な、身持ちの悪い / [他]: …を不安定にする、…を動揺させる
 
 - [ ] PS0879_05008-05010 (Page 365)
   - [ ] **Sentence**: Her jolly laughter brightened my depressed mood. *(日译: 彼女の陽気な笑い声が私の沈んだ気分を明るくしてくれた。)*
   - [ ] **jolly** `[dʒάli]` [形]: 陽気な、上機嫌の、愉快な / [他]: 機嫌を取る / [副]: …をおだてる / [名]: 機嫌を取ること / [副]: 非常に
   - [ ] **brighten** `[bráitn]` [他]: …を明るくする、…を元気づける、…を光らせる、…を輝かせる / [自]: 輝きを増す、元気になる、有望になる (型: SV, SVO) / ・brighten a light(明かりを明るくする) / ・Brighten up!(元気を出せ！)
-  - [ ] **depressed** `[diprést]` [形]: 意気消沈した、元気のない、不景気の、へこんだ
+  - [x] **depressed** `[diprést]` [形]: 意気消沈した、元気のない、不景気の、へこんだ
 
 - [ ] PS0880_05011-05014 (Page 366)
   - [ ] **Sentence**: A dream may be symbolic of your unconscious mind; it may correspond to a bodily need. *(日译: 夢はあなたの無意識の精神状態の象徴かもしれないし、身体的要求に符合しているのかもしれない。)*
   - [ ] **symbolic** `[simbάlik]` [形]: 象徴する、象徴的な
   - [ ] **unconscious** `[ʌnkάnʃəs]` [形]: 意識していない、気付かない、意識を失った、前後不覚の / [名]: 無意識
   - [ ] **correspond** `[kɔ̀ːrəspάnd]` [自]: 符合する、一致する、相当する、該当する、通信する (型: SV) / ・correspond to …(…に相当する、…と調和する) / ・correspond approximately to …(…にほぼ相当する)
-  - [ ] **bodily** `[bάdəli]` [形]: (限定用法)身体上の、物質的な / [副]: 肉体のまま、現存して、自ら、一体となって
+  - [x] **bodily** `[bάdəli]` [形]: (限定用法)身体上の、物質的な / [副]: 肉体のまま、現存して、自ら、一体となって
 
 - [ ] PS0881_05015-05018 (Page 366)
   - [ ] **Sentence**: It would be beneficial for us to deepen cooperative relations with the multimedia industry. *(日译: マルチメディア産業との協力関係を深めることは、わが社にとって有益であるだろう。)*
-  - [ ] **beneficial** `[bènəfíʃəl]` [形]: ためになる、有益な、助けになる
-  - [ ] **deepen** `[díːpən]` [他]: …を深くする、…を深める、(色)を濃くする / [自]: (一段と)深くなる、低くなる、濃くなる (型: SV, SVO) / ・deepen a friendship(親交[友好関係]を深める) / ・deepen one's conviction(確信を深める)
-  - [ ] **cooperative** `[kouάpərətiv]` [形]: 力を合わせて行う、共同の、共同組合の / [名]: 協同組合、協同組合店、組合式アパート
-  - [ ] **multimedia** `[mʌltimíːdiə]` [形]: マルチメディアの / [名]: マルチメディア(複数形、単数扱い)
+  - [x] **beneficial** `[bènəfíʃəl]` [形]: ためになる、有益な、助けになる
+  - [x] **deepen** `[díːpən]` [他]: …を深くする、…を深める、(色)を濃くする / [自]: (一段と)深くなる、低くなる、濃くなる (型: SV, SVO) / ・deepen a friendship(親交[友好関係]を深める) / ・deepen one's conviction(確信を深める)
+  - [x] **cooperative** `[kouάpərətiv]` [形]: 力を合わせて行う、共同の、共同組合の / [名]: 協同組合、協同組合店、組合式アパート
+  - [x] **multimedia** `[mʌltimíːdiə]` [形]: マルチメディアの / [名]: マルチメディア(複数形、単数扱い)
 
 - [ ] PS0882_05019-05021 (Page 367)
   - [ ] **Sentence**: Their interest in the deal diminished as various obstacles appeared, delaying its completion. *(日译: さまざまな障害が現れてその完了を遅らせたため、この取引に対する彼らの関心は薄れた。)*
   - [ ] **diminish** `[dimíniʃ]` [自]: 小さくなる、縮小する / [他]: …を小さくする、…を少なくする、…を減少させる、…の名声を傷つける (型: SV, SVO) / ・diminish in population(人口が減少する)
   - [ ] **obstacle** `[άbstəkl]` [名]: 邪魔(物)、障害(物)、妨害
-  - [ ] **completion** `[kəmplíːʃən]` [名]: 完成、完了、成就、達成
+  - [x] **completion** `[kəmplíːʃən]` [名]: 完成、完了、成就、達成
 
 - [ ] PS0883_05022-05024 (Page 367)
   - [ ] **Sentence**: Without a cleanup of the landmines, the lives of people in the area will continue to be endangered. *(日译: 地雷の除去をしなければ、その地域の人々の命が危険にさらされ続けるだろう。)*
-  - [ ] **cleanup** `[klíːnʌ̀p]` [名]: 掃除、一掃、浄化、(野球の)4番打者
+  - [x] **cleanup** `[klíːnʌ̀p]` [名]: 掃除、一掃、浄化、(野球の)4番打者
   - [ ] **landmine** `[lǽndmàin]` [名]: 地雷
-  - [ ] **endanger** `[indéindʒər]` [他]: …を危険にさらす、…を危うくする (型: SVO) / ・endanger the natural environment(自然環境を危険にさらす)
+  - [x] **endanger** `[indéindʒər]` [他]: …を危険にさらす、…を危うくする (型: SVO) / ・endanger the natural environment(自然環境を危険にさらす)
 
 - [ ] PS0884_05025-05027 (Page 368)
   - [ ] **Sentence**: The biologist had objections to the theory that humans and apes evolved from a common ancestor. *(日译: その生物学者は、人類と類人猿が共通の祖先から進化したという説に異議を唱えた。)*
@@ -52,7 +52,7 @@
 - [ ] PS0885_05028-05029 (Page 368)
   - [ ] **Sentence**: I need to flatten my belly before I wear a swimsuit this summer. *(日译: この夏、水着を着るまでにお腹をへこまさなくちゃ。)*
   - [ ] **flatten** `[flǽtn]` [他]: …を平らにする、…を伸ばす、…を倒す、…を打ち負かす、…をがっかりさせる / [自]: 平らになる、ぴったりへばりつく、風味がなくなる (型: SV, SVO) / ・flatten out(平らにする、平らに打ち延ばす、押し延ばす)
-  - [ ] **swimsuit** `[swím sùːt]` [名]: 水着
+  - [x] **swimsuit** `[swím sùːt]` [名]: 水着
 
 - [ ] PS0886_05030-05031 (Page 369)
   - [ ] **Sentence**: Her gems were glittering under the lights. *(日译: 彼女の宝石が照明の下できらめいていた。)*
@@ -74,30 +74,30 @@
 - [ ] PS0889_05038-05040 (Page 370)
   - [ ] **Sentence**: People can be infected with the virus through mosquito bites, so you should avoid outdoor activities during an outbreak. *(日译: そのウイルスは蚊に刺されることから感染するので、大発生中は野外活動を避けるべきだ。)*
   - [ ] **infect** `[infékt]` [他]: …を感染させる、…を病菌で冒す、…を汚染する、…に影響を及ぼす / [自]: 感染[汚染]する (型: SV, SVO) / ・be infected with [by] …(…に感染する)
-  - [ ] **virus** `[váiərəs]` [名]: ウイルス、病原体、悪影響、(コンピュータ)ウイルス
+  - [x] **virus** `[váiərəs]` [名]: ウイルス、病原体、悪影響、(コンピュータ)ウイルス
   - [ ] **outbreak** `[áutbrèik]` [名]: 突発、爆発、急激な増加
 
 - [ ] PS0890_05041-05042 (Page 371)
   - [ ] **Sentence**: He loosened his tie after the disturbing phone call from his client. *(日译: クライアントからの不安になる電話の後、彼はネクタイをゆるめた。)*
-  - [ ] **loosen** `[lúːsn]` [他]: …をゆるめる、…を解く、…をほどく、…をほぐす / [自]: ゆるむ、たるむ、ほぐれる (型: SV, SVO) / ・loosen one's lips(秘密をしゃべる)
-  - [ ] **disturbing** `[distə́ːrbiŋ]` [形]: 平静を乱す、不安にさせる、憂慮すべき
+  - [x] **loosen** `[lúːsn]` [他]: …をゆるめる、…を解く、…をほどく、…をほぐす / [自]: ゆるむ、たるむ、ほぐれる (型: SV, SVO) / ・loosen one's lips(秘密をしゃべる)
+  - [x] **disturbing** `[distə́ːrbiŋ]` [形]: 平静を乱す、不安にさせる、憂慮すべき
 
 - [ ] PS0891_05043-05045 (Page 372)
   - [ ] **Sentence**: He presented a telling argument that adjusting our workload could maximize our profits. *(日译: 彼は仕事量を調整することで利益を最大化できるという説得力のある議論を提示した。)*
   - [ ] **telling** `[téliŋ]` [形]: 効果的な、明らかにする
-  - [ ] **workload** `[wə́ːrklòud]` [名]: (一定の時間内で行う)作業量、仕事量
-  - [ ] **maximize** `[mǽksəmàiz]` [他]: …を最大限度にする、…を極限まで増す (型: SVO) / ・maximize a window(ウインドウを最大化する) / ・maximize one's potential for …(…の可能性を最大にする)
+  - [x] **workload** `[wə́ːrklòud]` [名]: (一定の時間内で行う)作業量、仕事量
+  - [x] **maximize** `[mǽksəmàiz]` [他]: …を最大限度にする、…を極限まで増す (型: SVO) / ・maximize a window(ウインドウを最大化する) / ・maximize one's potential for …(…の可能性を最大にする)
 
 - [ ] PS0892_05046-05048 (Page 372)
   - [ ] **Sentence**: Our massage oil is designed to penetrate deeply yet mildly into your skin. *(日译: 当社のマッサージオイルは、肌に深く、そして穏やかに浸透するよう作られています。)*
-  - [ ] **massage** `[məsάːʒ]` [名]: マッサージ、もみ治療、操作 / [他]: …をマッサージする、…を操作する、…を甘やかす
+  - [x] **massage** `[məsάːʒ]` [名]: マッサージ、もみ治療、操作 / [他]: …をマッサージする、…を操作する、…を甘やかす
   - [ ] **penetrate** `[pénətrèit]` [自]: 浸透する、貫く、入り込む、染み込む、理解する、感動を与える / [他]: …に浸透する、…を突き通る、…を貫く、…に染み通る (型: SV, SVO) / ・penetrate into …(…に浸透する、…を見抜く)
   - [ ] **mildly** `[máildli]` [副]: 穏やかに、優しく、控えめに、少し
 
 - [ ] PS0893_05049-05051 (Page 373)
   - [ ] **Sentence**: The company relocated some furniture in its workplace so that their handicapped employees could get around more easily. *(日译: その会社は障害のある従業員がより移動しやすいように、職場の家具の一部を移動させた。)*
-  - [ ] **relocate** `[rìːloukéit]` [他]: …を移転させる、…を転勤させる、…を移住させる / [自]: 移転する、転勤する、移住する (型: SV, SVO) / ・relocate … in[to] ～(…を～に移転する)
-  - [ ] **workplace** `[wə́ːrkplèis]` [名]: 職場
+  - [x] **relocate** `[rìːloukéit]` [他]: …を移転させる、…を転勤させる、…を移住させる / [自]: 移転する、転勤する、移住する (型: SV, SVO) / ・relocate … in[to] ～(…を～に移転する)
+  - [x] **workplace** `[wə́ːrkplèis]` [名]: 職場
   - [ ] **handicapped** `[hǽndikæ̀pt]` [形]: 障害のある、ハンデのある、(スポーツで)ハンディキャップの
 
 - [ ] PS0894_05052-05055 (Page 374)
