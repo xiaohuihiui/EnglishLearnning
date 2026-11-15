@@ -154,25 +154,25 @@
   - [ ] **Sentence**: I thanked the timid boy for his courtesy, and he weakly muttered, "No problem." *(日译: 私がその内気な少年に親切にしてくれたことへのお礼を言うと、彼は「頼みませんよ」と弱々しくつぶやいた。)*
   - [ ] **timid** `[tímid]` [形]: 内気な、自信のない、おどおどした、臆病な
   - [ ] **courtesy** `[kə́ːrtəsi]` [名]: 親切、礼儀正しいこと、丁寧、慣例、好意
-  - [ ] **weakly** `[wíːkli]` [副]: 弱々しく、病弱に / [形]: 病弱な
+  - [x] **weakly** `[wíːkli]` [副]: 弱々しく、病弱に / [形]: 病弱な
   - [ ] **mutter** `[mʌ́tər]` [他]: …を不明瞭な[低い]声で言う / [自]: 低く不明瞭な声で言う、ぼそぼそ文句を言う、ゴロゴロ鳴る (型: SV, SVO) / ・mutter against …(…に対して不平を言う) / [名]: ぼそぼそ言うこと、ゴロゴロと響く音
 
 - [ ] PS0904_05083-05085 (Page 381)
   - [ ] **Sentence**: Our company pledges to supply reliable, inexpensive products without harming the environment. *(日译: わが社は信頼できる安価な製品を、環境を害することなく供給することを誓います。)*
   - [ ] **pledge** `[plédʒ]` [他]: …を誓う、…を誓約で縛りつける、…に誓約させる、…を固く約束する / [自]: 誓約する、乾杯する、約束する (型: SV, SVO) / ・pledge one's faith to …(…に誓う、…に誓約する) / ・pledge to do(…することを約束する) / [名]: 固い約束、誓約、質入れ、保証
-  - [ ] **reliable** `[riláiəbl]` [形]: 信頼できる、頼りになる、確かな、当てにできる
-  - [ ] **inexpensive** `[ìnikspénsiv]` [形]: 安価な、(値段の割に)価値のある、費用のかからない
+  - [x] **reliable** `[riláiəbl]` [形]: 信頼できる、頼りになる、確かな、当てにできる
+  - [x] **inexpensive** `[ìnikspénsiv]` [形]: 安価な、(値段の割に)価値のある、費用のかからない
 
 - [ ] PS0905_05086-05087 (Page 382)
   - [ ] **Sentence**: He was a fluent speaker of English, so he had no trouble specifying the purpose of his visit to the receptionist. *(日译: 彼は英語が流暢だったので、訪問の目的を離なく受付係に伝えることができた。)*
-  - [ ] **specify** `[spésəfài]` [他]: …を明確に述べる、…を指定する、…を明記する、…を特徴づける、…という条件を付ける / [自]: 名を挙げて言う、詳述する (型: SV, SVO) / ・specify how …(…の方法を指定する)
-  - [ ] **receptionist** `[risépʃənist]` [名]: 受付係、応接係
+  - [x] **specify** `[spésəfài]` [他]: …を明確に述べる、…を指定する、…を明記する、…を特徴づける、…という条件を付ける / [自]: 名を挙げて言う、詳述する (型: SV, SVO) / ・specify how …(…の方法を指定する)
+  - [x] **receptionist** `[risépʃənist]` [名]: 受付係、応接係
 
 - [ ] PS0906_05088-05090 (Page 382)
   - [ ] **Sentence**: It is unwise to transmit classified documents like this by mail. *(日译: この手の機密文書をメールで送るなんて思慮が足りない。)*
-  - [ ] **unwise** `[ʌnwáiz]` [形]: 思慮が足りない、愚かな、あさはかな
-  - [ ] **transmit** `[trænsmít]` [他]: …を送信する、…を送る、…を運ぶ、…を渡す、…を移す、…を伝染させる、…を伝える / [自]: 電波で送信する、相続人に権利を残す (型: SV, SVO) / ・transmit infections to …(感染症を…に移す)
-  - [ ] **classified** `[klǽsəfàid]` [形]: 機密扱いの、分類された、案内広告の / [名]: 機密文書、案内広告(classified ad)
+  - [x] **unwise** `[ʌnwáiz]` [形]: 思慮が足りない、愚かな、あさはかな
+  - [x] **transmit** `[trænsmít]` [他]: …を送信する、…を送る、…を運ぶ、…を渡す、…を移す、…を伝染させる、…を伝える / [自]: 電波で送信する、相続人に権利を残す (型: SV, SVO) / ・transmit infections to …(感染症を…に移す)
+  - [x] **classified** `[klǽsəfàid]` [形]: 機密扱いの、分類された、案内広告の / [名]: 機密文書、案内広告(classified ad)
 
 - [ ] PS0907_05091-05093 (Page 384)
   - [ ] **Sentence**: The dedicated nurse bathed the patient delicately with warm water. *(日译: その献身的な看護師はその患者をお湯で丁寧に入浴させた。)*
@@ -183,9 +183,9 @@
 
 - [ ] PS0908_05094-05095 (Page 385)
   - [ ] **Sentence**: I felt uneasy when I heard a bee buzzing noisily in the classroom. *(日译: 教室でハチがうるさくブンブンいっているのが聞こえて、私は落ち着かなかった。)*
-  - [ ] **uneasy** `[ʌníːzi]` [形]: 落ち着かない、心配な、かき乱された、ぎこちない
-  - [ ] **buzz** `[bʌz]` [自]: ブンブンなる、ぶつぶつしゃべる、つぶやく、せわしく動き回る / [他]: …をブンブンいわせる、…をひそひそ話す、…を言いふらす、…にブザーで合図する、…に電話をかける (型: SV, SVO) / ・buzz about(忙しく動き回る、忙しそうに歩き回る、ブンブン飛び回る) / ・buzz off(立ち去る、消えうせる) / [名]: 低いブンブンなる音、うなり、ざわめき、うわさ、呼び出し音
-  - [ ] **noisily** `[nɔ́izəli]` [副]: 騒々しく、やかましく、音を立てて
+  - [x] **uneasy** `[ʌníːzi]` [形]: 落ち着かない、心配な、かき乱された、ぎこちない
+  - [x] **buzz** `[bʌz]` [自]: ブンブンなる、ぶつぶつしゃべる、つぶやく、せわしく動き回る / [他]: …をブンブンいわせる、…をひそひそ話す、…を言いふらす、…にブザーで合図する、…に電話をかける (型: SV, SVO) / ・buzz about(忙しく動き回る、忙しそうに歩き回る、ブンブン飛び回る) / ・buzz off(立ち去る、消えうせる) / [名]: 低いブンブンなる音、うなり、ざわめき、うわさ、呼び出し音
+  - [x] **noisily** `[nɔ́izəli]` [副]: 騒々しく、やかましく、音を立てて
 
 - [ ] PS0909_05096-05098 (Page 385)
   - [ ] **Sentence**: My baby started choking and I was in a sheer panic. *(日译: 赤ん坊がむせ始めたので、私は完全なパニック状態になった。)*
@@ -204,15 +204,14 @@
 
 - [ ] PS0912_05103-05104 (Page 387)
   - [ ] **Sentence**: The exhaustion was so bad that I flung myself on the couch as soon as I got home. *(日译: あまりにも疲れていたので、私は家に着くなりソファに体を投げ出した。)*
-  - [ ] **exhaustion** `[igzɔ́ːstʃən]` [名]: 極度の疲労、徹底的な究明、枯渇
+  - [x] **exhaustion** `[igzɔ́ːstʃən]` [名]: 極度の疲労、徹底的な究明、枯渇
   - [ ] **fling** `[flíŋ]` [他]: …を放り出す、…を投げる、…を動かして(～の状態に)する、…をさっと伸ばす、…を投獄する / [自]: 荒々しく突っかかる、飛び出す、暴れ出す (型: SV, SVO, SVOC) / ・The teacher flung the door open.(先生は荒々しく戸を開けた) / ・fling at …(…に投げつける) / ・fling away(飛り飛ばす) / ・fling down(たたきつける、投げ下ろす) / [名]: 投げ飛ばすこと、勝手気まま、浮気
+
+- [ ] PS0913 
   - [ ] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
   - [ ] **banner** `[bǽnər]` [名]: 旗印、国旗、軍旗、(たれ)幕 / [形]: 一流の、最上の / [他]: …に旗を備える
   - [ ] **flutter** `[flʌ́tər]` [自]: はためく、ばたばたする、ひるがえる / [他]: …をばたばた振る[打つ]、…をひらひらさせる (型: SV, SVO) / ・flutter about …(…をそわそわ歩きまわる) / ・flutter down(ひらひら舞い落ちる) / [名]: 羽ばたき、はためき
 
-- [ ] PS0913 (Page 387 - 📷 缺失页：未上传完整 387.png)
-  - [ ] Sentence: (等待手动补充：例句及日译)
-  - [ ] 单词/词组: (等待手动补充)
   - 
 - [ ] PS0914_05108-05111 (Page 388)
   - [ ] **Sentence**: The congressman gasped in torment after being shot by an unknown gunman. *(日译: その議員は見知らぬ武装犯人に撃たれた後、苦痛で息をのんだ。)*
