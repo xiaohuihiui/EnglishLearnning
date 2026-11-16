@@ -284,7 +284,7 @@
 - [ ] PS0926_05138-05140 (Page 394)
   - [ ] **Sentence**: It was unbearable to hear his transparent excuses, so I slammed the door with all my strength. *(日译: 彼の見え透いた言い訳を聞くのは耐えられなかったので、私はドアを力いっぱいピシャリと閉めた。)*
   - [ ] **unbearable** `[ʌnbɛ́ərəbl]` [形]: 耐えられない、我慢できない
-  - [ ] **transparent** `[trænspɛ́ərənt]` [形]: 明白な、分かりやすい、透き通る、気取らない
+  - [x] **transparent** `[trænspɛ́ərənt]` [形]: 明白な、分かりやすい、透き通る、気取らない
   - [ ] **slam** `[slæm]` [他]: …をバタン[ピシャリ]と閉める、…を投げつける、…をたたきつける、…をドシンと置く、…をけなす / [自]: バタン[ピシャリ]と閉まる、音を立ててぶつかる、踏む (型: SV, SVO) / ・slam … down(…をガシャンと置く) / ・slam into …(…にぶつかる) / ・slam off(たたばる) / [名]: 荒っぽく閉めること、バタンという音、酷評
 
 - [ ] PS0927_05141-05142 (Page 395)
@@ -320,12 +320,12 @@
 - [ ] PS0933_05154-05155 (Page 398)
   - [ ] **Sentence**: Tuck your shirt in, or you'll look untidy. *(日译: シャツはシャツの中に入れないとだらしなく見えるわよ。)*
   - [ ] **tuck** `[tʌ́k]` [他]: …のすそを押し込む、…をしまい込む、…を隠す、…をたたむ / [自]: 縮む、すばまる、しわになる、ひだになる、ぴったり合う (型: SV, SVO) / ・tuck … away(…をしまい込む) / ・tuck … down(…をはさみ込む) / ・tuck one's sleeves up(袖をまくり上げる) / [名]: タック、縫いひだ
-  - [ ] **untidy** `[ʌntáidi]` [形]: だらしない、乱雑な、ぞんざいな / [他]: …を台無しにする、…を乱す、…を混乱させる
+  - [x] **untidy** `[ʌntáidi]` [形]: だらしない、乱雑な、ぞんざいな / [他]: …を台無しにする、…を乱す、…を混乱させる
 
 - [ ] PS0934_05156-05160 (Page 398)
   - [ ] **Sentence**: The grocer unloaded boxes of radishes, spinach and eggplants from his truck. *(日译: その食料雑貨店主はトラックからダイコンとホウレンソウとナスの箱を降ろした。)*
   - [ ] **grocer** `[gróusər]` [名]: 食料雑貨商人、食料雑貨店
-  - [ ] **unload** `[ʌnlóud]` [他]: …から積み荷を降ろす、…を降ろす、(弾丸)を銃から抜き取る、(フィルム)をカメラから取り出す、(悩みごとなど)を打ち明ける、(不良品など)を売り払う / [自]: 積み荷を降ろす、銃から弾丸を抜き取る、(悩み・感情などを)ぶちまける (型: SV, SVO) / ・unload … from ～(…を～から降ろす) / ・unload … onto ～(…を～に降ろす) / ・unload one's problems onto someone(問題を人に打ち明ける)
+  - [x] **unload** `[ʌnlóud]` [他]: …から積み荷を降ろす、…を降ろす、(弾丸)を銃から抜き取る、(フィルム)をカメラから取り出す、(悩みごとなど)を打ち明ける、(不良品など)を売り払う / [自]: 積み荷を降ろす、銃から弾丸を抜き取る、(悩み・感情などを)ぶちまける (型: SV, SVO) / ・unload … from ～(…を～から降ろす) / ・unload … onto ～(…を～に降ろす) / ・unload one's problems onto someone(問題を人に打ち明ける)
   - [ ] **radish** `[rǽdiʃ]` [名]: (ハツカ)ダイコン、ラディッシュ
 
 - [ ] PS0935 (Page 399 - 📷 缺失页：未上传 399.png)
@@ -340,32 +340,32 @@
 - [ ] PS0937_05165-05167 (Page 401)
   - [ ] **Sentence**: Germany allied with neighboring countries to push for greater preservation of the environment. *(日译: ドイツはさらなる環境保護を求めて、近隣諸国と同盟を結んだ。)*
   - [ ] **ally** `[əlái]` [自]: 同盟する、縁組みする / [他]: …を同盟させる (型: SV, SVO) / ・be allied to …(…と同盟している、…と同類である) / [名]: 同盟国、同盟者、協力者、同類のもの
-  - [ ] **neighboring** `[néibəriŋ]` [形]: 隣接した、近所の、近隣の(限定用法)
+  - [x] **neighboring** `[néibəriŋ]` [形]: 隣接した、近所の、近隣の(限定用法)
   - [ ] **preservation** `[prèzərvéiʃən]` [名]: 保存、維持すること、防腐
 
 - [ ] PS0938_05168-05171 (Page 402)
   - [ ] **Sentence**: The mayor applauded the teenagers' voluntary participation in relief activities for needy people. *(日译: 市長は、その十代にんが貧しい人々の救援活動に自主的に参加したことをたたえた。)*
-  - [ ] **applaud** `[əplɔ́ːd]` [自]: …を褒めたたえる、…に拍手を送る / [他]: 拍手を送る、褒めたたえる (型: SV, SVO) / ・applaud someone's play(…の演奏に拍手を送る)
-  - [ ] **voluntary** `[vάləntèri]` [形]: 進んで行う、自発的な、任意の、無償の / [名]: 即興曲、自発的なこと、自由演奏
-  - [ ] **participation** `[pɑːrtìsəpéiʃən]` [名]: 参加、加入、関与、分け前にあずかること
+  - [x] **applaud** `[əplɔ́ːd]` [自]: …を褒めたたえる、…に拍手を送る / [他]: 拍手を送る、褒めたたえる (型: SV, SVO) / ・applaud someone's play(…の演奏に拍手を送る)
+  - [x] **voluntary** `[vάləntèri]` [形]: 進んで行う、自発的な、任意の、無償の / [名]: 即興曲、自発的なこと、自由演奏
+  - [x] **participation** `[pɑːrtìsəpéiʃən]` [名]: 参加、加入、関与、分け前にあずかること
   - [ ] **needy** `[níːdi]` [形]: ひどく貧乏な、貧困の、貧窮の
 
 - [ ] PS0939_05172-05173 (Page 402)
   - [ ] **Sentence**: This database is exclusively for instructors, and students are not authorized to access it. *(日译: このデータベースは教員専用で、生徒たちはアクセスを許可されていない。)*
   - [ ] **exclusively** `[iksklúːsivli]` [副]: まったく…のみ、独占的に
-  - [ ] **authorize** `[ɔ́ːθəràiz]` [他]: …を正式に認可する、…を認定する、…に権限を与える (型: SVO) / ・authorize … to do(…に～する権限を与える)
+  - [x] **authorize** `[ɔ́ːθəràiz]` [他]: …を正式に認可する、…を認定する、…に権限を与える (型: SVO) / ・authorize … to do(…に～する権限を与える)
 
 - [ ] PS0940_05174-05175 (Page 403)
   - [ ] **Sentence**: The baseball league banned him for life after his involvement in the illegal drug trade was discovered. *(日译: 違法な薬物売買への関与が発覚した後、野球連盟は彼を永久に追放した。)*
   - [ ] **banish** `[bǽniʃ]` [他]: …を追放する、…を流刑にする、…を追い出す、…を払いのける (型: SVO) / ・banish … from ～(…を～から追放する)
-  - [ ] **involvement** `[invάlvmənt]` [名]: かかわり合い、関与、積極的参加、熱中
+  - [x] **involvement** `[invάlvmənt]` [名]: かかわり合い、関与、積極的参加、熱中
 
 - [ ] PS0941_05176-05179 (Page 403)
   - [ ] **Sentence**: If the corruption comes to light, the senator will be seen to have betrayed the voters' trust. *(日译: その汚職が明るみに出れば、その上院議員は有権者の信頼を裏切ったとみなされるだろう。)*
   - [ ] **corruption** `[kərʌ́pʃən]` [名]: 堕落、汚職、腐敗、不正
   - [ ] **senator** `[sénətər]` [名]: 上院議員、(古代ローマの)元老院議員、評議員
   - [ ] **betray** `[bitréi]` [他]: …を裏切る、(秘密など)を漏らす (型: SVO) / ・betray … to ～(…を～に売り渡す[漏らす])
-  - [ ] **voter** `[vóutər]` [名]: 投票者、有権者、選挙人
+  - [x] **voter** `[vóutər]` [名]: 投票者、有権者、選挙人
 
 - [ ] PS0942_05180-05181 (Page 404)
   - [ ] **Sentence**: The army blasted the castle with cannons. *(日译: 軍はその城を大砲で爆破した。)*
