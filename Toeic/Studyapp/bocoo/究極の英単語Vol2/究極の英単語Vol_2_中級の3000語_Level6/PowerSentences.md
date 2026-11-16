@@ -225,23 +225,23 @@
 - [ ] PS0915_05112-05114 (Page 388)
   - [ ] **Sentence**: An eagle was gliding peacefully in the chilly winter sky. *(日译: ワシが冷たい冬の空を静かに滑空していた。)*
   - [ ] **glide** `[gláid]` [自]: 滑空する、滑る、音もなく流れる、滑走する、次第に移り変わる / [他]: …を滑らせる、…をするする動かす、…を滑走[滑空]させる (型: SV, SVO) / ・glide from … to ～(…から～へと移動する) / ・glide off(滑るように遠ざかる) / ・glide over …(…の上を滑走する、…をすっと通り越す)
-  - [ ] **peacefully** `[píːsfəli]` [副]: 静かに、穏やかに、平和的に、円満に
+  - [x] **peacefully** `[píːsfəli]` [副]: 静かに、穏やかに、平和的に、円満に
 
 - [ ] PS0916_05115-05116 (Page 389)
   - [ ] **Sentence**: The shepherds take sheep to highland areas and allow them to graze pastures there. *(日译: 羊飼いたちは羊を高地領域に連れて行き、そこで牧草を食べさせる。)*
-  - [ ] **chilly** `[tʃíli]` [形]: ひんやりする、寒さを感じさせる、ぞっとさせる、冷淡な / [副]: ひんやりと、寒々と、冷淡に
+  - [x] **chilly** `[tʃíli]` [形]: ひんやりする、寒さを感じさせる、ぞっとさせる、冷淡な / [副]: ひんやりと、寒々と、冷淡に
   - [ ] **highland** `[háilənd]` [名]: 高地、大地、山岳地方、(the Highlands で)スコットランド高地地方 / [形]: 山岳地方の(限定用法)
   - [ ] **graze** `[gréiz]` [自]: (牛・羊が)…を食べる[はむ]、…に家畜を入れる、…を牧草地として使う / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて、…をすりむく / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて通り、触れてすりむく (型: SV, SVO) / ・graze one's knee(ひざをすりむく) / [名]: かすめること、すりむくこと、かすり傷
 
 - [ ] PS0917_05117-05118 (Page 390)
   - [ ] **Sentence**: The nationalists hailed the defeat of the liberal government. *(日译: 国家主義者たちは自由主義政府の敗北を歓迎した。)*
-  - [ ] **nationalist** `[nǽʃənəlist]` [名]: 国家主義者、民族主義者、(Nationalist で)国民党員 / [形]: 国家主義(者)の、愛国的な、民族主義(者)の、(Nationalist で)国民党の
+  - [x] **nationalist** `[nǽʃənəlist]` [名]: 国家主義者、民族主義者、(Nationalist で)国民党員 / [形]: 国家主義(者)の、愛国的な、民族主義(者)の、(Nationalist で)国民党の
   - [ ] **hail** `[héil]` [他]: …を歓迎する、…にあいさつする、…に喝采を送る / [自]: 呼びかける (型: SV, SVO) / ・hail blows on …(…をボカボカ殴る) / ・hail down(天罰を下したまえと祈る) / [名]: ①叫び声、呼びかけ ②あられ、ひょう / [名]: 万歳
 
 - [ ] PS0918_05119-05120 (Page 390)
   - [ ] **Sentence**: He was panting heavily after running up the staircase. *(日译: 彼は階段を駆け上がった後、ひどく息を切らせていた。)*
   - [ ] **pant** `[pǽnt]` [自]: 息を切らす、あえぐ、蒸気を吐く、熱望する、あこがれる / [他]: …をあえぎながら言う (型: SV, SVO) / [名]: あえぎ、息切れ、どきどき
-  - [ ] **staircase** `[stɛ́ərkèis]` [名]: 階段
+  - [x] **staircase** `[stɛ́ərkèis]` [名]: 階段
 
 - [ ] PS0919_05121-05123 (Page 391)
   - [ ] **Sentence**: The cuckoo was pecking at a worm in the grove. *(日译: カッコウがその木立の中で虫をついばんでいた。)*
@@ -261,18 +261,18 @@
 
 - [ ] PS0922_05128-05129 (Page 392)
   - [ ] **Sentence**: I informed a librarian that several pages had been ripped from the library book. *(日译: その図書館の本から何ページかが破られていたことを、私は図書館員に知らせた。)*
-  - [ ] **librarian** `[lairɛ́əriən]` [名]: 司書、図書館員
+  - [x] **librarian** `[lairɛ́əriən]` [名]: 司書、図書館員
   - [ ] **rip** `[rip]` [他]: …を引き裂く、…を切り開く、…をはぎ取る / [自]: 裂ける、破れる、ちぎれる (型: SV, SVO) / ・rip along(突進する) / ・rip into …(…に穴を開ける) / ・rip off …(…をはぎ取る、…を暗霧する、…をだまし取る) / [名]: 裂け目、ほころび、傷口、泥棒
 
 - [ ] PS0923_05130-05132 (Page 393)
   - [ ] **Sentence**: We roamed around the island in search of the spectacular waterfall that was shown in the guidebook. *(日译: ガイドブックにあった見事な滝を求めて、われわれは島中を歩き回った。)*
   - [ ] **roam** `[róum]` [自]: 歩き回る、放浪する、 / [他]: …を歩き回る、…を放浪する (型: SV, SVO) / ・roam around …(…を歩き回る) / [名]: 歩き回ること、散策、放浪
-  - [ ] **spectacular** `[spektǽkjulər]` [形]: 見事な、壮大な、人の目を引くける / [名]: 特別テレビ番組、大々的見世物、超大作
+  - [x] **spectacular** `[spektǽkjulər]` [形]: 見事な、壮大な、人の目を引くける / [名]: 特別テレビ番組、大々的見世物、超大作
   - [ ] **waterfall** `[wɔ́ːtərfɔ̀ːl]` [名]: 滝、落水
 
 - [ ] PS0924_05133-05135 (Page 393)
   - [ ] **Sentence**: Correspondents scrambled to cover the controversial trial. *(日译: 記者たちは論争を呼んでいるその裁判を取材した。)*
-  - [ ] **correspondent** `[kɔ̀ːrəspάndənt]` [名]: 通信員、特派員、地方代理店[駐在員]、対応するもの / [形]: 一致する、対応する
+  - [x] **correspondent** `[kɔ̀ːrəspάndənt]` [名]: 通信員、特派員、地方代理店[駐在員]、対応するもの / [形]: 一致する、対応する
   - [ ] **scramble** `[skrǽmbl]` [自]: 先を争う、奪い合う、よじ登る / [他]: …を急いで寄せ集める、…をこちゃまぜにする (型: SV, SVO) / ・scramble to do(…しようと先を争う) / ・scramble along(どうにか暮らしていく) / ・scramble away(慌てて逃げる) / ・scramble for …(…を奪い合う) / [名]: はい登ること、奪い合い、緊急発進
   - [ ] **controversial** `[kὰntrəvə́ːrʃəl]` [形]: 論争の、異論のある、議論好きの
 
