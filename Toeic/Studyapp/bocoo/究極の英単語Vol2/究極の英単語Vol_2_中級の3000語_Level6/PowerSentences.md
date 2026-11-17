@@ -374,15 +374,15 @@
 
 - [ ] PS0943_05182-05184 (Page 404)
   - [ ] **Sentence**: I accidentally bleached my daughter's colored shirt. *(日译: 娘の色物のシャツを誤って漂白してしまった。)*
-  - [ ] **accidentally** `[æ̀ksədéntli]` [副]: 誤って、偶然に、図らずも、ふとしたことから
+  - [x] **accidentally** `[æ̀ksədéntli]` [副]: 誤って、偶然に、図らずも、ふとしたことから
   - [ ] **bleach** `[blíːtʃ]` [他]: …を漂白する、…をあせさせる、…を白くする / [自]: 白くなる (型: SV, SVO) / ・bleach … out(…の色をあせさせる) / ・bleach … white(…を漂白する) / [名]: 漂白剤、漂白
-  - [ ] **colored** `[kʌ́lərd]` [形]: 色物の、色のついた、色刷りの、有色人種の、ゆがめられた / [名]: 黒人(種)、有色人種、色つきのもの
+  - [x] **colored** `[kʌ́lərd]` [形]: 色物の、色のついた、色刷りの、有色人種の、ゆがめられた / [名]: 黒人(種)、有色人種、色つきのもの
 
 - [ ] PS0944_05185-05187 (Page 405)
   - [ ] **Sentence**: The comical television commercial boosted the brand's familiarity among consumers. *(日译: 愉快なテレビコマーシャルによって、消費者の間でそのブランドの知名度が高まった。)*
   - [ ] **comical** `[kάmikəl]` [形]: おもしろい、笑いを誘う、奇妙な、喜劇の
-  - [ ] **boost** `[búːst]` [他]: …を高める、…を引き上げる、…を増やす、…を押し上げる、…を応援する (型: SVO) / ・boost exchanges(交流を深める) / [名]: 押し上げること、増加、上昇、応援
-  - [ ] **familiarity** `[fəmìliǽrəti]` [名]: よく知っていること、よく知られていること、親密、悪意、なれなれしさ
+  - [x] **boost** `[búːst]` [他]: …を高める、…を引き上げる、…を増やす、…を押し上げる、…を応援する (型: SVO) / ・boost exchanges(交流を深める) / [名]: 押し上げること、増加、上昇、応援
+  - [x] **familiarity** `[fəmìliǽrəti]` [名]: よく知っていること、よく知られていること、親密、悪意、なれなれしさ
 
 - [ ] PS0945_05188-05189 (Page 405)
   - [ ] **Sentence**: Health officials characterize this year's flu as a peculiarly long-lived strain. *(日译: 保健当局は今年のインフルエンザは特に長く生きる種だと見なしている。)*
@@ -391,87 +391,87 @@
 
 - [ ] PS0946_05190-05193 (Page 406)
   - [ ] **Sentence**: The lawyer cited the letter as an indication of the intimate relationship between the defendant and the woman. *(日译: 弁護人は、被告人とその女性との親密な関係を示すものとして、その手紙を引用した。)*
-  - [ ] **cite** `[sáit]` [他]: …を引き合いに出す、…を引用する、…を挙げる、…を法廷に召喚する、…を賞賛する (型: SVO) / ・cite a case(例を挙げる) / ・cite figures(数字を挙げる) / [名]: 言及、引き合いに出すこと、引用文[句]
+  - [x] **cite** `[sáit]` [他]: …を引き合いに出す、…を引用する、…を挙げる、…を法廷に召喚する、…を賞賛する (型: SVO) / ・cite a case(例を挙げる) / ・cite figures(数字を挙げる) / [名]: 言及、引き合いに出すこと、引用文[句]
   - [ ] **indication** `[ìndikéiʃən]` [名]: 暗示(するもの)、指示、印、徴候、表示
   - [ ] **intimate** `[íntəmət]` [形]: 親密な、親しい、個人的な、居心地のよい、詳細な / [名]: 親友、親しい間柄 / [他]: …を間接的に知らせる、…を通告する
   - [ ] **defendant** `[diféndənt]` [名]: 被告(人)
 
 - [ ] PS0947_05194-05195 (Page 406)
   - [ ] **Sentence**: Eager to get back to the laboratory to classify the strange moss, we made a swift descent of the mountain. *(日译: 研究室に戻ってその珍しいコケを分類したかったので、われわれは急いで下山した。)*
-  - [ ] **classify** `[klǽsəfài]` [他]: …を分類する、…を等級別にする、…を格付けする、…に秘密区分をつける、…を機密扱いにする (型: SVO) / ・classify … into ～(…を～に分類[格付け]する)
+  - [x] **classify** `[klǽsəfài]` [他]: …を分類する、…を等級別にする、…を格付けする、…に秘密区分をつける、…を機密扱いにする (型: SVO) / ・classify … into ～(…を～に分類[格付け]する)
   - [ ] **descent** `[disént]` [名]: 下ること、降下、家系、堕落、急襲
 
 - [ ] PS0948_05196-05197 (Page 407)
   - [ ] **Sentence**: The two nations are collaborating to protect the tropical rainforest. *(日译: その2カ国は熱帯雨林を保護するために協力している。)*
   - [ ] **collaborate** `[kəlǽbərèit]` [自]: 協力する (型: SV) / ・collaborate closely with …(…と緊密に協力する)
-  - [ ] **rainforest** `[ráinfɔ̀rəst]` [名]: 多雨林、熱帯雨林
+  - [x] **rainforest** `[ráinfɔ̀rəst]` [名]: 多雨林、熱帯雨林
 
 - [ ] PS0949
   - 手动添加
 
 - [ ] PS0950_05201-05203 (Page 408)
   - [ ] **Sentence**: This painting is a priceless remembrance of my mother, and no one can compel me to sell it. *(日译: この絵画は母の貴重な形見であり、私にこれを売らせることは誰にもできない。)*
-  - [ ] **priceless** `[práislis]` [形]: 非常に貴重な、とても高価な、金では買えない、とても楽しい
-  - [ ] **remembrance** `[rimémbrəns]` [名]: 形見、印象、記憶(力)、思い出、記念品
+  - [x] **priceless** `[práislis]` [形]: 非常に貴重な、とても高価な、金では買えない、とても楽しい
+  - [x] **remembrance** `[rimémbrəns]` [名]: 形見、印象、記憶(力)、思い出、記念品
   - [ ] **compel** `[kəmpél]` [他]: …に無理にさせる、…させずにはおかない、…を屈服させる (型: SVO) / ・compel … from ～(…を～から無理やり引き出す) / ・compel … to ～(…に強制的に[無理に]～させる)
 
 - [ ] PS0951_05204-05205 (Page 408)
   - [ ] **Sentence**: The patient's genetic disorder may complicate treatment for his cancer. *(日译: その患者の遺伝性疾患が彼の癌治療を困難にするかもしれない。)*
   - [ ] **genetic** `[dʒənétik]` [形]: 遺伝の、遺伝子の、発生の、発生論上の
-  - [ ] **complicate** `[kάmpləkèit]` [他]: …を複雑にする、…を込み入らせる、…を紛糾させる、…を悪化させる、…に(～を)からませる (型: SVO) / ・complicate matters(事を複雑にする) / [形]: 複雑な、込み入った、折りたたみの
+  - [x] **complicate** `[kάmpləkèit]` [他]: …を複雑にする、…を込み入らせる、…を紛糾させる、…を悪化させる、…に(～を)からませる (型: SVO) / ・complicate matters(事を複雑にする) / [形]: 複雑な、込み入った、折りたたみの
 
 - [ ] PS0952_05206-05208 (Page 409)
   - [ ] **Sentence**: The man is claiming that he was wrongly convicted by the jury. *(日译: 男は陪審によって不当に有罪にされたと主張している。)*
-  - [ ] **wrongly** `[rɔ́ːŋli]` [副]: 誤って、間違って、悪く、不正に、適切でなく
+  - [x] **wrongly** `[rɔ́ːŋli]` [副]: 誤って、間違って、悪く、不正に、適切でなく
   - [ ] **convict** `[kənvíkt]` [他]: …に有罪を宣告する、…に悟らせる (型: SVO) / ・convict … of ～(…に～の有罪を宣告する) / [名]: 有罪宣告を受けた人、受刑者
   - [ ] **jury** `[dʒúəri]` [名]: 陪審(員団)、(全)審査員
 
 - [ ] PS0953_05209-05211 (Page 409)
   - [ ] **Sentence**: All ships must fully cooperate with cargo inspection requirements when they enter the harbor. *(日译: 入港する際、すべての船は貨物検査要件に全面的に協力しなくてはならない。)*
-  - [ ] **cooperate** `[kouάpərèit]` [自]: 協力する、共同する、働き合ってする、結果を生じる (型: SV) / ・cooperate with …(…に協力する) / ・cooperate in harmony(仲良く協力する)
-  - [ ] **cargo** `[kάːrgou]` [名]: 船荷、積み荷
+  - [x] **cooperate** `[kouάpərèit]` [自]: 協力する、共同する、働き合ってする、結果を生じる (型: SV) / ・cooperate with …(…に協力する) / ・cooperate in harmony(仲良く協力する)
+  - [x] **cargo** `[kάːrgou]` [名]: 船荷、積み荷
 
 - [ ] PS0954_05212-05214 (Page 410)
   - [ ] **Sentence**: The diplomats are working closely with their counterparts to coordinate summit meetings between the two countries. *(日译: 外交官らは二国間の首脳会議を調整するため、相手側と密に連携している。)*
-  - [ ] **diplomat** `[dípləmæ̀t]` [名]: 外交官、駆け引きの上手な人、外交家、如才ない人
+  - [x] **diplomat** `[dípləmæ̀t]` [名]: 外交官、駆け引きの上手な人、外交家、如才ない人
   - [ ] **counterpart** `[káuntərpàːrt]` [名]: 片方、対応物、写し、よく似た人[もの]
   - [ ] **coordinate** `[kouɔ́ːrdənèit]` [他]: …を調整する、…を対等にする、…を順序良く並べる / [自]: 対等になる、つり合う (型: SV, SVO) / [形]: 同等の、同格の、対等の関係を示す、座標の / [名]: 同等の人[もの]、座標、コーディネート
 
 - [ ] PS0955_05215-05217 (Page 410)
   - [ ] **Sentence**: Politicians should be financially independent because corporate donations can easily corrupt them. *(日译: 企業献金はたやすく彼らを堕落させるため、政治家は財政的に自立しているべきである。)*
-  - [ ] **financially** `[fainǽnʃəli]` [副]: 財政的に、財政上、財政的見地からすれば
-  - [ ] **donation** `[dounéiʃən]` [名]: 寄贈、寄付、寄付金
+  - [x] **financially** `[fainǽnʃəli]` [副]: 財政的に、財政上、財政的見地からすれば
+  - [x] **donation** `[dounéiʃən]` [名]: 寄贈、寄付、寄付金
   - [ ] **corrupt** `[kərʌ́pt]` [他]: …を堕落させる、…を腐敗させる、…を買収する / [形]: 堕落する、買収される、腐る
 
 - [ ] PS0956_05218-05221 (Page 411)
   - [ ] **Sentence**: We can customize our backup system for utmost effectiveness. *(日译: バックアップシステムをカスタマイズして最大の有効性を得ることができる。)*
-  - [ ] **customize** `[kʌ́stəmàiz]` [他]: …を注文に応じて作る、(コンピューター)を自分の好みに合うように変更[カスタマイズ]する (型: SVO) / ・customize the software(ソフトをカスタマイズする)
-  - [ ] **backup** `[bǽkʌ̀p]` [名]: 予備、バックアップ、後援者、支援
+  - [x] **customize** `[kʌ́stəmàiz]` [他]: …を注文に応じて作る、(コンピューター)を自分の好みに合うように変更[カスタマイズ]する (型: SVO) / ・customize the software(ソフトをカスタマイズする)
+  - [x] **backup** `[bǽkʌ̀p]` [名]: 予備、バックアップ、後援者、支援
   - [ ] **utmost** `[ʌ́tmòust]` [形]: 最大の、極限の、最後の(限定用法) / [名]: 最大限度、極限
-  - [ ] **effectiveness** `[əféktivnəs]` [名]: 有効性
+  - [x] **effectiveness** `[əféktivnəs]` [名]: 有効性
 
 - [ ] PS0957_05222-05224 (Page 411)
   - [ ] **Sentence**: The singer was thankful for the people's hospitality, and she dedicated her new song to the island. *(日译: その歌手は人々の温かいもてなしに感謝し、新曲をその島にささげた。)*
-  - [ ] **thankful** `[θǽŋkfəl]` [形]: 感謝して、ありがたく思っている(叙述用法が多い)
-  - [ ] **hospitality** `[hὰspitǽləti]` [名]: 親切なもてなし、厚遇、歓待、理解
-  - [ ] **dedicate** `[dédikèit]` [他]: …をささげる、(dedicate oneself で)…に専念する、…を献呈する、…を奉納する (型: SVO) / ・dedicate … to ～(…を～にささげる) / ・dedicate time to …(…に時間をささげる)
+  - [x] **thankful** `[θǽŋkfəl]` [形]: 感謝して、ありがたく思っている(叙述用法が多い)
+  - [x] **hospitality** `[hὰspitǽləti]` [名]: 親切なもてなし、厚遇、歓待、理解
+  - [x] **dedicate** `[dédikèit]` [他]: …をささげる、(dedicate oneself で)…に専念する、…を献呈する、…を奉納する (型: SVO) / ・dedicate … to ～(…を～にささげる) / ・dedicate time to …(…に時間をささげる)
 
 - [ ] PS0958_05225-05227 (Page 412)
   - [ ] **Sentence**: The current weakness of the dollar is defying the analyst's prediction. *(日译: このところのドル安はそのアナリストの予測に反している。)*
   - [ ] **defy** `[difái]` [他]: …を平然と無視する、…をもものともしない、…に(公然と)反抗する、…に迫る (型: SVO) / ・defy logic(理屈に合わない) / ・defying wind and rain(風雨をもものともせず)
-  - [ ] **analyst** `[ǽnəlist]` [名]: 分析家、解説者、精神分析専門家
-  - [ ] **prediction** `[pridíkʃən]` [名]: 予測、予言、予報
+  - [x] **analyst** `[ǽnəlist]` [名]: 分析家、解説者、精神分析専門家
+  - [x] **prediction** `[pridíkʃən]` [名]: 予測、予言、予報
 
 - [ ] PS0959_05228-05230 (Page 412)
   - [ ] **Sentence**: A girl in my class has been hostile to me, and the teacher's indifference is depressing me even more. *(日译: 同じクラスのある女子がずっと私に対してとげとげしいのだが、教師の無関心がもっと私を憂うつにさせている。)*
-  - [ ] **hostile** `[hάstl]` [形]: 非友好的な、敵意を持った、対立する、敵対性の、敵の、強引な / [名]: 敵意を持った人、敵
+  - [x] **hostile** `[hάstl]` [形]: 非友好的な、敵意を持った、対立する、敵対性の、敵の、強引な / [名]: 敵意を持った人、敵
   - [ ] **indifference** `[indífərəns]` [名]: 無関心、無頓着、冷淡さ、重要でないこと
   - [ ] **depress** `[diprés]` [他]: …を憂うつにさせる、…を意気消沈させる、…を弱める、(レバーなど)を押し下げる (型: SVO)
 
 - [ ] PS0960_05231-05233 (Page 413)
   - [ ] **Sentence**: An insider disclosed the accountant's dishonest conduct. *(日译: ある内部関係者が、その経理担当者による不正行為を暴露した。)*
   - [ ] **disclose** `[disklóuz]` [他]: …を暴く、…を暴露する、…を漏らす、…の覆いを取る (型: SVO) / ・disclose evidence of …(…の証拠を明らかにする) / ・disclose one's mind(意見を言う、心中を打ち明ける) / ・be disclosed in public(公表される)
-  - [ ] **accountant** `[əkáuntənt]` [名]: 会計係、会計士、主計、会計専門家
+  - [x] **accountant** `[əkáuntənt]` [名]: 会計係、会計士、主計、会計専門家
   - [ ] **dishonest** `[disάnist]` [形]: 不正な、不正直な、信用できない、ごまかしの
 
 - [ ] PS0961_05234-05235 (Page 413)
@@ -479,7 +479,7 @@
   - [ ] **shameful** `[ʃéimfəl]` [形]: 恥ずべき、不面目な、不届きな
   - [ ] **dump** `[dʌmp]` [他]: …をどさっと落とす、…をぞんざいに投げ出す、…をごみとして捨てる、…を転嫁する、…を投げ売りする / [自]: どさっと落ちる、ごみをどさっと捨てる、ダンピングする、けなす (型: SV, SVO) / ・dump on …(…に八つ当たりする、…に転嫁する) / [名]: ごみなどの山、ごみ捨て場、どさっと落とす[落ちる]こと
 
-非常抱歉，您说得对，我重新核对了图片，**确实是从 PS0962 开始的**。以下是根据您提供的图片，从 **PS0962** 开始提取的英语句子、单词和日文，按照您要求的 Markdown 格式整理：
+
 
 - [ ] PS0962_05236-05238 (Page 414)
   - [ ] **Sentence**: I tried everything to eliminate the stale odor coming from the carpet, but nothing worked. *(日译: じゅうたんのムッとするにおいをとろうとあらゆることを試したが、効果はなかった。)*
