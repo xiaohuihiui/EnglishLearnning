@@ -601,32 +601,32 @@
 
 - [ ] PS0983_05291-05293 (Page 425)
   - [ ] **Sentence**: She's been overworking lately, and now she's showing the symptoms of exhaustion, such as loss of appetite and general fatigue. *(日译: 彼女は近頃働き過ぎて、食欲不振や全身疲労といった軽度の疲労症状が現れている。)*
-  - [ ] **overwork** `[òuvərwə́ːrk]` [自]: 働き[勉強し]過ぎる / [他]: …を過度に働かせる、…を酷使する、…を過度に興奮させる、…に凝り過ぎる (型: SV, SVO) / ・overwork one's eyes(目を酷使する) / ・overwork oneself(あまり勉強[仕事]をし過ぎる、無理をする) / [名]: 過労、無理な勉強、余分の仕事
+  - [x] **overwork** `[òuvərwə́ːrk]` [自]: 働き[勉強し]過ぎる / [他]: …を過度に働かせる、…を酷使する、…を過度に興奮させる、…に凝り過ぎる (型: SV, SVO) / ・overwork one's eyes(目を酷使する) / ・overwork oneself(あまり勉強[仕事]をし過ぎる、無理をする) / [名]: 過労、無理な勉強、余分の仕事
   - [ ] **symptom** `[símptəm]` [名]: 徴候、現れ、しるし、前兆、症状
   - [ ] **fatigue** `[fətíːg]` [名]: 疲労、疲労のもと / [他]: …を疲れさせる
 
 - [ ] PS0984_05294-05295 (Page 426)
   - [ ] **Sentence**: His substance dependence persisted for years, despite taking the therapy program. *(日译: 治療プログラムを受けていたにもかかわらず、彼の薬物依存症は長年続いた。)*
-  - [ ] **dependence** `[dipéndəns]` [名]: 依存(症)、頼ること、(麻薬の)常用、左右されること
+  - [x] **dependence** `[dipéndəns]` [名]: 依存(症)、頼ること、(麻薬の)常用、左右されること
   - [ ] **persist** `[pərsíst]` [自]: 持続する、断固として貫く、固執する、しつこく繰り返す (型: 主に SV) / ・persist in …(…に固執する) / ・persist with …(…を頑固に続ける)
 
 - [ ] PS0985_05296-05298 (Page 426)
   - [ ] **Sentence**: Companies can personalize the mugs by putting their own logo on them. *(日译: 企業は、自社のロゴを入れることで、マグカップを自社仕様にできる。)*
-  - [ ] **personalize** `[pə́ːrsənəlàiz]` [他]: …に名前を入れる、…を個人のものにする、…を特定の人向けにする (型: SVO) / ・personalize a book with one's name(本に名前を入れて自分のものにする)
+  - [x] **personalize** `[pə́ːrsənəlàiz]` [他]: …に名前を入れる、…を個人のものにする、…を特定の人向けにする (型: SVO) / ・personalize a book with one's name(本に名前を入れて自分のものにする)
   - [ ] **mug** `[mʌ́g]` [名]: マグカップ、ジョッキ、顔 / [他]: (人)を襲う / [自]: 大げさな表情をする
-  - [ ] **logo** `[lóugou]` [名]: (会社などの)ロゴ、合言葉、モットー
+  - [x] **logo** `[lóugou]` [名]: (会社などの)ロゴ、合言葉、モットー
 
 - [ ] PS0986_05299-05300 (Page 427)
   - [ ] **Sentence**: She pricked her finger on a fragment of glass from the broken mirror. *(日译: 彼女は壊れた鏡のガラスの破片で指に刺し傷をつけた。)*
   - [ ] **prick** `[prík]` [他]: …を突く、…を刺す、…に刺し傷をつける、…を開ける、…に痛みを与える / [自]: ちくりと刺す、痛む、うずくさせる、ぴんと立つ、酸化する (型: SV, SVO) / ・prick a hole in …(…に穴を開ける)
-  - [ ] **fragment** `[frǽgmənt]` [名]: 破片、未完成の部分、少量 / [自]: 砕ける、分裂する / [他]: …をばらばらに壊す
+  - [x] **fragment** `[frǽgmənt]` [名]: 破片、未完成の部分、少量 / [自]: 砕ける、分裂する / [他]: …をばらばらに壊す
 
 - [ ] PS0987_05301-05304 (Page 427)
   - [ ] **Sentence**: The minister's irresponsible remark provoked a rebellion by the unemployed workers. *(日译: 大臣の無責任な発言が失業者による暴動を引き起こした。)*
   - [ ] **irresponsible** `[ìrispánsəbl]` [形]: 無責任な、信頼できない、責任能力のない、責任のない / [名]: 責任(感)のない人、責任能力のない者
   - [ ] **provoke** `[prəvóuk]` [他]: …を引き起こす、…を立腹させる、…を挑発して(～に)する (型: SVO) / ・provoke a reaction in …(…の反応を誘発する) / ・provoke … to a quarrel(…にけんかを売る)
   - [ ] **rebellion** `[ribéljən]` [名]: 反乱、反逆、謀反、反抗
-  - [ ] **unemployed** `[ʌnimplɔ́id]` [形]: 失業した、雇われていない、仕事がない、利用されていない
+  - [x] **unemployed** `[ʌnimplɔ́id]` [形]: 失業した、雇われていない、仕事がない、利用されていない
 
 - [ ] PS0988_05305-05306 (Page 428)
   - [ ] **Sentence**: The whole industry will inevitably reap great benefits from this technological innovation. *(日译: 業界全体が必ずやこの技術革新から大きな恩恵を受けるだろう。)*
@@ -636,7 +636,7 @@
 - [ ] PS0989_05307-05308 (Page 428)
   - [ ] **Sentence**: I reassured my pregnant wife that I would reduce the amount of overtime I do. *(日译: 私は残業の量を減らすからと妊娠中の妻を安心させた。)*
   - [ ] **reassure** `[rìːəʃúər]` [他]: …を安心させる、…を元気づける、…に再び自信を持たせる、…を再保証する (型: SVO, SVOO) / ・reassure oneself of …(…を確かめる) / ・reassure oneself that …(…ということを確かめる)
-  - [ ] **overtime** `[óuvərtàim]` [名]: 超過時間、超過勤務時間、残業手当、延長戦 / [副]: 時間外に / [形]: 時間外の / [他]: …に時間をかけ過ぎる
+  - [x] **overtime** `[óuvərtàim]` [名]: 超過時間、超過勤務時間、残業手当、延長戦 / [副]: 時間外に / [形]: 時間外の / [他]: …に時間をかけ過ぎる
 
 - [ ] PS0990_05309-05311 (Page 429)
   - [ ] **Sentence**: They rebuilt the roof terrace into a nightclub. *(日译: 彼らは屋上テラスをナイトクラブに改造した。)*
@@ -646,37 +646,37 @@
 
 - [ ] PS0991_05312-05314 (Page 429)
   - [ ] **Sentence**: After the surgery, she regained the brilliance of her skating, which had once led her to national prominence. *(日译: 手術後、彼女はかつて自身を全国的な名声へと導いた輝きのある滑りを取り戻した。)*
-  - [ ] **regain** `[rigéin]` [他]: …を取り戻す、…を回復する、…に復帰する (型: SVO) / ・regain a seat(議席を回復する) / ・regain one's balance(体勢を立て直す)
+  - [x] **regain** `[rigéin]` [他]: …を取り戻す、…を回復する、…に復帰する (型: SVO) / ・regain a seat(議席を回復する) / ・regain one's balance(体勢を立て直す)
   - [ ] **brilliance** `[bríljəns]` [名]: 輝き、強い明るさ、傑出、卓越
   - [ ] **prominence** `[prάmənəns]` [名]: 目立つこと、卓越、突出(物)、目立つ場所
 
 - [ ] PS0992_05315-05318 (Page 430)
   - [ ] **Sentence**: The restaurant's closing was only temporary, and speculation about its financial hardship ended after it reopened. *(日译: そのレストランの休業は一時的なものであり、営業再開後は、経営難などの憶測には終止符が打たれた。)*
-  - [ ] **closing** `[klóuziŋ]` [名]: 閉じること、終わり、結び、決算 / [形]: 締めくくりの、終わりの
+  - [x] **closing** `[klóuziŋ]` [名]: 閉じること、終わり、結び、決算 / [形]: 締めくくりの、終わりの
   - [ ] **speculation** `[spèkjuléiʃən]` [名]: 憶測、推量、思索、投機、結論
   - [ ] **hardship** `[hάːrdʃìp]` [名]: 苦難、困難、苦労をもたらすもの
-  - [ ] **reopen** `[rìːóupən]` [自]: 再び始まる、再開する / [他]: …を再び始める、…を再開する (型: SV, SVO) / ・reopen a wound(古傷を開く) / ・reopen peace negotiations(平和交渉を再開する)
+  - [x] **reopen** `[rìːóupən]` [自]: 再び始まる、再開する / [他]: …を再び始める、…を再開する (型: SV, SVO) / ・reopen a wound(古傷を開く) / ・reopen peace negotiations(平和交渉を再開する)
 
 - [ ] PS0993_05319-05320 (Page 430)
   - [ ] **Sentence**: The girl replayed the video repeatedly in order to master the cheerleading routine. *(日译: 少女はチアリーディングの手順をマスターするために、その動画を繰り返し再生した。)*
-  - [ ] **replay** `[rìːpléi]` [他]: …を再生する、…をやり直す、…を再演する (型: SVO) / ・replay in one's mind(繰り返し頭に浮かぶ) / [名]: 再試合、繰り返し、再現、再生
+  - [x] **replay** `[rìːpléi]` [他]: …を再生する、…をやり直す、…を再演する (型: SVO) / ・replay in one's mind(繰り返し頭に浮かぶ) / [名]: 再試合、繰り返し、再現、再生
   - [ ] **cheerleading** `[tʃíərlìːdiŋ]` [名]: チアリーディング、チアリーダーとしての活動
 
 - [ ] PS0994_05321-05322 (Page 431)
   - [ ] **Sentence**: Unless we restructure our management right now, we will go bankrupt. *(日译: 今すぐ経営を改革しなければ、わが社は倒産するだろう。)*
-  - [ ] **restructure** `[rìːstrʌ́ktʃər]` [他]: …の構造を改革する (型: SVO) / ・restructure an organization(機構を改革する)
-  - [ ] **bankrupt** `[bǽŋkrʌpt]` [形]: 破産した、破産申告を受けた、支払不能の、破たんを来した / [名]: 破産者、支払不能者 / [他]: …を破産させる
+  - [x] **restructure** `[rìːstrʌ́ktʃər]` [他]: …の構造を改革する (型: SVO) / ・restructure an organization(機構を改革する)
+  - [x] **bankrupt** `[bǽŋkrʌpt]` [形]: 破産した、破産申告を受けた、支払不能の、破たんを来した / [名]: 破産者、支払不能者 / [他]: …を破産させる
 
 - [ ] PS0995_05323-05325 (Page 431)
   - [ ] **Sentence**: They retail imported cosmetics at considerably low prices. *(日译: 彼らは輸入化粧品をかなり安い値段で小売している。)*
-  - [ ] **retail** `[ríːtèil]` [他]: …を小売りする、[rɪtéɪl] …を受け売りする、…を言いふらす / [自]: 小売りされる (型: SV, SVO) / ・retail gossip(うわさを言いふらす) / [名]: 小売り / [副]: 小売りの、小売りをする / [形]: 小売り(値で)
+  - [x] **retail** `[ríːtèil]` [他]: …を小売りする、[rɪtéɪl] …を受け売りする、…を言いふらす / [自]: 小売りされる (型: SV, SVO) / ・retail gossip(うわさを言いふらす) / [名]: 小売り / [副]: 小売りの、小売りをする / [形]: 小売り(値で)
   - [ ] **cosmetic** `[kazmétik]` [名]: 化粧品、体裁の繕い、ぼろ隠し / [形]: 美容のための、整形の、表面的に繕った
   - [ ] **considerably** `[kənsídərəbli]` [副]: 相当に、かなり、ずいぶん
 
 - [ ] PS0996_05326-05328 (Page 432)
   - [ ] **Sentence**: The author revised his manuscript and made a subtle change. *(日译: 作家は原稿を修正し、わずかな変更を加えた。)*
-  - [ ] **revise** `[riváiz]` [他]: …を修正する、…を改訂する、…を改める、…を変える、…を変更する (型: SVO) / ・revise a book(本を改訂する) / ・revise a plan of …(…の計画を変更する) / [名]: 再校刷り
-  - [ ] **manuscript** `[mǽnjuskrìpt]` [名]: 原稿、手書き(のもの)、写本、稿本 / [形]: 手書きされた、肉筆の
+  - [x] **revise** `[riváiz]` [他]: …を修正する、…を改訂する、…を改める、…を変える、…を変更する (型: SVO) / ・revise a book(本を改訂する) / ・revise a plan of …(…の計画を変更する) / [名]: 再校刷り
+  - [x] **manuscript** `[mǽnjuskrìpt]` [名]: 原稿、手書き(のもの)、写本、稿本 / [形]: 手書きされた、肉筆の
   - [ ] **subtle** `[sʌ́tl]` [形]: 微妙な、薄い、希薄な、鋭い、器用な
 
 - [ ] PS0997_05329-05329 (Page 432)
