@@ -1,27 +1,27 @@
 - [ ] PS0877_05001-05004 (Page 364)
   - [ ] **Sentence**: It started with a trivial misunderstanding, but her hostility toward him gradually accumulated. *(日译: それはささいな誤解から始まったのだが、彼に対する彼女の敵意は徐々に積もっていった。)*
-  - [ ] **trivial** `[tríviəl]` [形]: ささいな、取るに足らない、浅薄な
+  - [x] **trivial** `[tríviəl]` [形]: ささいな、取るに足らない、浅薄な
   - [x] **misunderstanding** `[mìsʌndərstǽndiŋ]` [名]: 誤解、解釈違い、意見の相違
-  - [ ] **hostility** `[hastíləti]` [名]: 敵意、対立、反対、戦闘行為
+  - [x] **hostility** `[hastíləti]` [名]: 敵意、対立、反対、戦闘行為
   - [x] **accumulate** `[əkjúːmjulèit]` [他]: 増える、積もる、集まる / [他]: …を積み上げる、…を蓄積する、…を集める (型: SV, SVO) / ・accumulate a fund(資金を集める)
 
 - [ ] PS0878_05005-05007 (Page 364)
   - [ ] **Sentence**: Tourism in the country is booming, despite its unsteady political climate. *(日译: 不安定な政治情勢にもかかわらず、その国の観光産業は急成長している。)*
-  - [ ] **tourism** `[túərizəm]` [名]: 観光(事業)、旅行、観光旅行
-  - [ ] **boom** `[búːm]` [自]: 急に発展する、とどろく / [他]: …を知らせる、…を派手に宣伝する (型: SV, SVO) / [名]: 急速な増加、急成長、ブーンという音、とどろき / [形]: 急発展した、人気が急に沸いた
+  - [x] **tourism** `[túərizəm]` [名]: 観光(事業)、旅行、観光旅行
+  - [x] **boom** `[búːm]` [自]: 急に発展する、とどろく / [他]: …を知らせる、…を派手に宣伝する (型: SV, SVO) / [名]: 急速な増加、急成長、ブーンという音、とどろき / [形]: 急発展した、人気が急に沸いた
   - [x] **unsteady** `[ʌnstédi]` [形]: 不安定な、堅固でない、しっかりしていない、不規則な、身持ちの悪い / [他]: …を不安定にする、…を動揺させる
 
 - [ ] PS0879_05008-05010 (Page 365)
   - [ ] **Sentence**: Her jolly laughter brightened my depressed mood. *(日译: 彼女の陽気な笑い声が私の沈んだ気分を明るくしてくれた。)*
-  - [ ] **jolly** `[dʒάli]` [形]: 陽気な、上機嫌の、愉快な / [他]: 機嫌を取る / [副]: …をおだてる / [名]: 機嫌を取ること / [副]: 非常に
-  - [ ] **brighten** `[bráitn]` [他]: …を明るくする、…を元気づける、…を光らせる、…を輝かせる / [自]: 輝きを増す、元気になる、有望になる (型: SV, SVO) / ・brighten a light(明かりを明るくする) / ・Brighten up!(元気を出せ！)
+  - [x] **jolly** `[dʒάli]` [形]: 陽気な、上機嫌の、愉快な / [他]: 機嫌を取る / [副]: …をおだてる / [名]: 機嫌を取ること / [副]: 非常に
+  - [x] **brighten** `[bráitn]` [他]: …を明るくする、…を元気づける、…を光らせる、…を輝かせる / [自]: 輝きを増す、元気になる、有望になる (型: SV, SVO) / ・brighten a light(明かりを明るくする) / ・Brighten up!(元気を出せ！)
   - [x] **depressed** `[diprést]` [形]: 意気消沈した、元気のない、不景気の、へこんだ
 
 - [ ] PS0880_05011-05014 (Page 366)
   - [ ] **Sentence**: A dream may be symbolic of your unconscious mind; it may correspond to a bodily need. *(日译: 夢はあなたの無意識の精神状態の象徴かもしれないし、身体的要求に符合しているのかもしれない。)*
-  - [ ] **symbolic** `[simbάlik]` [形]: 象徴する、象徴的な
-  - [ ] **unconscious** `[ʌnkάnʃəs]` [形]: 意識していない、気付かない、意識を失った、前後不覚の / [名]: 無意識
-  - [ ] **correspond** `[kɔ̀ːrəspάnd]` [自]: 符合する、一致する、相当する、該当する、通信する (型: SV) / ・correspond to …(…に相当する、…と調和する) / ・correspond approximately to …(…にほぼ相当する)
+  - [x] **symbolic** `[simbάlik]` [形]: 象徴する、象徴的な
+  - [x] **unconscious** `[ʌnkάnʃəs]` [形]: 意識していない、気付かない、意識を失った、前後不覚の / [名]: 無意識
+  - [x] **correspond** `[kɔ̀ːrəspάnd]` [自]: 符合する、一致する、相当する、該当する、通信する (型: SV) / ・correspond to …(…に相当する、…と調和する) / ・correspond approximately to …(…にほぼ相当する)
   - [x] **bodily** `[bάdəli]` [形]: (限定用法)身体上の、物質的な / [副]: 肉体のまま、現存して、自ら、一体となって
 
 - [ ] PS0881_05015-05018 (Page 366)
@@ -33,49 +33,49 @@
 
 - [ ] PS0882_05019-05021 (Page 367)
   - [ ] **Sentence**: Their interest in the deal diminished as various obstacles appeared, delaying its completion. *(日译: さまざまな障害が現れてその完了を遅らせたため、この取引に対する彼らの関心は薄れた。)*
-  - [ ] **diminish** `[dimíniʃ]` [自]: 小さくなる、縮小する / [他]: …を小さくする、…を少なくする、…を減少させる、…の名声を傷つける (型: SV, SVO) / ・diminish in population(人口が減少する)
-  - [ ] **obstacle** `[άbstəkl]` [名]: 邪魔(物)、障害(物)、妨害
+  - [x] **diminish** `[dimíniʃ]` [自]: 小さくなる、縮小する / [他]: …を小さくする、…を少なくする、…を減少させる、…の名声を傷つける (型: SV, SVO) / ・diminish in population(人口が減少する)
+  - [x] **obstacle** `[άbstəkl]` [名]: 邪魔(物)、障害(物)、妨害
   - [x] **completion** `[kəmplíːʃən]` [名]: 完成、完了、成就、達成
 
 - [ ] PS0883_05022-05024 (Page 367)
   - [ ] **Sentence**: Without a cleanup of the landmines, the lives of people in the area will continue to be endangered. *(日译: 地雷の除去をしなければ、その地域の人々の命が危険にさらされ続けるだろう。)*
   - [x] **cleanup** `[klíːnʌ̀p]` [名]: 掃除、一掃、浄化、(野球の)4番打者
-  - [ ] **landmine** `[lǽndmàin]` [名]: 地雷
+  - [x] **landmine** `[lǽndmàin]` [名]: 地雷
   - [x] **endanger** `[indéindʒər]` [他]: …を危険にさらす、…を危うくする (型: SVO) / ・endanger the natural environment(自然環境を危険にさらす)
 
 - [ ] PS0884_05025-05027 (Page 368)
   - [ ] **Sentence**: The biologist had objections to the theory that humans and apes evolved from a common ancestor. *(日译: その生物学者は、人類と類人猿が共通の祖先から進化したという説に異議を唱えた。)*
-  - [ ] **objection** `[əbdʒékʃən]` [名]: 異議、異論、不服、難点
-  - [ ] **ape** `[éip]` [名]: 類人猿、霊長類、猿まねをする人 / [他]: …をまねる
-  - [ ] **evolve** `[ivάlv]` [自]: 進化する、発展する、進展する / [他]: …を徐々に発展させる、…を導き出す、…を発する、…を進化させる (型: SV, SVO) / ・evolve from …(…から進化する、…から生まれる) / ・evolve around …(…を軸に展開する) / ・evolve into …(進歩して…になる、…に発展する)
+  - [x] **objection** `[əbdʒékʃən]` [名]: 異議、異論、不服、難点
+  - [x] **ape** `[éip]` [名]: 類人猿、霊長類、猿まねをする人 / [他]: …をまねる
+  - [x] **evolve** `[ivάlv]` [自]: 進化する、発展する、進展する / [他]: …を徐々に発展させる、…を導き出す、…を発する、…を進化させる (型: SV, SVO) / ・evolve from …(…から進化する、…から生まれる) / ・evolve around …(…を軸に展開する) / ・evolve into …(進歩して…になる、…に発展する)
 
 - [ ] PS0885_05028-05029 (Page 368)
   - [ ] **Sentence**: I need to flatten my belly before I wear a swimsuit this summer. *(日译: この夏、水着を着るまでにお腹をへこまさなくちゃ。)*
-  - [ ] **flatten** `[flǽtn]` [他]: …を平らにする、…を伸ばす、…を倒す、…を打ち負かす、…をがっかりさせる / [自]: 平らになる、ぴったりへばりつく、風味がなくなる (型: SV, SVO) / ・flatten out(平らにする、平らに打ち延ばす、押し延ばす)
+  - [x] **flatten** `[flǽtn]` [他]: …を平らにする、…を伸ばす、…を倒す、…を打ち負かす、…をがっかりさせる / [自]: 平らになる、ぴったりへばりつく、風味がなくなる (型: SV, SVO) / ・flatten out(平らにする、平らに打ち延ばす、押し延ばす)
   - [x] **swimsuit** `[swím sùːt]` [名]: 水着
 
 - [ ] PS0886_05030-05031 (Page 369)
   - [ ] **Sentence**: Her gems were glittering under the lights. *(日译: 彼女の宝石が照明の下できらめいていた。)*
-  - [ ] **gem** `[dʒém]` [名]: 宝石、宝石のように美しいもの、逸材 / [他]: …を宝石で飾る、…に宝石をちりばめる / [形]: 優れた、良質の
-  - [ ] **glitter** `[glítər]` [自]: きらきら[ぴかぴか]と光る[輝く]、照り輝く、きらめく、派手である (型: SV) / ・glitter in the sunlight(日光に輝く) / ・glitter over(氷で覆う) / [名]: きらめく光、きらめき、華麗さ
+  - [x] **gem** `[dʒém]` [名]: 宝石、宝石のように美しいもの、逸材 / [他]: …を宝石で飾る、…に宝石をちりばめる / [形]: 優れた、良質の
+  - [x] **glitter** `[glítər]` [自]: きらきら[ぴかぴか]と光る[輝く]、照り輝く、きらめく、派手である (型: SV) / ・glitter in the sunlight(日光に輝く) / ・glitter over(氷で覆う) / [名]: きらめく光、きらめき、華麗さ
 
 - [ ] PS0887_05032-05034 (Page 369)
   - [ ] **Sentence**: He hardened his muscles by doing weightlifting and developed a stunning body. *(日译: 彼はウエートリフティングで筋肉を鍛え、びっくりするような肉体を手に入れた。)*
-  - [ ] **harden** `[hάːrdn]` [他]: …を鍛える、…を堅くする、…を固める、…を硬化させる / [自]: 堅くなる、硬化する、固まる (型: SV, SVO) / ・harden one's body(身体を鍛える) / ・harden one's face(表情を硬くする)
-  - [ ] **weightlifting** `[wéitlìftiŋ]` [名]: ウエートリフティング、重量挙げ
-  - [ ] **stunning** `[stʌ́niŋ]` [形]: 素晴らしい、びっくりさせる、美しい(限定用法が多い)
+  - [x] **harden** `[hάːrdn]` [他]: …を鍛える、…を堅くする、…を固める、…を硬化させる / [自]: 堅くなる、硬化する、固まる (型: SV, SVO) / ・harden one's body(身体を鍛える) / ・harden one's face(表情を硬くする)
+  - [x] **weightlifting** `[wéitlìftiŋ]` [名]: ウエートリフティング、重量挙げ
+  - [x] **stunning** `[stʌ́niŋ]` [形]: 素晴らしい、びっくりさせる、美しい(限定用法が多い)
 
 - [ ] PS0888_05035-05037 (Page 370)
   - [ ] **Sentence**: There's a dreadful rumor that the dead owner is haunting that deserted house. *(日译: あの無人の家には死んだ家主がとりついているという恐ろしい噂がある。)*
-  - [ ] **dreadful** `[dréd fəl]` [形]: 非常に恐ろしい、こわい、恐れ多い、ひどい / [名]: 三文小説、低俗雑誌
-  - [ ] **haunt** `[hɔ́ːnt]` [他]: …に出没する、(be haunted で)…にとりつかれる、…にしばしば訪れる、…によく行く、…に絶えず浮かぶ、…に付きまとう / [自]: たびたび訪れる、よく行く、よく現れる (型: SV, SVO) / ・be haunted by …(…から目を離すことができない) / [名]: よく行くところ、行きつけの場所
-  - [ ] **deserted** `[dizə́ːrtid]` [形]: 人の住んでいない、見捨てられた、人けのない
+  - [x] **dreadful** `[dréd fəl]` [形]: 非常に恐ろしい、こわい、恐れ多い、ひどい / [名]: 三文小説、低俗雑誌
+  - [x] **haunt** `[hɔ́ːnt]` [他]: …に出没する、(be haunted で)…にとりつかれる、…にしばしば訪れる、…によく行く、…に絶えず浮かぶ、…に付きまとう / [自]: たびたび訪れる、よく行く、よく現れる (型: SV, SVO) / ・be haunted by …(…から目を離すことができない) / [名]: よく行くところ、行きつけの場所
+  - [x] **deserted** `[dizə́ːrtid]` [形]: 人の住んでいない、見捨てられた、人けのない
 
 - [ ] PS0889_05038-05040 (Page 370)
   - [ ] **Sentence**: People can be infected with the virus through mosquito bites, so you should avoid outdoor activities during an outbreak. *(日译: そのウイルスは蚊に刺されることから感染するので、大発生中は野外活動を避けるべきだ。)*
-  - [ ] **infect** `[infékt]` [他]: …を感染させる、…を病菌で冒す、…を汚染する、…に影響を及ぼす / [自]: 感染[汚染]する (型: SV, SVO) / ・be infected with [by] …(…に感染する)
+  - [x] **infect** `[infékt]` [他]: …を感染させる、…を病菌で冒す、…を汚染する、…に影響を及ぼす / [自]: 感染[汚染]する (型: SV, SVO) / ・be infected with [by] …(…に感染する)
   - [x] **virus** `[váiərəs]` [名]: ウイルス、病原体、悪影響、(コンピュータ)ウイルス
-  - [ ] **outbreak** `[áutbrèik]` [名]: 突発、爆発、急激な増加
+  - [x] **outbreak** `[áutbrèik]` [名]: 突発、爆発、急激な増加
 
 - [ ] PS0890_05041-05042 (Page 371)
   - [ ] **Sentence**: He loosened his tie after the disturbing phone call from his client. *(日译: クライアントからの不安になる電話の後、彼はネクタイをゆるめた。)*
