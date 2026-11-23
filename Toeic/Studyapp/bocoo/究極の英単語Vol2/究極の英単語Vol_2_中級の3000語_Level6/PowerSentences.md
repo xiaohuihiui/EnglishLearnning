@@ -84,26 +84,26 @@
 
 - [ ] PS0891_05043-05045 (Page 372)
   - [ ] **Sentence**: He presented a telling argument that adjusting our workload could maximize our profits. *(日译: 彼は仕事量を調整することで利益を最大化できるという説得力のある議論を提示した。)*
-  - [ ] **telling** `[téliŋ]` [形]: 効果的な、明らかにする
+  - [x] **telling** `[téliŋ]` [形]: 効果的な、明らかにする
   - [x] **workload** `[wə́ːrklòud]` [名]: (一定の時間内で行う)作業量、仕事量
   - [x] **maximize** `[mǽksəmàiz]` [他]: …を最大限度にする、…を極限まで増す (型: SVO) / ・maximize a window(ウインドウを最大化する) / ・maximize one's potential for …(…の可能性を最大にする)
 
 - [ ] PS0892_05046-05048 (Page 372)
   - [ ] **Sentence**: Our massage oil is designed to penetrate deeply yet mildly into your skin. *(日译: 当社のマッサージオイルは、肌に深く、そして穏やかに浸透するよう作られています。)*
   - [x] **massage** `[məsάːʒ]` [名]: マッサージ、もみ治療、操作 / [他]: …をマッサージする、…を操作する、…を甘やかす
-  - [ ] **penetrate** `[pénətrèit]` [自]: 浸透する、貫く、入り込む、染み込む、理解する、感動を与える / [他]: …に浸透する、…を突き通る、…を貫く、…に染み通る (型: SV, SVO) / ・penetrate into …(…に浸透する、…を見抜く)
-  - [ ] **mildly** `[máildli]` [副]: 穏やかに、優しく、控えめに、少し
+  - [x] **penetrate** `[pénətrèit]` [自]: 浸透する、貫く、入り込む、染み込む、理解する、感動を与える / [他]: …に浸透する、…を突き通る、…を貫く、…に染み通る (型: SV, SVO) / ・penetrate into …(…に浸透する、…を見抜く)
+  - [x] **mildly** `[máildli]` [副]: 穏やかに、優しく、控えめに、少し
 
 - [ ] PS0893_05049-05051 (Page 373)
   - [ ] **Sentence**: The company relocated some furniture in its workplace so that their handicapped employees could get around more easily. *(日译: その会社は障害のある従業員がより移動しやすいように、職場の家具の一部を移動させた。)*
   - [x] **relocate** `[rìːloukéit]` [他]: …を移転させる、…を転勤させる、…を移住させる / [自]: 移転する、転勤する、移住する (型: SV, SVO) / ・relocate … in[to] ～(…を～に移転する)
   - [x] **workplace** `[wə́ːrkplèis]` [名]: 職場
-  - [ ] **handicapped** `[hǽndikæ̀pt]` [形]: 障害のある、ハンデのある、(スポーツで)ハンディキャップの
+  - [x] **handicapped** `[hǽndikæ̀pt]` [形]: 障害のある、ハンデのある、(スポーツで)ハンディキャップの
 
 - [ ] PS0894_05052-05055 (Page 374)
   - [ ] **Sentence**: The father thought that his son's reckless nature rendered him unsuitable as a successor. *(日译: 父親は、向こう見ずな性格のせいで息子は後継者には不向きだと考えた。)*
-  - [ ] **reckless** `[réklis]` [形]: むちゃな、無鉄砲な、向こう見ずな
-  - [ ] **render** `[réndər]` [他]: …を(～に)する[させる]、…を行う、…を果たす、…を与える、…を示す (型: SVO, SVOC)
+  - [x] **reckless** `[réklis]` [形]: むちゃな、無鉄砲な、向こう見ずな
+  - [x] **render** `[réndər]` [他]: …を(～に)する[させる]、…を行う、…を果たす、…を与える、…を示す (型: SVO, SVOC)
   - [x] **unsuitable** `[ʌnsúːtəbl]` [形]: 不適当な、不向きな、不似合いな
 
 - [ ] PS0895 (Page 374 - 📷 缺失页：未上传完整 374.png)
@@ -112,31 +112,31 @@
 
 - [ ] PS0896_05060-05062 (Page 375)
   - [ ] **Sentence**: His absence from the conference signified his disapproval of the proposition. *(日译: 彼が会議を欠席したのは、彼がその提案に反対しているということを表していた。)*
-  - [ ] **signify** `[sígnəfài]` [他]: …を表示する、…を知らせる、(…ということ)を表明する、…の表れである / [自]: 重要である、影響がある (型: SV, SVO) / ・signify the realization of …(…の実現を表す)
+  - [x] **signify** `[sígnəfài]` [他]: …を表示する、…を知らせる、(…ということ)を表明する、…の表れである / [自]: 重要である、影響がある (型: SV, SVO) / ・signify the realization of …(…の実現を表す)
   - [x] **disapproval** `[dìsəprúːvəl]` [名]: 不同意、不賛成、不満
-  - [ ] **proposition** `[prὰpəzíʃən]` [名]: 提案、提議、発議、取引条件の申し出 / [他]: …に計画を提案する
+  - [x] **proposition** `[prὰpəzíʃən]` [名]: 提案、提議、発議、取引条件の申し出 / [他]: …に計画を提案する
 
 - [ ] PS0897_05063-05064 (Page 375)
   - [ ] **Sentence**: Before his attendance at the ceremony, he checked his appearance and straightened his tie in the bathroom. *(日译: その式典に出席する前に、彼はバスルームで身なりを確認し、ネクタイをまっすぐにした。)*
   - [x] **attendance** `[əténdəns]` [名]: 出席(回数)、出席者、付き添い
-  - [ ] **straighten** `[stréitn]` [他]: …をまっすぐにする、…を整理する / [自]: まっすぐになる、きちんとなる、よくなる (型: SV, SVO) / ・straighten oneself out(しゃんとする、まともになる、心を入れ替える) / ・straighten out …([問題など]を取り除く、…を更生させる)
+  - [x] **straighten** `[stréitn]` [他]: …をまっすぐにする、…を整理する / [自]: まっすぐになる、きちんとなる、よくなる (型: SV, SVO) / ・straighten oneself out(しゃんとする、まともになる、心を入れ替える) / ・straighten out …([問題など]を取り除く、…を更生させる)
 
 - [ ] PS0898_05065-05067 (Page 376)
   - [ ] **Sentence**: Statistics show that the gap between the rich and the poor has been continuously widening over the last few years. *(日译: 統計は、過去数年にわたって富める層と貧困層の格差が絶え間なく広がっていることを示している。)*
-  - [ ] **statistics** `[stətístiks]` [名]: 統計、統計学[論]、統計資料
+  - [x] **statistics** `[stətístiks]` [名]: 統計、統計学[論]、統計資料
   - [x] **continuously** `[kəntínjuəsli]` [副]: 間断なく、連続して、ひっきりなしに
   - [x] **widen** `[wáidn]` [自]: 広くなる / [他]: …を広くする (型: SV, SVO) / ・widen the gap in …(…における格差を拡大する)
 
 - [ ] PS0899_05068-05069 (Page 378)
   - [ ] **Sentence**: He boasted about how much money he had made by gambling. *(日译: 彼はギャンブルでどれだけ稼いだかについて自慢した。)*
-  - [ ] **boast** `[bóust]` [自]: 自慢する / [他]: …を鼻に掛ける (型: SV, SVO) / ・boast about [of] …(…を自慢する) / [名]: 自慢(の種)
-  - [ ] **gambling** `[gǽmbliŋ]` [名]: 賭け事、ギャンブル
+  - [x] **boast** `[bóust]` [自]: 自慢する / [他]: …を鼻に掛ける (型: SV, SVO) / ・boast about [of] …(…を自慢する) / [名]: 自慢(の種)
+  - [x] **gambling** `[gǽmbliŋ]` [名]: 賭け事、ギャンブル
 
 - [ ] PS0900_05070-05072 (Page 378)
   - [ ] **Sentence**: Peace activists clashed with security guards in front of this building a fortnight ago. *(日译: 2週間前、平和活動家たちが警備員とこのビルの前で衝突した。)*
-  - [ ] **activist** `[ǽktəvist]` [名]: 活動家、実践主義者、運動家
-  - [ ] **clash** `[klæʃ]` [自]: 衝突する、ぶつかる、相反する、調和しない、ガチャンと鳴る / [他]: …を激しく打つ、…をジャンジャン鳴らす (型: SV, SVO) / ・clash head-on(正面衝突する、真正面からぶつかる) / ・clash with …(…と激しく衝突する[渡り合う]、…とぶつかり合う) / [名]: 戦闘、小競り合い、(激しい)衝突、対立、ガチャン(という音)
-  - [ ] **fortnight** `[fɔ́ːrtnàit]` [名]: (英)2週間(通常単数形)
+  - [x] **activist** `[ǽktəvist]` [名]: 活動家、実践主義者、運動家
+  - [x] **clash** `[klæʃ]` [自]: 衝突する、ぶつかる、相反する、調和しない、ガチャンと鳴る / [他]: …を激しく打つ、…をジャンジャン鳴らす (型: SV, SVO) / ・clash head-on(正面衝突する、真正面からぶつかる) / ・clash with …(…と激しく衝突する[渡り合う]、…とぶつかり合う) / [名]: 戦闘、小競り合い、(激しい)衝突、対立、ガチャン(という音)
+  - [x] **fortnight** `[fɔ́ːrtnàit]` [名]: (英)2週間(通常単数形)
 
 - [ ] PS0901_05073-05074 (Page 379)
   - [ ] **Sentence**: She gave him a respectful bow and congratulated him on his promotion. *(日译: 彼女は彼に丁寧におじぎをして、昇進のお祝いを述べた。)*
