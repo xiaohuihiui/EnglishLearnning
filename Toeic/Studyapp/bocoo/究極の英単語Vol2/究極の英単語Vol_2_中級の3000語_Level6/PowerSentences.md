@@ -147,19 +147,19 @@
   - [ ] **Sentence**: The drug interacted with a nutrient and caused an impairment in the patient's digestion. *(日译: その薬は栄養剤と相互作用し、患者の消化不良を引き起こした。)*
   - [x] **interact** `[ìntərǽkt]` [自]: 交流する、相互に作用する (型: SV) / ・interact with each other(交流し合う、相互に作用し合う)
   - [x] **nutrient** `[njúːtriənt]` [名]: (通常 nutrients で)栄養物、栄養素、栄養剤 / [形]: 栄養を含む、滋養になる
-  - [ ] **impairment** `[impéərmənt]` [名]: 損傷、悪化
-  - [ ] **digestion** `[didʒéstʃən]` [名]: 消化、消化力、理解
+  - [x] **impairment** `[impéərmənt]` [名]: 損傷、悪化
+  - [x] **digestion** `[didʒéstʃən]` [名]: 消化、消化力、理解
 
 - [ ] PS0903_05079-05082 (Page 380)
   - [ ] **Sentence**: I thanked the timid boy for his courtesy, and he weakly muttered, "No problem." *(日译: 私がその内気な少年に親切にしてくれたことへのお礼を言うと、彼は「頼みませんよ」と弱々しくつぶやいた。)*
-  - [ ] **timid** `[tímid]` [形]: 内気な、自信のない、おどおどした、臆病な
-  - [ ] **courtesy** `[kə́ːrtəsi]` [名]: 親切、礼儀正しいこと、丁寧、慣例、好意
+  - [x] **timid** `[tímid]` [形]: 内気な、自信のない、おどおどした、臆病な
+  - [x] **courtesy** `[kə́ːrtəsi]` [名]: 親切、礼儀正しいこと、丁寧、慣例、好意
   - [x] **weakly** `[wíːkli]` [副]: 弱々しく、病弱に / [形]: 病弱な
-  - [ ] **mutter** `[mʌ́tər]` [他]: …を不明瞭な[低い]声で言う / [自]: 低く不明瞭な声で言う、ぼそぼそ文句を言う、ゴロゴロ鳴る (型: SV, SVO) / ・mutter against …(…に対して不平を言う) / [名]: ぼそぼそ言うこと、ゴロゴロと響く音
+  - [x] **mutter** `[mʌ́tər]` [他]: …を不明瞭な[低い]声で言う / [自]: 低く不明瞭な声で言う、ぼそぼそ文句を言う、ゴロゴロ鳴る (型: SV, SVO) / ・mutter against …(…に対して不平を言う) / [名]: ぼそぼそ言うこと、ゴロゴロと響く音
 
 - [ ] PS0904_05083-05085 (Page 381)
   - [ ] **Sentence**: Our company pledges to supply reliable, inexpensive products without harming the environment. *(日译: わが社は信頼できる安価な製品を、環境を害することなく供給することを誓います。)*
-  - [ ] **pledge** `[plédʒ]` [他]: …を誓う、…を誓約で縛りつける、…に誓約させる、…を固く約束する / [自]: 誓約する、乾杯する、約束する (型: SV, SVO) / ・pledge one's faith to …(…に誓う、…に誓約する) / ・pledge to do(…することを約束する) / [名]: 固い約束、誓約、質入れ、保証
+  - [x] **pledge** `[plédʒ]` [他]: …を誓う、…を誓約で縛りつける、…に誓約させる、…を固く約束する / [自]: 誓約する、乾杯する、約束する (型: SV, SVO) / ・pledge one's faith to …(…に誓う、…に誓約する) / ・pledge to do(…することを約束する) / [名]: 固い約束、誓約、質入れ、保証
   - [x] **reliable** `[riláiəbl]` [形]: 信頼できる、頼りになる、確かな、当てにできる
   - [x] **inexpensive** `[ìnikspénsiv]` [形]: 安価な、(値段の割に)価値のある、費用のかからない
 
@@ -176,9 +176,9 @@
 
 - [ ] PS0907_05091-05093 (Page 384)
   - [ ] **Sentence**: The dedicated nurse bathed the patient delicately with warm water. *(日译: その献身的な看護師はその患者をお湯で丁寧に入浴させた。)*
-  - [ ] **dedicated** `[dédikèitid]` [形]: 献身的な、打ち込んでいる、熱心な、専用の
-  - [ ] **bathe** `[béið]` [他]: …を風呂に入れる、…を濡らす / [自]: 入浴する、浴びる (型: SV, SVO) / ・bathe in the sun(日光浴をする)
-  - [ ] **delicately** `[délikətli]` [副]: 繊細に、上品に、微妙に
+  - [x] **dedicated** `[dédikèitid]` [形]: 献身的な、打ち込んでいる、熱心な、専用の
+  - [x] **bathe** `[béið]` [他]: …を風呂に入れる、…を濡らす / [自]: 入浴する、浴びる (型: SV, SVO) / ・bathe in the sun(日光浴をする)
+  - [x] **delicately** `[délikətli]` [副]: 繊細に、上品に、微妙に
   - [ ] **bounce** `[báuns]` [自]: 跳ね返る、跳ね上がる、反射する、弾む / [他]: …を弾ませる、…をバウンドさせる、…を反射させる (型: SV, SVO) / ・bounce back and forth between …(…の中でわれ試ししてみる) / ・bounce in and out of …(…から出たり入ったりする) / [名]: バウンド、跳ね返り
 
 - [ ] PS0908_05094-05095 (Page 385)
@@ -189,13 +189,13 @@
 
 - [ ] PS0909_05096-05098 (Page 385)
   - [ ] **Sentence**: My baby started choking and I was in a sheer panic. *(日译: 赤ん坊がむせ始めたので、私は完全なパニック状態になった。)*
-  - [ ] **choke** `[tʃóuk]` [自]: むせる、息が詰まる、窒息する、のどに詰まる / [他]: …を窒息させる、…を息苦しさせる、…を塞ぐ (型: SV, SVO) / ・choke back one's anger(怒りをこらえる) / ・choke down([薬・食べ物など]をやっと飲み下す) / ・choke off(窒息させる、絞め殺す、中止させる)
-  - [ ] **sheer** `[ʃíər]` [形]: 完全な、まったくの、純然たる、険しい、ごく薄い(限定用法) / [副]: 完全に、垂直に / [名]: 透けるほど薄い織物
+  - [x] **choke** `[tʃóuk]` [自]: むせる、息が詰まる、窒息する、のどに詰まる / [他]: …を窒息させる、…を息苦しさせる、…を塞ぐ (型: SV, SVO) / ・choke back one's anger(怒りをこらえる) / ・choke down([薬・食べ物など]をやっと飲み下す) / ・choke off(窒息させる、絞め殺す、中止させる)
+  - [x] **sheer** `[ʃíər]` [形]: 完全な、まったくの、純然たる、険しい、ごく薄い(限定用法) / [副]: 完全に、垂直に / [名]: 透けるほど薄い織物
 
 - [ ] PS0910_05099-05100 (Page 386)
   - [ ] **Sentence**: When we saw lightning in the fields, my father told us to crouch on the ground as a precaution. *(日译: 野原で稲妻を見たとき、父は僕たちに用心のために地面にかがむよう言った。)*
-  - [ ] **crouch** `[kráutʃ]` [自]: かがむ、しゃがむ、縮こまる、身をかがめる、べこべこする / [他]: …を低くする (型: SV, SVO) / ・crouch down(しゃがむ、身をかがめる) / [名]: かがむこと、縮こまること、うずくまった姿勢
-  - [ ] **precaution** `[prikɔ́ːʃən]` [名]: 予防措置、事前の対策、用心、避妊(具) / [他]: …に警告する、…に警戒させる
+  - [x] **crouch** `[kráutʃ]` [自]: かがむ、しゃがむ、縮こまる、身をかがめる、べこべこする / [他]: …を低くする (型: SV, SVO) / ・crouch down(しゃがむ、身をかがめる) / [名]: かがむこと、縮こまること、うずくまった姿勢
+  - [x] **precaution** `[prikɔ́ːʃən]` [名]: 予防措置、事前の対策、用心、避妊(具) / [他]: …に警告する、…に警戒させる
 
 - [ ] PS0911 (Page 386 - 📷 缺失页：未上传完整 386.png)
   - [ ] Sentence: (等待手动补充：例句及日译)
@@ -205,7 +205,7 @@
 - [ ] PS0912_05103-05104 (Page 387)
   - [ ] **Sentence**: The exhaustion was so bad that I flung myself on the couch as soon as I got home. *(日译: あまりにも疲れていたので、私は家に着くなりソファに体を投げ出した。)*
   - [x] **exhaustion** `[igzɔ́ːstʃən]` [名]: 極度の疲労、徹底的な究明、枯渇
-  - [ ] **fling** `[flíŋ]` [他]: …を放り出す、…を投げる、…を動かして(～の状態に)する、…をさっと伸ばす、…を投獄する / [自]: 荒々しく突っかかる、飛び出す、暴れ出す (型: SV, SVO, SVOC) / ・The teacher flung the door open.(先生は荒々しく戸を開けた) / ・fling at …(…に投げつける) / ・fling away(飛り飛ばす) / ・fling down(たたきつける、投げ下ろす) / [名]: 投げ飛ばすこと、勝手気まま、浮気
+  - [x] **fling** `[flíŋ]` [他]: …を放り出す、…を投げる、…を動かして(～の状態に)する、…をさっと伸ばす、…を投獄する / [自]: 荒々しく突っかかる、飛び出す、暴れ出す (型: SV, SVO, SVOC) / ・The teacher flung the door open.(先生は荒々しく戸を開けた) / ・fling at …(…に投げつける) / ・fling away(飛り飛ばす) / ・fling down(たたきつける、投げ下ろす) / [名]: 投げ飛ばすこと、勝手気まま、浮気
 
 - [ ] PS0913 
   - [ ] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
