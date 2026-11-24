@@ -179,7 +179,7 @@
   - [x] **dedicated** `[dédikèitid]` [形]: 献身的な、打ち込んでいる、熱心な、専用の
   - [x] **bathe** `[béið]` [他]: …を風呂に入れる、…を濡らす / [自]: 入浴する、浴びる (型: SV, SVO) / ・bathe in the sun(日光浴をする)
   - [x] **delicately** `[délikətli]` [副]: 繊細に、上品に、微妙に
-  - [ ] **bounce** `[báuns]` [自]: 跳ね返る、跳ね上がる、反射する、弾む / [他]: …を弾ませる、…をバウンドさせる、…を反射させる (型: SV, SVO) / ・bounce back and forth between …(…の中でわれ試ししてみる) / ・bounce in and out of …(…から出たり入ったりする) / [名]: バウンド、跳ね返り
+  - [x] **bounce** `[báuns]` [自]: 跳ね返る、跳ね上がる、反射する、弾む / [他]: …を弾ませる、…をバウンドさせる、…を反射させる (型: SV, SVO) / ・bounce back and forth between …(…の中でわれ試ししてみる) / ・bounce in and out of …(…から出たり入ったりする) / [名]: バウンド、跳ね返り
 
 - [ ] PS0908_05094-05095 (Page 385)
   - [ ] **Sentence**: I felt uneasy when I heard a bee buzzing noisily in the classroom. *(日译: 教室でハチがうるさくブンブンいっているのが聞こえて、私は落ち着かなかった。)*
@@ -208,73 +208,73 @@
   - [x] **fling** `[flíŋ]` [他]: …を放り出す、…を投げる、…を動かして(～の状態に)する、…をさっと伸ばす、…を投獄する / [自]: 荒々しく突っかかる、飛び出す、暴れ出す (型: SV, SVO, SVOC) / ・The teacher flung the door open.(先生は荒々しく戸を開けた) / ・fling at …(…に投げつける) / ・fling away(飛り飛ばす) / ・fling down(たたきつける、投げ下ろす) / [名]: 投げ飛ばすこと、勝手気まま、浮気
 
 - [ ] PS0913 
-  - [ ] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
-  - [ ] **banner** `[bǽnər]` [名]: 旗印、国旗、軍旗、(たれ)幕 / [形]: 一流の、最上の / [他]: …に旗を備える
-  - [ ] **flutter** `[flʌ́tər]` [自]: はためく、ばたばたする、ひるがえる / [他]: …をばたばた振る[打つ]、…をひらひらさせる (型: SV, SVO) / ・flutter about …(…をそわそわ歩きまわる) / ・flutter down(ひらひら舞い落ちる) / [名]: 羽ばたき、はためき
+  - [x] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
+  - [x] **banner** `[bǽnər]` [名]: 旗印、国旗、軍旗、(たれ)幕 / [形]: 一流の、最上の / [他]: …に旗を備える
+  - [x] **flutter** `[flʌ́tər]` [自]: はためく、ばたばたする、ひるがえる / [他]: …をばたばた振る[打つ]、…をひらひらさせる (型: SV, SVO) / ・flutter about …(…をそわそわ歩きまわる) / ・flutter down(ひらひら舞い落ちる) / [名]: 羽ばたき、はためき
 
   - 
 - [ ] PS0914_05108-05111 (Page 388)
   - [ ] **Sentence**: The congressman gasped in torment after being shot by an unknown gunman. *(日译: その議員は見知らぬ武装犯人に撃たれた後、苦痛で息をのんだ。)*
-  - [ ] **congressman** `[kάŋgrismən]` [名]: (米国)の国会議員、(特に)下院議員 / [名]: congressmen
-  - [ ] **gasp** `[gæsp]` [自]: 息が止まる、あえぐ、熱望する / [他]: …をあえぎながら言う (型: SV, SVO) / ・gasp at …(…を見てあっと驚く) / ・gasp one's last(息を引き取る) / [名]: あえぎ、息切れ、息が止まること、あえぎながら言う短い言葉
-  - [ ] **torment** `[tɔ́ːrment]` [名]: 苦痛、悩みのもと / [他]: …をひどく苦しめる
-  - [ ] **gunman** `[gʌ́nmən]` [名]: 武装犯人、殺し屋、銃の名手 / [名]: gunmen
+  - [x] **congressman** `[kάŋgrismən]` [名]: (米国)の国会議員、(特に)下院議員 / [名]: congressmen
+  - [x] **gasp** `[gæsp]` [自]: 息が止まる、あえぐ、熱望する / [他]: …をあえぎながら言う (型: SV, SVO) / ・gasp at …(…を見てあっと驚く) / ・gasp one's last(息を引き取る) / [名]: あえぎ、息切れ、息が止まること、あえぎながら言う短い言葉
+  - [x] **torment** `[tɔ́ːrment]` [名]: 苦痛、悩みのもと / [他]: …をひどく苦しめる
+  - [x] **gunman** `[gʌ́nmən]` [名]: 武装犯人、殺し屋、銃の名手 / [名]: gunmen
 
 
 
 - [ ] PS0915_05112-05114 (Page 388)
   - [ ] **Sentence**: An eagle was gliding peacefully in the chilly winter sky. *(日译: ワシが冷たい冬の空を静かに滑空していた。)*
-  - [ ] **glide** `[gláid]` [自]: 滑空する、滑る、音もなく流れる、滑走する、次第に移り変わる / [他]: …を滑らせる、…をするする動かす、…を滑走[滑空]させる (型: SV, SVO) / ・glide from … to ～(…から～へと移動する) / ・glide off(滑るように遠ざかる) / ・glide over …(…の上を滑走する、…をすっと通り越す)
+  - [x] **glide** `[gláid]` [自]: 滑空する、滑る、音もなく流れる、滑走する、次第に移り変わる / [他]: …を滑らせる、…をするする動かす、…を滑走[滑空]させる (型: SV, SVO) / ・glide from … to ～(…から～へと移動する) / ・glide off(滑るように遠ざかる) / ・glide over …(…の上を滑走する、…をすっと通り越す)
   - [x] **peacefully** `[píːsfəli]` [副]: 静かに、穏やかに、平和的に、円満に
 
 - [ ] PS0916_05115-05116 (Page 389)
   - [ ] **Sentence**: The shepherds take sheep to highland areas and allow them to graze pastures there. *(日译: 羊飼いたちは羊を高地領域に連れて行き、そこで牧草を食べさせる。)*
   - [x] **chilly** `[tʃíli]` [形]: ひんやりする、寒さを感じさせる、ぞっとさせる、冷淡な / [副]: ひんやりと、寒々と、冷淡に
-  - [ ] **highland** `[háilənd]` [名]: 高地、大地、山岳地方、(the Highlands で)スコットランド高地地方 / [形]: 山岳地方の(限定用法)
-  - [ ] **graze** `[gréiz]` [自]: (牛・羊が)…を食べる[はむ]、…に家畜を入れる、…を牧草地として使う / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて、…をすりむく / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて通り、触れてすりむく (型: SV, SVO) / ・graze one's knee(ひざをすりむく) / [名]: かすめること、すりむくこと、かすり傷
+  - [x] **highland** `[háilənd]` [名]: 高地、大地、山岳地方、(the Highlands で)スコットランド高地地方 / [形]: 山岳地方の(限定用法)
+  - [x] **graze** `[gréiz]` [自]: (牛・羊が)…を食べる[はむ]、…に家畜を入れる、…を牧草地として使う / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて、…をすりむく / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて通り、触れてすりむく (型: SV, SVO) / ・graze one's knee(ひざをすりむく) / [名]: かすめること、すりむくこと、かすり傷
 
 - [ ] PS0917_05117-05118 (Page 390)
   - [ ] **Sentence**: The nationalists hailed the defeat of the liberal government. *(日译: 国家主義者たちは自由主義政府の敗北を歓迎した。)*
   - [x] **nationalist** `[nǽʃənəlist]` [名]: 国家主義者、民族主義者、(Nationalist で)国民党員 / [形]: 国家主義(者)の、愛国的な、民族主義(者)の、(Nationalist で)国民党の
-  - [ ] **hail** `[héil]` [他]: …を歓迎する、…にあいさつする、…に喝采を送る / [自]: 呼びかける (型: SV, SVO) / ・hail blows on …(…をボカボカ殴る) / ・hail down(天罰を下したまえと祈る) / [名]: ①叫び声、呼びかけ ②あられ、ひょう / [名]: 万歳
+  - [x] **hail** `[héil]` [他]: …を歓迎する、…にあいさつする、…に喝采を送る / [自]: 呼びかける (型: SV, SVO) / ・hail blows on …(…をボカボカ殴る) / ・hail down(天罰を下したまえと祈る) / [名]: ①叫び声、呼びかけ ②あられ、ひょう / [名]: 万歳
 
 - [ ] PS0918_05119-05120 (Page 390)
   - [ ] **Sentence**: He was panting heavily after running up the staircase. *(日译: 彼は階段を駆け上がった後、ひどく息を切らせていた。)*
-  - [ ] **pant** `[pǽnt]` [自]: 息を切らす、あえぐ、蒸気を吐く、熱望する、あこがれる / [他]: …をあえぎながら言う (型: SV, SVO) / [名]: あえぎ、息切れ、どきどき
+  - [x] **pant** `[pǽnt]` [自]: 息を切らす、あえぐ、蒸気を吐く、熱望する、あこがれる / [他]: …をあえぎながら言う (型: SV, SVO) / [名]: あえぎ、息切れ、どきどき
   - [x] **staircase** `[stɛ́ərkèis]` [名]: 階段
 
 - [ ] PS0919_05121-05123 (Page 391)
   - [ ] **Sentence**: The cuckoo was pecking at a worm in the grove. *(日译: カッコウがその木立の中で虫をついばんでいた。)*
-  - [ ] **cuckoo** `[kúːkuː]` [名]: カッコウ、カッコウの鳴き声 / [形]: カッコウカッコウと鳴く[鳴る] / [形]: 間抜けな(叙述用法が多い)
-  - [ ] **peck** `[pék]` [他]: くちばしで(間断なく)つつく、ついばむ、少しずつ食べる、あらを探す / [自]: …をつつく、…をつついて開ける、…を彫る、…をつつき出す (型: SV, SVO) / ・peck at …(…をついばむ) / [名]: つつくこと[音]
-  - [ ] **grove** `[gróuv]` [名]: 林、木立、小さな果樹園
+  - [x] **cuckoo** `[kúːkuː]` [名]: カッコウ、カッコウの鳴き声 / [形]: カッコウカッコウと鳴く[鳴る] / [形]: 間抜けな(叙述用法が多い)
+  - [x] **peck** `[pék]` [他]: くちばしで(間断なく)つつく、ついばむ、少しずつ食べる、あらを探す / [自]: …をつつく、…をつついて開ける、…を彫る、…をつつき出す (型: SV, SVO) / ・peck at …(…をついばむ) / [名]: つつくこと[音]
+  - [x] **grove** `[gróuv]` [名]: 林、木立、小さな果樹園
 
 - [ ] PS0920_05124-05125 (Page 391)
   - [ ] **Sentence**: The temperature will plunge tonight on the outskirts of town. *(日译: 気温は今夜、町の郊外で急激に下がるだろう。)*
-  - [ ] **plunge** `[plʌ́ndʒ]` [自]: 急落する、(ある状態に)陥る、飛び込む、突進する / [他]: …を浸す、…を押し込む (型: SV, SVO) / ・plunge to …(…に急落する) / ・plunge into …(…に飛び込む、…に陥る、急に…し始める) / [名]: 突進、遊泳場、投資
-  - [ ] **outskirts** `[áutskə̀ːrts]` [名]: 町外れ、周辺部(複数扱い)
+  - [x] **plunge** `[plʌ́ndʒ]` [自]: 急落する、(ある状態に)陥る、飛び込む、突進する / [他]: …を浸す、…を押し込む (型: SV, SVO) / ・plunge to …(…に急落する) / ・plunge into …(…に飛び込む、…に陥る、急に…し始める) / [名]: 突進、遊泳場、投資
+  - [x] **outskirts** `[áutskə̀ːrts]` [名]: 町外れ、周辺部(複数扱い)
 
 - [ ] PS0921_05126-05127 (Page 392)
   - [ ] **Sentence**: Comets revolve around the sun like planets. *(日译: すい星も惑星と同様に太陽の周りを公転している。)*
-  - [ ] **comet** `[kάmət]` [名]: すい星
-  - [ ] **revolve** `[rivάlv]` [自]: 公転する、ぐるぐる回る、回転する、循環する、回帰する / [他]: …を回転させる、…を回らせる、…を円を描いて動かす、…を思い巡らす (型: SV, SVO) / ・revolve around …(…を中心に回転する) / ・revolve … in the mind(…を熟考する)
+  - [x] **comet** `[kάmət]` [名]: すい星
+  - [x] **revolve** `[rivάlv]` [自]: 公転する、ぐるぐる回る、回転する、循環する、回帰する / [他]: …を回転させる、…を回らせる、…を円を描いて動かす、…を思い巡らす (型: SV, SVO) / ・revolve around …(…を中心に回転する) / ・revolve … in the mind(…を熟考する)
 
 - [ ] PS0922_05128-05129 (Page 392)
   - [ ] **Sentence**: I informed a librarian that several pages had been ripped from the library book. *(日译: その図書館の本から何ページかが破られていたことを、私は図書館員に知らせた。)*
   - [x] **librarian** `[lairɛ́əriən]` [名]: 司書、図書館員
-  - [ ] **rip** `[rip]` [他]: …を引き裂く、…を切り開く、…をはぎ取る / [自]: 裂ける、破れる、ちぎれる (型: SV, SVO) / ・rip along(突進する) / ・rip into …(…に穴を開ける) / ・rip off …(…をはぎ取る、…を暗霧する、…をだまし取る) / [名]: 裂け目、ほころび、傷口、泥棒
+  - [x] **rip** `[rip]` [他]: …を引き裂く、…を切り開く、…をはぎ取る / [自]: 裂ける、破れる、ちぎれる (型: SV, SVO) / ・rip along(突進する) / ・rip into …(…に穴を開ける) / ・rip off …(…をはぎ取る、…を暗霧する、…をだまし取る) / [名]: 裂け目、ほころび、傷口、泥棒
 
 - [ ] PS0923_05130-05132 (Page 393)
   - [ ] **Sentence**: We roamed around the island in search of the spectacular waterfall that was shown in the guidebook. *(日译: ガイドブックにあった見事な滝を求めて、われわれは島中を歩き回った。)*
   - [ ] **roam** `[róum]` [自]: 歩き回る、放浪する、 / [他]: …を歩き回る、…を放浪する (型: SV, SVO) / ・roam around …(…を歩き回る) / [名]: 歩き回ること、散策、放浪
   - [x] **spectacular** `[spektǽkjulər]` [形]: 見事な、壮大な、人の目を引くける / [名]: 特別テレビ番組、大々的見世物、超大作
-  - [ ] **waterfall** `[wɔ́ːtərfɔ̀ːl]` [名]: 滝、落水
+  - [x] **waterfall** `[wɔ́ːtərfɔ̀ːl]` [名]: 滝、落水
 
 - [ ] PS0924_05133-05135 (Page 393)
   - [ ] **Sentence**: Correspondents scrambled to cover the controversial trial. *(日译: 記者たちは論争を呼んでいるその裁判を取材した。)*
   - [x] **correspondent** `[kɔ̀ːrəspάndənt]` [名]: 通信員、特派員、地方代理店[駐在員]、対応するもの / [形]: 一致する、対応する
-  - [ ] **scramble** `[skrǽmbl]` [自]: 先を争う、奪い合う、よじ登る / [他]: …を急いで寄せ集める、…をこちゃまぜにする (型: SV, SVO) / ・scramble to do(…しようと先を争う) / ・scramble along(どうにか暮らしていく) / ・scramble away(慌てて逃げる) / ・scramble for …(…を奪い合う) / [名]: はい登ること、奪い合い、緊急発進
-  - [ ] **controversial** `[kὰntrəvə́ːrʃəl]` [形]: 論争の、異論のある、議論好きの
+  - [x] **scramble** `[skrǽmbl]` [自]: 先を争う、奪い合う、よじ登る / [他]: …を急いで寄せ集める、…をこちゃまぜにする (型: SV, SVO) / ・scramble to do(…しようと先を争う) / ・scramble along(どうにか暮らしていく) / ・scramble away(慌てて逃げる) / ・scramble for …(…を奪い合う) / [名]: はい登ること、奪い合い、緊急発進
+  - [x] **controversial** `[kὰntrəvə́ːrʃəl]` [形]: 論争の、異論のある、議論好きの
 
 - [ ] PS0925_05136-05137 (Page 394)
   - [ ] **Sentence**: My apartment doesn't have adequate heating, so I was shivering with the cold last night. *(日译: うちのアパートには十分な暖房がないので、私は昨夜、寒くて震えていた。)*
