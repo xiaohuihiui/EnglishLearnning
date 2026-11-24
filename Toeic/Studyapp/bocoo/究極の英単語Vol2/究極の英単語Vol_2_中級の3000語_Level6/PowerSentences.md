@@ -179,7 +179,7 @@
   - [x] **dedicated** `[dédikèitid]` [形]: 献身的な、打ち込んでいる、熱心な、専用の
   - [x] **bathe** `[béið]` [他]: …を風呂に入れる、…を濡らす / [自]: 入浴する、浴びる (型: SV, SVO) / ・bathe in the sun(日光浴をする)
   - [x] **delicately** `[délikətli]` [副]: 繊細に、上品に、微妙に
-  - [ ] **bounce** `[báuns]` [自]: 跳ね返る、跳ね上がる、反射する、弾む / [他]: …を弾ませる、…をバウンドさせる、…を反射させる (型: SV, SVO) / ・bounce back and forth between …(…の中でわれ試ししてみる) / ・bounce in and out of …(…から出たり入ったりする) / [名]: バウンド、跳ね返り
+  - [x] **bounce** `[báuns]` [自]: 跳ね返る、跳ね上がる、反射する、弾む / [他]: …を弾ませる、…をバウンドさせる、…を反射させる (型: SV, SVO) / ・bounce back and forth between …(…の中でわれ試ししてみる) / ・bounce in and out of …(…から出たり入ったりする) / [名]: バウンド、跳ね返り
 
 - [ ] PS0908_05094-05095 (Page 385)
   - [ ] **Sentence**: I felt uneasy when I heard a bee buzzing noisily in the classroom. *(日译: 教室でハチがうるさくブンブンいっているのが聞こえて、私は落ち着かなかった。)*
@@ -208,125 +208,125 @@
   - [x] **fling** `[flíŋ]` [他]: …を放り出す、…を投げる、…を動かして(～の状態に)する、…をさっと伸ばす、…を投獄する / [自]: 荒々しく突っかかる、飛び出す、暴れ出す (型: SV, SVO, SVOC) / ・The teacher flung the door open.(先生は荒々しく戸を開けた) / ・fling at …(…に投げつける) / ・fling away(飛り飛ばす) / ・fling down(たたきつける、投げ下ろす) / [名]: 投げ飛ばすこと、勝手気まま、浮気
 
 - [ ] PS0913 
-  - [ ] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
-  - [ ] **banner** `[bǽnər]` [名]: 旗印、国旗、軍旗、(たれ)幕 / [形]: 一流の、最上の / [他]: …に旗を備える
-  - [ ] **flutter** `[flʌ́tər]` [自]: はためく、ばたばたする、ひるがえる / [他]: …をばたばた振る[打つ]、…をひらひらさせる (型: SV, SVO) / ・flutter about …(…をそわそわ歩きまわる) / ・flutter down(ひらひら舞い落ちる) / [名]: 羽ばたき、はためき
+  - [x] **triangular** `[traiǽŋgjulər]` [形]: 三角(形)の、三角柱の
+  - [x] **banner** `[bǽnər]` [名]: 旗印、国旗、軍旗、(たれ)幕 / [形]: 一流の、最上の / [他]: …に旗を備える
+  - [x] **flutter** `[flʌ́tər]` [自]: はためく、ばたばたする、ひるがえる / [他]: …をばたばた振る[打つ]、…をひらひらさせる (型: SV, SVO) / ・flutter about …(…をそわそわ歩きまわる) / ・flutter down(ひらひら舞い落ちる) / [名]: 羽ばたき、はためき
 
   - 
 - [ ] PS0914_05108-05111 (Page 388)
   - [ ] **Sentence**: The congressman gasped in torment after being shot by an unknown gunman. *(日译: その議員は見知らぬ武装犯人に撃たれた後、苦痛で息をのんだ。)*
-  - [ ] **congressman** `[kάŋgrismən]` [名]: (米国)の国会議員、(特に)下院議員 / [名]: congressmen
-  - [ ] **gasp** `[gæsp]` [自]: 息が止まる、あえぐ、熱望する / [他]: …をあえぎながら言う (型: SV, SVO) / ・gasp at …(…を見てあっと驚く) / ・gasp one's last(息を引き取る) / [名]: あえぎ、息切れ、息が止まること、あえぎながら言う短い言葉
-  - [ ] **torment** `[tɔ́ːrment]` [名]: 苦痛、悩みのもと / [他]: …をひどく苦しめる
-  - [ ] **gunman** `[gʌ́nmən]` [名]: 武装犯人、殺し屋、銃の名手 / [名]: gunmen
+  - [x] **congressman** `[kάŋgrismən]` [名]: (米国)の国会議員、(特に)下院議員 / [名]: congressmen
+  - [x] **gasp** `[gæsp]` [自]: 息が止まる、あえぐ、熱望する / [他]: …をあえぎながら言う (型: SV, SVO) / ・gasp at …(…を見てあっと驚く) / ・gasp one's last(息を引き取る) / [名]: あえぎ、息切れ、息が止まること、あえぎながら言う短い言葉
+  - [x] **torment** `[tɔ́ːrment]` [名]: 苦痛、悩みのもと / [他]: …をひどく苦しめる
+  - [x] **gunman** `[gʌ́nmən]` [名]: 武装犯人、殺し屋、銃の名手 / [名]: gunmen
 
 
 
 - [ ] PS0915_05112-05114 (Page 388)
   - [ ] **Sentence**: An eagle was gliding peacefully in the chilly winter sky. *(日译: ワシが冷たい冬の空を静かに滑空していた。)*
-  - [ ] **glide** `[gláid]` [自]: 滑空する、滑る、音もなく流れる、滑走する、次第に移り変わる / [他]: …を滑らせる、…をするする動かす、…を滑走[滑空]させる (型: SV, SVO) / ・glide from … to ～(…から～へと移動する) / ・glide off(滑るように遠ざかる) / ・glide over …(…の上を滑走する、…をすっと通り越す)
+  - [x] **glide** `[gláid]` [自]: 滑空する、滑る、音もなく流れる、滑走する、次第に移り変わる / [他]: …を滑らせる、…をするする動かす、…を滑走[滑空]させる (型: SV, SVO) / ・glide from … to ～(…から～へと移動する) / ・glide off(滑るように遠ざかる) / ・glide over …(…の上を滑走する、…をすっと通り越す)
   - [x] **peacefully** `[píːsfəli]` [副]: 静かに、穏やかに、平和的に、円満に
 
 - [ ] PS0916_05115-05116 (Page 389)
   - [ ] **Sentence**: The shepherds take sheep to highland areas and allow them to graze pastures there. *(日译: 羊飼いたちは羊を高地領域に連れて行き、そこで牧草を食べさせる。)*
   - [x] **chilly** `[tʃíli]` [形]: ひんやりする、寒さを感じさせる、ぞっとさせる、冷淡な / [副]: ひんやりと、寒々と、冷淡に
-  - [ ] **highland** `[háilənd]` [名]: 高地、大地、山岳地方、(the Highlands で)スコットランド高地地方 / [形]: 山岳地方の(限定用法)
-  - [ ] **graze** `[gréiz]` [自]: (牛・羊が)…を食べる[はむ]、…に家畜を入れる、…を牧草地として使う / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて、…をすりむく / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて通り、触れてすりむく (型: SV, SVO) / ・graze one's knee(ひざをすりむく) / [名]: かすめること、すりむくこと、かすり傷
+  - [x] **highland** `[háilənd]` [名]: 高地、大地、山岳地方、(the Highlands で)スコットランド高地地方 / [形]: 山岳地方の(限定用法)
+  - [x] **graze** `[gréiz]` [自]: (牛・羊が)…を食べる[はむ]、…に家畜を入れる、…を牧草地として使う / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて、…をすりむく / [他]: ①生草を食べる、家畜を放牧する ②軽く触れて通り、触れてすりむく (型: SV, SVO) / ・graze one's knee(ひざをすりむく) / [名]: かすめること、すりむくこと、かすり傷
 
 - [ ] PS0917_05117-05118 (Page 390)
   - [ ] **Sentence**: The nationalists hailed the defeat of the liberal government. *(日译: 国家主義者たちは自由主義政府の敗北を歓迎した。)*
   - [x] **nationalist** `[nǽʃənəlist]` [名]: 国家主義者、民族主義者、(Nationalist で)国民党員 / [形]: 国家主義(者)の、愛国的な、民族主義(者)の、(Nationalist で)国民党の
-  - [ ] **hail** `[héil]` [他]: …を歓迎する、…にあいさつする、…に喝采を送る / [自]: 呼びかける (型: SV, SVO) / ・hail blows on …(…をボカボカ殴る) / ・hail down(天罰を下したまえと祈る) / [名]: ①叫び声、呼びかけ ②あられ、ひょう / [名]: 万歳
+  - [x] **hail** `[héil]` [他]: …を歓迎する、…にあいさつする、…に喝采を送る / [自]: 呼びかける (型: SV, SVO) / ・hail blows on …(…をボカボカ殴る) / ・hail down(天罰を下したまえと祈る) / [名]: ①叫び声、呼びかけ ②あられ、ひょう / [名]: 万歳
 
 - [ ] PS0918_05119-05120 (Page 390)
   - [ ] **Sentence**: He was panting heavily after running up the staircase. *(日译: 彼は階段を駆け上がった後、ひどく息を切らせていた。)*
-  - [ ] **pant** `[pǽnt]` [自]: 息を切らす、あえぐ、蒸気を吐く、熱望する、あこがれる / [他]: …をあえぎながら言う (型: SV, SVO) / [名]: あえぎ、息切れ、どきどき
+  - [x] **pant** `[pǽnt]` [自]: 息を切らす、あえぐ、蒸気を吐く、熱望する、あこがれる / [他]: …をあえぎながら言う (型: SV, SVO) / [名]: あえぎ、息切れ、どきどき
   - [x] **staircase** `[stɛ́ərkèis]` [名]: 階段
 
 - [ ] PS0919_05121-05123 (Page 391)
   - [ ] **Sentence**: The cuckoo was pecking at a worm in the grove. *(日译: カッコウがその木立の中で虫をついばんでいた。)*
-  - [ ] **cuckoo** `[kúːkuː]` [名]: カッコウ、カッコウの鳴き声 / [形]: カッコウカッコウと鳴く[鳴る] / [形]: 間抜けな(叙述用法が多い)
-  - [ ] **peck** `[pék]` [他]: くちばしで(間断なく)つつく、ついばむ、少しずつ食べる、あらを探す / [自]: …をつつく、…をつついて開ける、…を彫る、…をつつき出す (型: SV, SVO) / ・peck at …(…をついばむ) / [名]: つつくこと[音]
-  - [ ] **grove** `[gróuv]` [名]: 林、木立、小さな果樹園
+  - [x] **cuckoo** `[kúːkuː]` [名]: カッコウ、カッコウの鳴き声 / [形]: カッコウカッコウと鳴く[鳴る] / [形]: 間抜けな(叙述用法が多い)
+  - [x] **peck** `[pék]` [他]: くちばしで(間断なく)つつく、ついばむ、少しずつ食べる、あらを探す / [自]: …をつつく、…をつついて開ける、…を彫る、…をつつき出す (型: SV, SVO) / ・peck at …(…をついばむ) / [名]: つつくこと[音]
+  - [x] **grove** `[gróuv]` [名]: 林、木立、小さな果樹園
 
 - [ ] PS0920_05124-05125 (Page 391)
   - [ ] **Sentence**: The temperature will plunge tonight on the outskirts of town. *(日译: 気温は今夜、町の郊外で急激に下がるだろう。)*
-  - [ ] **plunge** `[plʌ́ndʒ]` [自]: 急落する、(ある状態に)陥る、飛び込む、突進する / [他]: …を浸す、…を押し込む (型: SV, SVO) / ・plunge to …(…に急落する) / ・plunge into …(…に飛び込む、…に陥る、急に…し始める) / [名]: 突進、遊泳場、投資
-  - [ ] **outskirts** `[áutskə̀ːrts]` [名]: 町外れ、周辺部(複数扱い)
+  - [x] **plunge** `[plʌ́ndʒ]` [自]: 急落する、(ある状態に)陥る、飛び込む、突進する / [他]: …を浸す、…を押し込む (型: SV, SVO) / ・plunge to …(…に急落する) / ・plunge into …(…に飛び込む、…に陥る、急に…し始める) / [名]: 突進、遊泳場、投資
+  - [x] **outskirts** `[áutskə̀ːrts]` [名]: 町外れ、周辺部(複数扱い)
 
 - [ ] PS0921_05126-05127 (Page 392)
   - [ ] **Sentence**: Comets revolve around the sun like planets. *(日译: すい星も惑星と同様に太陽の周りを公転している。)*
-  - [ ] **comet** `[kάmət]` [名]: すい星
-  - [ ] **revolve** `[rivάlv]` [自]: 公転する、ぐるぐる回る、回転する、循環する、回帰する / [他]: …を回転させる、…を回らせる、…を円を描いて動かす、…を思い巡らす (型: SV, SVO) / ・revolve around …(…を中心に回転する) / ・revolve … in the mind(…を熟考する)
+  - [x] **comet** `[kάmət]` [名]: すい星
+  - [x] **revolve** `[rivάlv]` [自]: 公転する、ぐるぐる回る、回転する、循環する、回帰する / [他]: …を回転させる、…を回らせる、…を円を描いて動かす、…を思い巡らす (型: SV, SVO) / ・revolve around …(…を中心に回転する) / ・revolve … in the mind(…を熟考する)
 
 - [ ] PS0922_05128-05129 (Page 392)
   - [ ] **Sentence**: I informed a librarian that several pages had been ripped from the library book. *(日译: その図書館の本から何ページかが破られていたことを、私は図書館員に知らせた。)*
   - [x] **librarian** `[lairɛ́əriən]` [名]: 司書、図書館員
-  - [ ] **rip** `[rip]` [他]: …を引き裂く、…を切り開く、…をはぎ取る / [自]: 裂ける、破れる、ちぎれる (型: SV, SVO) / ・rip along(突進する) / ・rip into …(…に穴を開ける) / ・rip off …(…をはぎ取る、…を暗霧する、…をだまし取る) / [名]: 裂け目、ほころび、傷口、泥棒
+  - [x] **rip** `[rip]` [他]: …を引き裂く、…を切り開く、…をはぎ取る / [自]: 裂ける、破れる、ちぎれる (型: SV, SVO) / ・rip along(突進する) / ・rip into …(…に穴を開ける) / ・rip off …(…をはぎ取る、…を暗霧する、…をだまし取る) / [名]: 裂け目、ほころび、傷口、泥棒
 
 - [ ] PS0923_05130-05132 (Page 393)
   - [ ] **Sentence**: We roamed around the island in search of the spectacular waterfall that was shown in the guidebook. *(日译: ガイドブックにあった見事な滝を求めて、われわれは島中を歩き回った。)*
   - [ ] **roam** `[róum]` [自]: 歩き回る、放浪する、 / [他]: …を歩き回る、…を放浪する (型: SV, SVO) / ・roam around …(…を歩き回る) / [名]: 歩き回ること、散策、放浪
   - [x] **spectacular** `[spektǽkjulər]` [形]: 見事な、壮大な、人の目を引くける / [名]: 特別テレビ番組、大々的見世物、超大作
-  - [ ] **waterfall** `[wɔ́ːtərfɔ̀ːl]` [名]: 滝、落水
+  - [x] **waterfall** `[wɔ́ːtərfɔ̀ːl]` [名]: 滝、落水
 
 - [ ] PS0924_05133-05135 (Page 393)
   - [ ] **Sentence**: Correspondents scrambled to cover the controversial trial. *(日译: 記者たちは論争を呼んでいるその裁判を取材した。)*
   - [x] **correspondent** `[kɔ̀ːrəspάndənt]` [名]: 通信員、特派員、地方代理店[駐在員]、対応するもの / [形]: 一致する、対応する
-  - [ ] **scramble** `[skrǽmbl]` [自]: 先を争う、奪い合う、よじ登る / [他]: …を急いで寄せ集める、…をこちゃまぜにする (型: SV, SVO) / ・scramble to do(…しようと先を争う) / ・scramble along(どうにか暮らしていく) / ・scramble away(慌てて逃げる) / ・scramble for …(…を奪い合う) / [名]: はい登ること、奪い合い、緊急発進
-  - [ ] **controversial** `[kὰntrəvə́ːrʃəl]` [形]: 論争の、異論のある、議論好きの
+  - [x] **scramble** `[skrǽmbl]` [自]: 先を争う、奪い合う、よじ登る / [他]: …を急いで寄せ集める、…をこちゃまぜにする (型: SV, SVO) / ・scramble to do(…しようと先を争う) / ・scramble along(どうにか暮らしていく) / ・scramble away(慌てて逃げる) / ・scramble for …(…を奪い合う) / [名]: はい登ること、奪い合い、緊急発進
+  - [x] **controversial** `[kὰntrəvə́ːrʃəl]` [形]: 論争の、異論のある、議論好きの
 
 - [ ] PS0925_05136-05137 (Page 394)
   - [ ] **Sentence**: My apartment doesn't have adequate heating, so I was shivering with the cold last night. *(日译: うちのアパートには十分な暖房がないので、私は昨夜、寒くて震えていた。)*
-  - [ ] **adequate** `[ǽdikwət]` [形]: 十分な、適する、妥当な
-  - [ ] **shiver** `[ʃívər]` [自]: 身震いする、おののく、揺れる (型: SV) / ・shiver with[from] cold(寒さで震える) / ・shiver with fear(怖くて震える) / [名]: 身震い、おののき、寒気
+  - [x] **adequate** `[ǽdikwət]` [形]: 十分な、適する、妥当な
+  - [x] **shiver** `[ʃívər]` [自]: 身震いする、おののく、揺れる (型: SV) / ・shiver with[from] cold(寒さで震える) / ・shiver with fear(怖くて震える) / [名]: 身震い、おののき、寒気
 
 - [ ] PS0926_05138-05140 (Page 394)
   - [ ] **Sentence**: It was unbearable to hear his transparent excuses, so I slammed the door with all my strength. *(日译: 彼の見え透いた言い訳を聞くのは耐えられなかったので、私はドアを力いっぱいピシャリと閉めた。)*
-  - [ ] **unbearable** `[ʌnbɛ́ərəbl]` [形]: 耐えられない、我慢できない
+  - [x] **unbearable** `[ʌnbɛ́ərəbl]` [形]: 耐えられない、我慢できない
   - [x] **transparent** `[trænspɛ́ərənt]` [形]: 明白な、分かりやすい、透き通る、気取らない
-  - [ ] **slam** `[slæm]` [他]: …をバタン[ピシャリ]と閉める、…を投げつける、…をたたきつける、…をドシンと置く、…をけなす / [自]: バタン[ピシャリ]と閉まる、音を立ててぶつかる、踏む (型: SV, SVO) / ・slam … down(…をガシャンと置く) / ・slam into …(…にぶつかる) / ・slam off(たたばる) / [名]: 荒っぽく閉めること、バタンという音、酷評
+  - [x] **slam** `[slæm]` [他]: …をバタン[ピシャリ]と閉める、…を投げつける、…をたたきつける、…をドシンと置く、…をけなす / [自]: バタン[ピシャリ]と閉まる、音を立ててぶつかる、踏む (型: SV, SVO) / ・slam … down(…をガシャンと置く) / ・slam into …(…にぶつかる) / ・slam off(たたばる) / [名]: 荒っぽく閉めること、バタンという音、酷評
 
 - [ ] PS0927_05141-05142 (Page 395)
   - [ ] **Sentence**: An upset player spat on the umpire and was ordered to leave the field. *(日译: カッとなった選手が審判に向かってつばを吐き、退場を命じられた。)*
-  - [ ] **spit** `[spít]` [自]: つばを吐く、軽蔑する、(ネコなどが)フウっと鳴る、ぶつぶつ言う / [他]: …を吐く、…を戻す、…を吐き出すように言う、…に火をつける (型: SV, SVO) / ・spit a curse at …(…に悪態を吐く) / ・spit it out(はっきり言う) / [名]: つばを吐くこと、つば
-  - [ ] **umpire** `[ʌ́mpaiər]` [名]: アンパイア、審判員、仲裁者、裁定人 / [他]: …の審判をする、…を裁定する / [自]: 審判員[仲裁者]を務める
+  - [x] **spit** `[spít]` [自]: つばを吐く、軽蔑する、(ネコなどが)フウっと鳴る、ぶつぶつ言う / [他]: …を吐く、…を戻す、…を吐き出すように言う、…に火をつける (型: SV, SVO) / ・spit a curse at …(…に悪態を吐く) / ・spit it out(はっきり言う) / [名]: つばを吐くこと、つば
+  - [x] **umpire** `[ʌ́mpaiər]` [名]: アンパイア、審判員、仲裁者、裁定人 / [他]: …の審判をする、…を裁定する / [自]: 審判員[仲裁者]を務める
 
 - [ ] PS0928_05143-05144 (Page 395)
   - [ ] **Sentence**: Ben insisted that he was sober, but he was apparently staggering. *(日译: ベンは自分はしらふだと言い張ったが、見たところではふらついていた。)*
-  - [ ] **sober** `[sóubər]` [形]: 酔っていない、しらふの、静かな、落ち着いた、ありのままの / [他]: …を落ち着かせる、…をまじめにする、…の酔いを覚ませる / [自]: 酔いがさめる、まじめになる、落ち着く / [形]: 地味な、落ち着いた色の
+  - [x] **sober** `[sóubər]` [形]: 酔っていない、しらふの、静かな、落ち着いた、ありのままの / [他]: …を落ち着かせる、…をまじめにする、…の酔いを覚ませる / [自]: 酔いがさめる、まじめになる、落ち着く / [形]: 地味な、落ち着いた色の
 
 - [ ] PS0929_05145-05146 (Page 396)
   - [ ] **Sentence**: The cat stalked a butterfly and caught it in his paws. *(日译: そのネコはチョウに忍び寄り、足でチョウをつかまえた。)*
-  - [ ] **stalk** `[stɔ́ːk]` [他]: …に忍び寄る、…をひそかに追う、…に犯意を持ってつきまとう / [自]: ゆったりとした足どりで歩く、忍び寄る、こっそり追跡する、堂々と歩く (型: SV, SVO) / ・stalk along(肩をそびやかして歩く) / [名]: ①忍び寄ること、ひそかな追跡、ゆったりした足どり ②茎、細長い支え
-  - [ ] **paw** `[pɔ́ː]` [名]: 動物の足、人の手 / [他]: …を足で叩く、…を不器用に扱う / [自]: 足で地面を打つ、不器用に扱う
+  - [x] **stalk** `[stɔ́ːk]` [他]: …に忍び寄る、…をひそかに追う、…に犯意を持ってつきまとう / [自]: ゆったりとした足どりで歩く、忍び寄る、こっそり追跡する、堂々と歩く (型: SV, SVO) / ・stalk along(肩をそびやかして歩く) / [名]: ①忍び寄ること、ひそかな追跡、ゆったりした足どり ②茎、細長い支え
+  - [x] **paw** `[pɔ́ː]` [名]: 動物の足、人の手 / [他]: …を足で叩く、…を不器用に扱う / [自]: 足で地面を打つ、不器用に扱う
 
 - [ ] PS0930_05147-05149 (Page 396)
   - [ ] **Sentence**: The old and feeble walnut tree was swaying in the wind. *(日译: 年老いて弱ったクルミの木が風に揺れていた。)*
-  - [ ] **feeble** `[fíːbl]` [形]: 体力の弱った、虚弱な、頭の弱い、意志の弱い、かすかな
-  - [ ] **walnut** `[wɔ́ːlnʌt]` [名]: クルミ、クルミの実、クルミ材(色)
-  - [ ] **sway** `[swéi]` [自]: 揺れる、ふらつく、傾く、動く / [他]: …を動かす、…を揺する、…をくらつかせる (型: SV, SVO) / ・sway from side to side(左右に揺れる、横揺れする) / ・sway off into …(…にふらまき戻る) / [名]: 揺れること、動揺
+  - [x] **feeble** `[fíːbl]` [形]: 体力の弱った、虚弱な、頭の弱い、意志の弱い、かすかな
+  - [x] **walnut** `[wɔ́ːlnʌt]` [名]: クルミ、クルミの実、クルミ材(色)
+  - [x] **sway** `[swéi]` [自]: 揺れる、ふらつく、傾く、動く / [他]: …を動かす、…を揺する、…をくらつかせる (型: SV, SVO) / ・sway from side to side(左右に揺れる、横揺れする) / ・sway off into …(…にふらまき戻る) / [名]: 揺れること、動揺
 
 - [ ] PS0931_05150-05151 (Page 397)
   - [ ] **Sentence**: The cocktail made me feel so dizzy that I thrust through the crowd to the restroom. *(日译: カクテルでひどく目が回ったので、私は人込みを押し分けて化粧室へ向かった。)*
-  - [ ] **dizzy** `[dízi]` [形]: 目が回る、めまいがする、くらくらする、目がくらむような、無頓着な / [他]: …に目まいを起こさせる、…をふらつかせる、…を幻惑させる
-  - [ ] **thrust** `[θrʌ́st]` [他]: 押し分けて進む、ぐいと押す、(木などが)伸びる / [他]: …を強く押す、…を突っ込む、…を押し分けて進む、…を突き刺す、…を突き出す (型: SV, SVO) / [名]: ぐいと押すこと、酷評、当てこすり、目的
+  - [x] **dizzy** `[dízi]` [形]: 目が回る、めまいがする、くらくらする、目がくらむような、無頓着な / [他]: …に目まいを起こさせる、…をふらつかせる、…を幻惑させる
+  - [x] **thrust** `[θrʌ́st]` [他]: 押し分けて進む、ぐいと押す、(木などが)伸びる / [他]: …を強く押す、…を突っ込む、…を押し分けて進む、…を突き刺す、…を突き出す (型: SV, SVO) / [名]: ぐいと押すこと、酷評、当てこすり、目的
 
 - [ ] PS0932_05152-05153 (Page 397)
   - [ ] **Sentence**: I was trembling with anger all over, listening to my boss pouring scorn on me. *(日译: 上司が私をあざけるのを聞いている間、私は怒りで全身が震えていた。)*
-  - [ ] **tremble** `[trémbl]` [自]: 震える、身震いする、恐れる、びくびくする、揺れる / [他]: …を震えさせる、…を震え声で言う (型: SV, SVO) / ・tremble in fear(恐ろしさに震える) / ・tremble to do(…することを心配する) / [名]: 震え、震動、おののき、震えの発作
-  - [ ] **scorn** `[skɔ́ːrn]` [名]: 軽べつ、さげすみ、あざけり、軽べつの的 / [他]: …を軽べつする[さげすむ]、…をはねつける
+  - [x] **tremble** `[trémbl]` [自]: 震える、身震いする、恐れる、びくびくする、揺れる / [他]: …を震えさせる、…を震え声で言う (型: SV, SVO) / ・tremble in fear(恐ろしさに震える) / ・tremble to do(…することを心配する) / [名]: 震え、震動、おののき、震えの発作
+  - [x] **scorn** `[skɔ́ːrn]` [名]: 軽べつ、さげすみ、あざけり、軽べつの的 / [他]: …を軽べつする[さげすむ]、…をはねつける
 
 - [ ] PS0933_05154-05155 (Page 398)
   - [ ] **Sentence**: Tuck your shirt in, or you'll look untidy. *(日译: シャツはシャツの中に入れないとだらしなく見えるわよ。)*
-  - [ ] **tuck** `[tʌ́k]` [他]: …のすそを押し込む、…をしまい込む、…を隠す、…をたたむ / [自]: 縮む、すばまる、しわになる、ひだになる、ぴったり合う (型: SV, SVO) / ・tuck … away(…をしまい込む) / ・tuck … down(…をはさみ込む) / ・tuck one's sleeves up(袖をまくり上げる) / [名]: タック、縫いひだ
+  - [x] **tuck** `[tʌ́k]` [他]: …のすそを押し込む、…をしまい込む、…を隠す、…をたたむ / [自]: 縮む、すばまる、しわになる、ひだになる、ぴったり合う (型: SV, SVO) / ・tuck … away(…をしまい込む) / ・tuck … down(…をはさみ込む) / ・tuck one's sleeves up(袖をまくり上げる) / [名]: タック、縫いひだ
   - [x] **untidy** `[ʌntáidi]` [形]: だらしない、乱雑な、ぞんざいな / [他]: …を台無しにする、…を乱す、…を混乱させる
 
 - [ ] PS0934_05156-05160 (Page 398)
   - [ ] **Sentence**: The grocer unloaded boxes of radishes, spinach and eggplants from his truck. *(日译: その食料雑貨店主はトラックからダイコンとホウレンソウとナスの箱を降ろした。)*
-  - [ ] **grocer** `[gróusər]` [名]: 食料雑貨商人、食料雑貨店
+  - [x] **grocer** `[gróusər]` [名]: 食料雑貨商人、食料雑貨店
   - [x] **unload** `[ʌnlóud]` [他]: …から積み荷を降ろす、…を降ろす、(弾丸)を銃から抜き取る、(フィルム)をカメラから取り出す、(悩みごとなど)を打ち明ける、(不良品など)を売り払う / [自]: 積み荷を降ろす、銃から弾丸を抜き取る、(悩み・感情などを)ぶちまける (型: SV, SVO) / ・unload … from ～(…を～から降ろす) / ・unload … onto ～(…を～に降ろす) / ・unload one's problems onto someone(問題を人に打ち明ける)
-  - [ ] **radish** `[rǽdiʃ]` [名]: (ハツカ)ダイコン、ラディッシュ
+  - [x] **radish** `[rǽdiʃ]` [名]: (ハツカ)ダイコン、ラディッシュ
 
 - [ ] PS0935 (Page 399 - 📷 缺失页：未上传 399.png)
   - [ ]  Sentence: (等待手动补充：例句及日译)
@@ -334,72 +334,72 @@
 
 - [ ] PS0936_05163-05164 (Page 400)
   - [ ] **Sentence**: We're looking for a banquet space capable of accommodating 500 people. *(日译: 私たちは500人収容できる宴会場を探しています。)*
-  - [ ] **banquet** `[bǽŋkwit]` [名]: 宴会、祝宴、ごちそう / [他]: …を宴会を開いてもてなす / [自]: 宴会に出る
-  - [ ] **accommodate** `[əkάmədèit]` [他]: …を収容できる、…のスペースがある、…をもてなす、…に金を融通する、…を適応させる、…を調節する / [自]: 適合する、順応する (型: SV, SVO) / ・accommodate oneself to …([新しい環境など]に順応する)
+  - [x] **banquet** `[bǽŋkwit]` [名]: 宴会、祝宴、ごちそう / [他]: …を宴会を開いてもてなす / [自]: 宴会に出る
+  - [x] **accommodate** `[əkάmədèit]` [他]: …を収容できる、…のスペースがある、…をもてなす、…に金を融通する、…を適応させる、…を調節する / [自]: 適合する、順応する (型: SV, SVO) / ・accommodate oneself to …([新しい環境など]に順応する)
 
 - [ ] PS0937_05165-05167 (Page 401)
   - [ ] **Sentence**: Germany allied with neighboring countries to push for greater preservation of the environment. *(日译: ドイツはさらなる環境保護を求めて、近隣諸国と同盟を結んだ。)*
-  - [ ] **ally** `[əlái]` [自]: 同盟する、縁組みする / [他]: …を同盟させる (型: SV, SVO) / ・be allied to …(…と同盟している、…と同類である) / [名]: 同盟国、同盟者、協力者、同類のもの
+  - [x] **ally** `[əlái]` [自]: 同盟する、縁組みする / [他]: …を同盟させる (型: SV, SVO) / ・be allied to …(…と同盟している、…と同類である) / [名]: 同盟国、同盟者、協力者、同類のもの
   - [x] **neighboring** `[néibəriŋ]` [形]: 隣接した、近所の、近隣の(限定用法)
-  - [ ] **preservation** `[prèzərvéiʃən]` [名]: 保存、維持すること、防腐
+  - [x] **preservation** `[prèzərvéiʃən]` [名]: 保存、維持すること、防腐
 
 - [ ] PS0938_05168-05171 (Page 402)
   - [ ] **Sentence**: The mayor applauded the teenagers' voluntary participation in relief activities for needy people. *(日译: 市長は、その十代にんが貧しい人々の救援活動に自主的に参加したことをたたえた。)*
   - [x] **applaud** `[əplɔ́ːd]` [自]: …を褒めたたえる、…に拍手を送る / [他]: 拍手を送る、褒めたたえる (型: SV, SVO) / ・applaud someone's play(…の演奏に拍手を送る)
   - [x] **voluntary** `[vάləntèri]` [形]: 進んで行う、自発的な、任意の、無償の / [名]: 即興曲、自発的なこと、自由演奏
   - [x] **participation** `[pɑːrtìsəpéiʃən]` [名]: 参加、加入、関与、分け前にあずかること
-  - [ ] **needy** `[níːdi]` [形]: ひどく貧乏な、貧困の、貧窮の
+  - [x] **needy** `[níːdi]` [形]: ひどく貧乏な、貧困の、貧窮の
 
 - [ ] PS0939_05172-05173 (Page 402)
   - [ ] **Sentence**: This database is exclusively for instructors, and students are not authorized to access it. *(日译: このデータベースは教員専用で、生徒たちはアクセスを許可されていない。)*
-  - [ ] **exclusively** `[iksklúːsivli]` [副]: まったく…のみ、独占的に
+  - [x] **exclusively** `[iksklúːsivli]` [副]: まったく…のみ、独占的に
   - [x] **authorize** `[ɔ́ːθəràiz]` [他]: …を正式に認可する、…を認定する、…に権限を与える (型: SVO) / ・authorize … to do(…に～する権限を与える)
 
 - [ ] PS0940_05174-05175 (Page 403)
   - [ ] **Sentence**: The baseball league banned him for life after his involvement in the illegal drug trade was discovered. *(日译: 違法な薬物売買への関与が発覚した後、野球連盟は彼を永久に追放した。)*
-  - [ ] **banish** `[bǽniʃ]` [他]: …を追放する、…を流刑にする、…を追い出す、…を払いのける (型: SVO) / ・banish … from ～(…を～から追放する)
+  - [x] **banish** `[bǽniʃ]` [他]: …を追放する、…を流刑にする、…を追い出す、…を払いのける (型: SVO) / ・banish … from ～(…を～から追放する)
   - [x] **involvement** `[invάlvmənt]` [名]: かかわり合い、関与、積極的参加、熱中
 
 - [ ] PS0941_05176-05179 (Page 403)
   - [ ] **Sentence**: If the corruption comes to light, the senator will be seen to have betrayed the voters' trust. *(日译: その汚職が明るみに出れば、その上院議員は有権者の信頼を裏切ったとみなされるだろう。)*
-  - [ ] **corruption** `[kərʌ́pʃən]` [名]: 堕落、汚職、腐敗、不正
-  - [ ] **senator** `[sénətər]` [名]: 上院議員、(古代ローマの)元老院議員、評議員
-  - [ ] **betray** `[bitréi]` [他]: …を裏切る、(秘密など)を漏らす (型: SVO) / ・betray … to ～(…を～に売り渡す[漏らす])
+  - [x] **corruption** `[kərʌ́pʃən]` [名]: 堕落、汚職、腐敗、不正
+  - [x] **senator** `[sénətər]` [名]: 上院議員、(古代ローマの)元老院議員、評議員
+  - [x] **betray** `[bitréi]` [他]: …を裏切る、(秘密など)を漏らす (型: SVO) / ・betray … to ～(…を～に売り渡す[漏らす])
   - [x] **voter** `[vóutər]` [名]: 投票者、有権者、選挙人
 
 - [ ] PS0942_05180-05181 (Page 404)
   - [ ] **Sentence**: The army blasted the castle with cannons. *(日译: 軍はその城を大砲で爆破した。)*
-  - [ ] **blast** `[blæst]` [他]: …を爆破する、…を爆破して除く[作る]、…を大きな音で鳴らす、…を枯らす / [自]: 爆破作業をする、大きな音を立てる、枯れる (型: SV, SVO) / ・blast off(吹き飛ばす、発射する、逃げる) / ・blast out(吐き[吹き]出す) / [名]: 突風、一陣の風、爆破(作業)、爆薬
-  - [ ] **cannon** `[kǽnən]` [名]: 大砲 / [自]: 衝突する / [他]: …を砲撃する
+  - [x] **blast** `[blæst]` [他]: …を爆破する、…を爆破して除く[作る]、…を大きな音で鳴らす、…を枯らす / [自]: 爆破作業をする、大きな音を立てる、枯れる (型: SV, SVO) / ・blast off(吹き飛ばす、発射する、逃げる) / ・blast out(吐き[吹き]出す) / [名]: 突風、一陣の風、爆破(作業)、爆薬
+  - [x] **cannon** `[kǽnən]` [名]: 大砲 / [自]: 衝突する / [他]: …を砲撃する
 
 - [ ] PS0943_05182-05184 (Page 404)
   - [ ] **Sentence**: I accidentally bleached my daughter's colored shirt. *(日译: 娘の色物のシャツを誤って漂白してしまった。)*
   - [x] **accidentally** `[æ̀ksədéntli]` [副]: 誤って、偶然に、図らずも、ふとしたことから
-  - [ ] **bleach** `[blíːtʃ]` [他]: …を漂白する、…をあせさせる、…を白くする / [自]: 白くなる (型: SV, SVO) / ・bleach … out(…の色をあせさせる) / ・bleach … white(…を漂白する) / [名]: 漂白剤、漂白
+  - [x] **bleach** `[blíːtʃ]` [他]: …を漂白する、…をあせさせる、…を白くする / [自]: 白くなる (型: SV, SVO) / ・bleach … out(…の色をあせさせる) / ・bleach … white(…を漂白する) / [名]: 漂白剤、漂白
   - [x] **colored** `[kʌ́lərd]` [形]: 色物の、色のついた、色刷りの、有色人種の、ゆがめられた / [名]: 黒人(種)、有色人種、色つきのもの
 
 - [ ] PS0944_05185-05187 (Page 405)
   - [ ] **Sentence**: The comical television commercial boosted the brand's familiarity among consumers. *(日译: 愉快なテレビコマーシャルによって、消費者の間でそのブランドの知名度が高まった。)*
-  - [ ] **comical** `[kάmikəl]` [形]: おもしろい、笑いを誘う、奇妙な、喜劇の
+  - [x] **comical** `[kάmikəl]` [形]: おもしろい、笑いを誘う、奇妙な、喜劇の
   - [x] **boost** `[búːst]` [他]: …を高める、…を引き上げる、…を増やす、…を押し上げる、…を応援する (型: SVO) / ・boost exchanges(交流を深める) / [名]: 押し上げること、増加、上昇、応援
   - [x] **familiarity** `[fəmìliǽrəti]` [名]: よく知っていること、よく知られていること、親密、悪意、なれなれしさ
 
 - [ ] PS0945_05188-05189 (Page 405)
   - [ ] **Sentence**: Health officials characterize this year's flu as a peculiarly long-lived strain. *(日译: 保健当局は今年のインフルエンザは特に長く生きる種だと見なしている。)*
-  - [ ] **characterize** `[kǽriktəràiz]` [他]: …を見なす、…であると述べる、…を描く、…を特徴づける (型: SVO) / ・characterize … as ～(…を～と特徴づける) / ・be characterized by …(…に特徴づけられる)
-  - [ ] **peculiarly** `[pikjúːljərli]` [副]: 特に、奇妙に
+  - [x] **characterize** `[kǽriktəràiz]` [他]: …を見なす、…であると述べる、…を描く、…を特徴づける (型: SVO) / ・characterize … as ～(…を～と特徴づける) / ・be characterized by …(…に特徴づけられる)
+  - [x] **peculiarly** `[pikjúːljərli]` [副]: 特に、奇妙に
 
 - [ ] PS0946_05190-05193 (Page 406)
   - [ ] **Sentence**: The lawyer cited the letter as an indication of the intimate relationship between the defendant and the woman. *(日译: 弁護人は、被告人とその女性との親密な関係を示すものとして、その手紙を引用した。)*
   - [x] **cite** `[sáit]` [他]: …を引き合いに出す、…を引用する、…を挙げる、…を法廷に召喚する、…を賞賛する (型: SVO) / ・cite a case(例を挙げる) / ・cite figures(数字を挙げる) / [名]: 言及、引き合いに出すこと、引用文[句]
-  - [ ] **indication** `[ìndikéiʃən]` [名]: 暗示(するもの)、指示、印、徴候、表示
-  - [ ] **intimate** `[íntəmət]` [形]: 親密な、親しい、個人的な、居心地のよい、詳細な / [名]: 親友、親しい間柄 / [他]: …を間接的に知らせる、…を通告する
-  - [ ] **defendant** `[diféndənt]` [名]: 被告(人)
+  - [x] **indication** `[ìndikéiʃən]` [名]: 暗示(するもの)、指示、印、徴候、表示
+  - [x] **intimate** `[íntəmət]` [形]: 親密な、親しい、個人的な、居心地のよい、詳細な / [名]: 親友、親しい間柄 / [他]: …を間接的に知らせる、…を通告する
+  - [x] **defendant** `[diféndənt]` [名]: 被告(人)
 
 - [ ] PS0947_05194-05195 (Page 406)
   - [ ] **Sentence**: Eager to get back to the laboratory to classify the strange moss, we made a swift descent of the mountain. *(日译: 研究室に戻ってその珍しいコケを分類したかったので、われわれは急いで下山した。)*
   - [x] **classify** `[klǽsəfài]` [他]: …を分類する、…を等級別にする、…を格付けする、…に秘密区分をつける、…を機密扱いにする (型: SVO) / ・classify … into ～(…を～に分類[格付け]する)
-  - [ ] **descent** `[disént]` [名]: 下ること、降下、家系、堕落、急襲
+  - [x] **descent** `[disént]` [名]: 下ること、降下、家系、堕落、急襲
 
 - [ ] PS0948_05196-05197 (Page 407)
   - [ ] **Sentence**: The two nations are collaborating to protect the tropical rainforest. *(日译: その2カ国は熱帯雨林を保護するために協力している。)*
