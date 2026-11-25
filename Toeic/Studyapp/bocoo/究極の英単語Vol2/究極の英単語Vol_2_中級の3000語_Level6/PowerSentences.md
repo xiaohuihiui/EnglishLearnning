@@ -403,7 +403,7 @@
 
 - [ ] PS0948_05196-05197 (Page 407)
   - [ ] **Sentence**: The two nations are collaborating to protect the tropical rainforest. *(日译: その2カ国は熱帯雨林を保護するために協力している。)*
-  - [ ] **collaborate** `[kəlǽbərèit]` [自]: 協力する (型: SV) / ・collaborate closely with …(…と緊密に協力する)
+  - [x] **collaborate** `[kəlǽbərèit]` [自]: 協力する (型: SV) / ・collaborate closely with …(…と緊密に協力する)
   - [x] **rainforest** `[ráinfɔ̀rəst]` [名]: 多雨林、熱帯雨林
 
 - [ ] PS0949
@@ -413,18 +413,18 @@
   - [ ] **Sentence**: This painting is a priceless remembrance of my mother, and no one can compel me to sell it. *(日译: この絵画は母の貴重な形見であり、私にこれを売らせることは誰にもできない。)*
   - [x] **priceless** `[práislis]` [形]: 非常に貴重な、とても高価な、金では買えない、とても楽しい
   - [x] **remembrance** `[rimémbrəns]` [名]: 形見、印象、記憶(力)、思い出、記念品
-  - [ ] **compel** `[kəmpél]` [他]: …に無理にさせる、…させずにはおかない、…を屈服させる (型: SVO) / ・compel … from ～(…を～から無理やり引き出す) / ・compel … to ～(…に強制的に[無理に]～させる)
+  - [x] **compel** `[kəmpél]` [他]: …に無理にさせる、…させずにはおかない、…を屈服させる (型: SVO) / ・compel … from ～(…を～から無理やり引き出す) / ・compel … to ～(…に強制的に[無理に]～させる)
 
 - [ ] PS0951_05204-05205 (Page 408)
   - [ ] **Sentence**: The patient's genetic disorder may complicate treatment for his cancer. *(日译: その患者の遺伝性疾患が彼の癌治療を困難にするかもしれない。)*
-  - [ ] **genetic** `[dʒənétik]` [形]: 遺伝の、遺伝子の、発生の、発生論上の
+  - [x] **genetic** `[dʒənétik]` [形]: 遺伝の、遺伝子の、発生の、発生論上の
   - [x] **complicate** `[kάmpləkèit]` [他]: …を複雑にする、…を込み入らせる、…を紛糾させる、…を悪化させる、…に(～を)からませる (型: SVO) / ・complicate matters(事を複雑にする) / [形]: 複雑な、込み入った、折りたたみの
 
 - [ ] PS0952_05206-05208 (Page 409)
   - [ ] **Sentence**: The man is claiming that he was wrongly convicted by the jury. *(日译: 男は陪審によって不当に有罪にされたと主張している。)*
   - [x] **wrongly** `[rɔ́ːŋli]` [副]: 誤って、間違って、悪く、不正に、適切でなく
-  - [ ] **convict** `[kənvíkt]` [他]: …に有罪を宣告する、…に悟らせる (型: SVO) / ・convict … of ～(…に～の有罪を宣告する) / [名]: 有罪宣告を受けた人、受刑者
-  - [ ] **jury** `[dʒúəri]` [名]: 陪審(員団)、(全)審査員
+  - [x] **convict** `[kənvíkt]` [他]: …に有罪を宣告する、…に悟らせる (型: SVO) / ・convict … of ～(…に～の有罪を宣告する) / [名]: 有罪宣告を受けた人、受刑者
+  - [x] **jury** `[dʒúəri]` [名]: 陪審(員団)、(全)審査員
 
 - [ ] PS0953_05209-05211 (Page 409)
   - [ ] **Sentence**: All ships must fully cooperate with cargo inspection requirements when they enter the harbor. *(日译: 入港する際、すべての船は貨物検査要件に全面的に協力しなくてはならない。)*
@@ -434,20 +434,20 @@
 - [ ] PS0954_05212-05214 (Page 410)
   - [ ] **Sentence**: The diplomats are working closely with their counterparts to coordinate summit meetings between the two countries. *(日译: 外交官らは二国間の首脳会議を調整するため、相手側と密に連携している。)*
   - [x] **diplomat** `[dípləmæ̀t]` [名]: 外交官、駆け引きの上手な人、外交家、如才ない人
-  - [ ] **counterpart** `[káuntərpàːrt]` [名]: 片方、対応物、写し、よく似た人[もの]
-  - [ ] **coordinate** `[kouɔ́ːrdənèit]` [他]: …を調整する、…を対等にする、…を順序良く並べる / [自]: 対等になる、つり合う (型: SV, SVO) / [形]: 同等の、同格の、対等の関係を示す、座標の / [名]: 同等の人[もの]、座標、コーディネート
+  - [x] **counterpart** `[káuntərpàːrt]` [名]: 片方、対応物、写し、よく似た人[もの]
+  - [x] **coordinate** `[kouɔ́ːrdənèit]` [他]: …を調整する、…を対等にする、…を順序良く並べる / [自]: 対等になる、つり合う (型: SV, SVO) / [形]: 同等の、同格の、対等の関係を示す、座標の / [名]: 同等の人[もの]、座標、コーディネート
 
 - [ ] PS0955_05215-05217 (Page 410)
   - [ ] **Sentence**: Politicians should be financially independent because corporate donations can easily corrupt them. *(日译: 企業献金はたやすく彼らを堕落させるため、政治家は財政的に自立しているべきである。)*
   - [x] **financially** `[fainǽnʃəli]` [副]: 財政的に、財政上、財政的見地からすれば
   - [x] **donation** `[dounéiʃən]` [名]: 寄贈、寄付、寄付金
-  - [ ] **corrupt** `[kərʌ́pt]` [他]: …を堕落させる、…を腐敗させる、…を買収する / [形]: 堕落する、買収される、腐る
+  - [x] **corrupt** `[kərʌ́pt]` [他]: …を堕落させる、…を腐敗させる、…を買収する / [形]: 堕落する、買収される、腐る
 
 - [ ] PS0956_05218-05221 (Page 411)
   - [ ] **Sentence**: We can customize our backup system for utmost effectiveness. *(日译: バックアップシステムをカスタマイズして最大の有効性を得ることができる。)*
   - [x] **customize** `[kʌ́stəmàiz]` [他]: …を注文に応じて作る、(コンピューター)を自分の好みに合うように変更[カスタマイズ]する (型: SVO) / ・customize the software(ソフトをカスタマイズする)
   - [x] **backup** `[bǽkʌ̀p]` [名]: 予備、バックアップ、後援者、支援
-  - [ ] **utmost** `[ʌ́tmòust]` [形]: 最大の、極限の、最後の(限定用法) / [名]: 最大限度、極限
+  - [x] **utmost** `[ʌ́tmòust]` [形]: 最大の、極限の、最後の(限定用法) / [名]: 最大限度、極限
   - [x] **effectiveness** `[əféktivnəs]` [名]: 有効性
 
 - [ ] PS0957_05222-05224 (Page 411)
@@ -458,85 +458,85 @@
 
 - [ ] PS0958_05225-05227 (Page 412)
   - [ ] **Sentence**: The current weakness of the dollar is defying the analyst's prediction. *(日译: このところのドル安はそのアナリストの予測に反している。)*
-  - [ ] **defy** `[difái]` [他]: …を平然と無視する、…をもものともしない、…に(公然と)反抗する、…に迫る (型: SVO) / ・defy logic(理屈に合わない) / ・defying wind and rain(風雨をもものともせず)
+  - [x] **defy** `[difái]` [他]: …を平然と無視する、…をもものともしない、…に(公然と)反抗する、…に迫る (型: SVO) / ・defy logic(理屈に合わない) / ・defying wind and rain(風雨をもものともせず)
   - [x] **analyst** `[ǽnəlist]` [名]: 分析家、解説者、精神分析専門家
   - [x] **prediction** `[pridíkʃən]` [名]: 予測、予言、予報
 
 - [ ] PS0959_05228-05230 (Page 412)
   - [ ] **Sentence**: A girl in my class has been hostile to me, and the teacher's indifference is depressing me even more. *(日译: 同じクラスのある女子がずっと私に対してとげとげしいのだが、教師の無関心がもっと私を憂うつにさせている。)*
   - [x] **hostile** `[hάstl]` [形]: 非友好的な、敵意を持った、対立する、敵対性の、敵の、強引な / [名]: 敵意を持った人、敵
-  - [ ] **indifference** `[indífərəns]` [名]: 無関心、無頓着、冷淡さ、重要でないこと
-  - [ ] **depress** `[diprés]` [他]: …を憂うつにさせる、…を意気消沈させる、…を弱める、(レバーなど)を押し下げる (型: SVO)
+  - [x] **indifference** `[indífərəns]` [名]: 無関心、無頓着、冷淡さ、重要でないこと
+  - [x] **depress** `[diprés]` [他]: …を憂うつにさせる、…を意気消沈させる、…を弱める、(レバーなど)を押し下げる (型: SVO)
 
 - [ ] PS0960_05231-05233 (Page 413)
   - [ ] **Sentence**: An insider disclosed the accountant's dishonest conduct. *(日译: ある内部関係者が、その経理担当者による不正行為を暴露した。)*
-  - [ ] **disclose** `[disklóuz]` [他]: …を暴く、…を暴露する、…を漏らす、…の覆いを取る (型: SVO) / ・disclose evidence of …(…の証拠を明らかにする) / ・disclose one's mind(意見を言う、心中を打ち明ける) / ・be disclosed in public(公表される)
+  - [x] **disclose** `[disklóuz]` [他]: …を暴く、…を暴露する、…を漏らす、…の覆いを取る (型: SVO) / ・disclose evidence of …(…の証拠を明らかにする) / ・disclose one's mind(意見を言う、心中を打ち明ける) / ・be disclosed in public(公表される)
   - [x] **accountant** `[əkáuntənt]` [名]: 会計係、会計士、主計、会計専門家
-  - [ ] **dishonest** `[disάnist]` [形]: 不正な、不正直な、信用できない、ごまかしの
+  - [x] **dishonest** `[disάnist]` [形]: 不正な、不正直な、信用できない、ごまかしの
 
 - [ ] PS0961_05234-05235 (Page 413)
   - [ ] **Sentence**: It is shameful that some tourists dump their trash anywhere they like. *(日译: 観光客がところかまわずごみを捨てるのは恥ずべきことだ。)*
-  - [ ] **shameful** `[ʃéimfəl]` [形]: 恥ずべき、不面目な、不届きな
-  - [ ] **dump** `[dʌmp]` [他]: …をどさっと落とす、…をぞんざいに投げ出す、…をごみとして捨てる、…を転嫁する、…を投げ売りする / [自]: どさっと落ちる、ごみをどさっと捨てる、ダンピングする、けなす (型: SV, SVO) / ・dump on …(…に八つ当たりする、…に転嫁する) / [名]: ごみなどの山、ごみ捨て場、どさっと落とす[落ちる]こと
+  - [x] **shameful** `[ʃéimfəl]` [形]: 恥ずべき、不面目な、不届きな
+  - [x] **dump** `[dʌmp]` [他]: …をどさっと落とす、…をぞんざいに投げ出す、…をごみとして捨てる、…を転嫁する、…を投げ売りする / [自]: どさっと落ちる、ごみをどさっと捨てる、ダンピングする、けなす (型: SV, SVO) / ・dump on …(…に八つ当たりする、…に転嫁する) / [名]: ごみなどの山、ごみ捨て場、どさっと落とす[落ちる]こと
 
 
 
 - [ ] PS0962_05236-05238 (Page 414)
   - [ ] **Sentence**: I tried everything to eliminate the stale odor coming from the carpet, but nothing worked. *(日译: じゅうたんのムッとするにおいをとろうとあらゆることを試したが、効果はなかった。)*
-  - [ ] **eliminate** `[ilímənèit]` [他]: …を除く、…を排除する、…を省く、…を失格させる、…を排泄する、…を抹殺する (型: 主に SVO) / ・eliminate an opponent(敵を倒す) / ・eliminate delays for …(…での遅れをなくす)
-  - [ ] **stale** `[stéil]` [形]: 燻なにおいのする、新鮮でない、気の抜けた、陳腐な、生気のない / [他]: …を古くする / [自]: 古くなる
-  - [ ] **odor** `[óudər]` [名]: におい、臭気、悪臭、香り、気配、評判
+  - [x] **eliminate** `[ilímənèit]` [他]: …を除く、…を排除する、…を省く、…を失格させる、…を排泄する、…を抹殺する (型: 主に SVO) / ・eliminate an opponent(敵を倒す) / ・eliminate delays for …(…での遅れをなくす)
+  - [x] **stale** `[stéil]` [形]: 燻なにおいのする、新鮮でない、気の抜けた、陳腐な、生気のない / [他]: …を古くする / [自]: 古くなる
+  - [x] **odor** `[óudər]` [名]: におい、臭気、悪臭、香り、気配、評判
 
 - [ ] PS0963_05239-05242 (Page 414)
   - [ ] **Sentence**: The Muslim businessman earnestly endeavors to practice Islam wherever he finds himself. *(日译: そのイスラム教のビジネスパーソンは、どこにいようとイスラム教の教えを実践しようとまじめに努力する。)*
-  - [ ] **Muslim** `[múzlim]` [名]: イスラム教の、イスラム文明の / [名]: イスラム教徒、ムスリム
-  - [ ] **earnestly** `[ə́ːrnistli]` [副]: まじめに、本気に
-  - [ ] **endeavor** `[indévər]` [自]: 努力する、試みる、努める (型: SV) / ・endeavor to make … successful(…を成功させるために努力する) / [名]: 努力、試み
-  - [ ] **Islam** `[ízlɑ̀ːm]` [名]: イスラム教、全イスラム教徒、イスラム文化
+  - [x] **Muslim** `[múzlim]` [名]: イスラム教の、イスラム文明の / [名]: イスラム教徒、ムスリム
+  - [x] **earnestly** `[ə́ːrnistli]` [副]: まじめに、本気に
+  - [x] **endeavor** `[indévər]` [自]: 努力する、試みる、努める (型: SV) / ・endeavor to make … successful(…を成功させるために努力する) / [名]: 努力、試み
+  - [x] **Islam** `[ízlɑ̀ːm]` [名]: イスラム教、全イスラム教徒、イスラム文化
 
 - [ ] PS0964_05243-05245 (Page 415)
   - [ ] **Sentence**: His laboratory is equipped with an electron microscope that is one of a kind in the country. *(日译: 彼の研究所には、国内では比較のない電子顕微鏡が備えられている。)*
-  - [ ] **equip** `[ikwíp]` [他]: …を備える、…を用意する、…を設備する、…を授ける (型: SVO) / ・be equipped with …(…を備えて[身に着けて]いる) / ・equip … to do(…ができるようにする[準備する])
+  - [x] **equip** `[ikwíp]` [他]: …を備える、…を用意する、…を設備する、…を授ける (型: SVO) / ・be equipped with …(…を備えて[身に着けて]いる) / ・equip … to do(…ができるようにする[準備する])
   - [x] **electron** `[iléktrɑn]` [名]: 電子
   - [x] **microscope** `[máikrəskòup]` [名]: 顕微鏡
 
 - [ ] PS0965_05246-05247 (Page 415)
   - [ ] **Sentence**: Her father's murderer was executed last night. *(日译: 彼女の父親を殺した犯人が昨夜処刑された。)*
   - [x] **murderer** `[mə́ːrdərər]` [名]: 殺人者、人殺し、謀殺者
-  - [ ] **execute** `[éksikjùːt]` [他]: …を死刑にする、…を処刑する、…を遂行する、…を行う、…を執行する (型: SVO) / ・execute laws(法律を執行する) / ・execute a will(遺言状を執行する)
+  - [x] **execute** `[éksikjùːt]` [他]: …を死刑にする、…を処刑する、…を遂行する、…を行う、…を執行する (型: SVO) / ・execute laws(法律を執行する) / ・execute a will(遺言状を執行する)
 
 - [ ] PS0966_05248-05249 (Page 416)
   - [ ] **Sentence**: Slavery was abolished a long time ago in this country, but some companies still exploit laborers. *(日译: この国では奴隷制度が廃止されて久しいが、いまだに労働者を搾取する企業もある。)*
   - [x] **slavery** `[sléivəri]` [名]: 奴隷制度、奴隷の境遇、奴隷所有、きつい労働
-  - [ ] **exploit** `[ikslɔ́it]` [他]: …を搾取する、…を(利益のために)利用する、…を不当に扱う、…を食い物にする、…を開拓する (型: SVO) / ・exploit … to the full(…を最大限利用する) / [名]: 英雄行為、偉業、手柄
+  - [x] **exploit** `[ikslɔ́it]` [他]: …を搾取する、…を(利益のために)利用する、…を不当に扱う、…を食い物にする、…を開拓する (型: SVO) / ・exploit … to the full(…を最大限利用する) / [名]: 英雄行為、偉業、手柄
 
 - [ ] PS0967_05250-05252 (Page 416)
   - [ ] **Sentence**: He extracted the cork from the wine bottle in a sophisticated manner. *(日译: 彼は洗練された物腰でワインボトルのコルクを抜いた。)*
-  - [ ] **extract** `[ikstrǽkt]` [他]: …を(引き)抜く、…を抜き取る、…を摘出する、…を抽出する、…を引き出す (型: SVO) / ・extract juice from …(…の汁を搾る) / [名]: 引用(句)、抜粋、エキス
+  - [x] **extract** `[ikstrǽkt]` [他]: …を(引き)抜く、…を抜き取る、…を摘出する、…を抽出する、…を引き出す (型: SVO) / ・extract juice from …(…の汁を搾る) / [名]: 引用(句)、抜粋、エキス
   - [ ] **cork** `[kɔ́ːrk]` [名]: コルク栓、コルク、コルク製品 / [他]: …にコルク栓をする
   - [x] **sophisticated** `[səfístikèitid]` [形]: 洗練された、都会的な、世慣れた、学のある、気の利いた
 
 - [ ] PS0968_05253-05255 (Page 417)
   - [ ] **Sentence**: The mathematician has been fascinated by numbers since she first learned to do fractions at school. *(日译: その数学者は、学校で初めて分数の計算を習って以来、数字に魅了されている。)*
   - [x] **mathematician** `[mæ̀θəmǽtɪʃən]` [名]: 数学者
-  - [ ] **fascinate** `[fǽsənèit]` [他]: …をうっとりさせる、…を魅惑する、…を悩殺する、…の興味をそそる / [自]: 人の心を奪う (型: SV, SVO) / ・be fascinated by …(…に魅了される) / ・be fascinated with …(…にうっとりする)
-  - [ ] **fraction** `[frǽkʃən]` [名]: 分数、割合、(あるものの)何分の一、部分、わずか
+  - [x] **fascinate** `[fǽsənèit]` [他]: …をうっとりさせる、…を魅惑する、…を悩殺する、…の興味をそそる / [自]: 人の心を奪う (型: SV, SVO) / ・be fascinated by …(…に魅了される) / ・be fascinated with …(…にうっとりする)
+  - [x] **fraction** `[frǽkʃən]` [名]: 分数、割合、(あるものの)何分の一、部分、わずか
 
 - [ ] PS0969_05256-05257 (Page 417)
   - [ ] **Sentence**: My sister and her husband are planning to foster an orphan. *(日译: 私の姉とその夫は孤児を育てようとしている。)*
   - [x] **foster** `[fɔ́ːstər]` [他]: …を養育する、…を促進する、…を育てる、…を心に抱く (型: SVO) / ・foster a better understanding of …(…をもっとよく理解する) / [形]: 里子[親]の(限定用法)
-  - [ ] **orphan** `[ɔ́ːrfən]` [名]: 孤児、親のいない子、寄る辺のない人 / [形]: 親のない、非常にまれな / [他]: …を孤児にする、(be orphaned で)孤児になる
+  - [x] **orphan** `[ɔ́ːrfən]` [名]: 孤児、親のいない子、寄る辺のない人 / [形]: 親のない、非常にまれな / [他]: …を孤児にする、(be orphaned で)孤児になる
 
 - [ ] PS0970_05258-05261 (Page 418)
   - [ ] **Sentence**: The insufficient funding continually frustrates the researchers involved in developing the new medicine. *(日译: 資金不足はその新薬の開発に携わる研究者たちを絶えず失望させている。)*
-  - [ ] **insufficient** `[ìnsəfíʃənt]` [形]: 不十分な、不足した、力量不足の、能力のない
-  - [ ] **funding** `[fʌ́ndiŋ]` [名]: 財源、財政的支援
+  - [x] **insufficient** `[ìnsəfíʃənt]` [形]: 不十分な、不足した、力量不足の、能力のない
+  - [x] **funding** `[fʌ́ndiŋ]` [名]: 財源、財政的支援
   - [x] **continually** `[kəntínjuəli]` [副]: 間断なく、断続的に、ひっきりなしに
-  - [ ] **frustrate** `[frʌ́streit]` [他]: …を失望させる、…を挫折させる、…をくじく、…を無効にする / [自]: くじかれる、挫折する、失望する (型: SV, SVO) / ・frustrate someone's hopes(…の希望をくじく) / ・frustrate a plan(計画を壊す)
+  - [x] **frustrate** `[frʌ́streit]` [他]: …を失望させる、…を挫折させる、…をくじく、…を無効にする / [自]: くじかれる、挫折する、失望する (型: SV, SVO) / ・frustrate someone's hopes(…の希望をくじく) / ・frustrate a plan(計画を壊す)
 
 - [ ] PS0971_05262-05264 (Page 418)
   - [ ] **Sentence**: When my mother grills salmon, she makes it crisp on the outside and juicy inside. *(日译: 母の鮭を焼くとき、外側はかりかりで中は汁けったっぷりに焼ける。)*
-  - [ ] **grill** `[gríl]` [他]: …を焼き網で焼く、…を酷熱にさらす、…を厳しく尋問する / [自]: 火であぶられる、焼ける、酷暑にさらされる (型: SV, SVO) / ・grill over an open fire(直火で焼く) / ・grill meat(肉を焼く) / [名]: 焼き網、焼き網で焼いた料理
+  - [x] **grill** `[gríl]` [他]: …を焼き網で焼く、…を酷熱にさらす、…を厳しく尋問する / [自]: 火であぶられる、焼ける、酷暑にさらされる (型: SV, SVO) / ・grill over an open fire(直火で焼く) / ・grill meat(肉を焼く) / [名]: 焼き網、焼き網で焼いた料理
   - [x] **crisp** `[krísp]` [形]: かりかりした、ぱりぱり音のする、身の引き締まるような、きびきびした / [他]: …をぱりぱりに焼く、…をかちかちに凍らせる、…を縮らす / [自]: ぱりぱりになる、かちかちに凍る、縮れる / [名]: ぱりぱりしたもの
   - [x] **juicy** `[dʒúːsi]` [形]: 汁の多い、湿っぽい、じめじめした、興味深い、利益の多い
 
@@ -547,8 +547,8 @@
 
 - [ ] PS0973_05267-05268 (Page 420)
   - [ ] **Sentence**: The abrupt fall in temperature inflicted pain in my grandmother's joints. *(日译: 気温の急激な低下は祖母に関節の痛みをもたらした。)*
-  - [ ] **abrupt** `[əbrʌ́pt]` [形]: 突然の、不意の、ぶっきらぼうな、(がけなどが)険しい
-  - [ ] **inflict** `[inflíkt]` [他]: …を与える、…を加える、…を負わせる、…を科する (型: SVO) / ・inflict a hard blow on …(…に大きな打撃を与える) / ・inflict harm on …(…に危害を加える)
+  - [x] **abrupt** `[əbrʌ́pt]` [形]: 突然の、不意の、ぶっきらぼうな、(がけなどが)険しい
+  - [x] **inflict** `[inflíkt]` [他]: …を与える、…を加える、…を負わせる、…を科する (型: SVO) / ・inflict a hard blow on …(…に大きな打撃を与える) / ・inflict harm on …(…に危害を加える)
 
 - [ ] PS0974_05269-05270 (Page 420)
   - [ ] **Sentence**: The two countries initiated their first dialogue in 10 years. *(日译: 両国は10年ぶりの対話を開始した。)*
@@ -562,9 +562,9 @@
 
 - [ ] PS0976_05273-05275 (Page 421)
   - [ ] **Sentence**: He's a decent craftsman, but there's something about the way he talks that irritates some people. *(日译: 彼はまともな職人だが、彼の口のきき方には一部の人たちをいら立たせるものがある。)*
-  - [ ] **decent** `[díːsənt]` [形]: まともな、ふさわしい、慎み深い、かなりの、親切な
-  - [ ] **craftsman** `[krǽftsmən]` [名]: 職人、工芸家、熟練工、名工 / [名]: craftsmen
-  - [ ] **irritate** `[íritèit]` [他]: …をいらいらさせる、…を怒らせる、…をじゃらす、…を刺激する / [自]: いらいらの原因となる、いら立つ、じれる (型: SV, SVO) / ・irritate an old wound(古傷をつつく) / ・irritate someone's nerves(…の神経をいら立たせる)
+  - [x] **decent** `[díːsənt]` [形]: まともな、ふさわしい、慎み深い、かなりの、親切な
+  - [x] **craftsman** `[krǽftsmən]` [名]: 職人、工芸家、熟練工、名工 / [名]: craftsmen
+  - [x] **irritate** `[íritèit]` [他]: …をいらいらさせる、…を怒らせる、…をじゃらす、…を刺激する / [自]: いらいらの原因となる、いら立つ、じれる (型: SV, SVO) / ・irritate an old wound(古傷をつつく) / ・irritate someone's nerves(…の神経をいら立たせる)
 
 - [ ] PS0977_05276-05277 (Page 422)
   - [ ] **Sentence**: The three boys formed an exclusive club and completely isolated themselves from the rest of us. *(日译: 3人の少年は排他的なクラブを組織し、われわれから完全に孤立した。)*
