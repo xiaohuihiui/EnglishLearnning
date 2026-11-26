@@ -709,96 +709,96 @@
 
 - [ ] PS1002_05342-05344 (Page 435)
   - [ ] **Sentence**: A young animal who strays from the herd is perfect prey for savage animals. *(日译: 群れからはぐれた若い動物は、獣たちの格好の獲物だ。)*
-  - [ ] **stray** `[stréi]` [自]: それる、道に迷う、はぐれる、迷い込む、無意識に動く (型: SV) / ・stray around …(…をさまよう) / ・stray away(はぐれる、謂み出る、道に迷う) / [名]: 迷い出た家畜、仲間からはぐれた人、迷子 / [形]: 迷っている、迷い出た、はぐれた(限定用法)
-  - [ ] **prey** `[préi]` [名]: えじき、獲物、犠牲(者)、被害者、捕食 / [自]: 捕食する、苦しめる、食いものにする
-  - [ ] **savage** `[sǽvidʒ]` [形]: どう猛な、残酷な、野性の、粗野な、猛烈な / [名]: 未開人、野蛮人、どう猛な人、無作法者 / [他]: …を猛烈に攻撃する、…にかみつく
+  - [x] **stray** `[stréi]` [自]: それる、道に迷う、はぐれる、迷い込む、無意識に動く (型: SV) / ・stray around …(…をさまよう) / ・stray away(はぐれる、謂み出る、道に迷う) / [名]: 迷い出た家畜、仲間からはぐれた人、迷子 / [形]: 迷っている、迷い出た、はぐれた(限定用法)
+  - [x] **prey** `[préi]` [名]: えじき、獲物、犠牲(者)、被害者、捕食 / [自]: 捕食する、苦しめる、食いものにする
+  - [x] **savage** `[sǽvidʒ]` [形]: どう猛な、残酷な、野性の、粗野な、猛烈な / [名]: 未開人、野蛮人、どう猛な人、無作法者 / [他]: …を猛烈に攻撃する、…にかみつく
 
 - [ ] PS1003_05345-05346 (Page 435)
   - [ ] **Sentence**: Even the grim bodyguard couldn't suppress a smile when the little girl spoke sweetly to him. *(日译: その幼い女の子が愛らしく話しかけると、いかめしいボディガードでさえ笑みを押し殺すことはできなかった。)*
-  - [ ] **suppress** `[səprés]` [他]: …の活動をやめさせる、…を鎮圧する、…を抑える、…をこらえる (型: SVO) / ・suppress a cough(咳を止める) / ・suppress a fact(事実を隠す)
-  - [ ] **sweetly** `[swíːtli]` [副]: 愛らしく、気持ちよく、楽しく、優しく
+  - [x] **suppress** `[səprés]` [他]: …の活動をやめさせる、…を鎮圧する、…を抑える、…をこらえる (型: SVO) / ・suppress a cough(咳を止める) / ・suppress a fact(事実を隠す)
+  - [x] **sweetly** `[swíːtli]` [副]: 愛らしく、気持ちよく、楽しく、優しく
 
 - [ ] PS1004_05347-05348 (Page 436)
   - [ ] **Sentence**: We need a trustworthy lawyer to tackle this family crisis. *(日译: この家族の危機に立ち向かうには、信用できる弁護士が必要だ。)*
-  - [ ] **trustworthy** `[trʌ́stwə̀ːrði]` [形]: 信頼できる、当てになる
-  - [ ] **tackle** `[tǽkl]` [他]: …に取り組む、…と渡り合う、…にタックルする / [自]: タックルする (型: SV, SVO) / ・tackle a difficulty(難事に当たる) / [名]: タックル、器具、道具、滑車装置
+  - [x] **trustworthy** `[trʌ́stwə̀ːrði]` [形]: 信頼できる、当てになる
+  - [x] **tackle** `[tǽkl]` [他]: …に取り組む、…と渡り合う、…にタックルする / [自]: タックルする (型: SV, SVO) / ・tackle a difficulty(難事に当たる) / [名]: タックル、器具、道具、滑車装置
 
 - [ ] PS1005_05349-05350 (Page 436)
   - [ ] **Sentence**: The perils of a possible nuclear war terrified the people of the country. *(日译: 起こりうる核戦争の危機がその国の人々を恐れさせた。)*
-  - [ ] **peril** `[pérəl]` [名]: 危険、危機 / [他]: …を危険にさらす
-  - [ ] **terrify** `[térəfài]` [他]: …をぞっとさせる、…を恐れさせる、…をおびえあがらす (型: SVO) / ・terrify much of …(…の一事を恐怖に陥れる) / ・terrify … into ～(…を怖がらせて～させる)
+  - [x] **peril** `[pérəl]` [名]: 危険、危機 / [他]: …を危険にさらす
+  - [x] **terrify** `[térəfài]` [他]: …をぞっとさせる、…を恐れさせる、…をおびえあがらす (型: SVO) / ・terrify much of …(…の一事を恐怖に陥れる) / ・terrify … into ～(…を怖がらせて～させる)
 
 - [ ] PS1006_05351-05353 (Page 436)
   - [ ] **Sentence**: The fearless knight fought with the witch and made her undo the curse on the princess. *(日译: 恐れを知らない騎士は魔女と戦い、王女へののろいを解かせた。)*
-  - [ ] **fearless** `[fíərlis]` [形]: 恐れを知らない、恐れない、大胆不敵な
-  - [ ] **undo** `[ʌndúː]` [他]: …を外す、…を脱ぐ、…を開ける、…を元へ戻す、…を取り消す (型: SVO) / ・undo a bundle(包みを解く)
-  - [ ] **curse** `[kə́ːrs]` [名]: のろい、のろいの言葉、呪文、悪態、たたり / [他]: …をのろう、…に災いの下るよう願う、…に悪態をつく / [自]: のろう、悪態をつく
+  - [x] **fearless** `[fíərlis]` [形]: 恐れを知らない、恐れない、大胆不敵な
+  - [x] **undo** `[ʌndúː]` [他]: …を外す、…を脱ぐ、…を開ける、…を元へ戻す、…を取り消す (型: SVO) / ・undo a bundle(包みを解く)
+  - [x] **curse** `[kə́ːrs]` [名]: のろい、のろいの言葉、呪文、悪態、たたり / [他]: …をのろう、…に災いの下るよう願う、…に悪態をつく / [自]: のろう、悪態をつく
 
 - [ ] PS1007_05354-05356 (Page 437)
   - [ ] **Sentence**: She undressed her restless son while simultaneously trying to watch television. *(日译: 彼女はテレビを見ようとしつつ、じっとしていられない息子の服を脱がせた。)*
-  - [ ] **undress** `[ʌndrés]` [他]: …の衣服を脱がせる、…の包帯を取る、…の覆いを除く / [自]: 服を脱ぐ (型: SV, SVO) / ・undress oneself(着ているものを脱ぐ) / [名]: 裸でいること、平服、普段着
-  - [ ] **restless** `[réstlis]` [形]: 落ち着かない、不安な、絶えず動いている
-  - [ ] **simultaneously** `[sàiməltéiniəsli]` [副]: 同時に、一斉に
+  - [x] **undress** `[ʌndrés]` [他]: …の衣服を脱がせる、…の包帯を取る、…の覆いを除く / [自]: 服を脱ぐ (型: SV, SVO) / ・undress oneself(着ているものを脱ぐ) / [名]: 裸でいること、平服、普段着
+  - [x] **restless** `[réstlis]` [形]: 落ち着かない、不安な、絶えず動いている
+  - [x] **simultaneously** `[sàiməltéiniəsli]` [副]: 同時に、一斉に
 
 - [ ] PS1008_05357-05359 (Page 438)
   - [ ] **Sentence**: The man unfolded his ragged cloak and wrapped it around the kitten. *(日译: その男はぼろぼろのマントを広げて子猫をくるんだ。)*
-  - [ ] **unfold** `[ʌnfóuld]` [他]: …を開く、…を広げる、…を広げて見せる、…を徐々に打ち明ける / [自]: 開く、ほころぶ、展開する (型: SV, SVO) / ・unfold in …(…に表れている[示されている]) / ・unfold one's plans(…の計画を発表する)
-  - [ ] **ragged** `[rǽgid]` [形]: ぼろぼろの、ずたずたの、ぼろ服を着た、ごつごつした、難な
-  - [ ] **cloak** `[klóuk]` [名]: マント、ケープ、袖なし外とう、覆い隠すもの[手段] / [他]: …を覆い隠す
+  - [x] **unfold** `[ʌnfóuld]` [他]: …を開く、…を広げる、…を広げて見せる、…を徐々に打ち明ける / [自]: 開く、ほころぶ、展開する (型: SV, SVO) / ・unfold in …(…に表れている[示されている]) / ・unfold one's plans(…の計画を発表する)
+  - [x] **ragged** `[rǽgid]` [形]: ぼろぼろの、ずたずたの、ぼろ服を着た、ごつごつした、難な
+  - [x] **cloak** `[klóuk]` [名]: マント、ケープ、袖なし外とう、覆い隠すもの[手段] / [他]: …を覆い隠す
 
 - [ ] PS1009_05360-05361 (Page 438)
   - [ ] **Sentence**: He punched in his personal identification number and unlocked the door. *(日译: 彼は識別番号を打ち込み、ドアを解錠した。)*
-  - [ ] **identification** `[aidèntəfikéiʃən]` [名]: 同一であることの確認、同定、識別、身分証明(書)
-  - [ ] **unlock** `[ʌnlάk]` [他]: …の錠を開ける、…を明らかにする、…を打ち明ける / [自]: 錠が外れる、(束縛から)解放される (型: SV, SVO)
+  - [x] **identification** `[aidèntəfikéiʃən]` [名]: 同一であることの確認、同定、識別、身分証明(書)
+  - [x] **unlock** `[ʌnlάk]` [他]: …の錠を開ける、…を明らかにする、…を打ち明ける / [自]: 錠が外れる、(束縛から)解放される (型: SV, SVO)
 
 - [ ] PS1010_05362-05363 (Page 439)
   - [ ] **Sentence**: By arranging her furniture neatly, she manages to utilize every inch of space in the room. *(日译: 家具をきちんと配置することで、彼女は部屋の空間の隅々までうまく利用できている。)*
-  - [ ] **neatly** `[níːtli]` [副]: きちんと、小ぎっぱりと、手際よく
-  - [ ] **utilize** `[júːtəlàiz]` [他]: …を利用する、…を役立てる (型: SVO) / ・utilize one's experience(経験を活かす)
+  - [x] **neatly** `[níːtli]` [副]: きちんと、小ぎっぱりと、手際よく
+  - [x] **utilize** `[júːtəlàiz]` [他]: …を利用する、…を役立てる (型: SVO) / ・utilize one's experience(経験を活かす)
 
 - [ ] PS1011_05364-05367 (Page 439)
   - [ ] **Sentence**: The vendor vended secondhand books and CDs at the bazaar. *(日译: その物売りは市場で古本や中古CDなどを売っていた。)*
-  - [ ] **vendor** `[véndər]` [名]: 売人、物売り、行商人、売り子
-  - [ ] **vend** `[vénd]` [他]: …を販売する、…を売り歩く (型: SVO) / ・vend fruits on the street(通りで果物を売る)
-  - [ ] **secondhand** `[sèkəndhǽnd]` [形]: 中古の、受け売りの / [副]: 古物で、また聞きで
-  - [ ] **bazaar** `[bəzάːr]` [名]: 市場、デパート、バザー、商店街、特売場
+  - [x] **vendor** `[véndər]` [名]: 売人、物売り、行商人、売り子
+  - [x] **vend** `[vénd]` [他]: …を販売する、…を売り歩く (型: SVO) / ・vend fruits on the street(通りで果物を売る)
+  - [x] **secondhand** `[sèkəndhǽnd]` [形]: 中古の、受け売りの / [副]: 古物で、また聞きで
+  - [x] **bazaar** `[bəzάːr]` [名]: 市場、デパート、バザー、商店街、特売場
 
 - [ ] PS1012_05368-05371 (Page 440)
   - [ ] **Sentence**: The amusement park acknowledged its inadequate supervision and agreed to pay compensation for the boy's injury. *(日译: 遊園地側は自分たちの監督不十分を認め、その少年のけがに対する賠償に同意した。)*
-  - [ ] **acknowledge** `[əknάlidʒ]` [他]: …を認める、…に同意する、…に気付いていることを知らせる、…に感謝する、…を受け取ったことを知らせる (型: SVO) / ・acknowledge oneself(自認する)
-  - [ ] **inadequate** `[inǽdikwət]` [形]: 不十分な、不適切な、不適格な / [名]: 社会的不適格者
-  - [ ] **supervision** `[sùːpərvíʒən]` [名]: 監督、管理、指図、指示
-  - [ ] **compensation** `[kὰmpənséiʃən]` [名]: 賠償(金)、報酬、給与、相殺、埋め合わせ、補償
+  - [x] **acknowledge** `[əknάlidʒ]` [他]: …を認める、…に同意する、…に気付いていることを知らせる、…に感謝する、…を受け取ったことを知らせる (型: SVO) / ・acknowledge oneself(自認する)
+  - [x] **inadequate** `[inǽdikwət]` [形]: 不十分な、不適切な、不適格な / [名]: 社会的不適格者
+  - [x] **supervision** `[sùːpərvíʒən]` [名]: 監督、管理、指図、指示
+  - [x] **compensation** `[kὰmpənséiʃən]` [名]: 賠償(金)、報酬、給与、相殺、埋め合わせ、補償
 
 - [ ] PS1013_05372-05374 (Page 441)
   - [ ] **Sentence**: She was lacking in work experience, but the interviewer assessed her positively. *(日译: 実務経験が乏しかったが、面接官は彼女を肯定的に評価した。)*
-  - [ ] **lacking** `[lǽkiŋ]` [形]: 不足した、欠けた、頭の悪い / [前]: …がなく、…に欠けていて
-  - [ ] **assess** `[əsés]` [他]: …の価値を判断する、…を評価する、…を査定する、(税金など)を課する (型: SVO)
-  - [ ] **positively** `[pάzətivli]` [副]: 肯定的に、確信を持って、絶対に、決定的に / [名]: また、もちろん
+  - [x] **lacking** `[lǽkiŋ]` [形]: 不足した、欠けた、頭の悪い / [前]: …がなく、…に欠けていて
+  - [x] **assess** `[əsés]` [他]: …の価値を判断する、…を評価する、…を査定する、(税金など)を課する (型: SVO)
+  - [x] **positively** `[pάzətivli]` [副]: 肯定的に、確信を持って、絶対に、決定的に / [名]: また、もちろん
 
 - [ ] PS1014_05375-05378 (Page 441)
   - [ ] **Sentence**: Some people attribute her modesty to the fact that she's a descendant of a noble family. *(日译: 彼女の上品さは、貴族の家系の生まれという事実に起因していると考える人もいる。)*
-  - [ ] **attribute** `[ətríbjuːt]` [他]: …を起因すると考える、…を結果であると考える、…が属すると考える (型: SVO) / ・attribute … to ～(…を～のせいにする) / ・attribute to …(…に帰する) / [名]: 特質、特性、属性、限定詞、象徴物
-  - [ ] **modesty** `[mάdəsti]` [名]: 上品、謙そん、つつましさ、素朴さ、過度
-  - [ ] **descendant** `[diséndənt]` [名]: 末えい、子孫、弟子、出緒あるもの
-  - [ ] **noble** `[nóubl]` [形]: 高貴な、気高い
+  - [x] **attribute** `[ətríbjuːt]` [他]: …を起因すると考える、…を結果であると考える、…が属すると考える (型: SVO) / ・attribute … to ～(…を～のせいにする) / ・attribute to …(…に帰する) / [名]: 特質、特性、属性、限定詞、象徴物
+  - [x] **modesty** `[mάdəsti]` [名]: 上品、謙そん、つつましさ、素朴さ、過度
+  - [x] **descendant** `[diséndənt]` [名]: 末えい、子孫、弟子、出緒あるもの
+  - [x] **noble** `[nóubl]` [形]: 高貴な、気高い
 
 - [ ] PS1015_05379-05381 (Page 442)
   - [ ] **Sentence**: This book is the author's masterpiece, but it is too obscure for my students to comprehend. *(日译: この本はその作家の傑作だが、私の生徒たちにはあまりに難解で理解できない。)*
-  - [ ] **masterpiece** `[mǽstərpìːs]` [名]: 最高傑作、名作、名人芸
-  - [ ] **obscure** `[əbskjúər]` [形]: あいまいな、不明瞭な、目立たない、どんよりした / [他]: …をあいまいにする、…を分かりにくくする、…を暗くする
-  - [ ] **comprehend** `[kὰmprihénd]` [他]: …をよく理解する、…を十分に把握する、…をのみ込む、…を内包する、…を意味する (型: SVO)
+  - [x] **masterpiece** `[mǽstərpìːs]` [名]: 最高傑作、名作、名人芸
+  - [x] **obscure** `[əbskjúər]` [形]: あいまいな、不明瞭な、目立たない、どんよりした / [他]: …をあいまいにする、…を分かりにくくする、…を暗くする
+  - [x] **comprehend** `[kὰmprihénd]` [他]: …をよく理解する、…を十分に把握する、…をのみ込む、…を内包する、…を意味する (型: SVO)
 
 - [ ] PS1016_05382-05384 (Page 442)
   - [ ] **Sentence**: Her profound insight into consumer preferences allowed her to devise a successful marketing strategy. *(日译: 消費者の好みへの深い洞察によって、彼女は優れた販売戦略を立てることができた。)*
-  - [ ] **profound** `[prəfáund]` [形]: 深い、激しい、心からの、道義の深い、難解な
-  - [ ] **insight** `[ínsàit]` [名]: 洞察(力)、見識、明察
-  - [ ] **devise** `[diváiz]` [他]: …を考案する、…を工夫する、…を遺贈する (型: SVO) / [名]: 遺贈、遺贈財産、遺言書
+  - [x] **profound** `[prəfáund]` [形]: 深い、激しい、心からの、道義の深い、難解な
+  - [x] **insight** `[ínsàit]` [名]: 洞察(力)、見識、明察
+  - [x] **devise** `[diváiz]` [他]: …を考案する、…を工夫する、…を遺贈する (型: SVO) / [名]: 遺贈、遺贈財産、遺言書
 
 - [ ] PS1017_05385-05386 (Page 443)
   - [ ] **Sentence**: Doctors discussed the matter with the girl's family, but her parents ultimately disapproved of the proposed organ donation. *(日译: 医師らが少女の家族と話し合ったが、結局両親は提案された臓器提供に同意しなかった。)*
-  - [ ] **ultimately** `[ʌ́ltəmətli]` [副]: 結局、最後に、ついに
-  - [ ] **disapprove** `[dìsəprúːv]` [自]: 不賛成を唱える / [他]: …をよくないと思う、…を非難する、…を承認しない (型: SV, SVO) / ・disapprove of …(…に賛成しない)
+  - [x] **ultimately** `[ʌ́ltəmətli]` [副]: 結局、最後に、ついに
+  - [x] **disapprove** `[dìsəprúːv]` [自]: 不賛成を唱える / [他]: …をよくないと思う、…を非難する、…を承認しない (型: SV, SVO) / ・disapprove of …(…に賛成しない)
 
 - [ ] PS1018_05387-05391 (Page 443)
   - [ ] **Sentence**: The police distrusted the habitual offender and were expecting his denial of the accusation. *(日译: 警察はその常習犯に嫌疑をかけており、彼が起訴事実を否定することを予測していた。)*
