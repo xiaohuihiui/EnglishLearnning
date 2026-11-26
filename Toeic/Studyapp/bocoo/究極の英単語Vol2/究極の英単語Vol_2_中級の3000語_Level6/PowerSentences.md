@@ -802,38 +802,38 @@
 
 - [ ] PS1018_05387-05391 (Page 443)
   - [ ] **Sentence**: The police distrusted the habitual offender and were expecting his denial of the accusation. *(日译: 警察はその常習犯に嫌疑をかけており、彼が起訴事実を否定することを予測していた。)*
-  - [ ] **distrust** `[distrʌ́st]` [他]: …を疑いの目で見る、…を怪しむ、…を信頼しない (型: SVO) / [名]: 不信、疑惑、邪推
-  - [ ] **habitual** `[həbítʃuəl]` [形]: 常習的な、習慣的な、習慣の、先天的な
-  - [ ] **offender** `[əféndər]` [名]: 犯罪人、違反者、反則者、無礼な人
-  - [ ] **denial** `[dináiəl]` [名]: 否定、拒否、拒絶すること
-  - [ ] **accusation** `[æ̀kjuzéiʃən]` [名]: 起訴(事実)、罪状、告発、告訴、非難
+  - [x] **distrust** `[distrʌ́st]` [他]: …を疑いの目で見る、…を怪しむ、…を信頼しない (型: SVO) / [名]: 不信、疑惑、邪推
+  - [x] **habitual** `[həbítʃuəl]` [形]: 常習的な、習慣的な、習慣の、先天的な
+  - [x] **offender** `[əféndər]` [名]: 犯罪人、違反者、反則者、無礼な人
+  - [x] **denial** `[dináiəl]` [名]: 否定、拒否、拒絶すること
+  - [x] **accusation** `[æ̀kjuzéiʃən]` [名]: 起訴(事実)、罪状、告発、告訴、非難
 
 - [ ] PS1019_05392-05394 (Page 444)
   - [ ] **Sentence**: This book idealizes an exceedingly orthodox view of marriage. *(日译: この本では、非常に伝統的な結婚観を理想として見ている。)*
-  - [ ] **idealize** `[aidíːəlàiz]` [他]: …を理想的なものとして扱う、…を理想化する / [自]: 理想主義的である (型: SV, SVO) / ・idealize the past(過去を理想化する)
-  - [ ] **exceedingly** `[iksíːdiŋli]` [副]: 非常に、とても、大いに、特別に
-  - [ ] **orthodox** `[ɔ́ːrθədάks]` [形]: 伝統的な、正統な、(Orthodox で)ギリシャ正教会の / [名]: 正統派の人、ギリシャ正教徒
+  - [x] **idealize** `[aidíːəlàiz]` [他]: …を理想的なものとして扱う、…を理想化する / [自]: 理想主義的である (型: SV, SVO) / ・idealize the past(過去を理想化する)
+  - [x] **exceedingly** `[iksíːdiŋli]` [副]: 非常に、とても、大いに、特別に
+  - [x] **orthodox** `[ɔ́ːrθədάks]` [形]: 伝統的な、正統な、(Orthodox で)ギリシャ正教会の / [名]: 正統派の人、ギリシャ正教徒
 
 - [ ] PS1020_05395-05397 (Page 444)
   - [ ] **Sentence**: The actor never fails to memorize all her lines to perfection in time for the rehearsals. *(日译: その俳優はリハーサルまでに、必ず自分のセリフを完ぺきに暗記する。)*
-  - [ ] **memorize** `[méməràiz]` [他]: …を記憶する、…を暗記する / [自]: 暗記する (型: SV, SVO)
-  - [ ] **perfection** `[pərfékʃən]` [名]: 完全、完ぺき、完成、仕上げ、熟達、完璧な人[もの]、才芸
-  - [ ] **rehearsal** `[rihə́ːrsl]` [名]: リハーサル、下げいこ、練習会、本読み
+  - [x] **memorize** `[méməràiz]` [他]: …を記憶する、…を暗記する / [自]: 暗記する (型: SV, SVO)
+  - [x] **perfection** `[pərfékʃən]` [名]: 完全、完ぺき、完成、仕上げ、熟達、完璧な人[もの]、才芸
+  - [x] **rehearsal** `[rihə́ːrsl]` [名]: リハーサル、下げいこ、練習会、本読み
 
 - [ ] PS1021_05398-05400 (Page 445)
   - [ ] **Sentence**: The popular writer still resents the impolite rejections he received from the publisher before he was well-known. *(日译: その売れっ子作家は、有名になる前にその出版社から受けた無礼な拒絶を今でも恨んでいる。)*
-  - [ ] **resent** `[rizént]` [他]: …に対して憤慨する、…に対して不愉快に思う、…の恨みを晴らす (型: SVO) / ・resent someone's kindness(…に恩返しする)
-  - [ ] **impolite** `[ìmpəláit]` [形]: 無礼な、失礼な、無作法な
-  - [ ] **rejection** `[ridʒékʃən]` [名]: 拒絶される[する]こと、拒絶反応
+  - [x] **resent** `[rizént]` [他]: …に対して憤慨する、…に対して不愉快に思う、…の恨みを晴らす (型: SVO) / ・resent someone's kindness(…に恩返しする)
+  - [x] **impolite** `[ìmpəláit]` [形]: 無礼な、失礼な、無作法な
+  - [x] **rejection** `[ridʒékʃən]` [名]: 拒絶される[する]こと、拒絶反応
 
 - [ ] PS1022_05401-05403 (Page 445)
   - [ ] **Sentence**: Participants in this program are unpaid volunteers who sympathize with its aims. *(日译: このプログラムの参加者たちは、その趣旨に共感する無報酬のボランティアたちだ。)*
-  - [ ] **participant** `[pɑːrtísəpənt]` [名]: 参加者、関係者、協力者、仲間 / [形]: 関与する、携わる、共にする
-  - [ ] **unpaid** `[ʌnpéid]` [形]: 未払いの、未納の、名誉職の、無報酬の
-  - [ ] **sympathize** `[símpəθàiz]` [自]: 同感する、同情する、同意する、一致する (型: SV) / ・sympathize with …(…に同情する) / ・sympathize deeply(身につまされる)
+  - [x] **participant** `[pɑːrtísəpənt]` [名]: 参加者、関係者、協力者、仲間 / [形]: 関与する、携わる、共にする
+  - [x] **unpaid** `[ʌnpéid]` [形]: 未払いの、未納の、名誉職の、無報酬の
+  - [x] **sympathize** `[símpəθàiz]` [自]: 同感する、同情する、同意する、一致する (型: SV) / ・sympathize with …(…に同情する) / ・sympathize deeply(身につまされる)
 
 - [ ] PS1023_05404-05406 (Page 446)
   - [ ] **Sentence**: The rock band denied the media coverage suggesting that they worshipped Satan. *(日译: そのロックバンドは、彼らがサタンを崇拝していると示唆するマスコミ報道を否定した。)*
-  - [ ] **coverage** `[kʌ́vəridʒ]` [名]: 報道、取材範囲、保険担保(範囲)、適用範囲、普及率
-  - [ ] **worship** `[wə́ːrʃip]` [他]: …を崇拝する、…を尊敬する / [自]: 神などを崇拝する、お祈りに行く、尊敬する (型: SV, SVO) / ・go and worship at …(…に参拝する) / [名]: 崇拝、礼拝、尊敬
-  - [ ] **Satan** `[séitn]` [名]: サタン(悪魔の固有名詞)
+  - [x] **coverage** `[kʌ́vəridʒ]` [名]: 報道、取材範囲、保険担保(範囲)、適用範囲、普及率
+  - [x] **worship** `[wə́ːrʃip]` [他]: …を崇拝する、…を尊敬する / [自]: 神などを崇拝する、お祈りに行く、尊敬する (型: SV, SVO) / ・go and worship at …(…に参拝する) / [名]: 崇拝、礼拝、尊敬
+  - [x] **Satan** `[séitn]` [名]: サタン(悪魔の固有名詞)
