@@ -1,20 +1,20 @@
 - [x] 
 -----------------------------**Question**----------------------------------
-1. answer:    NG    ,Reviewed:   
-2. answer:    OK    ,Reviewed:   
-3. answer:    OK    ,Reviewed:    
-4. answer:    OK    ,Reviewed:    
-5. answer:    NG    ,Reviewed:   
-6. answer:    OK    ,Reviewed:   
-7. answer:    OK    ,Reviewed:   
-8. answer:    OK    ,Reviewed:  
-9. answer:    OK    ,Reviewed:  
-10. answer:   ok    ,Reviewed:  
-11. answer:   ok    ,Reviewed:  
-12. answer:   ok    ,Reviewed:  
-13. answer:   ok    ,Reviewed:　
-14. answer:   ok    ,Reviewed:　
-15. answer:   ok    ,Reviewed:  
+1. answer:    NG    ,Reviewed:  OK 
+2. answer:    OK    ,Reviewed:   OK
+3. answer:    OK    ,Reviewed:  OK   
+4. answer:    OK    ,Reviewed:  OK   
+5. answer:    NG    ,Reviewed:   OK 
+6. answer:    OK    ,Reviewed:   OK 
+7. answer:    OK    ,Reviewed:   OK 
+8. answer:    OK    ,Reviewed:  OK 
+9. answer:    OK    ,Reviewed: OK  
+10. answer:   ok    ,Reviewed:  OK 
+11. answer:   ok    ,Reviewed:  OK 
+12. answer:   ok    ,Reviewed:  OK 
+13. answer:   ok    ,Reviewed:　OK 
+14. answer:   ok    ,Reviewed:　OK 
+15. answer:   ok    ,Reviewed:  OK 
 16. answer:   ok    ,Reviewed:  
 17. answer:   ok    ,Reviewed:  
 18. answer:   NG    ,Reviewed:　
@@ -28,3 +28,4 @@
 
 
 -----------------------------**Word**----------------------------------
+hectic:忙しい
